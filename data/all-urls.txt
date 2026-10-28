@@ -481,6 +481,7 @@ https://www.zotero.org/
 https://apps.ankiweb.net/
 https://qgis.org/
 https://krita.org/
+https://doc2x.noedgeai.com/
 https://github.com
 https://gitlab.com
 https://bitbucket.org
@@ -623,6 +624,7 @@ https://huggingface.co/docs
 https://python.langchain.com/docs/
 https://docs.llamaindex.ai/
 https://wiki.archlinux.org/
+https://vostride.com/
 https://www.google.com
 https://www.bing.com
 https://duckduckgo.com
@@ -680,6 +682,7 @@ https://www.siteinspire.com/
 https://land-book.com/
 https://muz.li/
 https://mobbin.com/
+https://jingxuan-fuye.pages.dev/
 https://podcasts.apple.com
 https://open.spotify.com/genre/podcasts-web
 https://pocketcasts.com
