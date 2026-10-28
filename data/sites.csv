@@ -482,6 +482,7 @@ zotero-org,site,Zotero,https://www.zotero.org/,apps-downloads,应用与下载,Zo
 apps-ankiweb-net,site,Anki,https://apps.ankiweb.net/,apps-downloads,应用与下载,Anki 的应用入口，提供 记忆、学习、开源 相关的软件主页、下载或应用发现服务。,记忆 | 学习 | 开源,multi,true,active,false,72,2026-06-17,https://apps.ankiweb.net/
 qgis-org,site,QGIS,https://qgis.org/,apps-downloads,应用与下载,QGIS 的应用入口，提供 地图、GIS、开源 相关的软件主页、下载或应用发现服务。,地图 | GIS | 开源,multi,true,active,false,73,2026-06-17,https://qgis.org/
 krita-org,site,Krita,https://krita.org/,apps-downloads,应用与下载,Krita 的应用入口，提供 绘画、开源、设计 相关的软件主页、下载或应用发现服务。,绘画 | 开源 | 设计,multi,true,active,false,74,2026-06-17,https://krita.org/
+doc2x-noedgeai-com,site,Doc2X,https://doc2x.noedgeai.com/,apps-downloads,应用与下载,面向 PDF、扫描件和图片的文档解析与翻译工具，可识别公式、表格和版面，并导出 Word、Markdown、LaTeX 等格式。,AI | OCR | 文档 | 格式转换 | 翻译,zh,false,active,false,9999,2026-10-28,https://doc2x.noedgeai.com/
 github-com,site,GitHub,https://github.com,developer-resources,开发者资源,代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | 开发 | Git,multi,true,active,true,1,2026-06-08,https://github.com
 gitlab-com,site,GitLab,https://gitlab.com,developer-resources,开发者资源,代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | DevOps | Git,multi,true,active,false,2,2026-06-08,https://gitlab.com
 bitbucket-org,site,Bitbucket,https://bitbucket.org,developer-resources,开发者资源,Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | Git | 团队,en,false,active,false,3,2026-06-08,https://bitbucket.org
@@ -624,6 +625,7 @@ huggingface-co-docs,site,Hugging Face Docs,https://huggingface.co/docs,developer
 python-langchain-com-docs,site,LangChain Docs,https://python.langchain.com/docs/,developer-resources,开发者资源,LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,en,false,active,false,140,2026-06-17,https://python.langchain.com/docs/
 docs-llamaindex-ai,site,LlamaIndex Docs,https://docs.llamaindex.ai/,developer-resources,开发者资源,LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,en,false,active,false,141,2026-06-17,https://docs.llamaindex.ai/
 wiki-archlinux-org,site,ArchWiki,https://wiki.archlinux.org/,developer-resources,开发者资源,ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。,Linux | 文档 | 社区,en,false,active,false,142,2026-06-17,https://wiki.archlinux.org/
+vostride-com,site,Agent QA,https://vostride.com/,developer-resources,开发者资源,面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。,AI | 软件测试 | 自动化 | MCP | 开发者工具,en,false,active,false,9999,2026-10-28,https://vostride.com/
 google-com,site,Google,https://www.google.com,search-discovery,搜索与发现,Google 搜索。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 网页,multi,true,active,true,1,2026-06-08,https://www.google.com
 bing-com,site,Bing,https://www.bing.com,search-discovery,搜索与发现,Microsoft Bing 搜索。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 网页,multi,true,active,false,2,2026-06-08,https://www.bing.com
 duckduckgo-com,site,DuckDuckGo,https://duckduckgo.com,search-discovery,搜索与发现,强调隐私的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 隐私,multi,true,active,true,3,2026-06-08,https://duckduckgo.com
@@ -681,6 +683,7 @@ siteinspire-com,site,Siteinspire,https://www.siteinspire.com/,search-discovery,�
 land-book-com,site,Land-book,https://land-book.com/,search-discovery,搜索与发现,Land-book 的发现工具入口，可用于 网页设计、灵感、发现 等资源搜索、目录浏览和趋势发现。,网页设计 | 灵感 | 发现,en,true,active,false,55,2026-06-17,https://land-book.com/
 muz-li,site,Muzli,https://muz.li/,search-discovery,搜索与发现,Muzli 的发现工具入口，可用于 设计、灵感、发现 等资源搜索、目录浏览和趋势发现。,设计 | 灵感 | 发现,en,true,active,false,56,2026-06-17,https://muz.li/
 mobbin-com,site,Mobbin,https://mobbin.com/,search-discovery,搜索与发现,Mobbin 的发现工具入口，可用于 移动设计、灵感、界面 等资源搜索、目录浏览和趋势发现。,移动设计 | 灵感 | 界面,en,true,active,false,57,2026-06-17,https://mobbin.com/
+jingxuan-fuye-pages-dev,site,精选副业,https://jingxuan-fuye.pages.dev/,search-discovery,搜索与发现,面向中文读者的副业和个人项目案例库，可按方向、技能和平台筛选案例，并查看作者自述的成果、投入条件、风险与来源入口。,中文 | 案例研究 | 独立开发 | 副业 | 项目验证,zh,false,active,false,9999,2026-10-28,https://jingxuan-fuye.pages.dev/
 podcasts-apple-com,site,Apple Podcasts,https://podcasts.apple.com,podcasts-audio,播客与音频,Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 目录 | 收听,multi,true,active,true,1,2026-06-08,https://podcasts.apple.com
 open-spotify-com-genre-podcasts-web,site,Spotify Podcasts,https://open.spotify.com/genre/podcasts-web,podcasts-audio,播客与音频,Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 音乐 | 收听,multi,true,active,true,2,2026-06-08,https://open.spotify.com/genre/podcasts-web
 pocketcasts-com,site,Pocket Casts,https://pocketcasts.com,podcasts-audio,播客与音频,跨平台播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 播放器,multi,true,active,false,3,2026-06-08,https://pocketcasts.com

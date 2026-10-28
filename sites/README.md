@@ -11,11 +11,11 @@
 | [论坛社区](forums-communities.md) | 254 |
 | [博客与出版](blogs-publishing.md) | 87 |
 | [播客与音频](podcasts-audio.md) | 65 |
-| [搜索与发现](search-discovery.md) | 57 |
+| [搜索与发现](search-discovery.md) | 58 |
 | [百科与开放资料](encyclopedia-open-data.md) | 84 |
 | [学术研究](academic-research.md) | 106 |
 | [财经与数据](finance-data.md) | 85 |
-| [应用与下载](apps-downloads.md) | 74 |
-| [开发者资源](developer-resources.md) | 142 |
+| [应用与下载](apps-downloads.md) | 75 |
+| [开发者资源](developer-resources.md) | 143 |
 | [生活出行](life-travel.md) | 108 |
 | [隐私安全](privacy-security.md) | 100 |

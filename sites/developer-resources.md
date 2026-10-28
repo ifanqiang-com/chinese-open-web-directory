@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 142 个网站。点击名称可直接访问官网。
+共 143 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -146,3 +146,4 @@
 | [LangChain Docs](https://python.langchain.com/docs/) | [详情](items/python-langchain-com-docs.md) | LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
 | [LlamaIndex Docs](https://docs.llamaindex.ai/) | [详情](items/docs-llamaindex-ai.md) | LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
 | [ArchWiki](https://wiki.archlinux.org/) | [详情](items/wiki-archlinux-org.md) | ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。 | Linux、文档、社区 | 英文 |
+| [Agent QA](https://vostride.com/) | [详情](items/vostride-com.md) | 面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。 | AI、软件测试、自动化、MCP、开发者工具 | 英文 |

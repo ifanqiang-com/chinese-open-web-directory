@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-21T23:56:17.348Z",
+  "generatedAt": "2026-10-28T20:13:08.580Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1509,
-    "sitesPublic": 1509,
+    "sitesTotal": 1512,
+    "sitesPublic": 1512,
     "youtubeTotal": 69,
     "youtubePublic": 69,
     "profileTableAvailable": false
@@ -20,13 +20,13 @@
     ]
   },
   "counts": {
-    "sites": 1507,
+    "sites": 1510,
     "youtubeChannels": 69,
     "categories": 25,
-    "allLinks": 1576,
+    "allLinks": 1579,
     "topics": 30,
     "topicResolvedItems": 1702,
     "sitesWithProfile": 0,
-    "markdownFiles": 1634
+    "markdownFiles": 1637
   }
 }

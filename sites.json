@@ -11107,6 +11107,31 @@
     "profilePublishedAt": null
   },
   {
+    "uid": "doc2x-noedgeai-com",
+    "id": "doc2x-noedgeai-com",
+    "type": "site",
+    "name": "Doc2X",
+    "description": "面向 PDF、扫描件和图片的文档解析与翻译工具，可识别公式、表格和版面，并导出 Word、Markdown、LaTeX 等格式。",
+    "url": "https://doc2x.noedgeai.com/",
+    "category": "apps-downloads",
+    "categoryName": "应用与下载",
+    "tags": [
+      "AI",
+      "OCR",
+      "文档",
+      "格式转换",
+      "翻译"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 9999,
+    "addedAt": "2026-10-28",
+    "sourceUrl": "https://doc2x.noedgeai.com/",
+    "profilePublishedAt": null
+  },
+  {
     "uid": "github-com",
     "id": "github-com",
     "type": "site",
@@ -14373,6 +14398,31 @@
     "profilePublishedAt": null
   },
   {
+    "uid": "vostride-com",
+    "id": "vostride-com",
+    "type": "site",
+    "name": "Agent QA",
+    "description": "面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。",
+    "url": "https://vostride.com/",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "AI",
+      "软件测试",
+      "自动化",
+      "MCP",
+      "开发者工具"
+    ],
+    "language": "en",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 9999,
+    "addedAt": "2026-10-28",
+    "sourceUrl": "https://vostride.com/",
+    "profilePublishedAt": null
+  },
+  {
     "uid": "google-com",
     "id": "google-com",
     "type": "site",
@@ -15670,6 +15720,31 @@
     "priority": 57,
     "addedAt": "2026-06-17",
     "sourceUrl": "https://mobbin.com/",
+    "profilePublishedAt": null
+  },
+  {
+    "uid": "jingxuan-fuye-pages-dev",
+    "id": "jingxuan-fuye-pages-dev",
+    "type": "site",
+    "name": "精选副业",
+    "description": "面向中文读者的副业和个人项目案例库，可按方向、技能和平台筛选案例，并查看作者自述的成果、投入条件、风险与来源入口。",
+    "url": "https://jingxuan-fuye.pages.dev/",
+    "category": "search-discovery",
+    "categoryName": "搜索与发现",
+    "tags": [
+      "中文",
+      "案例研究",
+      "独立开发",
+      "副业",
+      "项目验证"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 9999,
+    "addedAt": "2026-10-28",
+    "sourceUrl": "https://jingxuan-fuye.pages.dev/",
     "profilePublishedAt": null
   },
   {

@@ -1,6 +1,6 @@
 # 应用与下载
 
-共 74 个网站。点击名称可直接访问官网。
+共 75 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -78,3 +78,4 @@
 | [Anki](https://apps.ankiweb.net/) | [详情](items/apps-ankiweb-net.md) | Anki 的应用入口，提供 记忆、学习、开源 相关的软件主页、下载或应用发现服务。 | 记忆、学习、开源 | 多语言 |
 | [QGIS](https://qgis.org/) | [详情](items/qgis-org.md) | QGIS 的应用入口，提供 地图、GIS、开源 相关的软件主页、下载或应用发现服务。 | 地图、GIS、开源 | 多语言 |
 | [Krita](https://krita.org/) | [详情](items/krita-org.md) | Krita 的应用入口，提供 绘画、开源、设计 相关的软件主页、下载或应用发现服务。 | 绘画、开源、设计 | 多语言 |
+| [Doc2X](https://doc2x.noedgeai.com/) | [详情](items/doc2x-noedgeai-com.md) | 面向 PDF、扫描件和图片的文档解析与翻译工具，可识别公式、表格和版面，并导出 Word、Markdown、LaTeX 等格式。 | AI、OCR、文档、格式转换、翻译 | 中文 |
