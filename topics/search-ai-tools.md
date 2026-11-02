@@ -22,7 +22,7 @@
 | [Yandex](https://yandex.com) | 俄罗斯搜索和互联网服务入口。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、门户 | [爱翻墙](https://ifanqiang.com/sites/yandex-com) |
 | [Mojeek](https://www.mojeek.com) | 独立搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、独立 | [爱翻墙](https://ifanqiang.com/sites/mojeek-com) |
 | [Kagi](https://kagi.com) | 付费搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、付费 | [爱翻墙](https://ifanqiang.com/sites/kagi-com) |
-| [Marginalia Search](https://search.marginalia.nu) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、小众、网页发现 | [爱翻墙](https://ifanqiang.com/sites/search-marginalia-nu) |
+| [Marginalia Search](https://marginalia-search.com/) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、小众、网页发现 | [爱翻墙](https://ifanqiang.com/sites/search-marginalia-nu) |
 | [Perplexity](https://www.perplexity.ai/) | AI 搜索和问答工具，核心提供带来源的网页检索、摘要和追问式资料发现。 | 搜索与发现 | AI、搜索、问答 | [爱翻墙](https://ifanqiang.com/sites/perplexity-ai) |
 | [You.com](https://you.com/) | AI 搜索和聊天入口，提供网页检索、摘要、写作辅助和多模型问答。 | 搜索与发现 | AI、搜索、聊天 | [爱翻墙](https://ifanqiang.com/sites/you-com) |
 | [MetaGer](https://metager.org/) | 德国元搜索引擎，强调隐私保护，聚合多个搜索来源返回结果。 | 搜索与发现 | 搜索、隐私、元搜索 | [爱翻墙](https://ifanqiang.com/sites/metager-org) |
@@ -46,7 +46,7 @@
 | [Yandex](https://yandex.com) | 俄罗斯搜索和互联网服务入口。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、门户 | [爱翻墙](https://ifanqiang.com/sites/yandex-com) |
 | [Mojeek](https://www.mojeek.com) | 独立搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、独立 | [爱翻墙](https://ifanqiang.com/sites/mojeek-com) |
 | [Kagi](https://kagi.com) | 付费搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、付费 | [爱翻墙](https://ifanqiang.com/sites/kagi-com) |
-| [Marginalia Search](https://search.marginalia.nu) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、小众、网页发现 | [爱翻墙](https://ifanqiang.com/sites/search-marginalia-nu) |
+| [Marginalia Search](https://marginalia-search.com/) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、小众、网页发现 | [爱翻墙](https://ifanqiang.com/sites/search-marginalia-nu) |
 | [Perplexity](https://www.perplexity.ai/) | AI 搜索和问答工具，核心提供带来源的网页检索、摘要和追问式资料发现。 | 搜索与发现 | AI、搜索、问答 | [爱翻墙](https://ifanqiang.com/sites/perplexity-ai) |
 | [You.com](https://you.com/) | AI 搜索和聊天入口，提供网页检索、摘要、写作辅助和多模型问答。 | 搜索与发现 | AI、搜索、聊天 | [爱翻墙](https://ifanqiang.com/sites/you-com) |
 | [MetaGer](https://metager.org/) | 德国元搜索引擎，强调隐私保护，聚合多个搜索来源返回结果。 | 搜索与发现 | 搜索、隐私、元搜索 | [爱翻墙](https://ifanqiang.com/sites/metager-org) |
@@ -66,13 +66,13 @@
 | [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
 | [Sourcegraph](https://sourcegraph.com/search) | 代码搜索平台，核心提供跨仓库代码检索、符号查询和开发资料发现。 | 搜索与发现 | 代码搜索、开发、仓库 | [爱翻墙](https://ifanqiang.com/sites/sourcegraph-com-search) |
 | [GitHub Code Search](https://github.com/search) | GitHub 搜索入口，提供仓库、代码、Issue、用户和开源项目检索。 | 搜索与发现 | 代码搜索、GitHub、开源 | [爱翻墙](https://ifanqiang.com/sites/github-com-search) |
-| [CIA World Factbook](https://www.cia.gov/the-world-factbook/) | 国家和地区资料库，提供人口、经济、地理、政府和基础指标概览。 | 百科与开放资料 | 国家资料、地理、数据 | [爱翻墙](https://ifanqiang.com/sites/cia-gov-the-world-factbook) |
-| [MedlinePlus](https://medlineplus.gov/) | 美国医学图书馆健康资料入口，提供疾病、药物、检查和健康主题说明。 | 百科与开放资料 | 健康、医学、资料 | [爱翻墙](https://ifanqiang.com/sites/medlineplus-gov) |
-| [NBER](https://www.nber.org/) | 美国国家经济研究局，提供经济学工作论文、研究项目和数据资料。 | 学术研究 | 经济学、工作论文、数据 | [爱翻墙](https://ifanqiang.com/sites/nber-org) |
 | [SearchCode](https://searchcode.com/) | 代码搜索引擎，提供跨开源项目的函数、变量、文件和代码片段检索。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 代码搜索、开源、开发 | [爱翻墙](https://ifanqiang.com/sites/searchcode-com) |
 | [grep.app](https://grep.app/) | GitHub 代码搜索工具，提供正则搜索、仓库过滤、语言过滤和代码定位。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 代码搜索、GitHub、正则 | [爱翻墙](https://ifanqiang.com/sites/grep-app) |
 | [Google Trends](https://trends.google.com/trends/) | Google 趋势工具，提供关键词热度、地区分布、相关查询和时间序列数据。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 趋势、关键词、数据 | [爱翻墙](https://ifanqiang.com/sites/trends-google-com-trends) |
 | [Wayback Machine](https://web.archive.org/) | 互联网档案网页时光机，提供历史网页快照、存档检索和旧版本查看。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 网页存档、历史、检索 | [爱翻墙](https://ifanqiang.com/sites/web-archive-org) |
+| [Wikidata Query Service](https://query.wikidata.org/) | Wikidata SPARQL 查询入口，提供结构化知识图谱检索、示例和可视化结果。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 知识图谱、SPARQL、数据 | [爱翻墙](https://ifanqiang.com/sites/query-wikidata-org) |
+| [DataCite](https://datacite.org/) | 科研数据 DOI 注册组织，提供数据引用、元数据、API 和研究对象标识资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | DOI、数据、引用 | [爱翻墙](https://ifanqiang.com/sites/datacite-org) |
+| [Europe PMC Grant Finder](https://europepmc.org/grantfinder) | 科研资助资料检索入口，提供生命科学相关资助项目和机构信息。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 资助、研究、资料 | [爱翻墙](https://ifanqiang.com/sites/europepmc-org-grantfinder) |
 
 ## 语言与翻译辅助
 

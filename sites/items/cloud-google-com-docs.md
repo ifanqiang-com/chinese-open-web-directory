@@ -1,13 +1,13 @@
 # Google Cloud Docs
 
-- 官网：[https://cloud.google.com/docs](https://cloud.google.com/docs)
+- 官网：[https://docs.cloud.google.com/docs](https://docs.cloud.google.com/docs)
 - 爱翻墙详情：[https://ifanqiang.com/sites/cloud-google-com-docs](https://ifanqiang.com/sites/cloud-google-com-docs)
 - 分类：开发者资源
 - 标签：Google Cloud、云服务、文档
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-08
-- 原始链接：[https://cloud.google.com/docs](https://cloud.google.com/docs)
+- 原始链接：[https://docs.cloud.google.com/docs](https://docs.cloud.google.com/docs)
 
 ## 简介
 

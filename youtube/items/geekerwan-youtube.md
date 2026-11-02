@@ -1,6 +1,6 @@
 # 极客湾 Geekerwan
 
-- YouTube：[https://www.youtube.com/@Geekerwan](https://www.youtube.com/@Geekerwan)
+- YouTube：[https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ](https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/geekerwan-youtube](https://ifanqiang.com/youtube/geekerwan-youtube)
 - 分类：科技与数码
 - 标签：硬件、性能、芯片

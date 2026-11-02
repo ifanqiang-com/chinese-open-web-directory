@@ -1,6 +1,6 @@
 # 生活出行
 
-共 108 个网站。点击名称可直接访问官网。
+共 107 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,6 @@
 | [Atlas Obscura](https://www.atlasobscura.com/) | [详情](items/atlasobscura-com.md) | 另类旅行和奇特地点指南，提供小众景点、故事、地图和旅行灵感。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 旅行发现、景点、地图 | 英文 |
 | [Wanderlog](https://wanderlog.com/) | [详情](items/wanderlog-com.md) | 旅行规划工具，提供行程编辑、地图、协作、预算和景点收藏功能。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 行程规划、地图、旅行 | 英文 |
 | [Roadtrippers](https://roadtrippers.com/) | [详情](items/roadtrippers-com.md) | 自驾旅行规划工具，提供路线、沿途景点、住宿、加油和行程保存。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 自驾、路线、旅行 | 英文 |
-| [CDC Travelers' Health](https://wwwnc.cdc.gov/travel/) | [详情](items/cdc-gov-travel.md) | 美国 CDC 旅行健康入口，提供目的地疫苗、疾病风险、旅行建议和健康安全提醒。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 旅行健康、疫苗、安全 | 英文 |
 | [FlightConnections](https://www.flightconnections.com/) | [详情](items/flightconnections-com.md) | 航线地图工具，提供直飞航线、航空公司、机场连接和路线查询。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 航班、航线、地图 | 英文 |
 | [Airportia](https://www.airportia.com/) | [详情](items/airportia-com.md) | 机场和航班资料网站，提供机场信息、航班状态、航线和延误资料。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 机场、航班、资料 | 英文 |
 | [FlightStats](https://www.flightstats.com/) | [详情](items/flightstats-com.md) | 航班状态查询工具，提供航班动态、机场延误、路线和航空公司信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 航班、机场、状态 | 英文 |
@@ -74,7 +73,7 @@
 | [Hostelz](https://www.hostelz.com/) | [详情](items/hostelz-com.md) | 旅舍搜索和比价网站，提供青年旅舍价格、评价、地图和预订链接。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 旅舍、住宿、比价 | 英文 |
 | [Vrbo](https://www.vrbo.com/) | [详情](items/vrbo-com.md) | 度假短租平台，提供整套房源、家庭旅行住宿、评价和预订管理。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 短租、住宿、旅行 | 多语言 |
 | [HomeExchange](https://www.homeexchange.com/) | [详情](items/homeexchange-com.md) | 换房旅行平台，提供会员住房交换、目的地搜索和家庭旅行住宿选择。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 换房、住宿、旅行 | 多语言 |
-| [Nomad List](https://nomadlist.com/) | [详情](items/nomadlist-com.md) | 数字游民城市资料平台，提供生活成本、网速、安全、天气和社区信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 数字游民、城市、生活成本 | 英文 |
+| [Nomads.com](https://nomads.com/) | [详情](items/nomadlist-com.md) | 面向远程工作者和数字游民的城市资料与社区，提供生活成本、网络条件和目的地比较。 | 数字游民、城市、生活成本 | 英文 |
 | [Expatistan](https://www.expatistan.com/cost-of-living) | [详情](items/expatistan-com-cost-of-living.md) | 生活成本比较网站，提供城市间价格、住房、餐饮、交通和薪资成本对比。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活成本、城市、比较 | 英文 |
 | [International Living](https://internationalliving.com/) | [详情](items/internationalliving-com.md) | 海外生活媒体，提供退休目的地、生活成本、移居经验和国家指南。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 海外生活、退休、目的地 | 英文 |
 | [OpenWeatherMap](https://openweathermap.org/) | [详情](items/openweathermap-org.md) | 天气数据服务，提供城市天气、预报、地图、API 和历史天气资料。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 天气、API、地图 | 英文 |

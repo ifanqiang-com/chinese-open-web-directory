@@ -1,4 +1,4 @@
-# 一言堂
+# 一天世界
 
 - 官网：[https://yitianshijie.net/](https://yitianshijie.net/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/yitianshijie-net](https://ifanqiang.com/sites/yitianshijie-net)

@@ -15,7 +15,7 @@
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
@@ -61,18 +61,18 @@
 | [You.com](https://you.com/) | AI 搜索和聊天入口，提供网页检索、摘要、写作辅助和多模型问答。 | 搜索与发现 | AI、搜索、聊天 | [爱翻墙](https://ifanqiang.com/sites/you-com) |
 | [JetBrains](https://www.jetbrains.com/) | 开发工具公司官网，提供 IntelliJ、PyCharm、WebStorm 等 IDE 下载和文档。 | 开发者资源 | IDE、开发工具、软件 | [爱翻墙](https://ifanqiang.com/sites/jetbrains-com) |
 | [Azure Docs](https://learn.microsoft.com/en-us/azure/) | Microsoft Azure 文档入口，提供云服务、身份、数据库、AI 和部署指南。 | 开发者资源 | Azure、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/learn-microsoft-com-en-us-azure) |
-| [Google Cloud Docs](https://cloud.google.com/docs) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | 开发者资源 | Google Cloud、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/cloud-google-com-docs) |
+| [Google Cloud Docs](https://docs.cloud.google.com/docs) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | 开发者资源 | Google Cloud、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/cloud-google-com-docs) |
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | 开发者资源 | CSS、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/tailwindcss-com-docs) |
 | [Futurepedia](https://www.futurepedia.io/) | Futurepedia 的发现工具入口，可用于 AI工具、目录、发现 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、目录、发现 | [爱翻墙](https://ifanqiang.com/sites/futurepedia-io) |
 | [There's An AI For That](https://theresanaiforthat.com/) | There's An AI For That 的发现工具入口，可用于 AI工具、目录、搜索 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、目录、搜索 | [爱翻墙](https://ifanqiang.com/sites/theresanaiforthat-com) |
 | [FutureTools](https://www.futuretools.io/) | FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、发现、目录 | [爱翻墙](https://ifanqiang.com/sites/futuretools-io) |
 | [Rails Guides](https://guides.rubyonrails.org/) | Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。 | 开发者资源 | Rails、Ruby、文档 | [爱翻墙](https://ifanqiang.com/sites/guides-rubyonrails-org) |
 | [Kotlin Docs](https://kotlinlang.org/docs/) | Kotlin 官方文档，提供语言语法、标准库、协程、多平台和工具链资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Kotlin、语言文档、JetBrains | [爱翻墙](https://ifanqiang.com/sites/kotlinlang-org-docs) |
-| [Remix Docs](https://remix.run/docs/en/main) | Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | React、全栈、文档 | [爱翻墙](https://ifanqiang.com/sites/remix-run-docs-en) |
 | [TensorFlow Docs](https://www.tensorflow.org/learn) | TensorFlow Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 开发者资源 | 机器学习、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/tensorflow-org-learn) |
-| [PyTorch Docs](https://pytorch.org/docs/stable/index.html) | PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 开发者资源 | 机器学习、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/pytorch-org-docs-stable-index-html) |
+| [PyTorch Docs](https://docs.pytorch.org/docs/stable/index.html) | PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 开发者资源 | 机器学习、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/pytorch-org-docs-stable-index-html) |
 | [Hugging Face Docs](https://huggingface.co/docs) | Hugging Face Docs 的开发者文档入口，覆盖 AI、模型、文档 等技术栈、工具或标准资料。 | 开发者资源 | AI、模型、文档 | [爱翻墙](https://ifanqiang.com/sites/huggingface-co-docs) |
-| [LangChain Docs](https://python.langchain.com/docs/) | LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | 开发者资源 | AI、开发、文档 | [爱翻墙](https://ifanqiang.com/sites/python-langchain-com-docs) |
+| [LangChain Docs](https://docs.langchain.com/oss/python/langchain/overview) | LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | 开发者资源 | AI、开发、文档 | [爱翻墙](https://ifanqiang.com/sites/python-langchain-com-docs) |
+| [LlamaIndex Docs](https://developers.llamaindex.ai/python/framework/) | LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | 开发者资源 | AI、开发、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-llamaindex-ai) |
 
 ## Notebook 与研究工具
 
@@ -84,10 +84,9 @@
 | [Zenodo](https://zenodo.org/) | 通用科研成果仓库，提供数据集、软件、论文、报告和 DOI 发布。 | 学术研究 | 数据集、开放科学、DOI | [爱翻墙](https://ifanqiang.com/sites/zenodo-org) |
 | [Figshare](https://figshare.com/) | 科研数据和成果共享平台，提供数据集、图表、论文补充材料和 DOI。 | 学术研究 | 数据集、开放获取、DOI | [爱翻墙](https://ifanqiang.com/sites/figshare-com) |
 | [Cloudflare Docs](https://developers.cloudflare.com/) | Cloudflare 开发者文档，提供 DNS、Workers、Pages、安全和边缘网络产品资料。 | 开发者资源 | Cloudflare、边缘计算、文档 | [爱翻墙](https://ifanqiang.com/sites/developers-cloudflare-com) |
-| [Google Cloud Docs](https://cloud.google.com/docs) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | 开发者资源 | Google Cloud、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/cloud-google-com-docs) |
+| [Google Cloud Docs](https://docs.cloud.google.com/docs) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | 开发者资源 | Google Cloud、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/cloud-google-com-docs) |
 | [DBLP](https://dblp.org/) | 计算机科学文献索引，提供作者、论文、会议、期刊和出版关系检索。 | 学术研究 | 计算机、论文、索引 | [爱翻墙](https://ifanqiang.com/sites/dblp-org) |
 | [ACL Anthology](https://aclanthology.org/) | 计算语言学论文库，提供 ACL 相关会议、期刊和自然语言处理论文全文。 | 学术研究 | NLP、论文、会议 | [爱翻墙](https://ifanqiang.com/sites/aclanthology-org) |
-| [Papers with Code](https://paperswithcode.com/) | 机器学习论文和代码平台，提供论文、任务、数据集、排行榜和实现链接。 | 学术研究 | 机器学习、代码、论文 | [爱翻墙](https://ifanqiang.com/sites/paperswithcode-com) |
 | [ACM Digital Library](https://dl.acm.org/) | ACM 数字图书馆，提供计算机科学期刊、会议论文和出版物检索。 | 学术研究 | 计算机、期刊、会议 | [爱翻墙](https://ifanqiang.com/sites/dl-acm-org) |
 | [IEEE Xplore](https://ieeexplore.ieee.org/) | IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。 | 学术研究 | 工程、论文、标准 | [爱翻墙](https://ifanqiang.com/sites/ieeexplore-ieee-org) |
 | [Oxford Academic](https://academic.oup.com/) | 牛津大学出版社学术平台，提供期刊、图书和人文社科研究资料。 | 学术研究 | 期刊、图书、人文 | [爱翻墙](https://ifanqiang.com/sites/academic-oup-com) |
@@ -96,6 +95,7 @@
 | [ROR](https://ror.org/) | 研究组织注册表，提供高校、研究机构、资助机构和组织标识符数据。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 机构、标识符、开放数据 | [爱翻墙](https://ifanqiang.com/sites/ror-org) |
 | [DataCite](https://datacite.org/) | 科研数据 DOI 注册组织，提供数据引用、元数据、API 和研究对象标识资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | DOI、数据、引用 | [爱翻墙](https://ifanqiang.com/sites/datacite-org) |
 | [OpenCitations](https://opencitations.net/) | 开放引用数据项目，提供论文引用关系、索引、数据集和查询接口。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 引用、开放数据、论文 | [爱翻墙](https://ifanqiang.com/sites/opencitations-net) |
+| [Unpaywall](https://unpaywall.org/) | 开放获取论文发现工具，提供论文 OA 状态、开放版本链接和 API 数据。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 开放获取、论文、API | [爱翻墙](https://ifanqiang.com/sites/unpaywall-org) |
 
 ## 常见问题
 

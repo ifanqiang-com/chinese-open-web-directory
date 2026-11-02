@@ -14,7 +14,7 @@
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
@@ -40,7 +40,7 @@
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [Bing](https://www.bing.com) | Microsoft Bing 搜索。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、网页 | [爱翻墙](https://ifanqiang.com/sites/bing-com) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [Brave Search](https://search.brave.com) | Brave 的独立搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、隐私 | [爱翻墙](https://ifanqiang.com/sites/search-brave-com) |
 | [Startpage](https://www.startpage.com) | 强调隐私的搜索服务。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索与发现 | 搜索、隐私 | [爱翻墙](https://ifanqiang.com/sites/startpage-com) |
@@ -88,14 +88,14 @@
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [Bitwarden](https://bitwarden.com) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、安全 | [爱翻墙](https://ifanqiang.com/sites/bitwarden-com) |
 | [OWASP](https://owasp.org) | 开放 Web 应用安全项目，提供应用安全标准、指南和项目资源。 | 开发者资源 | 安全、Web、开发 | [爱翻墙](https://ifanqiang.com/sites/owasp-org) |
-| [NIST Cybersecurity](https://www.nist.gov/cybersecurity-and-privacy) | NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 标准、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/nist-cybersecurity) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Quora](https://www.quora.com) | 问答社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 问答、社区 | [爱翻墙](https://ifanqiang.com/sites/quora-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [品葱](https://pincong.rocks) | 中文讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/pincong-rocks) |
 | [LIHKG](https://lihkg.com) | 香港讨论区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 香港、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/lihkg-com) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PTT](https://www.ptt.cc) | 台湾 BBS 社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 台湾、BBS、论坛 | [爱翻墙](https://ifanqiang.com/sites/ptt-cc) |
+| [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
 
 ## 常见问题
 

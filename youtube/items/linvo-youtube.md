@@ -1,6 +1,6 @@
 # 李自然说
 
-- YouTube：[https://www.youtube.com/@Linvo](https://www.youtube.com/@Linvo)
+- YouTube：[https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/linvo-youtube](https://ifanqiang.com/youtube/linvo-youtube)
 - 分类：商业财经
 - 标签：商业、科技、创业

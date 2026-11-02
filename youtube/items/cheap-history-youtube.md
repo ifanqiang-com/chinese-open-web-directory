@@ -1,6 +1,6 @@
 # Cheap
 
-- YouTube：[https://www.youtube.com/@CheapHistory](https://www.youtube.com/@CheapHistory)
+- YouTube：[https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA](https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/cheap-history-youtube](https://ifanqiang.com/youtube/cheap-history-youtube)
 - 分类：知识教育
 - 标签：历史、交通、台湾

@@ -1,6 +1,6 @@
 # 毛记电视
 
-- YouTube：[https://www.youtube.com/user/100mosthk](https://www.youtube.com/user/100mosthk)
+- YouTube：[https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A](https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/100most-youtube](https://ifanqiang.com/youtube/100most-youtube)
 - 分类：香港与东南亚
 - 标签：香港、娱乐、媒体

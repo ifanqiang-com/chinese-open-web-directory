@@ -4,10 +4,10 @@
 
 | 分类 | 数量 |
 | --- | ---: |
-| [新闻与公共议题](youtube-news-public-affairs.md) | 10 |
+| [新闻与公共议题](youtube-news-public-affairs.md) | 9 |
 | [商业财经](youtube-business-finance.md) | 5 |
 | [科技与数码](youtube-tech-digital.md) | 5 |
-| [知识教育](youtube-knowledge-education.md) | 7 |
+| [知识教育](youtube-knowledge-education.md) | 6 |
 | [语言学习](youtube-language-learning.md) | 7 |
 | [美食旅行](youtube-food-travel.md) | 10 |
 | [影视娱乐](youtube-film-entertainment.md) | 11 |

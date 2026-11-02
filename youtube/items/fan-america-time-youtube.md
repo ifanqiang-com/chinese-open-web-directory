@@ -1,6 +1,6 @@
 # 范琪斐的美国时间
 
-- YouTube：[https://www.youtube.com/@TheStormMedia](https://www.youtube.com/@TheStormMedia)
+- YouTube：[https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw](https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/fan-america-time-youtube](https://ifanqiang.com/youtube/fan-america-time-youtube)
 - 分类：新闻与公共议题
 - 标签：美国、访谈、公共议题

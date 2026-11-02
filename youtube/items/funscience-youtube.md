@@ -1,6 +1,6 @@
 # 芳斯塔芙
 
-- YouTube：[https://www.youtube.com/@FunScience](https://www.youtube.com/@FunScience)
+- YouTube：[https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg](https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/funscience-youtube](https://ifanqiang.com/youtube/funscience-youtube)
 - 分类：知识教育
 - 标签：科普、动画、自然

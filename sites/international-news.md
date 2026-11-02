@@ -26,7 +26,7 @@
 | [The Conversation](https://theconversation.com) | [详情](items/theconversation-com.md) | 由学者和编辑合作的新闻分析网站，偏研究解释和公共议题。核心提供新闻报道、专题内容和原站更新入口。 | research、analysis、education | 英文 |
 | [PBS NewsHour](https://www.pbs.org/newshour) | [详情](items/pbs-newshour.md) | 美国公共电视新闻节目与新闻网站。核心提供新闻报道、专题内容和原站更新入口。 | public-media、us、video | 英文 |
 | [CNA](https://www.channelnewsasia.com/) | [详情](items/channelnewsasia-com.md) | 新加坡 Channel NewsAsia 英文新闻入口，提供亚洲、国际、商业和视频新闻。 | asia、news、singapore | 英文 |
-| [ABC News](https://abcnews.go.com/) | [详情](items/abcnews-go-com.md) | 美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。 | us、news、video | 英文 |
+| [ABC News](https://abcnews.com/) | [详情](items/abcnews-go-com.md) | 美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。 | us、news、video | 英文 |
 | [CBS News](https://www.cbsnews.com/) | [详情](items/cbsnews-com.md) | 美国 CBS 新闻入口，提供电视新闻、调查报道、美国和国际新闻视频。 | us、tv、news | 英文 |
 | [NBC News](https://www.nbcnews.com/) | [详情](items/nbcnews-com.md) | 美国 NBC 新闻网站，核心提供美国政治、社会、国际、商业和突发新闻。 | us、news、politics | 英文 |
 | [Sky News](https://news.sky.com/) | [详情](items/news-sky-com.md) | 英国 Sky News 新闻入口，提供英国、欧洲、国际和直播新闻视频。 | uk、tv、live | 英文 |

@@ -68,7 +68,7 @@
     "type": "youtube-channel",
     "name": "李自然说",
     "description": "商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。",
-    "url": "https://www.youtube.com/@Linvo",
+    "url": "https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw",
     "category": "youtube-business-finance",
     "categoryName": "商业财经",
     "tags": [
@@ -152,7 +152,7 @@
     "type": "youtube-channel",
     "name": "蔡阿嘎",
     "description": "台湾早期代表性 YouTuber，内容覆盖生活企划、家庭记录、台湾文化和娱乐短片。",
-    "url": "https://www.youtube.com/@tsaigray2018",
+    "url": "https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g",
     "category": "youtube-film-entertainment",
     "categoryName": "影视娱乐",
     "tags": [
@@ -194,7 +194,7 @@
     "type": "youtube-channel",
     "name": "阿神",
     "description": "中文游戏和实况频道，长期制作游戏流程、实况片段、合作企划和粉丝向内容。",
-    "url": "https://www.youtube.com/@AsenStudio",
+    "url": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
     "category": "youtube-film-entertainment",
     "categoryName": "影视娱乐",
     "tags": [
@@ -446,7 +446,7 @@
     "type": "youtube-channel",
     "name": "范琪斐的美国时间",
     "description": "以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。",
-    "url": "https://www.youtube.com/@TheStormMedia",
+    "url": "https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw",
     "category": "youtube-news-public-affairs",
     "categoryName": "新闻与公共议题",
     "tags": [
@@ -479,27 +479,6 @@
     "priority": 7,
     "addedAt": "2026-06-09",
     "meta": "海外 / 简中",
-    "status": "active",
-    "visible": true
-  },
-  {
-    "uid": "wenzhao-youtube",
-    "id": "wenzhao-youtube",
-    "type": "youtube-channel",
-    "name": "文昭谈古论今",
-    "description": "中文时政和历史评论频道，结合历史背景、国际关系和现实新闻做长线解读。",
-    "url": "https://www.youtube.com/@wenzhaoofficial",
-    "category": "youtube-news-public-affairs",
-    "categoryName": "新闻与公共议题",
-    "tags": [
-      "时政",
-      "历史",
-      "评论"
-    ],
-    "featured": false,
-    "priority": 8,
-    "addedAt": "2026-06-09",
-    "meta": "海外 / 中文",
     "status": "active",
     "visible": true
   },
@@ -567,27 +546,6 @@
     "visible": true
   },
   {
-    "uid": "luoxiang-youtube",
-    "id": "luoxiang-youtube",
-    "type": "youtube-channel",
-    "name": "罗翔说刑法",
-    "description": "法律知识普及频道，围绕刑法案例、法治观念、社会伦理和公共讨论做解释。",
-    "url": "https://www.youtube.com/@luoxiang",
-    "category": "youtube-knowledge-education",
-    "categoryName": "知识教育",
-    "tags": [
-      "法律",
-      "教育",
-      "案例"
-    ],
-    "featured": false,
-    "priority": 22,
-    "addedAt": "2026-06-09",
-    "meta": "海外 / 简中",
-    "status": "active",
-    "visible": true
-  },
-  {
     "uid": "chuchushoe-youtube",
     "id": "chuchushoe-youtube",
     "type": "youtube-channel",
@@ -614,7 +572,7 @@
     "type": "youtube-channel",
     "name": "Cheap",
     "description": "台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。",
-    "url": "https://www.youtube.com/@CheapHistory",
+    "url": "https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA",
     "category": "youtube-knowledge-education",
     "categoryName": "知识教育",
     "tags": [
@@ -635,7 +593,7 @@
     "type": "youtube-channel",
     "name": "X 调查",
     "description": "案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。",
-    "url": "https://www.youtube.com/@XInvestigations",
+    "url": "https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg",
     "category": "youtube-knowledge-education",
     "categoryName": "知识教育",
     "tags": [
@@ -656,7 +614,7 @@
     "type": "youtube-channel",
     "name": "芳斯塔芙",
     "description": "科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。",
-    "url": "https://www.youtube.com/@FunScience",
+    "url": "https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg",
     "category": "youtube-knowledge-education",
     "categoryName": "知识教育",
     "tags": [
@@ -677,7 +635,7 @@
     "type": "youtube-channel",
     "name": "文森说书",
     "description": "读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。",
-    "url": "https://www.youtube.com/@vincentbook",
+    "url": "https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw",
     "category": "youtube-knowledge-education",
     "categoryName": "知识教育",
     "tags": [
@@ -740,7 +698,7 @@
     "type": "youtube-channel",
     "name": "科技狗 3C Dog",
     "description": "数码评测频道，覆盖智能手机、电脑周边、相机设备、家电和使用体验比较。",
-    "url": "https://www.youtube.com/@TechDog",
+    "url": "https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg",
     "category": "youtube-tech-digital",
     "categoryName": "科技与数码",
     "tags": [
@@ -761,7 +719,7 @@
     "type": "youtube-channel",
     "name": "极客湾 Geekerwan",
     "description": "硬件评测和技术解析频道，擅长手机芯片、电脑硬件、性能测试和工程向解释。",
-    "url": "https://www.youtube.com/@Geekerwan",
+    "url": "https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ",
     "category": "youtube-tech-digital",
     "categoryName": "科技与数码",
     "tags": [
@@ -782,7 +740,7 @@
     "type": "youtube-channel",
     "name": "影视飓风",
     "description": "影像技术和创作频道，覆盖摄影器材、后期流程、影像制作、创作者设备和实验项目。",
-    "url": "https://www.youtube.com/@mediastormfilm",
+    "url": "https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA",
     "category": "youtube-tech-digital",
     "categoryName": "科技与数码",
     "tags": [
@@ -1223,7 +1181,7 @@
     "type": "youtube-channel",
     "name": "米纸",
     "description": "香港人物和社区故事频道，关注本地饮食、街区文化、人物专访和城市记忆。",
-    "url": "https://www.youtube.com/@MillMilk",
+    "url": "https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A",
     "category": "youtube-hong-kong-southeast-asia",
     "categoryName": "香港与东南亚",
     "tags": [
@@ -1244,7 +1202,7 @@
     "type": "youtube-channel",
     "name": "毛记电视",
     "description": "香港网络媒体和娱乐品牌，内容包含讽刺短片、节目片段、本地娱乐和流行文化。",
-    "url": "https://www.youtube.com/user/100mosthk",
+    "url": "https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A",
     "category": "youtube-hong-kong-southeast-asia",
     "categoryName": "香港与东南亚",
     "tags": [
@@ -1265,7 +1223,7 @@
     "type": "youtube-channel",
     "name": "点 Cook Guide",
     "description": "香港粤语料理频道，提供家常菜、港式美食、厨房技巧和易跟做的食谱影片。",
-    "url": "https://www.youtube.com/@dimcookguide",
+    "url": "https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg",
     "category": "youtube-hong-kong-southeast-asia",
     "categoryName": "香港与东南亚",
     "tags": [
@@ -1370,7 +1328,7 @@
     "type": "youtube-channel",
     "name": "笑波子",
     "description": "香港游戏和娱乐频道，提供游戏实况、挑战、角色内容和面向年轻用户的轻娱乐。",
-    "url": "https://www.youtube.com/@smileboyhk",
+    "url": "https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w",
     "category": "youtube-hong-kong-southeast-asia",
     "categoryName": "香港与东南亚",
     "tags": [
@@ -1391,7 +1349,7 @@
     "type": "youtube-channel",
     "name": "大J",
     "description": "香港游戏与生活创作者，内容包含游戏评论、实况、个人生活和社会话题观察。",
-    "url": "https://www.youtube.com/@dajj",
+    "url": "https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg",
     "category": "youtube-hong-kong-southeast-asia",
     "categoryName": "香港与东南亚",
     "tags": [

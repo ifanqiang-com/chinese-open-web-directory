@@ -1,13 +1,13 @@
 # DIRECTV Stream
 
-- 官网：[https://streamtv.directv.com/](https://streamtv.directv.com/)
+- 官网：[https://www.directv.com/stream/](https://www.directv.com/stream/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/streamtv-directv-com](https://ifanqiang.com/sites/streamtv-directv-com)
 - 分类：视频与流媒体
 - 标签：直播电视、美国、流媒体
 - 语言：英文
 - 移动端：有 App 或移动端入口
 - 收录日期：2026-06-17
-- 原始链接：[https://streamtv.directv.com/](https://streamtv.directv.com/)
+- 原始链接：[https://www.directv.com/stream/](https://www.directv.com/stream/)
 
 ## 简介
 

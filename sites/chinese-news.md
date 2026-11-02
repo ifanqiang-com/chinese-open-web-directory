@@ -30,7 +30,7 @@
 | [ABC中文](https://www.abc.net.au/news/chinese) | [详情](items/abc-net-au-news-chinese.md) | 澳大利亚 ABC 的中文新闻栏目，提供澳洲社会、移民生活、国际议题和解释性报道。 | 澳大利亚、中文、新闻 | 中文 |
 | [联合新闻网](https://udn.com/news/index) | [详情](items/udn-com-news-index.md) | 台湾联合报系新闻入口，覆盖台湾政治社会、国际、财经和生活资讯。 | 台湾、新闻、综合 | 中文 |
 | [TVBS新闻网](https://news.tvbs.com.tw/) | [详情](items/news-tvbs-com-tw.md) | 台湾 TVBS 新闻网站，提供即时新闻、影音报道、社会事件和国际资讯。 | 台湾、电视、新闻 | 中文 |
-| [镜传媒](https://www.mirrormedia.mg/) | [详情](items/mirrormedia-mg.md) | 台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。 | 台湾、深度、专题 | 中文 |
+| [镜周刊 Mirror Media](https://www.mirrormedia.mg/) | [详情](items/mirrormedia-mg.md) | 台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。 | 台湾、深度、专题 | 中文 |
 | [报导者](https://www.twreporter.org/) | [详情](items/twreporter-org.md) | 台湾非营利深度报道媒体，核心提供调查报道、专题解释和公共议题资料。 | 台湾、调查报道、公共议题 | 中文 |
 | [天下杂志](https://www.cw.com.tw/) | [详情](items/cw-com-tw.md) | 台湾商业与公共议题杂志，提供产业趋势、管理、教育、国际和社会分析。 | 商业、台湾、分析 | 中文 |
 | [商业周刊](https://www.businessweekly.com.tw/) | [详情](items/businessweekly-com-tw.md) | 台湾商业媒体，核心提供公司经营、产业趋势、投资理财和职场管理内容。 | 商业、财经、台湾 | 中文 |
@@ -45,7 +45,7 @@
 | [INSIDE](https://www.inside.com.tw/) | [详情](items/inside-com-tw.md) | 台湾数字科技媒体，核心提供互联网产业、创业、AI、营销和产品趋势报道。 | 科技、创业、产品 | 中文 |
 | [Yahoo奇摩新闻](https://tw.news.yahoo.com/) | [详情](items/tw-news-yahoo-com.md) | 台湾 Yahoo 新闻入口，聚合台湾媒体报道、即时新闻、影音和专题内容。 | 台湾、新闻聚合、入口 | 中文 |
 | [PeoPo 公民新闻](https://www.peopo.org/) | [详情](items/peopo-org.md) | 台湾公民新闻平台，收录公民记者投稿、地方议题、社会观察和影音报道。核心提供新闻报道、专题内容和原站更新入口。 | 台湾、公民新闻、社区 | 中文 |
-| [新头壳 Newtalk](https://newtalk.tw/) | [详情](items/newtalk-tw.md) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 台湾、新闻、评论 | 中文 |
+| [Newtalk 新闻](https://newtalk.tw/) | [详情](items/newtalk-tw.md) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 台湾、新闻、评论 | 中文 |
 | [NOWnews 今日新闻](https://www.nownews.com/) | [详情](items/nownews-com.md) | 台湾综合新闻网站，提供即时新闻、娱乐、生活、国际和财经内容。核心提供新闻报道、专题内容和原站更新入口。 | 台湾、新闻、即时 | 中文 |
 | [ETtoday 新闻云](https://www.ettoday.net/) | [详情](items/ettoday-net.md) | 台湾综合新闻入口，提供即时新闻、影音、生活、国际、财经和娱乐报道。核心提供新闻报道、专题内容和原站更新入口。 | 台湾、新闻、影音 | 中文 |
 | [Yahoo 香港新闻](https://hk.news.yahoo.com/) | [详情](items/hk-news-yahoo-com.md) | 香港 Yahoo 新闻入口，聚合香港本地、国际、财经、娱乐和生活报道。核心提供新闻报道、专题内容和原站更新入口。 | 香港、新闻聚合、入口 | 中文 |

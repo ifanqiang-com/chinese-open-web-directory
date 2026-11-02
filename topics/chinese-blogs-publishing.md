@@ -58,7 +58,6 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Webflow](https://webflow.com/) | 可视化网站构建平台，提供设计、CMS、托管、动画和团队协作功能。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 建站、CMS、设计 | [爱翻墙](https://ifanqiang.com/sites/webflow-com) |
-| [Read.cv](https://read.cv/) | 面向创作者和从业者的个人主页平台，提供简历、作品集、项目和网络展示。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 个人主页、作品集、简历 | [爱翻墙](https://ifanqiang.com/sites/read-cv) |
 | [少数派](https://sspai.com/) | 少数派 的出版或博客入口，长期发布 效率、数码、生活 相关的文章、评论和专题内容。 | 博客与出版 | 效率、数码、生活 | [爱翻墙](https://ifanqiang.com/sites/sspai-com) |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | Smashing Magazine 的出版或博客入口，长期发布 设计、前端、出版 相关的文章、评论和专题内容。 | 博客与出版 | 设计、前端、出版 | [爱翻墙](https://ifanqiang.com/sites/smashingmagazine-com) |
 | [A List Apart](https://alistapart.com/) | A List Apart 的出版或博客入口，长期发布 Web、设计、标准 相关的文章、评论和专题内容。 | 博客与出版 | Web、设计、标准 | [爱翻墙](https://ifanqiang.com/sites/alistapart-com) |
@@ -83,7 +82,7 @@
 | [WordPress.com](https://wordpress.com) | 托管博客和网站发布平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、建站、CMS | [爱翻墙](https://ifanqiang.com/sites/wordpress-com) |
 | [Blogger](https://www.blogger.com) | Google 旗下博客平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、写作 | [爱翻墙](https://ifanqiang.com/sites/blogger-com) |
 | [MajorGeeks](https://www.majorgeeks.com) | Windows 软件和工具下载站。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | 软件、Windows、下载 | [爱翻墙](https://ifanqiang.com/sites/majorgeeks-com) |
-| [Threads](https://www.threads.net) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
+| [Threads](https://www.threads.com/) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
 | [Bluesky](https://bsky.app) | 去中心化社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、去中心化 | [爱翻墙](https://ifanqiang.com/sites/bsky-app) |
 | [Ghost](https://ghost.org) | 开源出版和会员内容平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、出版、开源 | [爱翻墙](https://ifanqiang.com/sites/ghost-org) |
 | [Mastodon](https://joinmastodon.org) | 去中心化社交网络项目。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、联邦宇宙、开源 | [爱翻墙](https://ifanqiang.com/sites/joinmastodon-org) |

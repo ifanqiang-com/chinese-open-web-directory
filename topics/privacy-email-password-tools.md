@@ -28,12 +28,10 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Tor Project](https://www.torproject.org) | Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、匿名、浏览器 | [爱翻墙](https://ifanqiang.com/sites/torproject-org) |
 | [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Bitwarden](https://bitwarden.com) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、安全 | [爱翻墙](https://ifanqiang.com/sites/bitwarden-com) |
 | [Have I Been Pwned](https://haveibeenpwned.com) | 账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、泄露查询 | [爱翻墙](https://ifanqiang.com/sites/haveibeenpwned-com) |
-| [NIST Cybersecurity](https://www.nist.gov/cybersecurity-and-privacy) | NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 标准、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/nist-cybersecurity) |
 | [1Password](https://1password.com) | 密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、安全 | [爱翻墙](https://ifanqiang.com/sites/1password-com) |
 | [KeePassXC](https://keepassxc.org) | 开源本地密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、本地 | [爱翻墙](https://ifanqiang.com/sites/keepassxc-org) |
 | [DuckDuckGo](https://duckduckgo.com/app) | DuckDuckGo 的隐私浏览器和应用入口。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 搜索、隐私、浏览器 | [爱翻墙](https://ifanqiang.com/sites/duckduckgo-com-app) |
@@ -43,6 +41,8 @@
 | [Malwarebytes](https://www.malwarebytes.com) | 反恶意软件和安全工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、恶意软件 | [爱翻墙](https://ifanqiang.com/sites/malwarebytes-com) |
 | [EFF](https://www.eff.org) | 电子前哨基金会，数字权利和隐私倡导组织。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 数字权利、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/eff-org) |
 | [Let's Encrypt](https://letsencrypt.org) | 免费 TLS 证书项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | HTTPS、证书、安全 | [爱翻墙](https://ifanqiang.com/sites/letsencrypt-org) |
+| [NextDNS](https://nextdns.io) | 可配置的 DNS 过滤和隐私服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/nextdns-io) |
+| [Internet.nl](https://internet.nl) | 荷兰互联网标准检测工具，提供网站、邮箱和连接的 IPv6、DNSSEC、HTTPS 与安全配置测试。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 检测、标准、HTTPS | [爱翻墙](https://ifanqiang.com/sites/internet-nl) |
 
 ## 双因素认证和硬件密钥
 
@@ -50,7 +50,7 @@
 
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
-| [Ente Auth](https://ente.io/auth/) | 开源双因素认证应用，提供端到端加密备份、多设备同步和离线验证码。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 2FA、开源、认证 | [爱翻墙](https://ifanqiang.com/sites/ente-io-auth) |
+| [Ente Auth](https://ente.com/auth/) | 开源双因素认证应用，提供端到端加密备份、多设备同步和离线验证码。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 2FA、开源、认证 | [爱翻墙](https://ifanqiang.com/sites/ente-io-auth) |
 | [Aegis Authenticator](https://getaegis.app/) | Android 开源两步验证应用，提供加密备份、导入导出和离线 OTP 管理。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 2FA、Android、开源 | [爱翻墙](https://ifanqiang.com/sites/getaegis-app) |
 | [Yubico](https://www.yubico.com/) | 硬件安全密钥厂商，提供 YubiKey、FIDO2、Passkey、企业 MFA 和开发资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 硬件密钥、MFA、Passkey | [爱翻墙](https://ifanqiang.com/sites/yubico-com) |
 | [Nitrokey](https://www.nitrokey.com/) | 开源硬件安全产品入口，提供安全密钥、加密存储、HSM 和隐私硬件资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 硬件密钥、开源硬件、加密 | [爱翻墙](https://ifanqiang.com/sites/nitrokey-com) |
@@ -64,13 +64,10 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Tor Project](https://www.torproject.org) | Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、匿名、浏览器 | [爱翻墙](https://ifanqiang.com/sites/torproject-org) |
 | [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Bitwarden](https://bitwarden.com) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、安全 | [爱翻墙](https://ifanqiang.com/sites/bitwarden-com) |
 | [Have I Been Pwned](https://haveibeenpwned.com) | 账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、泄露查询 | [爱翻墙](https://ifanqiang.com/sites/haveibeenpwned-com) |
-| [CISA](https://www.cisa.gov) | 美国网络安全和基础设施安全局，提供网络安全提醒、指南和工具入口。 | 隐私安全 | 安全、官方、美国 | [爱翻墙](https://ifanqiang.com/sites/cisa-gov) |
-| [NIST Cybersecurity](https://www.nist.gov/cybersecurity-and-privacy) | NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 标准、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/nist-cybersecurity) |
 | [1Password](https://1password.com) | 密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、安全 | [爱翻墙](https://ifanqiang.com/sites/1password-com) |
 | [KeePassXC](https://keepassxc.org) | 开源本地密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、本地 | [爱翻墙](https://ifanqiang.com/sites/keepassxc-org) |
 | [DuckDuckGo](https://duckduckgo.com/app) | DuckDuckGo 的隐私浏览器和应用入口。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 搜索、隐私、浏览器 | [爱翻墙](https://ifanqiang.com/sites/duckduckgo-com-app) |
@@ -79,6 +76,9 @@
 | [VirusTotal](https://www.virustotal.com) | 文件、URL 和安全威胁检测平台。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、恶意软件、检测 | [爱翻墙](https://ifanqiang.com/sites/virustotal-com) |
 | [Malwarebytes](https://www.malwarebytes.com) | 反恶意软件和安全工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、恶意软件 | [爱翻墙](https://ifanqiang.com/sites/malwarebytes-com) |
 | [EFF](https://www.eff.org) | 电子前哨基金会，数字权利和隐私倡导组织。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 数字权利、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/eff-org) |
+| [Let's Encrypt](https://letsencrypt.org) | 免费 TLS 证书项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | HTTPS、证书、安全 | [爱翻墙](https://ifanqiang.com/sites/letsencrypt-org) |
+| [NextDNS](https://nextdns.io) | 可配置的 DNS 过滤和隐私服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/nextdns-io) |
+| [Internet.nl](https://internet.nl) | 荷兰互联网标准检测工具，提供网站、邮箱和连接的 IPv6、DNSSEC、HTTPS 与安全配置测试。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 检测、标准、HTTPS | [爱翻墙](https://ifanqiang.com/sites/internet-nl) |
 
 ## 常见问题
 

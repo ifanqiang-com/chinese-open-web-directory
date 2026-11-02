@@ -70,10 +70,10 @@
 | [风传媒](https://www.storm.mg) | 台湾新闻评论与观点平台。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、台湾、评论 | [爱翻墙](https://ifanqiang.com/sites/storm-mg) |
 | [上报](https://www.upmedia.mg) | 台湾新闻与评论网站。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、台湾、评论 | [爱翻墙](https://ifanqiang.com/sites/upmedia-mg) |
 | [关键评论网](https://www.thenewslens.com) | 华语新闻评论与观点平台。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、评论、华语 | [爱翻墙](https://ifanqiang.com/sites/thenewslens-com) |
-| [镜传媒](https://www.mirrormedia.mg/) | 台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。 | 中文新闻 | 台湾、深度、专题 | [爱翻墙](https://ifanqiang.com/sites/mirrormedia-mg) |
+| [镜周刊 Mirror Media](https://www.mirrormedia.mg/) | 台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。 | 中文新闻 | 台湾、深度、专题 | [爱翻墙](https://ifanqiang.com/sites/mirrormedia-mg) |
 | [报导者](https://www.twreporter.org/) | 台湾非营利深度报道媒体，核心提供调查报道、专题解释和公共议题资料。 | 中文新闻 | 台湾、调查报道、公共议题 | [爱翻墙](https://ifanqiang.com/sites/twreporter-org) |
 | [香港独立媒体](https://www.inmediahk.net/) | 香港独立媒体平台，提供本地社会议题、评论、社区报道和公共讨论入口。 | 中文新闻 | 香港、独立媒体、评论 | [爱翻墙](https://ifanqiang.com/sites/inmediahk-net) |
-| [新头壳 Newtalk](https://newtalk.tw/) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 台湾、新闻、评论 | [爱翻墙](https://ifanqiang.com/sites/newtalk-tw) |
+| [Newtalk 新闻](https://newtalk.tw/) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 台湾、新闻、评论 | [爱翻墙](https://ifanqiang.com/sites/newtalk-tw) |
 | [Daring Fireball](https://daringfireball.net/) | Daring Fireball 的出版或博客入口，长期发布 Apple、科技、评论 相关的文章、评论和专题内容。 | 博客与出版 | Apple、科技、评论 | [爱翻墙](https://ifanqiang.com/sites/daringfireball-net) |
 | [Marginal Revolution](https://marginalrevolution.com/) | Marginal Revolution 的出版或博客入口，长期发布 经济、博客、评论 相关的文章、评论和专题内容。 | 博客与出版 | 经济、博客、评论 | [爱翻墙](https://ifanqiang.com/sites/marginalrevolution-com) |
 | [苦劳网](https://www.coolloud.org.tw/) | 台湾社会运动和劳动议题媒体，提供劳工、移工、环境和公共议题报道。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 台湾、劳工、公共议题 | [爱翻墙](https://ifanqiang.com/sites/coolloud-org-tw) |

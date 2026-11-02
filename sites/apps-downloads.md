@@ -1,6 +1,6 @@
 # 应用与下载
 
-共 75 个网站。点击名称可直接访问官网。
+共 73 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -44,15 +44,13 @@
 | [FileHippo](https://filehippo.com/) | [详情](items/filehippo-com.md) | 软件下载网站，提供 Windows 软件、版本更新、分类目录和下载入口。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 软件下载、Windows、更新 | 英文 |
 | [SnapFiles](https://www.snapfiles.com/) | [详情](items/snapfiles-com.md) | Windows 软件目录，提供免费软件、试用软件、编辑推荐和下载分类。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Windows、软件下载、目录 | 英文 |
 | [FreewareFiles](https://www.freewarefiles.com/) | [详情](items/freewarefiles-com.md) | 免费软件目录，提供 Windows 工具、网络、安全、图形和多媒体软件下载。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 免费软件、Windows、下载 | 英文 |
-| [OldVersion](http://www.oldversion.com/) | [详情](items/oldversion-com.md) | 旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 旧版本、软件归档、下载 | 英文 |
+| [OldVersion](https://www.oldversion.com/) | [详情](items/oldversion-com.md) | 旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 旧版本、软件归档、下载 | 英文 |
 | [MacUpdate Search](https://www.macupdate.com/find/mac) | [详情](items/macupdate-com-find-mac.md) | MacUpdate 的 macOS 软件搜索入口，提供应用目录、版本更新、分类浏览和下载线索。核心提供软件下载、应用商店、替代品搜索或安装管理。 | macOS、软件发现、下载 | 英文 |
-| [GetMacApps](https://getmacapps.com/) | [详情](items/getmacapps-com.md) | macOS 常用软件批量安装工具，提供勾选应用并生成安装脚本功能。核心提供软件下载、应用商店、替代品搜索或安装管理。 | macOS、批量安装、软件 | 英文 |
 | [MacUpdater](https://www.corecode.io/macupdater/) | [详情](items/corecode-io-macupdater.md) | macOS 软件更新工具，提供应用版本扫描、更新检测和下载跳转。核心提供软件下载、应用商店、替代品搜索或安装管理。 | macOS、更新、软件管理 | 英文 |
 | [NixOS Search Options](https://search.nixos.org/options) | [详情](items/search-nixos-org-options.md) | NixOS 配置选项搜索入口，提供系统模块、配置项、说明和示例查询。核心提供软件下载、应用商店、替代品搜索或安装管理。 | NixOS、包管理、配置 | 英文 |
 | [Homebrew Formulae](https://formulae.brew.sh/) | [详情](items/formulae-brew-sh.md) | Homebrew 软件包索引，提供 formula、cask、版本、依赖和安装命令查询。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Homebrew、包管理、macOS | 英文 |
 | [Chocolatey Community Packages](https://community.chocolatey.org/packages) | [详情](items/community-chocolatey-org-packages.md) | Chocolatey 社区包目录，提供 Windows 软件包、版本、安装命令和维护信息。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Windows、包管理、软件 | 英文 |
 | [Snap Store](https://snapcraft.io/store) | [详情](items/snapcraft-io-store.md) | Ubuntu Snap 应用商店入口，提供 Linux 应用、版本、安装命令和发布者资料。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Linux、Snap、应用商店 | 多语言 |
-| [Flathub Apps](https://flathub.org/apps) | [详情](items/flathub-org-apps.md) | Flathub 应用目录，提供 Linux Flatpak 应用、安装说明、截图和版本信息。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Linux、Flatpak、应用 | 多语言 |
 | [AlternativeTo Browse](https://alternativeto.net/browse/search/) | [详情](items/alternativeto-net-browse-search.md) | AlternativeTo 浏览入口，提供软件替代品、平台筛选、开源选项和用户推荐。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 软件替代、发现、推荐 | 多语言 |
 | [AppBrain](https://www.appbrain.com/) | [详情](items/appbrain-com.md) | AppBrain 的应用入口，提供 Android、应用、发现 相关的软件主页、下载或应用发现服务。 | Android、应用、发现 | 英文 |
 | [VLC](https://www.videolan.org/vlc/) | [详情](items/videolan-org-vlc.md) | VLC 的应用入口，提供 播放器、开源、多媒体 相关的软件主页、下载或应用发现服务。 | 播放器、开源、多媒体 | 多语言 |

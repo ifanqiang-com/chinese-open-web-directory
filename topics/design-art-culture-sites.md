@@ -36,7 +36,6 @@
 | [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [端传媒](https://theinitium.com) | 面向华语读者的深度报道与评论媒体。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、华语 | [爱翻墙](https://ifanqiang.com/sites/theinitium-com) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
-| [Library of Congress](https://www.loc.gov) | 美国国会图书馆，提供馆藏、档案、图片、地图和数字资源。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 图书馆、档案、美国 | [爱翻墙](https://ifanqiang.com/sites/loc-gov) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
 | [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
 | [Wikibooks](https://www.wikibooks.org) | 自由教材和学习资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 教材、百科、学习 | [爱翻墙](https://ifanqiang.com/sites/wikibooks-org) |
@@ -47,6 +46,7 @@
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数学、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/mathworld-wolfram-com) |
 | [联合早报](https://www.zaobao.com.sg) | 新加坡联合早报中文新闻与评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、新加坡、中文 | [爱翻墙](https://ifanqiang.com/sites/zaobao-com-sg) |
 | [Fandom](https://www.fandom.com) | 影视、游戏、动漫等粉丝百科社区。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、粉丝、社区 | [爱翻墙](https://ifanqiang.com/sites/fandom-com) |
+| [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
 
 ## 摄影、影像和电影
 
@@ -65,7 +65,7 @@
 | [Disney+](https://www.disneyplus.com) | Disney 旗下流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/disneyplus-com) |
 | [Prime Video](https://www.primevideo.com) | Amazon 旗下流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/primevideo-com) |
 | [Hulu](https://www.hulu.com) | 美国流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/hulu-com) |
-| [Max](https://www.max.com) | Warner Bros. Discovery 旗下流媒体服务。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/max-com) |
+| [HBO Max](https://www.hbomax.com/) | HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。 | 视频与流媒体 | 影视、流媒体、HBO | [爱翻墙](https://ifanqiang.com/sites/max-com) |
 | [Nebula](https://nebula.tv) | 创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 视频、创作者、教育 | [爱翻墙](https://ifanqiang.com/sites/nebula-tv) |
 | [Curiosity Stream](https://curiositystream.com) | 纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 纪录片、知识、视频 | [爱翻墙](https://ifanqiang.com/sites/curiositystream-com) |
 | [Kick](https://kick.com) | 直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 直播、视频 | [爱翻墙](https://ifanqiang.com/sites/kick-com) |
@@ -89,7 +89,7 @@
 | [Instagram](https://www.instagram.com) | 图片、短视频和社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、图片、短视频 | [爱翻墙](https://ifanqiang.com/sites/instagram-com) |
 | [WordPress.com](https://wordpress.com) | 托管博客和网站发布平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、建站、CMS | [爱翻墙](https://ifanqiang.com/sites/wordpress-com) |
 | [Blogger](https://www.blogger.com) | Google 旗下博客平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、写作 | [爱翻墙](https://ifanqiang.com/sites/blogger-com) |
-| [Threads](https://www.threads.net) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
+| [Threads](https://www.threads.com/) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
 | [品葱](https://pincong.rocks) | 中文讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/pincong-rocks) |
 | [Bluesky](https://bsky.app) | 去中心化社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、去中心化 | [爱翻墙](https://ifanqiang.com/sites/bsky-app) |
 | [Ghost](https://ghost.org) | 开源出版和会员内容平台。核心提供文章发布、作者主页、订阅和内容发现。 | 博客与出版 | 博客、出版、开源 | [爱翻墙](https://ifanqiang.com/sites/ghost-org) |

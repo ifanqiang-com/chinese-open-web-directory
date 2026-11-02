@@ -1,4 +1,4 @@
-# Stack Overflow en espa&#241;ol
+# Stack Overflow en español
 
 - 官网：[https://es.stackoverflow.com](https://es.stackoverflow.com)
 - 爱翻墙详情：[https://ifanqiang.com/sites/es-stackoverflow-com](https://ifanqiang.com/sites/es-stackoverflow-com)

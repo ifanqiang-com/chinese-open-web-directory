@@ -448,87 +448,26 @@ function cleanGeneratedDirectories() {
   }
 }
 
-function renderReadme({ generatedAt, categories, youtubeCategories, sites, youtubeChannels, topics, metadata }) {
-  const categoryRows = categories
-    .map((category) => {
-      const count = sites.filter((site) => site.category === category.id).length;
-      return `| ${mdLink(category.name, `sites/${category.id}.md`)} | ${count} |`;
-    })
-    .join("\n");
-  const topicRows = topics
-    .map((topic) => `| ${mdLink(topic.title, `topics/${topic.slug}.md`)} | ${tableCell(topic.description)} |`)
-    .join("\n");
-  const youtubeRows = youtubeCategories
-    .map((category) => {
-      const count = youtubeChannels.filter((channel) => channel.category === category.id).length;
-      return `| ${mdLink(category.name, `youtube/${category.id}.md`)} | ${count} |`;
-    })
-    .join("\n");
-
-  return `# blocked-sites
-
-这个仓库维护 [爱翻墙](${siteUrl}) 当前公开收录的网址和 YouTube 中文频道。现在以 Markdown 为主：打开 GitHub 页面就能直接看分类、简介和链接，不需要下载 CSV。
-
-仓库名沿用历史名称，但当前定位是公开网站资源目录；不提供代理/VPN，不写访问教程，也不声明每个目标在所有网络环境下都一定被阻断或可访问。
-
-导出时间：${generatedAt}
-
-## 快速入口
-
-- [全部网址分类](sites/README.md)
-- [YouTube 中文频道](youtube/README.md)
-- [专题导航](topics/README.md)
-- [机器数据](data/)
-
-## 数据概览
-
-| 类型 | 数量 |
-| --- | ---: |
-| 公开网站 | ${sites.length} |
-| YouTube 中文频道 | ${youtubeChannels.length} |
-| 网址分类 | ${categories.length} |
-| YouTube 分类 | ${youtubeCategories.length} |
-| 专题 | ${topics.length} |
-| Markdown 文件 | ${metadata.counts.markdownFiles} |
-
-## 网址分类
-
-| 分类 | 数量 |
-| --- | ---: |
-${categoryRows}
-
-## YouTube 分类
-
-| 分类 | 数量 |
-| --- | ---: |
-${youtubeRows}
-
-## 专题
-
-| 专题 | 说明 |
-| --- | --- |
-${topicRows}
-
-## 机器数据
-
-JSON、CSV 和纯 URL 列表保留在 [data/](data/) 目录，供程序读取；人类阅读请优先使用上面的 Markdown 目录。
-
-## 使用和贡献
-
-这些数据来源于 ifanqiang.com 的公开导航条目。欢迎通过 Issues 或 Pull Requests 反馈失效链接、分类问题和新增建议。
-
-## 不收录
-
-- 成人、色情或擦边内容
-- 赌博网站
-- 暴力、极端主义或非法交易内容
-- 暗网或深网类入口
-- 明显欺诈、恶意软件或钓鱼网站
-
-## License
-
-MIT
-`;
+function renderReadme({ generatedAt, categories, youtubeCategories, sites, youtubeChannels, topics }) {
+  // Keep the editorial Chinese-first README; refresh only its generated values.
+  let readme = fs.readFileSync(path.join(repositoryRoot, "README.md"), "utf8");
+  for (const [label, count] of [["网站", sites.length], ["YouTube 频道", youtubeChannels.length], ["专题", topics.length]]) {
+    readme = readme.replace(new RegExp(`(!\\[${label}\\]\\(https://img\\.shields\\.io/badge/[^\\s]+-)([0-9]+)(-[a-zA-Z0-9]+\\))`), `$1${count}$3`);
+  }
+  readme = readme.replace(/最近一次生产数据导出时间：`[^`]+`/, `最近一次生产数据导出时间：\`${generatedAt}\``);
+  const counts = new Map([
+    ["网站", sites.length], ["YouTube 频道", youtubeChannels.length], ["专题", topics.length],
+    ["网站分类", categories.length], ["YouTube 分类", youtubeCategories.length], ["全部导出链接", sites.length + youtubeChannels.length]
+  ]);
+  readme = readme.replace(/^\| ([^|]+) \| \d+ \|/gm, (line, label) => counts.has(label.trim()) ? `| ${label.trim()} | ${counts.get(label.trim())} |` : line);
+  for (const [list, records, directory] of [[categories, sites, "sites"], [youtubeCategories, youtubeChannels, "youtube"]]) {
+    for (const category of list) {
+      const label = `[${category.name}](${directory}/${category.id}.md)`;
+      const line = readme.split("\n").find((value) => value.startsWith(`| ${label} |`));
+      if (line) readme = readme.replace(line, `| ${label} | ${records.filter((item) => item.category === category.id).length} |`);
+    }
+  }
+  return readme;
 }
 
 function renderSitesIndex(categories, sites) {

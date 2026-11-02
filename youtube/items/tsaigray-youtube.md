@@ -1,6 +1,6 @@
 # 蔡阿嘎
 
-- YouTube：[https://www.youtube.com/@tsaigray2018](https://www.youtube.com/@tsaigray2018)
+- YouTube：[https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g](https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/tsaigray-youtube](https://ifanqiang.com/youtube/tsaigray-youtube)
 - 分类：影视娱乐
 - 标签：生活、娱乐、台湾

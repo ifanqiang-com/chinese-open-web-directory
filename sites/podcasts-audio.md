@@ -1,6 +1,6 @@
 # 播客与音频
 
-共 65 个网站。点击名称可直接访问官网。
+共 64 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@
 | [Podverse](https://podverse.fm/) | [详情](items/podverse-fm.md) | 开源播客播放器，提供跨平台收听、剪辑、同步和开放播客生态支持。 | 播客、开源、播放器 | 英文 |
 | [Fountain](https://www.fountain.fm/) | [详情](items/fountain-fm.md) | 面向 Podcasting 2.0 的播客应用，提供收听、互动、打赏和发现功能。 | 播客、打赏、发现 | 英文 |
 | [AntennaPod](https://antennapod.org/) | [详情](items/antennapod-org.md) | Android 开源播客播放器，提供订阅、下载、播放列表和离线收听。 | 播客、Android、开源 | 多语言 |
-| [Spotify for Podcasters](https://podcasters.spotify.com/) | [详情](items/podcasters-spotify-com.md) | Spotify 播客创作者平台，提供节目发布、统计、分发、视频播客和变现工具。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、创作者、Spotify | 多语言 |
+| [Spotify for Creators](https://creators.spotify.com/) | [详情](items/podcasters-spotify-com.md) | Spotify 面向创作者的官方平台，提供播客管理、音视频节目发布、受众分析和变现工具。 | 播客、创作者、音频、视频 | 多语言 |
 | [Buzzsprout](https://www.buzzsprout.com/) | [详情](items/buzzsprout-com.md) | 播客托管平台，提供节目发布、分发、统计、网站和变现功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、统计 | 英文 |
 | [Transistor](https://transistor.fm/) | [详情](items/transistor-fm.md) | 播客托管服务，提供多节目管理、私密播客、网站和分析数据。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、分析 | 英文 |
 | [Libsyn](https://libsyn.com/) | [详情](items/libsyn-com.md) | 老牌播客托管平台，提供音频托管、分发、统计、广告和节目网站。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、分发 | 英文 |
@@ -53,7 +53,7 @@
 | [fyyd](https://fyyd.de/) | [详情](items/fyyd-de.md) | fyyd 的音频入口，覆盖 播客、目录、发现 等播客、节目或音频发布场景。 | 播客、目录、发现 | 多语言 |
 | [Audio.com](https://audio.com/) | [详情](items/audio-com.md) | Audio.com 的音频入口，覆盖 音频、托管、创作者 等播客、节目或音频发布场景。 | 音频、托管、创作者 | 英文 |
 | [Audioboom](https://audioboom.com/) | [详情](items/audioboom-com.md) | Audioboom 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。 | 播客、托管、广告 | 英文 |
-| [Megaphone](https://www.megaphone.fm/) | [详情](items/megaphone-fm.md) | Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。 | 播客、托管、广告 | 英文 |
+| [Megaphone](https://megaphone.spotify.com/) | [详情](items/megaphone-fm.md) | Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。 | 播客、托管、广告 | 英文 |
 | [Luminary](https://luminarypodcasts.com/) | [详情](items/luminarypodcasts-com.md) | Luminary 的音频入口，覆盖 播客、订阅、音频 等播客、节目或音频发布场景。 | 播客、订阅、音频 | 英文 |
 | [BBC Podcasts](https://www.bbc.co.uk/podcasts) | [详情](items/bbc-co-uk-podcasts.md) | BBC Podcasts 的音频入口，覆盖 播客、英国、音频 等播客、节目或音频发布场景。 | 播客、英国、音频 | 英文 |
 | [CBC Podcasts](https://www.cbc.ca/radio/podcasts) | [详情](items/cbc-ca-radio-podcasts.md) | CBC Podcasts 的音频入口，覆盖 播客、加拿大、音频 等播客、节目或音频发布场景。 | 播客、加拿大、音频 | 英文 |
@@ -61,7 +61,6 @@
 | [The Guardian Podcasts](https://www.theguardian.com/podcasts) | [详情](items/theguardian-com-podcasts.md) | The Guardian Podcasts 的音频入口，覆盖 播客、新闻、英国 等播客、节目或音频发布场景。 | 播客、新闻、英国 | 英文 |
 | [The Economist Podcasts](https://www.economist.com/podcasts) | [详情](items/economist-com-podcasts.md) | The Economist Podcasts 的音频入口，覆盖 播客、财经、国际 等播客、节目或音频发布场景。 | 播客、财经、国际 | 英文 |
 | [TED Audio Collective](https://audiocollective.ted.com/) | [详情](items/audiocollective-ted-com.md) | TED Audio Collective 的音频入口，覆盖 播客、知识、访谈 等播客、节目或音频发布场景。 | 播客、知识、访谈 | 英文 |
-| [JustPod](https://www.justpod.com/) | [详情](items/justpodmedia-com.md) | JustPod 的音频入口，覆盖 中文播客、网络、制作 等播客、节目或音频发布场景。 | 中文播客、网络、制作 | 中文 |
 | [声动活泼](https://shengfm.cn/) | [详情](items/shengfm-cn.md) | 声动活泼 的音频入口，覆盖 中文播客、商业、科技 等播客、节目或音频发布场景。 | 中文播客、商业、科技 | 中文 |
 | [故事FM](https://storyfm.cn/) | [详情](items/storyfm-cn.md) | 故事FM 的音频入口，覆盖 中文播客、故事、人物 等播客、节目或音频发布场景。 | 中文播客、故事、人物 | 中文 |
 | [日谈公园](https://www.ritanbbpark.com/) | [详情](items/ritanbbpark-com.md) | 日谈公园 的音频入口，覆盖 中文播客、文化、生活 等播客、节目或音频发布场景。 | 中文播客、文化、生活 | 中文 |

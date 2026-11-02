@@ -12,10 +12,11 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
-| [Read the Docs](https://readthedocs.org/) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 开发者资源 | 文档托管、开源、开发 | [爱翻墙](https://ifanqiang.com/sites/readthedocs-org) |
+| [Read the Docs](https://about.readthedocs.com/) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 开发者资源 | 文档托管、开源、开发 | [爱翻墙](https://ifanqiang.com/sites/readthedocs-org) |
+| [Hello 算法](https://www.hello-algo.com/) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 开发者资源 | 算法、数据结构、中文、开源 | [爱翻墙](https://ifanqiang.com/sites/hello-algo-com) |
 
 ## 官方文档与技术资料
 

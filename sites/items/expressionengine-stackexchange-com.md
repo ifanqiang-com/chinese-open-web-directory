@@ -1,4 +1,4 @@
-# ExpressionEngine&#174; Answers
+# ExpressionEngine® Answers
 
 - 官网：[https://expressionengine.stackexchange.com](https://expressionengine.stackexchange.com)
 - 爱翻墙详情：[https://ifanqiang.com/sites/expressionengine-stackexchange-com](https://ifanqiang.com/sites/expressionengine-stackexchange-com)

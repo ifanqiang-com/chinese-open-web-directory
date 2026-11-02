@@ -1,4 +1,4 @@
-# 镜传媒
+# 镜周刊 Mirror Media
 
 - 官网：[https://www.mirrormedia.mg/](https://www.mirrormedia.mg/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/mirrormedia-mg](https://ifanqiang.com/sites/mirrormedia-mg)

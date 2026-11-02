@@ -1,0 +1,378 @@
+[
+  {
+    "url": "https://carrd.com/",
+    "status": 200,
+    "finalUrl": "https://carrd.com/",
+    "curlExit": 0,
+    "title": "Carrd - Simple, free, fully responsive one-page sites for pretty much anything",
+    "error": ""
+  },
+  {
+    "url": "https://abcnews.com/",
+    "status": 200,
+    "finalUrl": "https://abcnews.com/",
+    "curlExit": 0,
+    "title": "ABC News - Breaking News, Latest News and Videos",
+    "error": ""
+  },
+  {
+    "url": "https://search.worldcat.org/",
+    "status": 200,
+    "finalUrl": "https://search.worldcat.org/",
+    "curlExit": 0,
+    "title": "WorldCat.org",
+    "error": ""
+  },
+  {
+    "url": "https://incitefulmed.com/academic/",
+    "status": 200,
+    "finalUrl": "https://incitefulmed.com/academic/",
+    "curlExit": 0,
+    "title": "Inciteful Academic | Using Citations to Explore Academic Literature",
+    "error": ""
+  },
+  {
+    "url": "https://docs.cloud.google.com/docs",
+    "status": 200,
+    "finalUrl": "https://docs.cloud.google.com/docs",
+    "curlExit": 0,
+    "title": "Google Cloud Documentation",
+    "error": ""
+  },
+  {
+    "url": "https://elixir.hexdocs.pm/",
+    "status": 200,
+    "finalUrl": "https://elixir.hexdocs.pm/",
+    "curlExit": 0,
+    "title": "Elixir v1.20.5 — Documentation",
+    "error": ""
+  },
+  {
+    "url": "https://docs.pytorch.org/docs/stable/index.html",
+    "status": 200,
+    "finalUrl": "https://docs.pytorch.org/docs/stable/index.html",
+    "curlExit": 0,
+    "title": "Redirecting…",
+    "error": ""
+  },
+  {
+    "url": "https://docs.langchain.com/oss/python/langchain/overview",
+    "status": 200,
+    "finalUrl": "https://docs.langchain.com/oss/python/langchain/overview",
+    "curlExit": 0,
+    "title": "LangChain overview - Docs by LangChain",
+    "error": ""
+  },
+  {
+    "url": "https://developers.llamaindex.ai/python/framework/",
+    "status": 200,
+    "finalUrl": "https://developers.llamaindex.ai/python/framework/",
+    "curlExit": 0,
+    "title": "LlamaIndex Framework, by the makers of LlamaParse | Developer Documentation",
+    "error": ""
+  },
+  {
+    "url": "https://creators.spotify.com/",
+    "status": 200,
+    "finalUrl": "https://creators.spotify.com/",
+    "curlExit": 0,
+    "title": "Tools to manage and grow your podcast - Spotify for Creators",
+    "error": ""
+  },
+  {
+    "url": "https://megaphone.spotify.com/",
+    "status": 200,
+    "finalUrl": "https://megaphone.spotify.com/",
+    "curlExit": 0,
+    "title": "Megaphone by Spotify | Enterprise Podcast Platform & Tools",
+    "error": ""
+  },
+  {
+    "url": "https://nomads.com/",
+    "status": 200,
+    "finalUrl": "https://nomads.com/",
+    "curlExit": 0,
+    "title": "Nomads.com - Best Places to Live for Digital Nomads (formerly Nomad List)",
+    "error": ""
+  },
+  {
+    "url": "https://www.threads.com/",
+    "status": 200,
+    "finalUrl": "https://www.threads.com/login/",
+    "curlExit": 0,
+    "title": "Threads • Log in",
+    "error": ""
+  },
+  {
+    "url": "https://www.hbomax.com/",
+    "status": 403,
+    "finalUrl": "https://www.hbomax.com/",
+    "curlExit": 0,
+    "title": "Access Denied",
+    "error": ""
+  },
+  {
+    "url": "https://www.directv.com/stream/",
+    "status": 0,
+    "finalUrl": "https://www.directv.com/stream/",
+    "curlExit": 28,
+    "title": "",
+    "error": "curl: (28) Operation timed out after 25010 milliseconds with 0 bytes received\n"
+  },
+  {
+    "url": "https://site.financialmodelingprep.com/",
+    "status": 403,
+    "finalUrl": "https://site.financialmodelingprep.com/",
+    "curlExit": 0,
+    "title": "ERROR: The request could not be satisfied",
+    "error": ""
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/observatory",
+    "status": 200,
+    "finalUrl": "https://developer.mozilla.org/en-US/observatory",
+    "curlExit": 0,
+    "title": "HTTP Header Security Test - HTTP Observatory | MDN",
+    "error": ""
+  },
+  {
+    "url": "https://ente.com/auth/",
+    "status": 200,
+    "finalUrl": "https://ente.com/auth/",
+    "curlExit": 0,
+    "title": "Ente Auth - Open source 2FA authenticator, with E2EE backups",
+    "error": ""
+  },
+  {
+    "url": "https://veracrypt.io/en/Home.html",
+    "status": 200,
+    "finalUrl": "https://veracrypt.io/en/Home.html",
+    "curlExit": 0,
+    "title": "VeraCrypt - Free Open source disk encryption with strong security for the Paranoid",
+    "error": ""
+  },
+  {
+    "url": "https://www.rijksmuseum.nl/en/collection",
+    "status": 200,
+    "finalUrl": "https://www.rijksmuseum.nl/en/collection",
+    "curlExit": 0,
+    "title": "Collection - Rijksmuseum",
+    "error": ""
+  },
+  {
+    "url": "https://www.peoplenews.tw/",
+    "status": 200,
+    "finalUrl": "https://www.peoplenews.tw/",
+    "curlExit": 0,
+    "title": "民報",
+    "error": ""
+  },
+  {
+    "url": "https://www.oldversion.com/",
+    "status": 200,
+    "finalUrl": "https://www.oldversion.com/",
+    "curlExit": 0,
+    "title": "Old versions of Windows, Mac and Linux Software, Apps & Abandonware Games - Download at OldVersion.com\n",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg",
+    "curlExit": 0,
+    "title": "芳斯塔芙 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw",
+    "curlExit": 0,
+    "title": "文森說書 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg",
+    "curlExit": 0,
+    "title": "科技狗 3C Dog - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg",
+    "curlExit": 0,
+    "title": "X調查 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw",
+    "curlExit": 0,
+    "title": "李自然说 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA",
+    "curlExit": 0,
+    "title": "cheap - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ",
+    "curlExit": 0,
+    "title": "极客湾Geekerwan - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg",
+    "curlExit": 0,
+    "title": "點 Cook Guide - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w",
+    "curlExit": 0,
+    "title": "笑波子 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg",
+    "curlExit": 0,
+    "title": "JASON(大J) - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
+    "curlExit": 0,
+    "title": "阿神 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A",
+    "curlExit": 0,
+    "title": "米紙 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A",
+    "curlExit": 0,
+    "title": "毛記電視 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw",
+    "curlExit": 0,
+    "title": "范琪斐的美國時間 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g",
+    "curlExit": 0,
+    "title": "蔡阿嘎 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA",
+    "status": 200,
+    "finalUrl": "https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA",
+    "curlExit": 0,
+    "title": "Mediastorm影视飓风 - YouTube",
+    "error": ""
+  },
+  {
+    "url": "https://www.hello-algo.com/",
+    "status": 429,
+    "finalUrl": "https://www.hello-algo.com/",
+    "curlExit": 0,
+    "title": "Vercel Security Checkpoint",
+    "error": ""
+  },
+  {
+    "url": "https://zh.javascript.info/",
+    "status": 200,
+    "finalUrl": "https://zh.javascript.info/",
+    "curlExit": 0,
+    "title": "现代 JavaScript 教程",
+    "error": ""
+  },
+  {
+    "url": "https://marginalia-search.com/",
+    "status": 200,
+    "finalUrl": "https://marginalia-search.com/",
+    "curlExit": 0,
+    "title": "Marginalia Search",
+    "error": ""
+  },
+  {
+    "url": "https://www.canada.ca/en/library-archives.html",
+    "status": 200,
+    "finalUrl": "https://www.canada.ca/en/library-archives.html",
+    "curlExit": 0,
+    "title": "Library and Archives Canada - Canada.ca",
+    "error": ""
+  },
+  {
+    "url": "https://about.readthedocs.com/",
+    "status": 200,
+    "finalUrl": "https://about.readthedocs.com/",
+    "curlExit": 0,
+    "title": "Full featured documentation deployment platform - Read the Docs",
+    "error": ""
+  },
+  {
+    "url": "https://about.gitlab.com/",
+    "status": 200,
+    "finalUrl": "https://about.gitlab.com/",
+    "curlExit": 0,
+    "title": "GitLab - Speed with control for agentic software engineering",
+    "error": ""
+  },
+  {
+    "url": "https://v2.remix.run/docs/",
+    "status": 200,
+    "finalUrl": "https://v2.remix.run/docs/",
+    "curlExit": 0,
+    "title": "Remix Docs Home | Remix",
+    "error": ""
+  },
+  {
+    "url": "https://github.com/FiloSottile/age",
+    "status": 200,
+    "finalUrl": "https://github.com/FiloSottile/age",
+    "curlExit": 0,
+    "title": "GitHub - FiloSottile/age: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. · GitHub",
+    "error": ""
+  },
+  {
+    "url": "https://laravel.com/framework/docs",
+    "status": 200,
+    "finalUrl": "https://laravel.com/framework/docs",
+    "curlExit": 0,
+    "title": "Installation | Laravel 13.x - The clean stack for Artisans and agents",
+    "error": ""
+  }
+]

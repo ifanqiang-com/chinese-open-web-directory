@@ -1,6 +1,6 @@
 # 点 Cook Guide
 
-- YouTube：[https://www.youtube.com/@dimcookguide](https://www.youtube.com/@dimcookguide)
+- YouTube：[https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg](https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/dimcookguide-youtube](https://ifanqiang.com/youtube/dimcookguide-youtube)
 - 分类：香港与东南亚
 - 标签：香港、料理、粤语

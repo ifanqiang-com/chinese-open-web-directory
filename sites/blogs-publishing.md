@@ -1,6 +1,6 @@
 # 博客与出版
 
-共 87 个网站。点击名称可直接访问官网。
+共 85 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,6 @@
 | [Bear Blog](https://bearblog.dev/) | [详情](items/bearblog-dev.md) | 轻量博客托管平台，核心提供极简写作、快速发布和无广告个人博客。 | 博客、极简、写作 | 英文 |
 | [Micro.blog](https://micro.blog/) | [详情](items/micro-blog.md) | 独立微博客和博客平台，提供短文发布、RSS、跨站社交和个人域名。 | 微博客、独立站、RSS | 英文 |
 | [Posthaven](https://posthaven.com/) | [详情](items/posthaven-com.md) | 长期托管博客服务，核心提供稳定发布、邮件投稿和简洁站点管理。 | 博客、长期托管、写作 | 英文 |
-| [Typepad](https://www.typepad.com/) | [详情](items/typepad-com.md) | 老牌托管博客平台，提供个人和专业博客发布、模板和内容管理。 | 博客、托管、CMS | 英文 |
 | [Beehiiv](https://www.beehiiv.com/) | [详情](items/beehiiv-com.md) | Newsletter 发布平台，提供邮件订阅、网站、增长工具和付费内容管理。 | Newsletter、出版、订阅 | 英文 |
 | [Buttondown](https://buttondown.com/) | [详情](items/buttondown-com.md) | 轻量 Newsletter 服务，核心提供邮件发布、订阅者管理、付费订阅和自动化。 | Newsletter、邮件、订阅 | 英文 |
 | [WriteFreely](https://writefreely.org/) | [详情](items/writefreely-org.md) | 开源写作和博客软件，提供极简发布、联邦宇宙互通和自托管能力。 | 写作、开源、自托管 | 英文 |
@@ -37,12 +36,11 @@
 | [Publii](https://getpublii.com/) | [详情](items/getpublii-com.md) | 桌面静态网站发布工具，提供可视化写作、主题、部署和 SEO 设置。核心提供文章发布、作者主页、订阅和内容发现。 | 静态站点、桌面应用、博客 | 英文 |
 | [Blot](https://blot.im/) | [详情](items/blot-im.md) | 基于文件夹同步的极简博客服务，适合用 Markdown、图片和文本快速发布。核心提供文章发布、作者主页、订阅和内容发现。 | 博客、极简、Markdown | 英文 |
 | [Neocities](https://neocities.org/) | [详情](items/neocities-org.md) | 个人网页托管社区，提供静态网页发布、站点发现和复古独立网站空间。核心提供文章发布、作者主页、订阅和内容发现。 | 个人网站、静态托管、社区 | 英文 |
-| [Carrd](https://carrd.co/) | [详情](items/carrd-co.md) | 单页网站构建工具，提供个人主页、作品集、落地页和简单表单功能。核心提供文章发布、作者主页、订阅和内容发现。 | 单页网站、作品集、建站 | 英文 |
+| [Carrd](https://carrd.com/) | [详情](items/carrd-co.md) | 单页网站构建工具，提供个人主页、作品集、落地页和简单表单功能。核心提供文章发布、作者主页、订阅和内容发现。 | 单页网站、作品集、建站 | 英文 |
 | [Webflow](https://webflow.com/) | [详情](items/webflow-com.md) | 可视化网站构建平台，提供设计、CMS、托管、动画和团队协作功能。核心提供文章发布、作者主页、订阅和内容发现。 | 建站、CMS、设计 | 英文 |
 | [Squarespace](https://www.squarespace.com/) | [详情](items/squarespace-com.md) | 网站构建和托管平台，提供模板、博客、电商、作品集和域名服务。核心提供文章发布、作者主页、订阅和内容发现。 | 建站、电商、模板 | 英文 |
 | [Wix](https://www.wix.com/) | [详情](items/wix-com.md) | 可视化建站平台，提供网站模板、博客、电商、预约和营销工具。核心提供文章发布、作者主页、订阅和内容发现。 | 建站、模板、电商 | 多语言 |
 | [Weebly](https://www.weebly.com/) | [详情](items/weebly-com.md) | 拖拽式网站构建平台，提供个人网站、博客、电商和托管功能。核心提供文章发布、作者主页、订阅和内容发现。 | 建站、博客、电商 | 英文 |
-| [Read.cv](https://read.cv/) | [详情](items/read-cv.md) | 面向创作者和从业者的个人主页平台，提供简历、作品集、项目和网络展示。核心提供文章发布、作者主页、订阅和内容发现。 | 个人主页、作品集、简历 | 英文 |
 | [Muck Rack](https://muckrack.com/) | [详情](items/muckrack-com.md) | 记者和媒体资料平台，提供作者主页、报道作品、媒体数据库和公关检索。核心提供文章发布、作者主页、订阅和内容发现。 | 记者、媒体资料、作品 | 英文 |
 | [Journo Portfolio](https://www.journoportfolio.com/) | [详情](items/journoportfolio-com.md) | 记者和写作者作品集工具，提供文章归档、个人网站、简历和联系页面。核心提供文章发布、作者主页、订阅和内容发现。 | 作品集、记者、写作 | 英文 |
 | [Clippings.me](https://www.clippings.me/) | [详情](items/clippings-me.md) | 写作者作品集平台，提供文章链接整理、作者主页、简历和媒体作品展示。核心提供文章发布、作者主页、订阅和内容发现。 | 作品集、写作、作者主页 | 英文 |
@@ -50,7 +48,7 @@
 | [少数派](https://sspai.com/) | [详情](items/sspai-com.md) | 少数派 的出版或博客入口，长期发布 效率、数码、生活 相关的文章、评论和专题内容。 | 效率、数码、生活 | 中文 |
 | [异次元软件世界](https://www.iplaysoft.com/) | [详情](items/iplaysoft-com.md) | 异次元软件世界 的出版或博客入口，长期发布 软件、应用、中文 相关的文章、评论和专题内容。 | 软件、应用、中文 | 中文 |
 | [利器](https://liqi.io/) | [详情](items/liqi-io.md) | 利器 的出版或博客入口，长期发布 效率、访谈、工具 相关的文章、评论和专题内容。 | 效率、访谈、工具 | 中文 |
-| [一言堂](https://yitianshijie.net/) | [详情](items/yitianshijie-net.md) | 一言堂 的出版或博客入口，长期发布 播客、文字、科技 相关的文章、评论和专题内容。 | 播客、文字、科技 | 中文 |
+| [一天世界](https://yitianshijie.net/) | [详情](items/yitianshijie-net.md) | 一言堂 的出版或博客入口，长期发布 播客、文字、科技 相关的文章、评论和专题内容。 | 播客、文字、科技 | 中文 |
 | [机核 GCORES](https://www.gcores.com/) | [详情](items/gcores-com.md) | 机核 GCORES 的出版或博客入口，长期发布 游戏、文化、播客 相关的文章、评论和专题内容。 | 游戏、文化、播客 | 中文 |
 | [Daring Fireball](https://daringfireball.net/) | [详情](items/daringfireball-net.md) | Daring Fireball 的出版或博客入口，长期发布 Apple、科技、评论 相关的文章、评论和专题内容。 | Apple、科技、评论 | 英文 |
 | [Kottke.org](https://kottke.org/) | [详情](items/kottke-org.md) | Kottke.org 的出版或博客入口，长期发布 文化、互联网、博客 相关的文章、评论和专题内容。 | 文化、互联网、博客 | 英文 |

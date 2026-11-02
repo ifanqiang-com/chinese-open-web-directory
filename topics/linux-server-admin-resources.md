@@ -15,9 +15,8 @@
 | [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
 | [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
 | [Merck Manuals](https://www.merckmanuals.com/) | 默沙东医学手册，提供面向公众和专业人士的疾病、症状和治疗说明。 | 百科与开放资料 | 医学、健康、手册 | [爱翻墙](https://ifanqiang.com/sites/merckmanuals-com) |
-| [Library and Archives Canada](https://library-archives.canada.ca/) | 加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 加拿大、档案、图书馆 | [爱翻墙](https://ifanqiang.com/sites/library-archives-canada-ca) |
+| [Library and Archives Canada](https://www.canada.ca/en/library-archives.html) | 加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 加拿大、档案、图书馆 | [爱翻墙](https://ifanqiang.com/sites/library-archives-canada-ca) |
 | [National Archives UK](https://www.nationalarchives.gov.uk/) | 英国国家档案馆，提供政府档案、历史资料、家谱研究和在线目录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 英国、档案、历史 | [爱翻墙](https://ifanqiang.com/sites/nationalarchives-gov-uk) |
-| [U.S. National Archives](https://www.archives.gov/) | 美国国家档案馆入口，提供历史文件、政府档案、总统图书馆和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 美国、档案、政府文件 | [爱翻墙](https://ifanqiang.com/sites/archives-gov) |
 | [Internet Sacred Text Archive](https://sacred-texts.com/) | 宗教和民俗文本资料库，提供经典文本、神话、民间故事和文化资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 宗教、文本、文化 | [爱翻墙](https://ifanqiang.com/sites/sacred-texts-com) |
 | [R Project Manuals](https://cran.r-project.org/manuals.html) | R 官方手册入口，提供语言、数据分析、扩展开发和包管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | R、数据分析、文档 | [爱翻墙](https://ifanqiang.com/sites/cran-r-project-org-manuals-html) |
 | [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) | GNU Bash 手册，提供 Shell 语法、内置命令、变量、扩展和脚本参考。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Bash、Shell、文档 | [爱翻墙](https://ifanqiang.com/sites/gnu-org-software-bash) |
@@ -27,6 +26,7 @@
 | [Storybook Docs](https://storybook.js.org/docs) | Storybook 官方文档，提供 UI 组件开发、文档、测试和设计系统资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 组件、设计系统、文档 | [爱翻墙](https://ifanqiang.com/sites/storybook-js-org-docs) |
 | [Elastic Docs](https://www.elastic.co/guide/) | Elastic 官方指南，提供 Elasticsearch、Kibana、Logstash、安全和搜索资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 搜索、日志、文档 | [爱翻墙](https://ifanqiang.com/sites/elastic-co-guide) |
 | [NATS Docs](https://docs.nats.io/) | NATS 官方文档，提供消息系统、JetStream、服务、集群和客户端资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 消息系统、云原生、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-nats-io) |
+| [GraphQL Docs](https://graphql.org/learn/) | GraphQL 官方学习资料，提供查询语言、Schema、类型系统、执行和最佳实践。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | GraphQL、API、文档 | [爱翻墙](https://ifanqiang.com/sites/graphql-org-learn) |
 
 ## 容器和云原生
 
@@ -64,7 +64,6 @@
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Tor Project](https://www.torproject.org) | Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、匿名、浏览器 | [爱翻墙](https://ifanqiang.com/sites/torproject-org) |
 | [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
@@ -73,11 +72,12 @@
 | [Have I Been Pwned](https://haveibeenpwned.com) | 账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、泄露查询 | [爱翻墙](https://ifanqiang.com/sites/haveibeenpwned-com) |
 | [OWASP](https://owasp.org) | 开放 Web 应用安全项目，提供应用安全标准、指南和项目资源。 | 开发者资源 | 安全、Web、开发 | [爱翻墙](https://ifanqiang.com/sites/owasp-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [CISA](https://www.cisa.gov) | 美国网络安全和基础设施安全局，提供网络安全提醒、指南和工具入口。 | 隐私安全 | 安全、官方、美国 | [爱翻墙](https://ifanqiang.com/sites/cisa-gov) |
-| [NIST Cybersecurity](https://www.nist.gov/cybersecurity-and-privacy) | NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 标准、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/nist-cybersecurity) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [Mailbox.org](https://mailbox.org/en/) | 德国隐私邮箱服务，提供邮箱、日历、联系人、云存储和面向隐私的办公功能。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/mailbox-org-en) |
+| [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
+| [1Password](https://1password.com) | 密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、安全 | [爱翻墙](https://ifanqiang.com/sites/1password-com) |
+| [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
 
 ## 常见问题
 

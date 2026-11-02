@@ -1,13 +1,13 @@
 # Library and Archives Canada
 
-- 官网：[https://library-archives.canada.ca/](https://library-archives.canada.ca/)
+- 官网：[https://www.canada.ca/en/library-archives.html](https://www.canada.ca/en/library-archives.html)
 - 爱翻墙详情：[https://ifanqiang.com/sites/library-archives-canada-ca](https://ifanqiang.com/sites/library-archives-canada-ca)
 - 分类：百科与开放资料
 - 标签：加拿大、档案、图书馆
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://library-archives.canada.ca/](https://library-archives.canada.ca/)
+- 原始链接：[https://www.canada.ca/en/library-archives.html](https://www.canada.ca/en/library-archives.html)
 
 ## 简介
 

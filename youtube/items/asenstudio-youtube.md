@@ -1,6 +1,6 @@
 # 阿神
 
-- YouTube：[https://www.youtube.com/@AsenStudio](https://www.youtube.com/@AsenStudio)
+- YouTube：[https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg](https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/asenstudio-youtube](https://ifanqiang.com/youtube/asenstudio-youtube)
 - 分类：影视娱乐
 - 标签：游戏、实况、娱乐

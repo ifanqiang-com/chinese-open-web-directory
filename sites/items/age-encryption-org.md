@@ -1,13 +1,13 @@
 # age
 
-- 官网：[https://age-encryption.org/](https://age-encryption.org/)
+- 官网：[https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
 - 爱翻墙详情：[https://ifanqiang.com/sites/age-encryption-org](https://ifanqiang.com/sites/age-encryption-org)
 - 分类：隐私安全
 - 标签：文件加密、命令行、开源
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://age-encryption.org/](https://age-encryption.org/)
+- 原始链接：[https://github.com/FiloSottile/age](https://github.com/FiloSottile/age)
 
 ## 简介
 

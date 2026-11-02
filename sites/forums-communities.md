@@ -1,6 +1,6 @@
 # 论坛社区
 
-共 254 个网站。点击名称可直接访问官网。
+共 253 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -147,7 +147,6 @@
 | [Computational Science](https://scicomp.stackexchange.com) | [详情](items/scicomp-stackexchange-com.md) | Computational Science 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Movies & TV](https://movies.stackexchange.com) | [详情](items/movies-stackexchange-com.md) | Movies & TV 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Biology](https://biology.stackexchange.com) | [详情](items/biology-stackexchange-com.md) | Biology 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
-| [Poker](https://poker.stackexchange.com) | [详情](items/poker-stackexchange-com.md) | Poker 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Mathematica](https://mathematica.stackexchange.com) | [详情](items/mathematica-stackexchange-com.md) | Mathematica 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Psychology & Neuroscience](https://psychology.stackexchange.com) | [详情](items/psychology-stackexchange-com.md) | Psychology & Neuroscience 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [The Great Outdoors](https://outdoors.stackexchange.com) | [详情](items/outdoors-stackexchange-com.md) | The Great Outdoors 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
@@ -164,7 +163,7 @@
 | [Ask Patents](https://patents.stackexchange.com) | [详情](items/patents-stackexchange-com.md) | Ask Patents 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Genealogy & Family History](https://genealogy.stackexchange.com) | [详情](items/genealogy-stackexchange-com.md) | Genealogy & Family History 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Robotics](https://robotics.stackexchange.com) | [详情](items/robotics-stackexchange-com.md) | Robotics 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
-| [ExpressionEngine&#174; Answers](https://expressionengine.stackexchange.com) | [详情](items/expressionengine-stackexchange-com.md) | ExpressionEngine&#174; Answers 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
+| [ExpressionEngine® Answers](https://expressionengine.stackexchange.com) | [详情](items/expressionengine-stackexchange-com.md) | ExpressionEngine&#174; Answers 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Anime & Manga](https://anime.stackexchange.com) | [详情](items/anime-stackexchange-com.md) | Anime & Manga 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Magento](https://magento.stackexchange.com) | [详情](items/magento-stackexchange-com.md) | Magento 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [English Language Learners](https://ell.stackexchange.com) | [详情](items/ell-stackexchange-com.md) | English Language Learners 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
@@ -182,7 +181,7 @@
 | [Pets](https://pets.stackexchange.com) | [详情](items/pets-stackexchange-com.md) | Pets 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Amateur Radio](https://ham.stackexchange.com) | [详情](items/ham-stackexchange-com.md) | Amateur Radio 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Italian Language](https://italian.stackexchange.com) | [详情](items/italian-stackexchange-com.md) | Italian Language 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
-| [Stack Overflow em Portugu&#234;s](https://pt.stackoverflow.com) | [详情](items/pt-stackoverflow-com.md) | Stack Overflow em Portugu&#234;s 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
+| [Stack Overflow em Português](https://pt.stackoverflow.com) | [详情](items/pt-stackoverflow-com.md) | Stack Overflow em Portugu&#234;s 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Aviation](https://aviation.stackexchange.com) | [详情](items/aviation-stackexchange-com.md) | Aviation 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Ebooks](https://ebooks.stackexchange.com) | [详情](items/ebooks-stackexchange-com.md) | Ebooks 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Beer, Wine & Spirits](https://alcohol.stackexchange.com) | [详情](items/alcohol-stackexchange-com.md) | Beer, Wine & Spirits 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
@@ -217,7 +216,7 @@
 | [Portuguese Language](https://portuguese.stackexchange.com) | [详情](items/portuguese-stackexchange-com.md) | Portuguese Language 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Computer Graphics](https://computergraphics.stackexchange.com) | [详情](items/computergraphics-stackexchange-com.md) | Computer Graphics 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Hardware Recommendations](https://hardwarerecs.stackexchange.com) | [详情](items/hardwarerecs-stackexchange-com.md) | Hardware Recommendations 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
-| [Stack Overflow en espa&#241;ol](https://es.stackoverflow.com) | [详情](items/es-stackoverflow-com.md) | Stack Overflow en espa&#241;ol 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
+| [Stack Overflow en español](https://es.stackoverflow.com) | [详情](items/es-stackoverflow-com.md) | Stack Overflow en espa&#241;ol 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [3D Printing](https://3dprinting.stackexchange.com) | [详情](items/3dprinting-stackexchange-com.md) | 3D Printing 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Language Learning](https://languagelearning.stackexchange.com) | [详情](items/languagelearning-stackexchange-com.md) | Language Learning 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |
 | [Retrocomputing](https://retrocomputing.stackexchange.com) | [详情](items/retrocomputing-stackexchange-com.md) | Retrocomputing 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。 | 问答、社区、Stack Exchange | 英文 |

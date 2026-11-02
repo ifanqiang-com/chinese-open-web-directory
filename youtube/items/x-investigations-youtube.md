@@ -1,6 +1,6 @@
 # X 调查
 
-- YouTube：[https://www.youtube.com/@XInvestigations](https://www.youtube.com/@XInvestigations)
+- YouTube：[https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg](https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/x-investigations-youtube](https://ifanqiang.com/youtube/x-investigations-youtube)
 - 分类：知识教育
 - 标签：案件、叙事、资料

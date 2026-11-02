@@ -1,6 +1,6 @@
 # 大J
 
-- YouTube：[https://www.youtube.com/@dajj](https://www.youtube.com/@dajj)
+- YouTube：[https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg](https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/dajj-youtube](https://ifanqiang.com/youtube/dajj-youtube)
 - 分类：香港与东南亚
 - 标签：香港、游戏、生活

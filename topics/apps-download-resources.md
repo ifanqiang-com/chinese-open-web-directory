@@ -47,9 +47,9 @@
 | [MacUpdate](https://www.macupdate.com) | macOS 软件目录。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | macOS、软件、下载 | [爱翻墙](https://ifanqiang.com/sites/macupdate-com) |
 | [MacPorts](https://www.macports.org/) | macOS 开源包管理器，提供命令行工具、开发库和开源软件安装。 | 应用与下载 | macOS、包管理、开源 | [爱翻墙](https://ifanqiang.com/sites/macports-org) |
 | [JetBrains](https://www.jetbrains.com/) | 开发工具公司官网，提供 IntelliJ、PyCharm、WebStorm 等 IDE 下载和文档。 | 开发者资源 | IDE、开发工具、软件 | [爱翻墙](https://ifanqiang.com/sites/jetbrains-com) |
-| [GetMacApps](https://getmacapps.com/) | macOS 常用软件批量安装工具，提供勾选应用并生成安装脚本功能。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | macOS、批量安装、软件 | [爱翻墙](https://ifanqiang.com/sites/getmacapps-com) |
 | [Chocolatey Community Packages](https://community.chocolatey.org/packages) | Chocolatey 社区包目录，提供 Windows 软件包、版本、安装命令和维护信息。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | Windows、包管理、软件 | [爱翻墙](https://ifanqiang.com/sites/community-chocolatey-org-packages) |
 | [VLC](https://www.videolan.org/vlc/) | VLC 的应用入口，提供 播放器、开源、多媒体 相关的软件主页、下载或应用发现服务。 | 应用与下载 | 播放器、开源、多媒体 | [爱翻墙](https://ifanqiang.com/sites/videolan-org-vlc) |
+| [GIMP](https://www.gimp.org/) | GIMP 的应用入口，提供 图像、开源、设计 相关的软件主页、下载或应用发现服务。 | 应用与下载 | 图像、开源、设计 | [爱翻墙](https://ifanqiang.com/sites/gimp-org) |
 
 ## 浏览器扩展与效率工具
 
@@ -57,7 +57,6 @@
 
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
-| [Tor Project](https://www.torproject.org) | Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、匿名、浏览器 | [爱翻墙](https://ifanqiang.com/sites/torproject-org) |
 | [Ninite](https://ninite.com) | Windows 常用软件批量安装工具。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | Windows、安装、工具 | [爱翻墙](https://ifanqiang.com/sites/ninite-com) |
 | [DuckDuckGo](https://duckduckgo.com/app) | DuckDuckGo 的隐私浏览器和应用入口。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 搜索、隐私、浏览器 | [爱翻墙](https://ifanqiang.com/sites/duckduckgo-com-app) |
 | [Brave Browser](https://brave.com) | 强调隐私和广告拦截的浏览器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 浏览器、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/brave-com) |
@@ -73,6 +72,7 @@
 | [Cover Your Tracks](https://coveryourtracks.eff.org/) | EFF 的浏览器隐私检测工具，测试追踪保护、浏览器指纹和广告跟踪暴露情况。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 浏览器、指纹、隐私检测 | [爱翻墙](https://ifanqiang.com/sites/coveryourtracks-eff-org) |
 | [LibreWolf](https://librewolf.net/) | Firefox 衍生隐私浏览器，提供默认隐私强化、遥测移除和安全设置。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私安全 | 浏览器、隐私、开源 | [爱翻墙](https://ifanqiang.com/sites/librewolf-net) |
 | [Playwright Docs](https://playwright.dev/docs/intro) | Playwright 官方文档，提供端到端测试、浏览器自动化、断言和调试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、浏览器、文档 | [爱翻墙](https://ifanqiang.com/sites/playwright-dev-docs-intro) |
+| [Regex101](https://regex101.com/) | Regex101 的开发者文档入口，覆盖 正则、调试、工具 等技术栈、工具或标准资料。 | 开发者资源 | 正则、调试、工具 | [爱翻墙](https://ifanqiang.com/sites/regex101-com) |
 
 ## 移动端常用入口
 
@@ -83,7 +83,6 @@
 | [Setapp](https://setapp.com/) | macOS 和 iOS 应用订阅服务，提供精选生产力、开发和创意软件集合。 | 应用与下载 | macOS、订阅、应用 | [爱翻墙](https://ifanqiang.com/sites/setapp-com) |
 | [GNOME Apps](https://apps.gnome.org/) | GNOME 官方应用目录，提供 Linux 桌面应用介绍、安装方式和项目链接。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | Linux、GNOME、应用 | [爱翻墙](https://ifanqiang.com/sites/apps-gnome-org) |
 | [KDE Apps](https://apps.kde.org/) | KDE 官方应用目录，提供 KDE 软件、桌面工具、图形应用和安装信息。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | Linux、KDE、应用 | [爱翻墙](https://ifanqiang.com/sites/apps-kde-org) |
-| [Flathub Apps](https://flathub.org/apps) | Flathub 应用目录，提供 Linux Flatpak 应用、安装说明、截图和版本信息。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 应用与下载 | Linux、Flatpak、应用 | [爱翻墙](https://ifanqiang.com/sites/flathub-org-apps) |
 | [AppBrain](https://www.appbrain.com/) | AppBrain 的应用入口，提供 Android、应用、发现 相关的软件主页、下载或应用发现服务。 | 应用与下载 | Android、应用、发现 | [爱翻墙](https://ifanqiang.com/sites/appbrain-com) |
 
 ## 常见问题

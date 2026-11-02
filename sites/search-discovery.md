@@ -1,6 +1,6 @@
 # 搜索与发现
 
-共 58 个网站。点击名称可直接访问官网。
+共 57 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [Yandex](https://yandex.com) | [详情](items/yandex-com.md) | 俄罗斯搜索和互联网服务入口。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索、门户 | 多语言 |
 | [Mojeek](https://www.mojeek.com) | [详情](items/mojeek-com.md) | 独立搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索、独立 | 英文 |
 | [Kagi](https://kagi.com) | [详情](items/kagi-com.md) | 付费搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索、付费 | 英文 |
-| [Marginalia Search](https://search.marginalia.nu) | [详情](items/search-marginalia-nu.md) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索、小众、网页发现 | 英文 |
+| [Marginalia Search](https://marginalia-search.com/) | [详情](items/search-marginalia-nu.md) | 偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。 | 搜索、小众、网页发现 | 英文 |
 | [Perplexity](https://www.perplexity.ai/) | [详情](items/perplexity-ai.md) | AI 搜索和问答工具，核心提供带来源的网页检索、摘要和追问式资料发现。 | AI、搜索、问答 | 多语言 |
 | [You.com](https://you.com/) | [详情](items/you-com.md) | AI 搜索和聊天入口，提供网页检索、摘要、写作辅助和多模型问答。 | AI、搜索、聊天 | 英文 |
 | [WolframAlpha](https://www.wolframalpha.com/input) | [详情](items/wolframalpha-com-input.md) | 计算知识引擎，核心提供数学、单位、统计、科学和事实型计算查询。 | 计算、知识引擎、数学 | 英文 |
@@ -61,4 +61,3 @@
 | [Land-book](https://land-book.com/) | [详情](items/land-book-com.md) | Land-book 的发现工具入口，可用于 网页设计、灵感、发现 等资源搜索、目录浏览和趋势发现。 | 网页设计、灵感、发现 | 英文 |
 | [Muzli](https://muz.li/) | [详情](items/muz-li.md) | Muzli 的发现工具入口，可用于 设计、灵感、发现 等资源搜索、目录浏览和趋势发现。 | 设计、灵感、发现 | 英文 |
 | [Mobbin](https://mobbin.com/) | [详情](items/mobbin-com.md) | Mobbin 的发现工具入口，可用于 移动设计、灵感、界面 等资源搜索、目录浏览和趋势发现。 | 移动设计、灵感、界面 | 英文 |
-| [精选副业](https://jingxuan-fuye.pages.dev/) | [详情](items/jingxuan-fuye-pages-dev.md) | 面向中文读者的副业和个人项目案例库，可按方向、技能和平台筛选案例，并查看作者自述的成果、投入条件、风险与来源入口。 | 中文、案例研究、独立开发、副业、项目验证 | 中文 |

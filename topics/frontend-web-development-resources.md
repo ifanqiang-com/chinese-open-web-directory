@@ -22,7 +22,7 @@
 | [Astro Docs](https://docs.astro.build/) | Astro 官方文档，提供静态站点、内容集合、集成、岛屿架构和部署资料。 | 开发者资源 | Astro、静态站点、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-astro-build) |
 | [Vite Docs](https://vite.dev/guide/) | Vite 官方指南，提供前端构建、开发服务器、插件和框架集成资料。 | 开发者资源 | Vite、构建工具、文档 | [爱翻墙](https://ifanqiang.com/sites/vite-dev-guide) |
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | 开发者资源 | CSS、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/tailwindcss-com-docs) |
-| [Laravel Docs](https://laravel.com/docs) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | 开发者资源 | Laravel、PHP、文档 | [爱翻墙](https://ifanqiang.com/sites/laravel-com-docs) |
+| [Laravel Docs](https://laravel.com/framework/docs) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | 开发者资源 | Laravel、PHP、文档 | [爱翻墙](https://ifanqiang.com/sites/laravel-com-docs) |
 | [Django Docs](https://docs.djangoproject.com/) | Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。 | 开发者资源 | Django、Python、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-djangoproject-com) |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | 开发者资源 | FastAPI、Python、API | [爱翻墙](https://ifanqiang.com/sites/fastapi-tiangolo-com) |
 | [Express Docs](https://expressjs.com/) | Express 官方文档，提供 Node.js Web 框架、路由、中间件和 API 开发资料。 | 开发者资源 | Express、Node.js、文档 | [爱翻墙](https://ifanqiang.com/sites/expressjs-com) |
@@ -81,13 +81,11 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
-| [Tor Project](https://www.torproject.org) | Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、匿名、浏览器 | [爱翻墙](https://ifanqiang.com/sites/torproject-org) |
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [OWASP](https://owasp.org) | 开放 Web 应用安全项目，提供应用安全标准、指南和项目资源。 | 开发者资源 | 安全、Web、开发 | [爱翻墙](https://ifanqiang.com/sites/owasp-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [NIST Cybersecurity](https://www.nist.gov/cybersecurity-and-privacy) | NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 标准、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/nist-cybersecurity) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
@@ -96,6 +94,8 @@
 | [Kubernetes Docs](https://kubernetes.io/docs) | Kubernetes 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Kubernetes、文档、云原生 | [爱翻墙](https://ifanqiang.com/sites/kubernetes-io-docs) |
 | [React Docs](https://react.dev) | React 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | React、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/react-dev) |
 | [TypeScript Docs](https://www.typescriptlang.org/docs) | TypeScript 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | TypeScript、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/typescriptlang-org-docs) |
+| [DuckDuckGo](https://duckduckgo.com/app) | DuckDuckGo 的隐私浏览器和应用入口。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 搜索、隐私、浏览器 | [爱翻墙](https://ifanqiang.com/sites/duckduckgo-com-app) |
+| [Python Docs](https://docs.python.org) | Python 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/docs-python-org) |
 
 ## 常见问题
 

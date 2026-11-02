@@ -61,18 +61,18 @@
 | [OpenAlex](https://openalex.org) | 开放学术数据目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、数据、开放 | [爱翻墙](https://ifanqiang.com/sites/openalex-org) |
 | [Crossref](https://www.crossref.org) | DOI 和学术出版元数据组织。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | DOI、学术、数据 | [爱翻墙](https://ifanqiang.com/sites/crossref-org) |
 | [Investing.com](https://www.investing.com) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经日历、数据 | [爱翻墙](https://ifanqiang.com/sites/investing-com) |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 公司文件、监管、数据 | [爱翻墙](https://ifanqiang.com/sites/sec-gov-edgar-search) |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市值、公司、数据 | [爱翻墙](https://ifanqiang.com/sites/companiesmarketcap-com) |
 | [Macrotrends](https://www.macrotrends.net) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/macrotrends-net) |
 | [CoinGecko](https://www.coingecko.com/) | 加密资产数据平台，核心提供币价、市值、交易量、分类和链上生态资料。 | 财经与数据 | 加密货币、数据、行情 | [爱翻墙](https://ifanqiang.com/sites/coingecko-com) |
 | [World Bank Data](https://data.worldbank.org/) | 世界银行开放数据平台，提供国家经济、人口、发展、教育和贫困指标。 | 财经与数据 | 开放数据、宏观、世界银行 | [爱翻墙](https://ifanqiang.com/sites/data-worldbank-org) |
 | [IMF Data](https://www.imf.org/en/Data) | 国际货币基金组织数据入口，提供宏观经济、金融、汇率和国家统计资料。 | 财经与数据 | 宏观、IMF、数据 | [爱翻墙](https://ifanqiang.com/sites/imf-org-en-data) |
-| [NBER](https://www.nber.org/) | 美国国家经济研究局，提供经济学工作论文、研究项目和数据资料。 | 学术研究 | 经济学、工作论文、数据 | [爱翻墙](https://ifanqiang.com/sites/nber-org) |
 | [OECD Data Explorer](https://data-explorer.oecd.org/) | OECD 新版数据浏览器，提供成员国经济、教育、就业、环境和社会指标查询。 | 财经与数据 | OECD、宏观、数据 | [爱翻墙](https://ifanqiang.com/sites/data-explorer-oecd-org) |
 | [BIS](https://www.bis.org/) | 国际清算银行官网，提供央行研究、金融稳定、银行监管和统计数据。 | 财经与数据 | 央行、金融稳定、数据 | [爱翻墙](https://ifanqiang.com/sites/bis-org) |
-| [Federal Reserve](https://www.federalreserve.gov/) | 美国联邦储备系统官网，提供货币政策、利率、监管、研究和经济数据入口。 | 财经与数据 | 美联储、货币政策、数据 | [爱翻墙](https://ifanqiang.com/sites/federalreserve-gov) |
-| [BEA](https://www.bea.gov/) | 美国经济分析局官网，提供 GDP、收入、贸易和地区经济统计数据。 | 财经与数据 | GDP、宏观、美国数据 | [爱翻墙](https://ifanqiang.com/sites/bea-gov) |
 | [Eurostat](https://ec.europa.eu/eurostat) | 欧盟统计局入口，提供欧洲人口、经济、社会、贸易和环境统计数据。 | 财经与数据 | 欧盟、统计、数据 | [爱翻墙](https://ifanqiang.com/sites/ec-europa-eu-eurostat) |
+| [Alpha Vantage](https://www.alphavantage.co/) | 金融市场数据 API，提供股票、外汇、加密资产、技术指标和基础数据接口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融API、行情、数据 | [爱翻墙](https://ifanqiang.com/sites/alphavantage-co) |
+| [Finnhub](https://finnhub.io/) | 金融数据 API 平台，提供股票、新闻、财报、经济指标和实时行情接口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融API、股票、数据 | [爱翻墙](https://ifanqiang.com/sites/finnhub-io) |
+| [DataCite](https://datacite.org/) | 科研数据 DOI 注册组织，提供数据引用、元数据、API 和研究对象标识资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | DOI、数据、引用 | [爱翻墙](https://ifanqiang.com/sites/datacite-org) |
+| [Project Euclid](https://projecteuclid.org/) | 数学和统计学出版平台，提供期刊论文、会议论文和开放获取内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 数学、统计、期刊 | [爱翻墙](https://ifanqiang.com/sites/projecteuclid-org) |
 
 ## 数据分析与可视化工具
 
@@ -83,7 +83,6 @@
 | [TradingView](https://www.tradingview.com) | 图表、市场数据和交易观点社区。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 图表、市场、交易 | [爱翻墙](https://ifanqiang.com/sites/tradingview-com) |
 | [FRED](https://fred.stlouisfed.org) | 美国圣路易斯联储经济数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、经济 | [爱翻墙](https://ifanqiang.com/sites/fred-stlouisfed-org) |
 | [Investing.com](https://www.investing.com) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经日历、数据 | [爱翻墙](https://ifanqiang.com/sites/investing-com) |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 公司文件、监管、数据 | [爱翻墙](https://ifanqiang.com/sites/sec-gov-edgar-search) |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市值、公司、数据 | [爱翻墙](https://ifanqiang.com/sites/companiesmarketcap-com) |
 | [Macrotrends](https://www.macrotrends.net) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/macrotrends-net) |
 | [Koyfin](https://www.koyfin.com) | 金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融数据、图表、投资 | [爱翻墙](https://ifanqiang.com/sites/koyfin-com) |
@@ -92,10 +91,11 @@
 | [IMF Data](https://www.imf.org/en/Data) | 国际货币基金组织数据入口，提供宏观经济、金融、汇率和国家统计资料。 | 财经与数据 | 宏观、IMF、数据 | [爱翻墙](https://ifanqiang.com/sites/imf-org-en-data) |
 | [OECD Data Explorer](https://data-explorer.oecd.org/) | OECD 新版数据浏览器，提供成员国经济、教育、就业、环境和社会指标查询。 | 财经与数据 | OECD、宏观、数据 | [爱翻墙](https://ifanqiang.com/sites/data-explorer-oecd-org) |
 | [BIS](https://www.bis.org/) | 国际清算银行官网，提供央行研究、金融稳定、银行监管和统计数据。 | 财经与数据 | 央行、金融稳定、数据 | [爱翻墙](https://ifanqiang.com/sites/bis-org) |
-| [Federal Reserve](https://www.federalreserve.gov/) | 美国联邦储备系统官网，提供货币政策、利率、监管、研究和经济数据入口。 | 财经与数据 | 美联储、货币政策、数据 | [爱翻墙](https://ifanqiang.com/sites/federalreserve-gov) |
 | [Wappalyzer](https://www.wappalyzer.com/) | 网站技术识别工具，提供框架、CMS、分析工具、服务器和公司技术画像。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 技术识别、网站分析、工具 | [爱翻墙](https://ifanqiang.com/sites/wappalyzer-com) |
 | [Eurostat](https://ec.europa.eu/eurostat) | 欧盟统计局入口，提供欧洲人口、经济、社会、贸易和环境统计数据。 | 财经与数据 | 欧盟、统计、数据 | [爱翻墙](https://ifanqiang.com/sites/ec-europa-eu-eurostat) |
 | [Google Trends](https://trends.google.com/trends/) | Google 趋势工具，提供关键词热度、地区分布、相关查询和时间序列数据。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索与发现 | 趋势、关键词、数据 | [爱翻墙](https://ifanqiang.com/sites/trends-google-com-trends) |
+| [Stooq](https://stooq.com/) | 金融市场数据网站，提供股票、指数、外汇、商品和历史行情图表。 | 财经与数据 | 行情、股票、图表 | [爱翻墙](https://ifanqiang.com/sites/stooq-com) |
+| [Alpha Vantage](https://www.alphavantage.co/) | 金融市场数据 API，提供股票、外汇、加密资产、技术指标和基础数据接口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融API、行情、数据 | [爱翻墙](https://ifanqiang.com/sites/alphavantage-co) |
 
 ## 常见问题
 

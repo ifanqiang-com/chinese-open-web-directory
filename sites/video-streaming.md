@@ -1,6 +1,6 @@
 # 视频与流媒体
 
-共 78 个网站。点击名称可直接访问官网。
+共 77 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -15,7 +15,7 @@
 | [Disney+](https://www.disneyplus.com) | [详情](items/disneyplus-com.md) | Disney 旗下流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 流媒体、影视 | 多语言 |
 | [Prime Video](https://www.primevideo.com) | [详情](items/primevideo-com.md) | Amazon 旗下流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 流媒体、影视 | 多语言 |
 | [Hulu](https://www.hulu.com) | [详情](items/hulu-com.md) | 美国流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 流媒体、影视 | 英文 |
-| [Max](https://www.max.com) | [详情](items/max-com.md) | Warner Bros. Discovery 旗下流媒体服务。 | 流媒体、影视 | 多语言 |
+| [HBO Max](https://www.hbomax.com/) | [详情](items/max-com.md) | HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。 | 影视、流媒体、HBO | 多语言 |
 | [Nebula](https://nebula.tv) | [详情](items/nebula-tv.md) | 创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频、创作者、教育 | 英文 |
 | [Curiosity Stream](https://curiositystream.com) | [详情](items/curiositystream-com.md) | 纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 纪录片、知识、视频 | 英文 |
 | [Kick](https://kick.com) | [详情](items/kick-com.md) | 直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 直播、视频 | 多语言 |
@@ -59,13 +59,12 @@
 | [Harvard Online](https://www.harvardonline.harvard.edu/) | [详情](items/harvardonline-harvard-edu.md) | 哈佛在线学习入口，提供开放课程、职业项目、证书和专题学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 哈佛、课程、证书 | 英文 |
 | [Open Yale Courses](https://oyc.yale.edu/) | [详情](items/oyc-yale-edu.md) | 耶鲁开放课程项目，提供课程视频、讲义、阅读材料和课堂录音。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 耶鲁、开放课程、教育 | 英文 |
 | [Class Central](https://www.classcentral.com/) | [详情](items/classcentral-com.md) | 在线课程搜索平台，聚合 MOOC、大学课程、证书和免费学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 课程搜索、MOOC、学习 | 英文 |
-| [Nebula Classes](https://classes.nebula.tv/) | [详情](items/classes-nebula-tv.md) | Nebula Classes 的视频入口，提供 课程、创作者、视频 相关的观看、订阅或内容发现服务。 | 课程、创作者、视频 | 英文 |
 | [Curiosity University](https://curiosityu.com/) | [详情](items/curiosityu-com.md) | Curiosity University 的视频入口，提供 课程、知识、视频 相关的观看、订阅或内容发现服务。 | 课程、知识、视频 | 英文 |
 | [Fandango at Home](https://athome.fandango.com/) | [详情](items/athome-fandango-com.md) | Fandango at Home 的视频入口，提供 电影、租赁、流媒体 相关的观看、订阅或内容发现服务。 | 电影、租赁、流媒体 | 英文 |
 | [Sling TV](https://www.sling.com/) | [详情](items/sling-com.md) | Sling TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [Fubo](https://www.fubo.tv/) | [详情](items/fubo-tv.md) | Fubo 的视频入口，提供 体育、直播电视、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播电视、流媒体 | 英文 |
 | [Philo](https://www.philo.com/) | [详情](items/philo-com.md) | Philo 的视频入口，提供 直播电视、娱乐、美国 相关的观看、订阅或内容发现服务。 | 直播电视、娱乐、美国 | 英文 |
-| [DIRECTV Stream](https://streamtv.directv.com/) | [详情](items/streamtv-directv-com.md) | DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
+| [DIRECTV Stream](https://www.directv.com/stream/) | [详情](items/streamtv-directv-com.md) | DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [YouTube TV](https://tv.youtube.com/) | [详情](items/tv-youtube-com.md) | YouTube TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [Plex TV](https://watch.plex.tv/) | [详情](items/watch-plex-tv.md) | Plex TV 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
 | [The Roku Channel](https://therokuchannel.roku.com/) | [详情](items/therokuchannel-roku-com.md) | The Roku Channel 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
