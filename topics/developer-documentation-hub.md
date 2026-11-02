@@ -15,7 +15,7 @@
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
@@ -45,7 +45,7 @@
 | [Astro Docs](https://docs.astro.build/) | Astro 官方文档，提供静态站点、内容集合、集成、岛屿架构和部署资料。 | 开发者资源 | Astro、静态站点、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-astro-build) |
 | [Vite Docs](https://vite.dev/guide/) | Vite 官方指南，提供前端构建、开发服务器、插件和框架集成资料。 | 开发者资源 | Vite、构建工具、文档 | [爱翻墙](https://ifanqiang.com/sites/vite-dev-guide) |
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | 开发者资源 | CSS、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/tailwindcss-com-docs) |
-| [Laravel Docs](https://laravel.com/docs) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | 开发者资源 | Laravel、PHP、文档 | [爱翻墙](https://ifanqiang.com/sites/laravel-com-docs) |
+| [Laravel Docs](https://laravel.com/framework/docs) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | 开发者资源 | Laravel、PHP、文档 | [爱翻墙](https://ifanqiang.com/sites/laravel-com-docs) |
 | [Django Docs](https://docs.djangoproject.com/) | Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。 | 开发者资源 | Django、Python、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-djangoproject-com) |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | 开发者资源 | FastAPI、Python、API | [爱翻墙](https://ifanqiang.com/sites/fastapi-tiangolo-com) |
 | [Express Docs](https://expressjs.com/) | Express 官方文档，提供 Node.js Web 框架、路由、中间件和 API 开发资料。 | 开发者资源 | Express、Node.js、文档 | [爱翻墙](https://ifanqiang.com/sites/expressjs-com) |
@@ -61,7 +61,7 @@
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |

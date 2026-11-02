@@ -72,7 +72,7 @@
 | [Hashnode](https://hashnode.com/) | 开发者写作平台，提供技术博客托管、个人域名、Newsletter 和社区分发。 | 博客与出版 | 开发者、博客、写作 | [爱翻墙](https://ifanqiang.com/sites/hashnode-com) |
 | [Bear Blog](https://bearblog.dev/) | 轻量博客托管平台，核心提供极简写作、快速发布和无广告个人博客。 | 博客与出版 | 博客、极简、写作 | [爱翻墙](https://ifanqiang.com/sites/bearblog-dev) |
 | [Posthaven](https://posthaven.com/) | 长期托管博客服务，核心提供稳定发布、邮件投稿和简洁站点管理。 | 博客与出版 | 博客、长期托管、写作 | [爱翻墙](https://ifanqiang.com/sites/posthaven-com) |
-| [Typepad](https://www.typepad.com/) | 老牌托管博客平台，提供个人和专业博客发布、模板和内容管理。 | 博客与出版 | 博客、托管、CMS | [爱翻墙](https://ifanqiang.com/sites/typepad-com) |
+| [Beehiiv](https://www.beehiiv.com/) | Newsletter 发布平台，提供邮件订阅、网站、增长工具和付费内容管理。 | 博客与出版 | Newsletter、出版、订阅 | [爱翻墙](https://ifanqiang.com/sites/beehiiv-com) |
 
 ## 社交讨论入口
 
@@ -83,7 +83,7 @@
 | [X](https://x.com) | 实时社交平台，原 Twitter。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、短消息、实时 | [爱翻墙](https://ifanqiang.com/sites/x-com) |
 | [Facebook](https://www.facebook.com) | 社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、社区、主页 | [爱翻墙](https://ifanqiang.com/sites/facebook-com) |
 | [Instagram](https://www.instagram.com) | 图片、短视频和社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、图片、短视频 | [爱翻墙](https://ifanqiang.com/sites/instagram-com) |
-| [Threads](https://www.threads.net) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
+| [Threads](https://www.threads.com/) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、文本 | [爱翻墙](https://ifanqiang.com/sites/threads-net) |
 | [Bluesky](https://bsky.app) | 去中心化社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、去中心化 | [爱翻墙](https://ifanqiang.com/sites/bsky-app) |
 | [Mastodon](https://joinmastodon.org) | 去中心化社交网络项目。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 社交、联邦宇宙、开源 | [爱翻墙](https://ifanqiang.com/sites/joinmastodon-org) |
 | [WhatsApp](https://www.whatsapp.com) | 即时通讯平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交平台 | 通讯、社交 | [爱翻墙](https://ifanqiang.com/sites/whatsapp-com) |

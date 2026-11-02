@@ -1,11 +1,11 @@
 # 开发者资源
 
-共 143 个网站。点击名称可直接访问官网。
+共 144 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com) | [详情](items/github-com.md) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 代码、开发、Git | 多语言 |
-| [GitLab](https://gitlab.com) | [详情](items/gitlab-com.md) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 代码、DevOps、Git | 多语言 |
+| [GitLab](https://about.gitlab.com/) | [详情](items/gitlab-com.md) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 代码、DevOps、Git | 多语言 |
 | [Bitbucket](https://bitbucket.org) | [详情](items/bitbucket-org.md) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 代码、Git、团队 | 英文 |
 | [Stack Overflow](https://stackoverflow.com) | [详情](items/stackoverflow-com.md) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发、问答、编程 | 英文 |
 | [MDN Web Docs](https://developer.mozilla.org) | [详情](items/developer-mozilla-org.md) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | Web、文档、前端 | 多语言 |
@@ -33,7 +33,7 @@
 | [Cloudflare Docs](https://developers.cloudflare.com/) | [详情](items/developers-cloudflare-com.md) | Cloudflare 开发者文档，提供 DNS、Workers、Pages、安全和边缘网络产品资料。 | Cloudflare、边缘计算、文档 | 英文 |
 | [AWS Docs](https://docs.aws.amazon.com/) | [详情](items/docs-aws-amazon-com.md) | AWS 官方文档入口，提供云服务 API、架构指南、CLI 和产品配置资料。 | AWS、云服务、文档 | 英文 |
 | [Azure Docs](https://learn.microsoft.com/en-us/azure/) | [详情](items/learn-microsoft-com-en-us-azure.md) | Microsoft Azure 文档入口，提供云服务、身份、数据库、AI 和部署指南。 | Azure、云服务、文档 | 英文 |
-| [Google Cloud Docs](https://cloud.google.com/docs) | [详情](items/cloud-google-com-docs.md) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | Google Cloud、云服务、文档 | 英文 |
+| [Google Cloud Docs](https://docs.cloud.google.com/docs) | [详情](items/cloud-google-com-docs.md) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | Google Cloud、云服务、文档 | 英文 |
 | [Terraform Docs](https://developer.hashicorp.com/terraform/docs) | [详情](items/developer-hashicorp-com-terraform-docs.md) | Terraform 官方文档，提供基础设施即代码、Provider、模块和状态管理资料。 | IaC、Terraform、文档 | 英文 |
 | [Ansible Docs](https://docs.ansible.com/) | [详情](items/docs-ansible-com.md) | Ansible 官方文档，提供自动化配置、Playbook、模块和运维实践资料。 | 自动化、运维、文档 | 英文 |
 | [NGINX Docs](https://nginx.org/en/docs/) | [详情](items/nginx-org-en-docs.md) | NGINX 官方文档，提供 Web 服务器、反向代理、负载均衡和配置指令资料。 | 服务器、反向代理、文档 | 英文 |
@@ -52,7 +52,7 @@
 | [Deno Docs](https://docs.deno.com/) | [详情](items/docs-deno-com.md) | Deno 官方文档，提供 JavaScript/TypeScript 运行时、工具链、部署和 API 资料。 | Deno、TypeScript、文档 | 英文 |
 | [Bun Docs](https://bun.sh/docs) | [详情](items/bun-sh-docs.md) | Bun 官方文档，提供 JavaScript 运行时、包管理器、测试器和构建工具资料。 | Bun、JavaScript、文档 | 英文 |
 | [PHP Docs](https://www.php.net/docs.php) | [详情](items/php-net-docs-php.md) | PHP 官方文档，提供语言语法、标准库、扩展、函数参考和版本资料。 | PHP、语言文档、后端 | 多语言 |
-| [Laravel Docs](https://laravel.com/docs) | [详情](items/laravel-com-docs.md) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | Laravel、PHP、文档 | 英文 |
+| [Laravel Docs](https://laravel.com/framework/docs) | [详情](items/laravel-com-docs.md) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | Laravel、PHP、文档 | 英文 |
 | [Django Docs](https://docs.djangoproject.com/) | [详情](items/docs-djangoproject-com.md) | Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。 | Django、Python、文档 | 英文 |
 | [Rails Guides](https://guides.rubyonrails.org/) | [详情](items/guides-rubyonrails-org.md) | Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。 | Rails、Ruby、文档 | 英文 |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | [详情](items/fastapi-tiangolo-com.md) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | FastAPI、Python、API | 英文 |
@@ -64,7 +64,7 @@
 | [Swift Docs](https://www.swift.org/documentation/) | [详情](items/swift-org-documentation.md) | Swift 官方文档，提供语言指南、标准库、包管理和服务器端 Swift 资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Swift、语言文档、Apple | 英文 |
 | [.NET Docs](https://learn.microsoft.com/en-us/dotnet/) | [详情](items/learn-microsoft-com-en-us-dotnet.md) | Microsoft .NET 文档，提供 C#、运行时、ASP.NET、桌面和云开发资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | .NET、C#、文档 | 英文 |
 | [Scala Docs](https://docs.scala-lang.org/) | [详情](items/docs-scala-lang-org.md) | Scala 官方文档，提供语言教程、集合库、工具链、Scala 3 和生态资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Scala、语言文档、JVM | 英文 |
-| [Elixir Docs](https://hexdocs.pm/elixir/) | [详情](items/hexdocs-pm-elixir.md) | Elixir 官方 API 文档，提供语言模块、标准库、Mix、OTP 和示例资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Elixir、语言文档、函数式 | 英文 |
+| [Elixir Docs](https://elixir.hexdocs.pm/) | [详情](items/hexdocs-pm-elixir.md) | Elixir 官方 API 文档，提供语言模块、标准库、Mix、OTP 和示例资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Elixir、语言文档、函数式 | 英文 |
 | [Erlang Docs](https://www.erlang.org/docs) | [详情](items/erlang-org-docs.md) | Erlang 官方文档，提供语言、OTP、标准库、工具和并发编程资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Erlang、OTP、文档 | 英文 |
 | [Haskell Docs](https://www.haskell.org/documentation/) | [详情](items/haskell-org-documentation.md) | Haskell 文档入口，提供语言教程、工具链、库、包管理和学习资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Haskell、函数式、文档 | 英文 |
 | [OCaml Docs](https://ocaml.org/docs) | [详情](items/ocaml-org-docs.md) | OCaml 官方文档，提供语言指南、包管理、工具链和函数式编程资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | OCaml、函数式、文档 | 英文 |
@@ -101,7 +101,7 @@
 | [Micronaut Docs](https://docs.micronaut.io/) | [详情](items/docs-micronaut-io.md) | Micronaut 官方文档，提供 JVM 微服务、依赖注入、云原生和测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Java、微服务、文档 | 英文 |
 | [NestJS Docs](https://docs.nestjs.com/) | [详情](items/docs-nestjs-com.md) | NestJS 官方文档，提供 Node.js 服务端框架、模块、依赖注入和 API 开发资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Node.js、后端、文档 | 英文 |
 | [Hono Docs](https://hono.dev/docs/) | [详情](items/hono-dev-docs.md) | Hono 官方文档，提供轻量 Web 框架、边缘运行时、路由和中间件资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Web框架、边缘计算、文档 | 英文 |
-| [Remix Docs](https://remix.run/docs/en/main) | [详情](items/remix-run-docs-en.md) | Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | React、全栈、文档 | 英文 |
+| [Remix Docs](https://v2.remix.run/docs/) | [详情](items/remix-run-docs-en.md) | Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | React、全栈、文档 | 英文 |
 | [Nuxt Docs](https://nuxt.com/docs) | [详情](items/nuxt-com-docs.md) | Nuxt 官方文档，提供 Vue 全栈框架、路由、渲染、模块和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Vue、全栈、文档 | 英文 |
 | [SolidJS Docs](https://docs.solidjs.com/) | [详情](items/docs-solidjs-com.md) | SolidJS 官方文档，提供响应式 UI 框架、组件、路由和应用构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 前端、SolidJS、文档 | 英文 |
 | [Preact Docs](https://preactjs.com/guide/v10/getting-started) | [详情](items/preactjs-com-guide-v10.md) | Preact 官方文档，提供轻量 React 替代方案、组件、Hooks 和兼容资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 前端、Preact、文档 | 英文 |
@@ -131,19 +131,20 @@
 | [Apollo GraphQL Docs](https://www.apollographql.com/docs/) | [详情](items/apollographql-com-docs.md) | Apollo 官方文档，提供 GraphQL 客户端、服务器、路由器和 Schema 管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | GraphQL、API、文档 | 英文 |
 | [Postman Docs](https://learning.postman.com/docs/) | [详情](items/learning-postman-com-docs.md) | Postman 官方文档，提供 API 调试、集合、Mock、测试、协作和自动化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | API、测试、文档 | 英文 |
 | [CNCF](https://www.cncf.io/) | [详情](items/cncf-io.md) | 云原生计算基金会官网，提供 Kubernetes、云原生项目、技术景观、白皮书、活动和社区资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 云原生、Kubernetes、基金会 | 英文 |
-| [cppreference](https://en.cppreference.com/w/) | [详情](items/en-cppreference-com-w.md) | cppreference 的开发者文档入口，覆盖 C++、参考、文档 等技术栈、工具或标准资料。 | C++、参考、文档 | 英文 |
 | [DevDocs](https://devdocs.io/) | [详情](items/devdocs-io.md) | DevDocs 的开发者文档入口，覆盖 API、文档、搜索 等技术栈、工具或标准资料。 | API、文档、搜索 | 英文 |
 | [Regex101](https://regex101.com/) | [详情](items/regex101-com.md) | Regex101 的开发者文档入口，覆盖 正则、调试、工具 等技术栈、工具或标准资料。 | 正则、调试、工具 | 英文 |
-| [Read the Docs](https://readthedocs.org/) | [详情](items/readthedocs-org.md) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 文档托管、开源、开发 | 英文 |
+| [Read the Docs](https://about.readthedocs.com/) | [详情](items/readthedocs-org.md) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 文档托管、开源、开发 | 英文 |
 | [Pandas Docs](https://pandas.pydata.org/docs/) | [详情](items/pandas-pydata-org-docs.md) | Pandas Docs 的开发者文档入口，覆盖 Python、数据、文档 等技术栈、工具或标准资料。 | Python、数据、文档 | 英文 |
 | [NumPy Docs](https://numpy.org/doc/) | [详情](items/numpy-org-doc.md) | NumPy Docs 的开发者文档入口，覆盖 Python、科学计算、文档 等技术栈、工具或标准资料。 | Python、科学计算、文档 | 英文 |
 | [SciPy Docs](https://docs.scipy.org/doc/scipy/) | [详情](items/docs-scipy-org-doc-scipy.md) | SciPy Docs 的开发者文档入口，覆盖 Python、科学计算、文档 等技术栈、工具或标准资料。 | Python、科学计算、文档 | 英文 |
 | [Matplotlib Docs](https://matplotlib.org/stable/) | [详情](items/matplotlib-org-stable.md) | Matplotlib Docs 的开发者文档入口，覆盖 Python、图表、文档 等技术栈、工具或标准资料。 | Python、图表、文档 | 英文 |
 | [Jupyter Docs](https://docs.jupyter.org/) | [详情](items/docs-jupyter-org.md) | Jupyter Docs 的开发者文档入口，覆盖 Python、笔记本、文档 等技术栈、工具或标准资料。 | Python、笔记本、文档 | 英文 |
 | [TensorFlow Docs](https://www.tensorflow.org/learn) | [详情](items/tensorflow-org-learn.md) | TensorFlow Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 机器学习、文档、开发 | 英文 |
-| [PyTorch Docs](https://pytorch.org/docs/stable/index.html) | [详情](items/pytorch-org-docs-stable-index-html.md) | PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 机器学习、文档、开发 | 英文 |
+| [PyTorch Docs](https://docs.pytorch.org/docs/stable/index.html) | [详情](items/pytorch-org-docs-stable-index-html.md) | PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 机器学习、文档、开发 | 英文 |
 | [Hugging Face Docs](https://huggingface.co/docs) | [详情](items/huggingface-co-docs.md) | Hugging Face Docs 的开发者文档入口，覆盖 AI、模型、文档 等技术栈、工具或标准资料。 | AI、模型、文档 | 英文 |
-| [LangChain Docs](https://python.langchain.com/docs/) | [详情](items/python-langchain-com-docs.md) | LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
-| [LlamaIndex Docs](https://docs.llamaindex.ai/) | [详情](items/docs-llamaindex-ai.md) | LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
+| [LangChain Docs](https://docs.langchain.com/oss/python/langchain/overview) | [详情](items/python-langchain-com-docs.md) | LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
+| [LlamaIndex Docs](https://developers.llamaindex.ai/python/framework/) | [详情](items/docs-llamaindex-ai.md) | LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
 | [ArchWiki](https://wiki.archlinux.org/) | [详情](items/wiki-archlinux-org.md) | ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。 | Linux、文档、社区 | 英文 |
+| [Hello 算法](https://www.hello-algo.com/) | [详情](items/hello-algo-com.md) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 算法、数据结构、中文、开源 | 中文 |
+| [现代 JavaScript 教程](https://zh.javascript.info/) | [详情](items/zh-javascript-info.md) | 现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。 | JavaScript、中文、教程、前端 | 中文 |
 | [Agent QA](https://vostride.com/) | [详情](items/vostride-com.md) | 面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。 | AI、软件测试、自动化、MCP、开发者工具 | 英文 |

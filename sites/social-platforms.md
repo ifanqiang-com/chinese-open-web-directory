@@ -1,13 +1,13 @@
 # 社交平台
 
-共 51 个网站。点击名称可直接访问官网。
+共 50 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
 | [X](https://x.com) | [详情](items/x-com.md) | 实时社交平台，原 Twitter。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、短消息、实时 | 多语言 |
 | [Facebook](https://www.facebook.com) | [详情](items/facebook-com.md) | 社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、社区、主页 | 多语言 |
 | [Instagram](https://www.instagram.com) | [详情](items/instagram-com.md) | 图片、短视频和社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、图片、短视频 | 多语言 |
-| [Threads](https://www.threads.net) | [详情](items/threads-net.md) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、文本 | 多语言 |
+| [Threads](https://www.threads.com/) | [详情](items/threads-net.md) | Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、文本 | 多语言 |
 | [Bluesky](https://bsky.app) | [详情](items/bsky-app.md) | 去中心化社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、去中心化 | 多语言 |
 | [Mastodon](https://joinmastodon.org) | [详情](items/joinmastodon-org.md) | 去中心化社交网络项目。核心提供账号、关注、私信或公开发布等社交连接功能。 | 社交、联邦宇宙、开源 | 多语言 |
 | [Telegram](https://telegram.org) | [详情](items/telegram-org.md) | 即时通讯、频道和群组平台。核心提供账号、关注、私信或公开发布等社交连接功能。 | 通讯、频道、群组 | 多语言 |
@@ -48,7 +48,6 @@
 | [Nostr](https://nostr.com/) | [详情](items/nostr-com.md) | Nostr 的社交平台入口，面向 去中心化、社交、协议 等场景提供公开主页和社区服务。 | 去中心化、社交、协议 | 英文 |
 | [Damus](https://damus.io/) | [详情](items/damus-io.md) | Damus 的社交平台入口，面向 Nostr、社交、应用 等场景提供公开主页和社区服务。 | Nostr、社交、应用 | 英文 |
 | [Farcaster](https://www.farcaster.xyz/) | [详情](items/farcaster-xyz.md) | Farcaster 的社交平台入口，面向 社交协议、社区、Web3 等场景提供公开主页和社区服务。 | 社交协议、社区、Web3 | 英文 |
-| [Warpcast](https://warpcast.com/) | [详情](items/warpcast-com.md) | Warpcast 的社交平台入口，面向 Farcaster、社交、社区 等场景提供公开主页和社区服务。 | Farcaster、社交、社区 | 英文 |
 | [Lens Protocol](https://www.lens.xyz/) | [详情](items/lens-xyz.md) | Lens Protocol 的社交平台入口，面向 社交协议、创作者、Web3 等场景提供公开主页和社区服务。 | 社交协议、创作者、Web3 | 英文 |
 | [Minds](https://www.minds.com/) | [详情](items/minds-com.md) | Minds 的社交平台入口，面向 社交、创作者、社区 等场景提供公开主页和社区服务。 | 社交、创作者、社区 | 英文 |
 | [VK](https://vk.com/) | [详情](items/vk-com.md) | VK 的社交平台入口，面向 社交、欧洲、社区 等场景提供公开主页和社区服务。 | 社交、欧洲、社区 | 多语言 |

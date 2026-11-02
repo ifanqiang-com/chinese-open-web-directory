@@ -22,7 +22,7 @@
 | [Disney+](https://www.disneyplus.com) | Disney 旗下流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/disneyplus-com) |
 | [Prime Video](https://www.primevideo.com) | Amazon 旗下流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/primevideo-com) |
 | [Hulu](https://www.hulu.com) | 美国流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/hulu-com) |
-| [Max](https://www.max.com) | Warner Bros. Discovery 旗下流媒体服务。 | 视频与流媒体 | 流媒体、影视 | [爱翻墙](https://ifanqiang.com/sites/max-com) |
+| [HBO Max](https://www.hbomax.com/) | HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。 | 视频与流媒体 | 影视、流媒体、HBO | [爱翻墙](https://ifanqiang.com/sites/max-com) |
 | [Nebula](https://nebula.tv) | 创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 视频、创作者、教育 | [爱翻墙](https://ifanqiang.com/sites/nebula-tv) |
 | [Curiosity Stream](https://curiositystream.com) | 纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 纪录片、知识、视频 | [爱翻墙](https://ifanqiang.com/sites/curiositystream-com) |
 | [Kick](https://kick.com) | 直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 直播、视频 | [爱翻墙](https://ifanqiang.com/sites/kick-com) |
@@ -82,7 +82,7 @@
 | --- | --- | --- | --- | --- |
 | [BBC News 中文](https://www.youtube.com/@BBCNewsChinese) | BBC 中文视频入口，提供国际新闻、解释型短片、人物报道和重大事件背景内容。 | 新闻与公共议题 | 新闻、解释、国际 | [爱翻墙](https://ifanqiang.com/youtube/bbc-news-chinese-youtube) |
 | [DW 中文](https://www.youtube.com/@dwchinese) | 德国之声中文频道，提供欧洲视角的国际新闻、专题报道、现场连线和深度访谈。 | 新闻与公共议题 | 新闻、欧洲、专题 | [爱翻墙](https://ifanqiang.com/youtube/dw-chinese-youtube) |
-| [范琪斐的美国时间](https://www.youtube.com/@TheStormMedia) | 以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。 | 新闻与公共议题 | 美国、访谈、公共议题 | [爱翻墙](https://ifanqiang.com/youtube/fan-america-time-youtube) |
+| [范琪斐的美国时间](https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw) | 以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。 | 新闻与公共议题 | 美国、访谈、公共议题 | [爱翻墙](https://ifanqiang.com/youtube/fan-america-time-youtube) |
 | [小Lin说](https://www.youtube.com/channel/UCilwQlk62k1z7aUEZPOB6yw) | 用故事化方式讲解商业公司、金融事件、经济周期、行业变化和消费市场逻辑。 | 商业财经 | 财经、商业、经济 | [爱翻墙](https://ifanqiang.com/youtube/xiaolin-youtube) |
 | [啾啾鞋](https://www.youtube.com/@chuchushoeTW) | 台湾知识型创作者，内容涵盖科学冷知识、心理学、社会现象和书籍概念整理。 | 知识教育 | 知识、科学、心理 | [爱翻墙](https://ifanqiang.com/youtube/chuchushoe-youtube) |
 | [TVBS NEWS](https://www.youtube.com/@TVBSNEWS01) | 台湾 TVBS 新闻频道，提供即时新闻、政经节目、社会现场、国际报道和直播片段。 | 新闻与公共议题 | 台湾、新闻、直播 | [爱翻墙](https://ifanqiang.com/youtube/tvbs-news-youtube) |
@@ -90,9 +90,8 @@
 | [三立新闻](https://www.youtube.com/@SETN) | 三立新闻 YouTube 频道，集中台湾即时新闻、政论节目、社会新闻和现场直播。 | 新闻与公共议题 | 台湾、新闻、政论 | [爱翻墙](https://ifanqiang.com/youtube/setn-youtube) |
 | [百灵果 News](https://www.youtube.com/@bailingguo) | 中文新闻谈话与播客型频道，以国际新闻、台湾社会、人物访谈和轻松评论为主。 | 新闻与公共议题 | 播客、新闻、访谈 | [爱翻墙](https://ifanqiang.com/youtube/bailingguo-youtube) |
 | [股癌 Gooaye](https://www.youtube.com/@Gooaye) | 台湾财经评论和播客频道，围绕股市、科技产业、宏观环境和投资情绪做讨论。 | 商业财经 | 股市、播客、财经 | [爱翻墙](https://ifanqiang.com/youtube/gooaye-youtube) |
-| [李自然说](https://www.youtube.com/@Linvo) | 商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。 | 商业财经 | 商业、科技、创业 | [爱翻墙](https://ifanqiang.com/youtube/linvo-youtube) |
-| [罗翔说刑法](https://www.youtube.com/@luoxiang) | 法律知识普及频道，围绕刑法案例、法治观念、社会伦理和公共讨论做解释。 | 知识教育 | 法律、教育、案例 | [爱翻墙](https://ifanqiang.com/youtube/luoxiang-youtube) |
-| [文森说书](https://www.youtube.com/@vincentbook) | 读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。 | 知识教育 | 读书、知识、心理 | [爱翻墙](https://ifanqiang.com/youtube/vincentbook-youtube) |
+| [李自然说](https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw) | 商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。 | 商业财经 | 商业、科技、创业 | [爱翻墙](https://ifanqiang.com/youtube/linvo-youtube) |
+| [文森说书](https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw) | 读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。 | 知识教育 | 读书、知识、心理 | [爱翻墙](https://ifanqiang.com/youtube/vincentbook-youtube) |
 | [STR Network](https://www.youtube.com/@STRNetworkasia) | 博恩和团队相关的喜剧内容入口，包含脱口秀、访谈、讽刺短片和舞台节目片段。 | 影视娱乐 | 脱口秀、喜剧、访谈 | [爱翻墙](https://ifanqiang.com/youtube/str-network-youtube) |
 
 ## 常见问题

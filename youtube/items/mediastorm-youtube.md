@@ -1,6 +1,6 @@
 # 影视飓风
 
-- YouTube：[https://www.youtube.com/@mediastormfilm](https://www.youtube.com/@mediastormfilm)
+- YouTube：[https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA](https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/mediastorm-youtube](https://ifanqiang.com/youtube/mediastorm-youtube)
 - 分类：科技与数码
 - 标签：影像、摄影、创作

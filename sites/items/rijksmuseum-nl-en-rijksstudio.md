@@ -1,13 +1,13 @@
 # Rijksmuseum Collection
 
-- 官网：[https://www.rijksmuseum.nl/en/rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio)
+- 官网：[https://www.rijksmuseum.nl/en/collection](https://www.rijksmuseum.nl/en/collection)
 - 爱翻墙详情：[https://ifanqiang.com/sites/rijksmuseum-nl-en-rijksstudio](https://ifanqiang.com/sites/rijksmuseum-nl-en-rijksstudio)
 - 分类：百科与开放资料
 - 标签：艺术、荷兰、开放图像
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://www.rijksmuseum.nl/en/rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio)
+- 原始链接：[https://www.rijksmuseum.nl/en/collection](https://www.rijksmuseum.nl/en/collection)
 
 ## 简介
 

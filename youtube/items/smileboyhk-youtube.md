@@ -1,6 +1,6 @@
 # 笑波子
 
-- YouTube：[https://www.youtube.com/@smileboyhk](https://www.youtube.com/@smileboyhk)
+- YouTube：[https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w](https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/smileboyhk-youtube](https://ifanqiang.com/youtube/smileboyhk-youtube)
 - 分类：香港与东南亚
 - 标签：香港、游戏、娱乐

@@ -42,7 +42,7 @@
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [OWASP](https://owasp.org) | 开放 Web 应用安全项目，提供应用安全标准、指南和项目资源。 | 开发者资源 | 安全、Web、开发 | [爱翻墙](https://ifanqiang.com/sites/owasp-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [GitLab](https://gitlab.com) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
+| [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Quora](https://www.quora.com) | 问答社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 问答、社区 | [爱翻墙](https://ifanqiang.com/sites/quora-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [品葱](https://pincong.rocks) | 中文讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/pincong-rocks) |
@@ -60,19 +60,19 @@
 | [Google Scholar](https://scholar.google.com) | 学术文献搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、搜索 | [爱翻墙](https://ifanqiang.com/sites/scholar-google-com) |
 | [Reddit](https://www.reddit.com) | 大型论坛社区，按 subreddit 组织内容。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 论坛、社区、讨论 | [爱翻墙](https://ifanqiang.com/sites/reddit-com) |
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
-| [arXiv](https://arxiv.org) | 开放预印本论文库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、预印本、学术 | [爱翻墙](https://ifanqiang.com/sites/arxiv-org) |
 | [Hacker News](https://news.ycombinator.com) | 创业、科技和开发者新闻讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 科技、开发、创业 | [爱翻墙](https://ifanqiang.com/sites/news-ycombinator-com) |
 | [V2EX](https://www.v2ex.com) | 中文开发者与互联网社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、开发者、社区 | [爱翻墙](https://ifanqiang.com/sites/v2ex-com) |
 | [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [Quora](https://www.quora.com) | 问答社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 问答、社区 | [爱翻墙](https://ifanqiang.com/sites/quora-com) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生命科学与医学文献数据库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 医学、论文、学术 | [爱翻墙](https://ifanqiang.com/sites/pubmed-ncbi-nlm-nih-gov) |
 | [Semantic Scholar](https://www.semanticscholar.org) | 学术论文搜索和发现平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、搜索、学术 | [爱翻墙](https://ifanqiang.com/sites/semanticscholar-org) |
 | [品葱](https://pincong.rocks) | 中文讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/pincong-rocks) |
 | [JSTOR](https://www.jstor.org) | 学术期刊、书籍和资料库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、期刊、资料 | [爱翻墙](https://ifanqiang.com/sites/jstor-org) |
 | [LIHKG](https://lihkg.com) | 香港讨论区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 香港、论坛、讨论 | [爱翻墙](https://ifanqiang.com/sites/lihkg-com) |
 | [Project MUSE](https://muse.jhu.edu) | 人文社科期刊和图书平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、人文、社科 | [爱翻墙](https://ifanqiang.com/sites/muse-jhu-edu) |
 | [PTT](https://www.ptt.cc) | 台湾 BBS 社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 台湾、BBS、论坛 | [爱翻墙](https://ifanqiang.com/sites/ptt-cc) |
+| [SSRN](https://www.ssrn.com) | 社会科学和法学等领域论文平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、社科、预印本 | [爱翻墙](https://ifanqiang.com/sites/ssrn-com) |
+| [DOAJ](https://doaj.org) | 开放获取期刊目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、期刊、学术 | [爱翻墙](https://ifanqiang.com/sites/doaj-org) |
 
 ## 综合论坛和社区
 

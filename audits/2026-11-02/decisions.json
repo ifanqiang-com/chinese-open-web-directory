@@ -1,0 +1,1507 @@
+[
+  {
+    "type": "site",
+    "id": "loc-gov",
+    "name": "Library of Congress",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.loc.gov"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cia-gov-the-world-factbook",
+    "name": "CIA World Factbook",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.cia.gov/the-world-factbook/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "medlineplus-gov",
+    "name": "MedlinePlus",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://medlineplus.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "archives-gov",
+    "name": "U.S. National Archives",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.archives.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "nasa-gov",
+    "name": "NASA",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.nasa.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "images-nasa-gov",
+    "name": "NASA Images",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://images.nasa.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "noaa-gov",
+    "name": "NOAA",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.noaa.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "usgs-gov",
+    "name": "USGS",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.usgs.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "earthexplorer-usgs-gov",
+    "name": "USGS EarthExplorer",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://earthexplorer.usgs.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "pubmed-ncbi-nlm-nih-gov",
+    "name": "PubMed",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "pmc-ncbi-nlm-nih-gov",
+    "name": "PubMed Central",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://pmc.ncbi.nlm.nih.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "eric-ed-gov",
+    "name": "ERIC",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://eric.ed.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "clinicaltrials-gov",
+    "name": "ClinicalTrials.gov",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://clinicaltrials.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cdc-gov-library-researchguides",
+    "name": "CDC Publications",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.cdc.gov/library/researchguides/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ncbi-nlm-nih-gov-genbank",
+    "name": "GenBank",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.ncbi.nlm.nih.gov/genbank/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "pubchem-ncbi-nlm-nih-gov",
+    "name": "PubChem",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://pubchem.ncbi.nlm.nih.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "sec-gov-edgar-search",
+    "name": "SEC EDGAR",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.sec.gov/edgar/search"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "federalreserve-gov",
+    "name": "Federal Reserve",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.federalreserve.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "bls-gov",
+    "name": "BLS",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.bls.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "bea-gov",
+    "name": "BEA",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.bea.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "fiscaldata-treasury-gov",
+    "name": "U.S. Treasury Data",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://fiscaldata.treasury.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "treasurydirect-gov",
+    "name": "TreasuryDirect",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.treasurydirect.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cdc-gov-travel",
+    "name": "CDC Travelers' Health",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://wwwnc.cdc.gov/travel/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cisa-gov",
+    "name": "CISA",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.cisa.gov"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "nist-cybersecurity",
+    "name": "NIST Cybersecurity",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.nist.gov/cybersecurity-and-privacy"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "identitytheft-gov",
+    "name": "FTC IdentityTheft.gov",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.identitytheft.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ic3-gov",
+    "name": "FBI IC3",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://www.ic3.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "nvd-nist-gov",
+    "name": "NVD",
+    "action": "archive",
+    "reason": "美国联邦政府机构运营的公开资源，按仓库内容政策排除；不是恶意或失效判定。",
+    "evidence": [
+      "https://nvd.nist.gov/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "protonvpn-com",
+    "name": "Proton VPN",
+    "action": "archive",
+    "reason": "VPN 服务，命中明确排除规则。",
+    "evidence": [
+      "https://protonvpn.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "mullvad-net",
+    "name": "Mullvad VPN",
+    "action": "archive",
+    "reason": "VPN 服务，命中明确排除规则。",
+    "evidence": [
+      "https://mullvad.net/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ivpn-net",
+    "name": "IVPN",
+    "action": "archive",
+    "reason": "VPN 服务，命中明确排除规则。",
+    "evidence": [
+      "https://www.ivpn.net/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "mozilla-org-products-vpn",
+    "name": "Mozilla VPN",
+    "action": "archive",
+    "reason": "VPN 服务，命中明确排除规则。",
+    "evidence": [
+      "https://www.mozilla.org/products/vpn/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "torproject-org",
+    "name": "Tor Project",
+    "action": "archive",
+    "reason": "Tor/Tails 官方资助页明确列出美国国务院与 OTF 支持，按资金背景规则排除。",
+    "evidence": [
+      "https://www.torproject.org/about/supporters/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "metrics-torproject-org",
+    "name": "Tor Metrics",
+    "action": "archive",
+    "reason": "Tor/Tails 官方资助页明确列出美国国务院与 OTF 支持，按资金背景规则排除。",
+    "evidence": [
+      "https://www.torproject.org/about/supporters/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "tails-net",
+    "name": "Tails",
+    "action": "archive",
+    "reason": "Tor/Tails 官方资助页明确列出美国国务院与 OTF 支持，按资金背景规则排除。",
+    "evidence": [
+      "https://www.torproject.org/about/supporters/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "si-edu",
+    "name": "Smithsonian",
+    "action": "archive",
+    "reason": "机构披露美国联邦拨款；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.si.edu/about/reports"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "si-edu-openaccess",
+    "name": "Smithsonian Open Access",
+    "action": "archive",
+    "reason": "机构披露美国联邦拨款；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.si.edu/about/reports"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "physionet-org",
+    "name": "PhysioNet",
+    "action": "archive",
+    "reason": "项目披露 NIH 资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://physionet.org/about/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "openneuro-org",
+    "name": "OpenNeuro",
+    "action": "archive",
+    "reason": "项目披露 NIMH/NIH R24 资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://docs.openneuro.org/policy/data_management_plans.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "rcsb-org",
+    "name": "Protein Data Bank",
+    "action": "archive",
+    "reason": "项目披露 NSF、DOE 和 NIH 资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://cdn.rcsb.org/rcsb-pdb/general_information/news_publications/newsletters/2026q3/statement.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "uniprot-org",
+    "name": "UniProt",
+    "action": "archive",
+    "reason": "运营方披露 NIH 主要资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.ebi.ac.uk/training/online/courses/uniprot-quick-tour/get-help-and-support-on-uniprot/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ui-adsabs-harvard-edu",
+    "name": "NASA ADS",
+    "action": "archive",
+    "reason": "项目披露 NASA 合作协议资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://prod.adsabs.harvard.edu/about/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "arxiv-org",
+    "name": "arXiv",
+    "action": "archive",
+    "reason": "arXiv 年报披露 500 万美元 NSF 项目拨款，ar5iv 为其托管的实验资源；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://info.dev.arxiv.org/about/reports/2023_arXiv_annual_report.pdf"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ar5iv-labs-arxiv-org",
+    "name": "ar5iv",
+    "action": "archive",
+    "reason": "arXiv 年报披露 500 万美元 NSF 项目拨款，ar5iv 为其托管的实验资源；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://info.dev.arxiv.org/about/reports/2023_arXiv_annual_report.pdf"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cve-org",
+    "name": "CVE",
+    "action": "archive",
+    "reason": "项目披露 CISA 资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.cve.org/Resources/Media/Archives/OldWebsite/community/sponsor.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "attack-mitre-org",
+    "name": "MITRE ATT&CK",
+    "action": "archive",
+    "reason": "运营方 MITRE 披露美国联邦资助研究中心背景；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.mitre.org/who-we-are/our-story"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "kb-cert-org",
+    "name": "CERT/CC",
+    "action": "archive",
+    "reason": "CERT/CC 隶属服务美国国防部门的 SEI 联邦资助研究中心；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.sei.cmu.edu/about/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "freedomhouse-org",
+    "name": "Freedom House",
+    "action": "archive",
+    "reason": "2025 审计披露 91% 收入来自美国政府拨款；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://freedomhouse.org/sites/default/files/2026-01/FH%202025%20Final%20Financial%20Statements%20and%20Audit%27s%20Report.pdf"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "qubes-os-org",
+    "name": "Qubes OS",
+    "action": "archive",
+    "reason": "官方历史合作伙伴页披露美国政府资助的 OTF 支持；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.qubes-os.org/partners/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "securedrop-org",
+    "name": "SecureDrop",
+    "action": "archive",
+    "reason": "2024 安全审计明确由 OTF 出资；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.opentech.fund/wp-content/uploads/2024/10/SEC-01-SecureDrop-Audit-Report_PublicRC1.3.pdf"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "nber-org",
+    "name": "NBER",
+    "action": "archive",
+    "reason": "官方资金支持页列出 NIH 与 NSF 资助；按仓库资金背景排除规则归档，不作安全性负面判断。",
+    "evidence": [
+      "https://www.nber.org/support-funding"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "wenzhao-youtube",
+    "name": "文昭谈古论今",
+    "action": "archive",
+    "reason": "公开作者页与节目转载记录显示与仓库排除的传播网络存在持续内容合作；按仓库传播网络规则排除。",
+    "evidence": [
+      "https://www.epochtimes.com/gb/authors/%E6%96%87%E6%98%AD.html",
+      "https://www.ntdtv.com/gb/author/prog1122"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "getmacapps-com",
+    "name": "GetMacApps",
+    "action": "archive",
+    "reason": "原 Mac 应用工具入口现已变为无身份验证赌场推荐与博彩联盟推广页；普通 GET 两次核验。",
+    "evidence": [
+      "https://www.getmacapps.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "jingxuan-fuye-pages-dev",
+    "name": "精选副业",
+    "action": "archive",
+    "reason": "页面无公开案例，主要引导领取体验卡及专属邀请链接加入付费社群；命中联盟营销空壳页排除规则。",
+    "evidence": [
+      "https://jingxuan-fuye.pages.dev/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "poker-stackexchange-com",
+    "name": "Poker",
+    "action": "archive",
+    "reason": "扑克下注与策略问答社区，命中赌博及下注推荐方向排除规则。",
+    "evidence": [
+      "https://poker.stackexchange.com/tour"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "typepad-com",
+    "name": "Typepad",
+    "action": "archive",
+    "reason": "运营方公告服务于 2025-09-30 终止；不因本轮 403 单独判失效。",
+    "evidence": [
+      "https://www.networksolutions.com/typepad"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "read-cv",
+    "name": "Read.cv",
+    "action": "archive",
+    "reason": "已宣布关停；本轮仅返回 DEPLOYMENT_DISABLED。",
+    "evidence": [
+      "https://www.neowin.net/news/readcv-announces-acquisition-by-perplexity-as-it-begins-winding-down-operations/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "dns0-eu",
+    "name": "DNS0.eu",
+    "action": "archive",
+    "reason": "域名无法解析，并有独立停服报道。",
+    "evidence": [
+      "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "classes-nebula-tv",
+    "name": "Nebula Classes",
+    "action": "archive",
+    "reason": "原课程子域名两次无法解析；Cloudflare 与 Google 独立 DNS 查询均无 A/AAAA 记录，归档失效子入口，保留 Nebula 主站。",
+    "evidence": [
+      "https://classes.nebula.tv/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "justpodmedia-com",
+    "name": "JustPod",
+    "action": "archive",
+    "reason": "公开目录现用 justpod.com 两次返回明确 404；原域名也无法正常完成 TLS。节目仍更新，不将机构认定为停业。",
+    "evidence": [
+      "https://www.justpod.com/",
+      "https://www.xiaoyuzhoufm.com/podcast/5e4ee557418a84a0466737b7"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "kktv-me",
+    "name": "KKTV",
+    "action": "archive",
+    "reason": "同步此前已有的停服排除决定至数据库及静态主站：KKTV official notices state service ended on 2026-01-01.",
+    "evidence": [
+      "https://events.kktv.me/tw/announcement-165"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "xkb-com-au",
+    "name": "澳洲新快网",
+    "action": "archive",
+    "reason": "同步此前已有的停服排除决定至数据库及静态主站：Australian New Express Daily website is unavailable and public sources indicate the website stopped updating from 2021-04-01.",
+    "evidence": [
+      "https://www.sbs.com.au/language/chinese/zh-hans/article/australian-new-express-daily-ceased-publication/5zf6mdtrs"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cnx-org",
+    "name": "OpenStax CNX",
+    "action": "archive",
+    "reason": "旧入口永久跳转至已收录的 OpenStax，合并重复入口。",
+    "evidence": [
+      "https://cnx.org/",
+      "https://openstax.org/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "warpcast-com",
+    "name": "Warpcast",
+    "action": "archive",
+    "reason": "Warpcast 永久跳转至已收录的 Farcaster，合并重复入口。",
+    "evidence": [
+      "https://warpcast.com/",
+      "https://farcaster.xyz/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "paperswithcode-com",
+    "name": "Papers with Code",
+    "action": "archive",
+    "reason": "原站跳转至已收录的 Hugging Face Papers，原独立服务入口不再可用。",
+    "evidence": [
+      "https://paperswithcode.com/",
+      "https://huggingface.co/papers/trending"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "flathub-org-apps",
+    "name": "Flathub Apps",
+    "action": "archive",
+    "reason": "应用入口永久跳转至与已收录 Flathub 首页相同的位置，合并重复入口。",
+    "evidence": [
+      "https://flathub.org/apps",
+      "https://flathub.org/en"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "carrd-co",
+    "name": "Carrd",
+    "action": "update",
+    "fields": {
+      "url": "https://carrd.com/",
+      "source_url": "https://carrd.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://carrd.co/",
+      "https://carrd.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "abcnews-go-com",
+    "name": "ABC News",
+    "action": "update",
+    "fields": {
+      "url": "https://abcnews.com/",
+      "source_url": "https://abcnews.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://abcnews.go.com/",
+      "https://abcnews.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "worldcat-org",
+    "name": "WorldCat",
+    "action": "update",
+    "fields": {
+      "url": "https://search.worldcat.org/",
+      "source_url": "https://search.worldcat.org/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.worldcat.org",
+      "https://search.worldcat.org/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "inciteful-xyz",
+    "name": "Inciteful",
+    "action": "update",
+    "fields": {
+      "name": "Inciteful Academic",
+      "description": "通过论文引用关系探索学术文献，提供关联论文发现和文献网络分析工具。",
+      "url": "https://incitefulmed.com/academic/",
+      "source_url": "https://incitefulmed.com/academic/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://inciteful.xyz/",
+      "https://incitefulmed.com/academic/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "cloud-google-com-docs",
+    "name": "Google Cloud Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://docs.cloud.google.com/docs",
+      "source_url": "https://docs.cloud.google.com/docs"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://cloud.google.com/docs",
+      "https://docs.cloud.google.com/docs"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "hexdocs-pm-elixir",
+    "name": "Elixir Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://elixir.hexdocs.pm/",
+      "source_url": "https://elixir.hexdocs.pm/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://hexdocs.pm/elixir/",
+      "https://elixir.hexdocs.pm/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "pytorch-org-docs-stable-index-html",
+    "name": "PyTorch Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://docs.pytorch.org/docs/stable/index.html",
+      "source_url": "https://docs.pytorch.org/docs/stable/index.html"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://pytorch.org/docs/stable/index.html",
+      "https://docs.pytorch.org/docs/stable/index.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "python-langchain-com-docs",
+    "name": "LangChain Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://docs.langchain.com/oss/python/langchain/overview",
+      "source_url": "https://docs.langchain.com/oss/python/langchain/overview"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://python.langchain.com/docs/",
+      "https://docs.langchain.com/oss/python/langchain/overview"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "docs-llamaindex-ai",
+    "name": "LlamaIndex Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://developers.llamaindex.ai/python/framework/",
+      "source_url": "https://developers.llamaindex.ai/python/framework/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://docs.llamaindex.ai/",
+      "https://developers.llamaindex.ai/python/framework/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "podcasters-spotify-com",
+    "name": "Spotify for Podcasters",
+    "action": "update",
+    "fields": {
+      "name": "Spotify for Creators",
+      "description": "Spotify 面向创作者的官方平台，提供播客管理、音视频节目发布、受众分析和变现工具。",
+      "tags": [
+        "播客",
+        "创作者",
+        "音频",
+        "视频"
+      ],
+      "url": "https://creators.spotify.com/",
+      "source_url": "https://creators.spotify.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://podcasters.spotify.com/",
+      "https://creators.spotify.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "megaphone-fm",
+    "name": "Megaphone",
+    "action": "update",
+    "fields": {
+      "url": "https://megaphone.spotify.com/",
+      "source_url": "https://megaphone.spotify.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.megaphone.fm/",
+      "https://megaphone.spotify.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "nomadlist-com",
+    "name": "Nomad List",
+    "action": "update",
+    "fields": {
+      "name": "Nomads.com",
+      "description": "面向远程工作者和数字游民的城市资料与社区，提供生活成本、网络条件和目的地比较。",
+      "url": "https://nomads.com/",
+      "source_url": "https://nomads.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://nomadlist.com/",
+      "https://nomads.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "threads-net",
+    "name": "Threads",
+    "action": "update",
+    "fields": {
+      "url": "https://www.threads.com/",
+      "source_url": "https://www.threads.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.threads.net",
+      "https://www.threads.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "max-com",
+    "name": "Max",
+    "action": "update",
+    "fields": {
+      "name": "HBO Max",
+      "description": "HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。",
+      "tags": [
+        "影视",
+        "流媒体",
+        "HBO"
+      ],
+      "url": "https://www.hbomax.com/",
+      "source_url": "https://www.hbomax.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.max.com",
+      "https://www.hbomax.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "streamtv-directv-com",
+    "name": "DIRECTV Stream",
+    "action": "update",
+    "fields": {
+      "url": "https://www.directv.com/stream/",
+      "source_url": "https://www.directv.com/stream/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://streamtv.directv.com/",
+      "https://www.directv.com/stream/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "financialmodelingprep-com",
+    "name": "Financial Modeling Prep",
+    "action": "update",
+    "fields": {
+      "url": "https://site.financialmodelingprep.com/",
+      "source_url": "https://site.financialmodelingprep.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://financialmodelingprep.com/",
+      "https://site.financialmodelingprep.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "mozilla-observatory",
+    "name": "Mozilla Observatory",
+    "action": "update",
+    "fields": {
+      "url": "https://developer.mozilla.org/en-US/observatory",
+      "source_url": "https://developer.mozilla.org/en-US/observatory"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://observatory.mozilla.org",
+      "https://developer.mozilla.org/en-US/observatory"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "ente-io-auth",
+    "name": "Ente Auth",
+    "action": "update",
+    "fields": {
+      "url": "https://ente.com/auth/",
+      "source_url": "https://ente.com/auth/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://ente.io/auth/",
+      "https://ente.com/auth/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "veracrypt-fr-en-home-html",
+    "name": "VeraCrypt",
+    "action": "update",
+    "fields": {
+      "url": "https://veracrypt.io/en/Home.html",
+      "source_url": "https://veracrypt.io/en/Home.html"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.veracrypt.fr/en/Home.html",
+      "https://veracrypt.io/en/Home.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "rijksmuseum-nl-en-rijksstudio",
+    "name": "Rijksmuseum Collection",
+    "action": "update",
+    "fields": {
+      "url": "https://www.rijksmuseum.nl/en/collection",
+      "source_url": "https://www.rijksmuseum.nl/en/collection"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.rijksmuseum.nl/en/rijksstudio",
+      "https://www.rijksmuseum.nl/en/collection"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "peoplemedia-tw",
+    "name": "民报",
+    "action": "update",
+    "fields": {
+      "url": "https://www.peoplenews.tw/",
+      "source_url": "https://www.peoplenews.tw/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "https://www.peoplemedia.tw/",
+      "https://www.peoplenews.tw/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "oldversion-com",
+    "name": "OldVersion",
+    "action": "update",
+    "fields": {
+      "url": "https://www.oldversion.com/",
+      "source_url": "https://www.oldversion.com/"
+    },
+    "reason": "官方永久跳转及目标页面核验",
+    "evidence": [
+      "http://www.oldversion.com/",
+      "https://www.oldversion.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "expressionengine-stackexchange-com",
+    "name": "ExpressionEngine&#174; Answers",
+    "action": "update",
+    "fields": {
+      "name": "ExpressionEngine® Answers"
+    },
+    "reason": "修复名称中未解码的 HTML 字符实体。",
+    "evidence": [
+      "https://expressionengine.stackexchange.com"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "pt-stackoverflow-com",
+    "name": "Stack Overflow em Portugu&#234;s",
+    "action": "update",
+    "fields": {
+      "name": "Stack Overflow em Português"
+    },
+    "reason": "修复名称中未解码的 HTML 字符实体。",
+    "evidence": [
+      "https://pt.stackoverflow.com"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "es-stackoverflow-com",
+    "name": "Stack Overflow en espa&#241;ol",
+    "action": "update",
+    "fields": {
+      "name": "Stack Overflow en español"
+    },
+    "reason": "修复名称中未解码的 HTML 字符实体。",
+    "evidence": [
+      "https://es.stackoverflow.com"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "funscience-youtube",
+    "name": "芳斯塔芙",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@funstuff2018",
+      "https://www.youtube.com/@FunScience"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "vincentbook-youtube",
+    "name": "文森说书",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@vincent_reading",
+      "https://www.youtube.com/@vincentbook"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "techdog-youtube",
+    "name": "科技狗 3C Dog",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@3cdogs",
+      "https://www.youtube.com/@TechDog"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "x-investigations-youtube",
+    "name": "X 调查",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@xdiaocha",
+      "https://www.youtube.com/@XInvestigations"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "linvo-youtube",
+    "name": "李自然说",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@lzrshuo",
+      "https://www.youtube.com/@Linvo"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "cheap-history-youtube",
+    "name": "Cheap",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA",
+      "https://www.youtube.com/@CheapHistory"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "geekerwan-youtube",
+    "name": "极客湾 Geekerwan",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@geekerwan1024",
+      "https://www.youtube.com/@Geekerwan"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "dimcookguide-youtube",
+    "name": "点 Cook Guide",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/user/dimcookguide",
+      "https://www.youtube.com/@dimcookguide"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "smileboyhk-youtube",
+    "name": "笑波子",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@smilingboris1118",
+      "https://www.youtube.com/@smileboyhk"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "dajj-youtube",
+    "name": "大J",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@jstud1o",
+      "https://www.youtube.com/@dajj"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "asenstudio-youtube",
+    "name": "阿神",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
+      "https://www.youtube.com/@AsenStudio"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "mill-milk-youtube",
+    "name": "米纸",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@ricezi2hk",
+      "https://www.youtube.com/@MillMilk"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "100most-youtube",
+    "name": "毛记电视",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/@100MOSTHongKong",
+      "https://www.youtube.com/user/100mosthk"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "fan-america-time-youtube",
+    "name": "范琪斐的美国时间",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw",
+      "https://www.youtube.com/@TheStormMedia"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "tsaigray-youtube",
+    "name": "蔡阿嘎",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g"
+    },
+    "reason": "纠正指向其他账号、子频道或错误语言版本的链接；用已核对名称与简介的稳定频道 ID。",
+    "evidence": [
+      "https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g",
+      "https://www.youtube.com/@tsaigray2018"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "mediastorm-youtube",
+    "name": "影视飓风",
+    "action": "update",
+    "fields": {
+      "url": "https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA"
+    },
+    "reason": "原链接指向另一 MediaStormfilm 账号；核对正确中文频道与资料页。",
+    "evidence": [
+      "https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA",
+      "https://zh.wikipedia.org/wiki/影视飓风"
+    ]
+  },
+  {
+    "type": "youtube-channel",
+    "id": "luoxiang-youtube",
+    "name": "罗翔说刑法",
+    "action": "archive",
+    "reason": "现有 @luoxiang 实际为 XIANG，内容与罗翔说刑法不符；未确认官方替代频道，不以同名搜索结果替换。",
+    "evidence": [
+      "https://www.youtube.com/@luoxiang"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "hello-algo-com",
+    "name": "Hello 算法",
+    "action": "add",
+    "fields": {
+      "id": "hello-algo-com",
+      "name": "Hello 算法",
+      "url": "https://www.hello-algo.com/",
+      "description": "开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。",
+      "category": "开发者资源",
+      "tags": [
+        "算法",
+        "数据结构",
+        "中文",
+        "开源"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 990,
+      "added_at": "2026-11-02",
+      "source_url": "https://www.hello-algo.com/"
+    },
+    "reason": "官网与开源项目核验；中文学习价值明确，现有 ID、规范化网址及名称均未重复。",
+    "evidence": [
+      "https://www.hello-algo.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "zh-javascript-info",
+    "name": "现代 JavaScript 教程",
+    "action": "add",
+    "fields": {
+      "id": "zh-javascript-info",
+      "name": "现代 JavaScript 教程",
+      "url": "https://zh.javascript.info/",
+      "description": "现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。",
+      "category": "开发者资源",
+      "tags": [
+        "JavaScript",
+        "中文",
+        "教程",
+        "前端"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 990,
+      "added_at": "2026-11-02",
+      "source_url": "https://zh.javascript.info/"
+    },
+    "reason": "官网与开源项目核验；中文学习价值明确，现有 ID、规范化网址及名称均未重复。",
+    "evidence": [
+      "https://zh.javascript.info/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "search-marginalia-nu",
+    "name": "Marginalia Search",
+    "action": "update",
+    "fields": {
+      "url": "https://marginalia-search.com/",
+      "source_url": "https://marginalia-search.com/"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://search.marginalia.nu",
+      "https://marginalia-search.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "library-archives-canada-ca",
+    "name": "Library and Archives Canada",
+    "action": "update",
+    "fields": {
+      "url": "https://www.canada.ca/en/library-archives.html",
+      "source_url": "https://www.canada.ca/en/library-archives.html"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://library-archives.canada.ca/",
+      "https://www.canada.ca/en/library-archives.html"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "readthedocs-org",
+    "name": "Read the Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://about.readthedocs.com/",
+      "source_url": "https://about.readthedocs.com/"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://readthedocs.org/",
+      "https://about.readthedocs.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "gitlab-com",
+    "name": "GitLab",
+    "action": "update",
+    "fields": {
+      "url": "https://about.gitlab.com/",
+      "source_url": "https://about.gitlab.com/"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://gitlab.com",
+      "https://about.gitlab.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "remix-run-docs-en",
+    "name": "Remix Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://v2.remix.run/docs/",
+      "source_url": "https://v2.remix.run/docs/"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://remix.run/docs/en/main",
+      "https://v2.remix.run/docs/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "age-encryption-org",
+    "name": "age",
+    "action": "update",
+    "fields": {
+      "url": "https://github.com/FiloSottile/age",
+      "source_url": "https://github.com/FiloSottile/age"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://age-encryption.org/",
+      "https://github.com/FiloSottile/age"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "laravel-com-docs",
+    "name": "Laravel Docs",
+    "action": "update",
+    "fields": {
+      "url": "https://laravel.com/framework/docs",
+      "source_url": "https://laravel.com/framework/docs"
+    },
+    "reason": "官方跳转及目标内容确认当前入口；不采用地区、登录、实验参数或文档固定版本跳转。",
+    "evidence": [
+      "https://laravel.com/docs",
+      "https://laravel.com/framework/docs"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "en-cppreference-com-w",
+    "name": "cppreference",
+    "action": "archive",
+    "reason": "旧 /w/ 入口永久跳转至已经收录的 cppreference 首页，合并重复入口。",
+    "evidence": [
+      "https://en.cppreference.com/w/",
+      "https://en.cppreference.com/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "yitianshijie-net",
+    "name": "一言堂",
+    "action": "update",
+    "fields": {
+      "name": "一天世界"
+    },
+    "reason": "核对当前官网品牌名称。",
+    "evidence": [
+      "https://yitianshijie.net/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "mirrormedia-mg",
+    "name": "镜传媒",
+    "action": "update",
+    "fields": {
+      "name": "镜周刊 Mirror Media"
+    },
+    "reason": "核对当前官网品牌名称。",
+    "evidence": [
+      "https://www.mirrormedia.mg/"
+    ]
+  },
+  {
+    "type": "site",
+    "id": "newtalk-tw",
+    "name": "新头壳 Newtalk",
+    "action": "update",
+    "fields": {
+      "name": "Newtalk 新闻"
+    },
+    "reason": "核对当前官网品牌名称。",
+    "evidence": [
+      "https://newtalk.tw/"
+    ]
+  }
+]

@@ -1,13 +1,13 @@
 # Elixir Docs
 
-- 官网：[https://hexdocs.pm/elixir/](https://hexdocs.pm/elixir/)
+- 官网：[https://elixir.hexdocs.pm/](https://elixir.hexdocs.pm/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/hexdocs-pm-elixir](https://ifanqiang.com/sites/hexdocs-pm-elixir)
 - 分类：开发者资源
 - 标签：Elixir、语言文档、函数式
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://hexdocs.pm/elixir/](https://hexdocs.pm/elixir/)
+- 原始链接：[https://elixir.hexdocs.pm/](https://elixir.hexdocs.pm/)
 
 ## 简介
 

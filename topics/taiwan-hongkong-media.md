@@ -45,7 +45,7 @@
 | [香港电台新闻](https://news.rthk.hk/rthk/ch/) | 香港公共广播机构新闻入口，提供香港、本地公共事务、两岸和国际新闻。 | 中文新闻 | 香港、公共媒体、新闻 | [爱翻墙](https://ifanqiang.com/sites/news-rthk-hk-rthk-ch) |
 | [香港独立媒体](https://www.inmediahk.net/) | 香港独立媒体平台，提供本地社会议题、评论、社区报道和公共讨论入口。 | 中文新闻 | 香港、独立媒体、评论 | [爱翻墙](https://ifanqiang.com/sites/inmediahk-net) |
 | [CUP媒体](https://www.cup.com.hk/) | 香港华语媒体，核心提供国际、文化、科技、城市和生活方式文章。 | 中文新闻 | 香港、文化、国际 | [爱翻墙](https://ifanqiang.com/sites/cup-com-hk) |
-| [新头壳 Newtalk](https://newtalk.tw/) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 台湾、新闻、评论 | [爱翻墙](https://ifanqiang.com/sites/newtalk-tw) |
+| [Newtalk 新闻](https://newtalk.tw/) | 台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 台湾、新闻、评论 | [爱翻墙](https://ifanqiang.com/sites/newtalk-tw) |
 | [Yahoo 香港新闻](https://hk.news.yahoo.com/) | 香港 Yahoo 新闻入口，聚合香港本地、国际、财经、娱乐和生活报道。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 香港、新闻聚合、入口 | [爱翻墙](https://ifanqiang.com/sites/hk-news-yahoo-com) |
 | [am730](https://www.am730.com.hk/) | 香港新闻和生活媒体，提供本地新闻、财经、娱乐、健康和专栏内容。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 香港、新闻、生活 | [爱翻墙](https://ifanqiang.com/sites/am730-com-hk) |
 | [信报财经新闻](https://www.hkej.com/) | 香港财经新闻媒体，提供港股、金融市场、地产、国际经济和评论内容。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 香港、财经、市场 | [爱翻墙](https://ifanqiang.com/sites/hkej-com) |

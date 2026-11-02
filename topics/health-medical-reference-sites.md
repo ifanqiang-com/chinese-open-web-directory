@@ -11,22 +11,22 @@
 
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生命科学与医学文献数据库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 医学、论文、学术 | [爱翻墙](https://ifanqiang.com/sites/pubmed-ncbi-nlm-nih-gov) |
-| [PubMed Central](https://pmc.ncbi.nlm.nih.gov/) | 美国 NIH 开放医学论文库，提供生命科学和医学论文全文检索。 | 学术研究 | 医学、开放获取、论文 | [爱翻墙](https://ifanqiang.com/sites/pmc-ncbi-nlm-nih-gov) |
 | [Europe PMC](https://europepmc.org/) | 欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。 | 学术研究 | 医学、论文、欧洲 | [爱翻墙](https://ifanqiang.com/sites/europepmc-org) |
 | [medRxiv](https://www.medrxiv.org/) | 医学预印本平台，核心提供尚未同行评审的临床和健康科学研究论文。 | 学术研究 | 医学、预印本、论文 | [爱翻墙](https://ifanqiang.com/sites/medrxiv-org) |
-| [MedlinePlus](https://medlineplus.gov/) | 美国医学图书馆健康资料入口，提供疾病、药物、检查和健康主题说明。 | 百科与开放资料 | 健康、医学、资料 | [爱翻墙](https://ifanqiang.com/sites/medlineplus-gov) |
 | [Merck Manuals](https://www.merckmanuals.com/) | 默沙东医学手册，提供面向公众和专业人士的疾病、症状和治疗说明。 | 百科与开放资料 | 医学、健康、手册 | [爱翻墙](https://ifanqiang.com/sites/merckmanuals-com) |
 | [Mayo Clinic](https://www.mayoclinic.org/) | 梅奥诊所健康资料站，核心提供疾病症状、诊断、治疗和健康管理内容。 | 百科与开放资料 | 医学、健康、临床 | [爱翻墙](https://ifanqiang.com/sites/mayoclinic-org) |
 | [Our World in Data](https://ourworldindata.org/) | 开放数据和可视化平台，提供全球发展、健康、能源、人口和环境数据解释。 | 百科与开放资料 | 开放数据、可视化、全球发展 | [爱翻墙](https://ifanqiang.com/sites/ourworldindata-org) |
 | [ScienceDirect](https://www.sciencedirect.com/) | Elsevier 学术平台，提供科学、医学、工程和社科论文及图书内容。 | 学术研究 | 期刊、论文、出版 | [爱翻墙](https://ifanqiang.com/sites/sciencedirect-com) |
-| [CDC Travelers' Health](https://wwwnc.cdc.gov/travel/) | 美国 CDC 旅行健康入口，提供目的地疫苗、疾病风险、旅行建议和健康安全提醒。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 旅行健康、疫苗、安全 | [爱翻墙](https://ifanqiang.com/sites/cdc-gov-travel) |
-| [ClinicalTrials.gov](https://clinicaltrials.gov/) | 临床试验注册数据库，提供试验设计、招募状态、结果和研究机构资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 临床试验、医学、数据库 | [爱翻墙](https://ifanqiang.com/sites/clinicaltrials-gov) |
 | [Cochrane Library](https://www.cochranelibrary.com/) | 循证医学资料库，提供系统综述、临床证据和医学干预研究资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 循证医学、综述、临床 | [爱翻墙](https://ifanqiang.com/sites/cochranelibrary-com) |
 | [SAGE Journals](https://journals.sagepub.com/) | SAGE 学术期刊平台，提供社科、医学、教育和管理领域论文检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 期刊、社科、出版 | [爱翻墙](https://ifanqiang.com/sites/journals-sagepub-com) |
 | [Verywell Health](https://www.verywellhealth.com/) | 健康资料网站，提供疾病、症状、治疗、营养和健康管理解释内容。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 健康、医学、科普 | [爱翻墙](https://ifanqiang.com/sites/verywellhealth-com) |
 | [Healthline](https://www.healthline.com/) | 健康信息网站，提供疾病、药物、营养、心理健康和生活方式资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 健康、医学、生活 | [爱翻墙](https://ifanqiang.com/sites/healthline-com) |
 | [Cleveland Clinic Health Library](https://my.clevelandclinic.org/health) | 克利夫兰诊所健康资料库，提供疾病、症状、治疗、检查和健康建议。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 健康、医学、临床 | [爱翻墙](https://ifanqiang.com/sites/my-clevelandclinic-org-health) |
+| [Annual Reviews](https://www.annualreviews.org/) | 综述期刊出版平台，提供生物、医学、社会科学和物理科学年度综述。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 综述、期刊、研究 | [爱翻墙](https://ifanqiang.com/sites/annualreviews-org) |
+| [Radiopaedia](https://radiopaedia.org/) | 放射医学百科，提供影像病例、疾病条目、教学课程和医学图像资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 医学影像、百科、教学 | [爱翻墙](https://ifanqiang.com/sites/radiopaedia-org) |
+| [JAMA Network](https://jamanetwork.com/) | 医学期刊网络，提供 JAMA 系列期刊、临床研究、观点和医学教育内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 医学、期刊、临床 | [爱翻墙](https://ifanqiang.com/sites/jamanetwork-com) |
+| [The Lancet](https://www.thelancet.com/) | 医学期刊平台，提供临床研究、全球健康、评论和专题论文。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 医学、期刊、全球健康 | [爱翻墙](https://ifanqiang.com/sites/thelancet-com) |
+| [BMJ](https://www.bmj.com/) | 医学期刊和临床知识平台，提供研究论文、新闻、教育和临床观点。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 医学、期刊、临床 | [爱翻墙](https://ifanqiang.com/sites/bmj-com) |
 
 ## 药品、价格和医疗服务
 
@@ -38,7 +38,6 @@
 | [Trustpilot](https://www.trustpilot.com) | 商家评价和用户评分平台。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 评价、商家、消费 | [爱翻墙](https://ifanqiang.com/sites/trustpilot-com) |
 | [Hotels.com](https://www.hotels.com/) | 酒店预订平台，核心提供住宿搜索、价格比较、评价和会员奖励。 | 生活出行 | 住宿、酒店、预订 | [爱翻墙](https://ifanqiang.com/sites/hotels-com) |
 | [Hostelworld](https://www.hostelworld.com/) | 青年旅舍预订平台，提供旅舍搜索、背包客评价、地图和低预算住宿。 | 生活出行 | 旅舍、住宿、背包客 | [爱翻墙](https://ifanqiang.com/sites/hostelworld-com) |
-| [CDC Travelers' Health](https://wwwnc.cdc.gov/travel/) | 美国 CDC 旅行健康入口，提供目的地疫苗、疾病风险、旅行建议和健康安全提醒。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 旅行健康、疫苗、安全 | [爱翻墙](https://ifanqiang.com/sites/cdc-gov-travel) |
 | [Hostelz](https://www.hostelz.com/) | 旅舍搜索和比价网站，提供青年旅舍价格、评价、地图和预订链接。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 旅舍、住宿、比价 | [爱翻墙](https://ifanqiang.com/sites/hostelz-com) |
 | [Vrbo](https://www.vrbo.com/) | 度假短租平台，提供整套房源、家庭旅行住宿、评价和预订管理。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 短租、住宿、旅行 | [爱翻墙](https://ifanqiang.com/sites/vrbo-com) |
 | [AllTrails](https://www.alltrails.com/) | 徒步路线平台，提供步道地图、难度、照片、评价和离线导航。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 徒步、户外、地图 | [爱翻墙](https://ifanqiang.com/sites/alltrails-com) |
@@ -81,8 +80,6 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Google Scholar](https://scholar.google.com) | 学术文献搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、搜索 | [爱翻墙](https://ifanqiang.com/sites/scholar-google-com) |
-| [arXiv](https://arxiv.org) | 开放预印本论文库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、预印本、学术 | [爱翻墙](https://ifanqiang.com/sites/arxiv-org) |
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生命科学与医学文献数据库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 医学、论文、学术 | [爱翻墙](https://ifanqiang.com/sites/pubmed-ncbi-nlm-nih-gov) |
 | [Semantic Scholar](https://www.semanticscholar.org) | 学术论文搜索和发现平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、搜索、学术 | [爱翻墙](https://ifanqiang.com/sites/semanticscholar-org) |
 | [JSTOR](https://www.jstor.org) | 学术期刊、书籍和资料库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、期刊、资料 | [爱翻墙](https://ifanqiang.com/sites/jstor-org) |
 | [Project MUSE](https://muse.jhu.edu) | 人文社科期刊和图书平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、人文、社科 | [爱翻墙](https://ifanqiang.com/sites/muse-jhu-edu) |
@@ -92,10 +89,12 @@
 | [Crossref](https://www.crossref.org) | DOI 和学术出版元数据组织。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | DOI、学术、数据 | [爱翻墙](https://ifanqiang.com/sites/crossref-org) |
 | [CORE](https://core.ac.uk) | 开放获取研究论文聚合平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、开放获取、学术 | [爱翻墙](https://ifanqiang.com/sites/core-ac-uk) |
 | [BASE](https://www.base-search.net) | 学术搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、搜索、论文 | [爱翻墙](https://ifanqiang.com/sites/base-search-net) |
-| [WorldCat](https://www.worldcat.org) | 全球图书馆馆藏搜索。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 图书馆、书籍、学术 | [爱翻墙](https://ifanqiang.com/sites/worldcat-org) |
+| [WorldCat](https://search.worldcat.org/) | 全球图书馆馆藏搜索。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 图书馆、书籍、学术 | [爱翻墙](https://ifanqiang.com/sites/worldcat-org) |
 | [ResearchGate](https://www.researchgate.net) | 学术社交与论文分享平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、社交、论文 | [爱翻墙](https://ifanqiang.com/sites/researchgate-net) |
 | [Academia.edu](https://www.academia.edu) | 学术论文分享和研究者平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、社交 | [爱翻墙](https://ifanqiang.com/sites/academia-edu) |
 | [DOAB](https://www.doabooks.org) | 开放获取学术图书目录，收录同行评审开放图书。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、图书、学术 | [爱翻墙](https://ifanqiang.com/sites/doabooks-org) |
+| [OpenStax](https://openstax.org) | Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 教材、开放教育、学术 | [爱翻墙](https://ifanqiang.com/sites/openstax-org) |
+| [Europe PMC](https://europepmc.org/) | 欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。 | 学术研究 | 医学、论文、欧洲 | [爱翻墙](https://ifanqiang.com/sites/europepmc-org) |
 
 ## 常见问题
 

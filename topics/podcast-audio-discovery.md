@@ -48,21 +48,21 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [DW 中文](https://www.youtube.com/@dwchinese) | 德国之声中文频道，提供欧洲视角的国际新闻、专题报道、现场连线和深度访谈。 | 新闻与公共议题 | 新闻、欧洲、专题 | [爱翻墙](https://ifanqiang.com/youtube/dw-chinese-youtube) |
-| [范琪斐的美国时间](https://www.youtube.com/@TheStormMedia) | 以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。 | 新闻与公共议题 | 美国、访谈、公共议题 | [爱翻墙](https://ifanqiang.com/youtube/fan-america-time-youtube) |
+| [范琪斐的美国时间](https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw) | 以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。 | 新闻与公共议题 | 美国、访谈、公共议题 | [爱翻墙](https://ifanqiang.com/youtube/fan-america-time-youtube) |
 | [李永乐老师](https://www.youtube.com/@TeacherLiYongLe) | 面向大众的数学、物理和科学解释频道，用板书方式讲解概念、新闻背后的科学原理。 | 知识教育 | 科学、数学、物理 | [爱翻墙](https://ifanqiang.com/youtube/liyongle-youtube) |
 | [啾啾鞋](https://www.youtube.com/@chuchushoeTW) | 台湾知识型创作者，内容涵盖科学冷知识、心理学、社会现象和书籍概念整理。 | 知识教育 | 知识、科学、心理 | [爱翻墙](https://ifanqiang.com/youtube/chuchushoe-youtube) |
 | [老高与小茉](https://www.youtube.com/@laogao) | 中文长视频头部频道之一，内容以都市传说、历史谜题、科学想象和故事型讲述为主。 | 影视娱乐 | 故事、悬疑、长视频 | [爱翻墙](https://ifanqiang.com/youtube/laogao-youtube) |
 | [王志安](https://www.youtube.com/@wangzhian) | 中文时事评论频道，常以长节目形式分析新闻事件、公共政策和社会议题争议。 | 新闻与公共议题 | 时事、评论、公共议题 | [爱翻墙](https://ifanqiang.com/youtube/wang-zhian-youtube) |
-| [文昭谈古论今](https://www.youtube.com/@wenzhaoofficial) | 中文时政和历史评论频道，结合历史背景、国际关系和现实新闻做长线解读。 | 新闻与公共议题 | 时政、历史、评论 | [爱翻墙](https://ifanqiang.com/youtube/wenzhao-youtube) |
 | [百灵果 News](https://www.youtube.com/@bailingguo) | 中文新闻谈话与播客型频道，以国际新闻、台湾社会、人物访谈和轻松评论为主。 | 新闻与公共议题 | 播客、新闻、访谈 | [爱翻墙](https://ifanqiang.com/youtube/bailingguo-youtube) |
 | [柴鼠兄弟](https://www.youtube.com/@ZRBros) | 台湾财经教育频道，覆盖投资观念、理财工具、市场基础知识和个人财务规划。 | 商业财经 | 理财、投资、台湾 | [爱翻墙](https://ifanqiang.com/youtube/zrbros-youtube) |
 | [股癌 Gooaye](https://www.youtube.com/@Gooaye) | 台湾财经评论和播客频道，围绕股市、科技产业、宏观环境和投资情绪做讨论。 | 商业财经 | 股市、播客、财经 | [爱翻墙](https://ifanqiang.com/youtube/gooaye-youtube) |
-| [罗翔说刑法](https://www.youtube.com/@luoxiang) | 法律知识普及频道，围绕刑法案例、法治观念、社会伦理和公共讨论做解释。 | 知识教育 | 法律、教育、案例 | [爱翻墙](https://ifanqiang.com/youtube/luoxiang-youtube) |
-| [Cheap](https://www.youtube.com/@CheapHistory) | 台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。 | 知识教育 | 历史、交通、台湾 | [爱翻墙](https://ifanqiang.com/youtube/cheap-history-youtube) |
-| [X 调查](https://www.youtube.com/@XInvestigations) | 案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。 | 知识教育 | 案件、叙事、资料 | [爱翻墙](https://ifanqiang.com/youtube/x-investigations-youtube) |
-| [芳斯塔芙](https://www.youtube.com/@FunScience) | 科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。 | 知识教育 | 科普、动画、自然 | [爱翻墙](https://ifanqiang.com/youtube/funscience-youtube) |
-| [文森说书](https://www.youtube.com/@vincentbook) | 读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。 | 知识教育 | 读书、知识、心理 | [爱翻墙](https://ifanqiang.com/youtube/vincentbook-youtube) |
+| [Cheap](https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA) | 台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。 | 知识教育 | 历史、交通、台湾 | [爱翻墙](https://ifanqiang.com/youtube/cheap-history-youtube) |
+| [X 调查](https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg) | 案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。 | 知识教育 | 案件、叙事、资料 | [爱翻墙](https://ifanqiang.com/youtube/x-investigations-youtube) |
+| [芳斯塔芙](https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg) | 科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。 | 知识教育 | 科普、动画、自然 | [爱翻墙](https://ifanqiang.com/youtube/funscience-youtube) |
+| [文森说书](https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw) | 读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。 | 知识教育 | 读书、知识、心理 | [爱翻墙](https://ifanqiang.com/youtube/vincentbook-youtube) |
 | [Mandarin Corner](https://www.youtube.com/@MandarinCorner2) | 面向中文学习者的频道，提供真实语速访谈、词汇讲解、听力练习和普通话输入材料。 | 语言学习 | 普通话、听力、学习 | [爱翻墙](https://ifanqiang.com/youtube/mandarin-corner-youtube) |
+| [Dashu Mandarin](https://www.youtube.com/@DashuMandarin) | 普通话学习频道，提供慢速对话、真实聊天、学习者访谈和多口音中文听力材料。 | 语言学习 | 普通话、听力、对话 | [爱翻墙](https://ifanqiang.com/youtube/dashu-mandarin-youtube) |
+| [STR Network](https://www.youtube.com/@STRNetworkasia) | 博恩和团队相关的喜剧内容入口，包含脱口秀、访谈、讽刺短片和舞台节目片段。 | 影视娱乐 | 脱口秀、喜剧、访谈 | [爱翻墙](https://ifanqiang.com/youtube/str-network-youtube) |
 
 ## 新闻、财经和知识音频
 

@@ -601,7 +601,7 @@
     "uid": "mirrormedia-mg",
     "id": "mirrormedia-mg",
     "type": "site",
-    "name": "镜传媒",
+    "name": "镜周刊 Mirror Media",
     "description": "台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。",
     "url": "https://www.mirrormedia.mg/",
     "category": "chinese-news",
@@ -946,7 +946,7 @@
     "uid": "newtalk-tw",
     "id": "newtalk-tw",
     "type": "site",
-    "name": "新头壳 Newtalk",
+    "name": "Newtalk 新闻",
     "description": "台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。",
     "url": "https://newtalk.tw/",
     "category": "chinese-news",
@@ -3035,29 +3035,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "typepad-com",
-    "id": "typepad-com",
-    "type": "site",
-    "name": "Typepad",
-    "description": "老牌托管博客平台，提供个人和专业博客发布、模板和内容管理。",
-    "url": "https://www.typepad.com/",
-    "category": "blogs-publishing",
-    "categoryName": "博客与出版",
-    "tags": [
-      "博客",
-      "托管",
-      "CMS"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 17,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.typepad.com/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "beehiiv-com",
     "id": "beehiiv-com",
     "type": "site",
@@ -3431,7 +3408,7 @@
     "type": "site",
     "name": "Carrd",
     "description": "单页网站构建工具，提供个人主页、作品集、落地页和简单表单功能。核心提供文章发布、作者主页、订阅和内容发现。",
-    "url": "https://carrd.co/",
+    "url": "https://carrd.com/",
     "category": "blogs-publishing",
     "categoryName": "博客与出版",
     "tags": [
@@ -3445,7 +3422,7 @@
     "featured": false,
     "priority": 34,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://carrd.co/",
+    "sourceUrl": "https://carrd.com/",
     "profilePublishedAt": null
   },
   {
@@ -3538,29 +3515,6 @@
     "priority": 38,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://www.weebly.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "read-cv",
-    "id": "read-cv",
-    "type": "site",
-    "name": "Read.cv",
-    "description": "面向创作者和从业者的个人主页平台，提供简历、作品集、项目和网络展示。核心提供文章发布、作者主页、订阅和内容发现。",
-    "url": "https://read.cv/",
-    "category": "blogs-publishing",
-    "categoryName": "博客与出版",
-    "tags": [
-      "个人主页",
-      "作品集",
-      "简历"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 39,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://read.cv/",
     "profilePublishedAt": null
   },
   {
@@ -3728,7 +3682,7 @@
     "uid": "yitianshijie-net",
     "id": "yitianshijie-net",
     "type": "site",
-    "name": "一言堂",
+    "name": "一天世界",
     "description": "一言堂 的出版或博客入口，长期发布 播客、文字、科技 相关的文章、评论和专题内容。",
     "url": "https://yitianshijie.net/",
     "category": "blogs-publishing",
@@ -5179,7 +5133,7 @@
     "type": "site",
     "name": "ABC News",
     "description": "美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。",
-    "url": "https://abcnews.go.com/",
+    "url": "https://abcnews.com/",
     "category": "international-news",
     "categoryName": "国际新闻",
     "tags": [
@@ -5193,7 +5147,7 @@
     "featured": false,
     "priority": 23,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://abcnews.go.com/",
+    "sourceUrl": "https://abcnews.com/",
     "profilePublishedAt": null
   },
   {
@@ -6991,52 +6945,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "arxiv-org",
-    "id": "arxiv-org",
-    "type": "site",
-    "name": "arXiv",
-    "description": "开放预印本论文库。核心提供论文、作者、数据集或学术出版信息检索。",
-    "url": "https://arxiv.org",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "论文",
-      "预印本",
-      "学术"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": true,
-    "priority": 2,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://arxiv.org",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "pubmed-ncbi-nlm-nih-gov",
-    "id": "pubmed-ncbi-nlm-nih-gov",
-    "type": "site",
-    "name": "PubMed",
-    "description": "生命科学与医学文献数据库。核心提供论文、作者、数据集或学术出版信息检索。",
-    "url": "https://pubmed.ncbi.nlm.nih.gov",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "医学",
-      "论文",
-      "学术"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 3,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "semanticscholar-org",
     "id": "semanticscholar-org",
     "type": "site",
@@ -7249,7 +7157,7 @@
     "type": "site",
     "name": "WorldCat",
     "description": "全球图书馆馆藏搜索。核心提供论文、作者、数据集或学术出版信息检索。",
-    "url": "https://www.worldcat.org",
+    "url": "https://search.worldcat.org/",
     "category": "academic-research",
     "categoryName": "学术研究",
     "tags": [
@@ -7263,7 +7171,7 @@
     "featured": false,
     "priority": 13,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.worldcat.org",
+    "sourceUrl": "https://search.worldcat.org/",
     "profilePublishedAt": null
   },
   {
@@ -7356,29 +7264,6 @@
     "priority": 17,
     "addedAt": "2026-06-08",
     "sourceUrl": "https://openstax.org",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "pmc-ncbi-nlm-nih-gov",
-    "id": "pmc-ncbi-nlm-nih-gov",
-    "type": "site",
-    "name": "PubMed Central",
-    "description": "美国 NIH 开放医学论文库，提供生命科学和医学论文全文检索。",
-    "url": "https://pmc.ncbi.nlm.nih.gov/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "医学",
-      "开放获取",
-      "论文"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 18,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/",
     "profilePublishedAt": null
   },
   {
@@ -7612,29 +7497,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "nber-org",
-    "id": "nber-org",
-    "type": "site",
-    "name": "NBER",
-    "description": "美国国家经济研究局，提供经济学工作论文、研究项目和数据资料。",
-    "url": "https://www.nber.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "经济学",
-      "工作论文",
-      "数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 29,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.nber.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "econpapers-repec-org",
     "id": "econpapers-repec-org",
     "type": "site",
@@ -7701,29 +7563,6 @@
     "priority": 32,
     "addedAt": "2026-06-08",
     "sourceUrl": "https://aclanthology.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "paperswithcode-com",
-    "id": "paperswithcode-com",
-    "type": "site",
-    "name": "Papers with Code",
-    "description": "机器学习论文和代码平台，提供论文、任务、数据集、排行榜和实现链接。",
-    "url": "https://paperswithcode.com/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "机器学习",
-      "代码",
-      "论文"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 33,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://paperswithcode.com/",
     "profilePublishedAt": null
   },
   {
@@ -8095,29 +7934,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "eric-ed-gov",
-    "id": "eric-ed-gov",
-    "type": "site",
-    "name": "ERIC",
-    "description": "教育学文献数据库，提供教育研究论文、报告、政策资料和全文链接。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://eric.ed.gov/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "教育",
-      "论文",
-      "数据库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 50,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://eric.ed.gov/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "osf-io-preprints-psyarxiv",
     "id": "osf-io-preprints-psyarxiv",
     "type": "site",
@@ -8207,29 +8023,6 @@
     "priority": 54,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://huggingface.co/papers",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "ui-adsabs-harvard-edu",
-    "id": "ui-adsabs-harvard-edu",
-    "type": "site",
-    "name": "NASA ADS",
-    "description": "天文学和物理文献数据库，提供论文、引用、作者和天体物理资料检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://ui.adsabs.harvard.edu/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "天文学",
-      "物理",
-      "论文"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 55,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://ui.adsabs.harvard.edu/",
     "profilePublishedAt": null
   },
   {
@@ -8325,29 +8118,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "clinicaltrials-gov",
-    "id": "clinicaltrials-gov",
-    "type": "site",
-    "name": "ClinicalTrials.gov",
-    "description": "临床试验注册数据库，提供试验设计、招募状态、结果和研究机构资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://clinicaltrials.gov/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "临床试验",
-      "医学",
-      "数据库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 60,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://clinicaltrials.gov/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "cochranelibrary-com",
     "id": "cochranelibrary-com",
     "type": "site",
@@ -8391,29 +8161,6 @@
     "priority": 62,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://iris.who.int/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "cdc-gov-library-researchguides",
-    "id": "cdc-gov-library-researchguides",
-    "type": "site",
-    "name": "CDC Publications",
-    "description": "美国 CDC 研究资料入口，提供公共卫生文献指南、数据资源和出版物线索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://www.cdc.gov/library/researchguides/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "公共卫生",
-      "CDC",
-      "资料"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 63,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.cdc.gov/library/researchguides/",
     "profilePublishedAt": null
   },
   {
@@ -8946,144 +8693,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "openneuro-org",
-    "id": "openneuro-org",
-    "type": "site",
-    "name": "OpenNeuro",
-    "description": "神经科学开放数据平台，提供脑影像数据集、元数据、下载和研究项目资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://openneuro.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "神经科学",
-      "数据集",
-      "开放数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 87,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://openneuro.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "physionet-org",
-    "id": "physionet-org",
-    "type": "site",
-    "name": "PhysioNet",
-    "description": "生理信号开放数据库，提供临床时间序列、心电数据、软件和挑战赛资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://physionet.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "医学数据",
-      "生理信号",
-      "开放数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 88,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://physionet.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "ncbi-nlm-nih-gov-genbank",
-    "id": "ncbi-nlm-nih-gov-genbank",
-    "type": "site",
-    "name": "GenBank",
-    "description": "NCBI 基因序列数据库入口，提供核酸序列、提交工具和生物信息资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://www.ncbi.nlm.nih.gov/genbank/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "基因",
-      "生物信息",
-      "数据库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 89,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.ncbi.nlm.nih.gov/genbank/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "rcsb-org",
-    "id": "rcsb-org",
-    "type": "site",
-    "name": "Protein Data Bank",
-    "description": "蛋白质结构数据库，提供三维结构、实验方法、配体和生物分子资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://www.rcsb.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "蛋白质",
-      "结构生物学",
-      "数据库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 90,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.rcsb.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "uniprot-org",
-    "id": "uniprot-org",
-    "type": "site",
-    "name": "UniProt",
-    "description": "蛋白质知识库，提供蛋白功能、序列、注释、互作和生物信息检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://www.uniprot.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "蛋白质",
-      "生物信息",
-      "知识库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 91,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.uniprot.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "cnx-org",
-    "id": "cnx-org",
-    "type": "site",
-    "name": "OpenStax CNX",
-    "description": "开放教育资源平台，提供模块化教材、课程资料和可复用学习内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-    "url": "https://cnx.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "开放教育",
-      "教材",
-      "学习"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 92,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://cnx.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "open-umn-edu-opentextbooks",
     "id": "open-umn-edu-opentextbooks",
     "type": "site",
@@ -9291,52 +8900,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "pubchem-ncbi-nlm-nih-gov",
-    "id": "pubchem-ncbi-nlm-nih-gov",
-    "type": "site",
-    "name": "PubChem",
-    "description": "PubChem 的学术资源入口，面向 化学、数据库、研究 等研究资料、论文检索或科研工作流。",
-    "url": "https://pubchem.ncbi.nlm.nih.gov/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "化学",
-      "数据库",
-      "研究"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 102,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://pubchem.ncbi.nlm.nih.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "ar5iv-labs-arxiv-org",
-    "id": "ar5iv-labs-arxiv-org",
-    "type": "site",
-    "name": "ar5iv",
-    "description": "ar5iv 的学术资源入口，面向 论文、HTML、预印本 等研究资料、论文检索或科研工作流。",
-    "url": "https://ar5iv.labs.arxiv.org/",
-    "category": "academic-research",
-    "categoryName": "学术研究",
-    "tags": [
-      "论文",
-      "HTML",
-      "预印本"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 103,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://ar5iv.labs.arxiv.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "connectedpapers-com",
     "id": "connectedpapers-com",
     "type": "site",
@@ -9386,9 +8949,9 @@
     "uid": "inciteful-xyz",
     "id": "inciteful-xyz",
     "type": "site",
-    "name": "Inciteful",
-    "description": "Inciteful 的学术资源入口，面向 论文发现、引用、研究 等研究资料、论文检索或科研工作流。",
-    "url": "https://inciteful.xyz/",
+    "name": "Inciteful Academic",
+    "description": "通过论文引用关系探索学术文献，提供关联论文发现和文献网络分析工具。",
+    "url": "https://incitefulmed.com/academic/",
     "category": "academic-research",
     "categoryName": "学术研究",
     "tags": [
@@ -9402,7 +8965,7 @@
     "featured": false,
     "priority": 106,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://inciteful.xyz/",
+    "sourceUrl": "https://incitefulmed.com/academic/",
     "profilePublishedAt": null
   },
   {
@@ -10330,7 +9893,7 @@
     "type": "site",
     "name": "OldVersion",
     "description": "旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。",
-    "url": "http://www.oldversion.com/",
+    "url": "https://www.oldversion.com/",
     "category": "apps-downloads",
     "categoryName": "应用与下载",
     "tags": [
@@ -10344,7 +9907,7 @@
     "featured": false,
     "priority": 41,
     "addedAt": "2026-06-09",
-    "sourceUrl": "http://www.oldversion.com/",
+    "sourceUrl": "https://www.oldversion.com/",
     "profilePublishedAt": null
   },
   {
@@ -10368,29 +9931,6 @@
     "priority": 42,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://www.macupdate.com/find/mac",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "getmacapps-com",
-    "id": "getmacapps-com",
-    "type": "site",
-    "name": "GetMacApps",
-    "description": "macOS 常用软件批量安装工具，提供勾选应用并生成安装脚本功能。核心提供软件下载、应用商店、替代品搜索或安装管理。",
-    "url": "https://getmacapps.com/",
-    "category": "apps-downloads",
-    "categoryName": "应用与下载",
-    "tags": [
-      "macOS",
-      "批量安装",
-      "软件"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 43,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://getmacapps.com/",
     "profilePublishedAt": null
   },
   {
@@ -10506,29 +10046,6 @@
     "priority": 48,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://snapcraft.io/store",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "flathub-org-apps",
-    "id": "flathub-org-apps",
-    "type": "site",
-    "name": "Flathub Apps",
-    "description": "Flathub 应用目录，提供 Linux Flatpak 应用、安装说明、截图和版本信息。核心提供软件下载、应用商店、替代品搜索或安装管理。",
-    "url": "https://flathub.org/apps",
-    "category": "apps-downloads",
-    "categoryName": "应用与下载",
-    "tags": [
-      "Linux",
-      "Flatpak",
-      "应用"
-    ],
-    "language": "multi",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 49,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://flathub.org/apps",
     "profilePublishedAt": null
   },
   {
@@ -11160,7 +10677,7 @@
     "type": "site",
     "name": "GitLab",
     "description": "代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。",
-    "url": "https://gitlab.com",
+    "url": "https://about.gitlab.com/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -11174,7 +10691,7 @@
     "featured": false,
     "priority": 2,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://gitlab.com",
+    "sourceUrl": "https://about.gitlab.com/",
     "profilePublishedAt": null
   },
   {
@@ -11804,7 +11321,7 @@
     "type": "site",
     "name": "Google Cloud Docs",
     "description": "Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。",
-    "url": "https://cloud.google.com/docs",
+    "url": "https://docs.cloud.google.com/docs",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -11818,7 +11335,7 @@
     "featured": false,
     "priority": 30,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://cloud.google.com/docs",
+    "sourceUrl": "https://docs.cloud.google.com/docs",
     "profilePublishedAt": null
   },
   {
@@ -12241,7 +11758,7 @@
     "type": "site",
     "name": "Laravel Docs",
     "description": "Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。",
-    "url": "https://laravel.com/docs",
+    "url": "https://laravel.com/framework/docs",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -12255,7 +11772,7 @@
     "featured": false,
     "priority": 49,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://laravel.com/docs",
+    "sourceUrl": "https://laravel.com/framework/docs",
     "profilePublishedAt": null
   },
   {
@@ -12517,7 +12034,7 @@
     "type": "site",
     "name": "Elixir Docs",
     "description": "Elixir 官方 API 文档，提供语言模块、标准库、Mix、OTP 和示例资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。",
-    "url": "https://hexdocs.pm/elixir/",
+    "url": "https://elixir.hexdocs.pm/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -12531,7 +12048,7 @@
     "featured": false,
     "priority": 61,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://hexdocs.pm/elixir/",
+    "sourceUrl": "https://elixir.hexdocs.pm/",
     "profilePublishedAt": null
   },
   {
@@ -13368,7 +12885,7 @@
     "type": "site",
     "name": "Remix Docs",
     "description": "Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。",
-    "url": "https://remix.run/docs/en/main",
+    "url": "https://v2.remix.run/docs/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -13382,7 +12899,7 @@
     "featured": false,
     "priority": 98,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://remix.run/docs/en/main",
+    "sourceUrl": "https://v2.remix.run/docs/",
     "profilePublishedAt": null
   },
   {
@@ -14053,29 +13570,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "en-cppreference-com-w",
-    "id": "en-cppreference-com-w",
-    "type": "site",
-    "name": "cppreference",
-    "description": "cppreference 的开发者文档入口，覆盖 C++、参考、文档 等技术栈、工具或标准资料。",
-    "url": "https://en.cppreference.com/w/",
-    "category": "developer-resources",
-    "categoryName": "开发者资源",
-    "tags": [
-      "C++",
-      "参考",
-      "文档"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 128,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://en.cppreference.com/w/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "devdocs-io",
     "id": "devdocs-io",
     "type": "site",
@@ -14127,7 +13621,7 @@
     "type": "site",
     "name": "Read the Docs",
     "description": "Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。",
-    "url": "https://readthedocs.org/",
+    "url": "https://about.readthedocs.com/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -14141,7 +13635,7 @@
     "featured": false,
     "priority": 131,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://readthedocs.org/",
+    "sourceUrl": "https://about.readthedocs.com/",
     "profilePublishedAt": null
   },
   {
@@ -14288,7 +13782,7 @@
     "type": "site",
     "name": "PyTorch Docs",
     "description": "PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。",
-    "url": "https://pytorch.org/docs/stable/index.html",
+    "url": "https://docs.pytorch.org/docs/stable/index.html",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -14302,7 +13796,7 @@
     "featured": false,
     "priority": 138,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://pytorch.org/docs/stable/index.html",
+    "sourceUrl": "https://docs.pytorch.org/docs/stable/index.html",
     "profilePublishedAt": null
   },
   {
@@ -14334,7 +13828,7 @@
     "type": "site",
     "name": "LangChain Docs",
     "description": "LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。",
-    "url": "https://python.langchain.com/docs/",
+    "url": "https://docs.langchain.com/oss/python/langchain/overview",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -14348,7 +13842,7 @@
     "featured": false,
     "priority": 140,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://python.langchain.com/docs/",
+    "sourceUrl": "https://docs.langchain.com/oss/python/langchain/overview",
     "profilePublishedAt": null
   },
   {
@@ -14357,7 +13851,7 @@
     "type": "site",
     "name": "LlamaIndex Docs",
     "description": "LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。",
-    "url": "https://docs.llamaindex.ai/",
+    "url": "https://developers.llamaindex.ai/python/framework/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -14371,7 +13865,7 @@
     "featured": false,
     "priority": 141,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://docs.llamaindex.ai/",
+    "sourceUrl": "https://developers.llamaindex.ai/python/framework/",
     "profilePublishedAt": null
   },
   {
@@ -14395,6 +13889,54 @@
     "priority": 142,
     "addedAt": "2026-06-17",
     "sourceUrl": "https://wiki.archlinux.org/",
+    "profilePublishedAt": null
+  },
+  {
+    "uid": "hello-algo-com",
+    "id": "hello-algo-com",
+    "type": "site",
+    "name": "Hello 算法",
+    "description": "开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。",
+    "url": "https://www.hello-algo.com/",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "算法",
+      "数据结构",
+      "中文",
+      "开源"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 990,
+    "addedAt": "2026-11-02",
+    "sourceUrl": "https://www.hello-algo.com/",
+    "profilePublishedAt": null
+  },
+  {
+    "uid": "zh-javascript-info",
+    "id": "zh-javascript-info",
+    "type": "site",
+    "name": "现代 JavaScript 教程",
+    "description": "现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。",
+    "url": "https://zh.javascript.info/",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "JavaScript",
+      "中文",
+      "教程",
+      "前端"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 990,
+    "addedAt": "2026-11-02",
+    "sourceUrl": "https://zh.javascript.info/",
     "profilePublishedAt": null
   },
   {
@@ -14670,7 +14212,7 @@
     "type": "site",
     "name": "Marginalia Search",
     "description": "偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。",
-    "url": "https://search.marginalia.nu",
+    "url": "https://marginalia-search.com/",
     "category": "search-discovery",
     "categoryName": "搜索与发现",
     "tags": [
@@ -14684,7 +14226,7 @@
     "featured": false,
     "priority": 12,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://search.marginalia.nu",
+    "sourceUrl": "https://marginalia-search.com/",
     "profilePublishedAt": null
   },
   {
@@ -15723,31 +15265,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "jingxuan-fuye-pages-dev",
-    "id": "jingxuan-fuye-pages-dev",
-    "type": "site",
-    "name": "精选副业",
-    "description": "面向中文读者的副业和个人项目案例库，可按方向、技能和平台筛选案例，并查看作者自述的成果、投入条件、风险与来源入口。",
-    "url": "https://jingxuan-fuye.pages.dev/",
-    "category": "search-discovery",
-    "categoryName": "搜索与发现",
-    "tags": [
-      "中文",
-      "案例研究",
-      "独立开发",
-      "副业",
-      "项目验证"
-    ],
-    "language": "zh",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 9999,
-    "addedAt": "2026-10-28",
-    "sourceUrl": "https://jingxuan-fuye.pages.dev/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "podcasts-apple-com",
     "id": "podcasts-apple-com",
     "type": "site",
@@ -16346,15 +15863,16 @@
     "uid": "podcasters-spotify-com",
     "id": "podcasters-spotify-com",
     "type": "site",
-    "name": "Spotify for Podcasters",
-    "description": "Spotify 播客创作者平台，提供节目发布、统计、分发、视频播客和变现工具。核心提供播客搜索、订阅、托管或跨平台收听。",
-    "url": "https://podcasters.spotify.com/",
+    "name": "Spotify for Creators",
+    "description": "Spotify 面向创作者的官方平台，提供播客管理、音视频节目发布、受众分析和变现工具。",
+    "url": "https://creators.spotify.com/",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
       "播客",
       "创作者",
-      "Spotify"
+      "音频",
+      "视频"
     ],
     "language": "multi",
     "hasApp": true,
@@ -16362,7 +15880,7 @@
     "featured": false,
     "priority": 27,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://podcasters.spotify.com/",
+    "sourceUrl": "https://creators.spotify.com/",
     "profilePublishedAt": null
   },
   {
@@ -16877,7 +16395,7 @@
     "type": "site",
     "name": "Megaphone",
     "description": "Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。",
-    "url": "https://www.megaphone.fm/",
+    "url": "https://megaphone.spotify.com/",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
@@ -16891,7 +16409,7 @@
     "featured": false,
     "priority": 50,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.megaphone.fm/",
+    "sourceUrl": "https://megaphone.spotify.com/",
     "profilePublishedAt": null
   },
   {
@@ -17053,29 +16571,6 @@
     "priority": 57,
     "addedAt": "2026-06-17",
     "sourceUrl": "https://audiocollective.ted.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "justpodmedia-com",
-    "id": "justpodmedia-com",
-    "type": "site",
-    "name": "JustPod",
-    "description": "JustPod 的音频入口，覆盖 中文播客、网络、制作 等播客、节目或音频发布场景。",
-    "url": "https://www.justpod.com/",
-    "category": "podcasts-audio",
-    "categoryName": "播客与音频",
-    "tags": [
-      "中文播客",
-      "网络",
-      "制作"
-    ],
-    "language": "zh",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 58,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.justpod.com/",
     "profilePublishedAt": null
   },
   {
@@ -18428,29 +17923,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "cdc-gov-travel",
-    "id": "cdc-gov-travel",
-    "type": "site",
-    "name": "CDC Travelers' Health",
-    "description": "美国 CDC 旅行健康入口，提供目的地疫苗、疾病风险、旅行建议和健康安全提醒。核心提供出行、住宿、地图、翻译、天气或本地生活工具。",
-    "url": "https://wwwnc.cdc.gov/travel/",
-    "category": "life-travel",
-    "categoryName": "生活出行",
-    "tags": [
-      "旅行健康",
-      "疫苗",
-      "安全"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 53,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://wwwnc.cdc.gov/travel/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "flightconnections-com",
     "id": "flightconnections-com",
     "type": "site",
@@ -18845,9 +18317,9 @@
     "uid": "nomadlist-com",
     "id": "nomadlist-com",
     "type": "site",
-    "name": "Nomad List",
-    "description": "数字游民城市资料平台，提供生活成本、网速、安全、天气和社区信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。",
-    "url": "https://nomadlist.com/",
+    "name": "Nomads.com",
+    "description": "面向远程工作者和数字游民的城市资料与社区，提供生活成本、网络条件和目的地比较。",
+    "url": "https://nomads.com/",
     "category": "life-travel",
     "categoryName": "生活出行",
     "tags": [
@@ -18861,7 +18333,7 @@
     "featured": false,
     "priority": 71,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://nomadlist.com/",
+    "sourceUrl": "https://nomads.com/",
     "profilePublishedAt": null
   },
   {
@@ -19990,29 +19462,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "loc-gov",
-    "id": "loc-gov",
-    "type": "site",
-    "name": "Library of Congress",
-    "description": "美国国会图书馆，提供馆藏、档案、图片、地图和数字资源。核心提供结构化知识、参考资料或开放馆藏查询。",
-    "url": "https://www.loc.gov",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "图书馆",
-      "档案",
-      "美国"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": true,
-    "priority": 13,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.loc.gov",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "openlibrary-org",
     "id": "openlibrary-org",
     "type": "site",
@@ -20266,29 +19715,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "cia-gov-the-world-factbook",
-    "id": "cia-gov-the-world-factbook",
-    "type": "site",
-    "name": "CIA World Factbook",
-    "description": "国家和地区资料库，提供人口、经济、地理、政府和基础指标概览。",
-    "url": "https://www.cia.gov/the-world-factbook/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "国家资料",
-      "地理",
-      "数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 25,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.cia.gov/the-world-factbook/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "whc-unesco-org",
     "id": "whc-unesco-org",
     "type": "site",
@@ -20312,29 +19738,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "si-edu",
-    "id": "si-edu",
-    "type": "site",
-    "name": "Smithsonian",
-    "description": "史密森学会入口，提供博物馆、馆藏、展览、教育和研究资源。",
-    "url": "https://www.si.edu/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "博物馆",
-      "馆藏",
-      "教育"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 27,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.si.edu/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "nationalgeographic-com",
     "id": "nationalgeographic-com",
     "type": "site",
@@ -20355,29 +19758,6 @@
     "priority": 28,
     "addedAt": "2026-06-08",
     "sourceUrl": "https://www.nationalgeographic.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "medlineplus-gov",
-    "id": "medlineplus-gov",
-    "type": "site",
-    "name": "MedlinePlus",
-    "description": "美国医学图书馆健康资料入口，提供疾病、药物、检查和健康主题说明。",
-    "url": "https://medlineplus.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "健康",
-      "医学",
-      "资料"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 29,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://medlineplus.gov/",
     "profilePublishedAt": null
   },
   {
@@ -20593,7 +19973,7 @@
     "type": "site",
     "name": "Library and Archives Canada",
     "description": "加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://library-archives.canada.ca/",
+    "url": "https://www.canada.ca/en/library-archives.html",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -20607,7 +19987,7 @@
     "featured": false,
     "priority": 39,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://library-archives.canada.ca/",
+    "sourceUrl": "https://www.canada.ca/en/library-archives.html",
     "profilePublishedAt": null
   },
   {
@@ -20654,29 +20034,6 @@
     "priority": 41,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://www.nationalarchives.gov.uk/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "archives-gov",
-    "id": "archives-gov",
-    "type": "site",
-    "name": "U.S. National Archives",
-    "description": "美国国家档案馆入口，提供历史文件、政府档案、总统图书馆和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.archives.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "美国",
-      "档案",
-      "政府文件"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 42,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.archives.gov/",
     "profilePublishedAt": null
   },
   {
@@ -20892,7 +20249,7 @@
     "type": "site",
     "name": "Rijksmuseum Collection",
     "description": "荷兰国立博物馆馆藏平台，提供高清艺术图像、作品资料和开放下载。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "url": "https://www.rijksmuseum.nl/en/collection",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -20906,7 +20263,7 @@
     "featured": false,
     "priority": 52,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.rijksmuseum.nl/en/rijksstudio",
+    "sourceUrl": "https://www.rijksmuseum.nl/en/collection",
     "profilePublishedAt": null
   },
   {
@@ -20933,52 +20290,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "nasa-gov",
-    "id": "nasa-gov",
-    "type": "site",
-    "name": "NASA",
-    "description": "美国 NASA 官网，提供航天任务、科学新闻、图片、视频和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.nasa.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "航天",
-      "科学",
-      "NASA"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 54,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.nasa.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "images-nasa-gov",
-    "id": "images-nasa-gov",
-    "type": "site",
-    "name": "NASA Images",
-    "description": "NASA 图片和视频资料库，提供航天影像、任务照片、音频和公共素材下载。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://images.nasa.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "图片",
-      "航天",
-      "开放素材"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 55,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://images.nasa.gov/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "esa-int",
     "id": "esa-int",
     "type": "site",
@@ -20999,75 +20310,6 @@
     "priority": 56,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://www.esa.int/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "noaa-gov",
-    "id": "noaa-gov",
-    "type": "site",
-    "name": "NOAA",
-    "description": "美国海洋和大气管理局网站，提供气象、海洋、气候、地图和科学资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.noaa.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "气候",
-      "海洋",
-      "科学"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 57,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.noaa.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "usgs-gov",
-    "id": "usgs-gov",
-    "type": "site",
-    "name": "USGS",
-    "description": "美国地质调查局网站，提供地震、地图、水文、地质和自然资源数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.usgs.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "地质",
-      "地图",
-      "自然资源"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 58,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.usgs.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "earthexplorer-usgs-gov",
-    "id": "earthexplorer-usgs-gov",
-    "type": "site",
-    "name": "USGS EarthExplorer",
-    "description": "遥感影像检索平台，提供 Landsat、航空影像、DEM 和地球观测数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://earthexplorer.usgs.gov/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "遥感",
-      "地图",
-      "数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 59,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://earthexplorer.usgs.gov/",
     "profilePublishedAt": null
   },
   {
@@ -21600,29 +20842,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "si-edu-openaccess",
-    "id": "si-edu-openaccess",
-    "type": "site",
-    "name": "Smithsonian Open Access",
-    "description": "Smithsonian Open Access 的开放资料入口，提供 博物馆、开放数据、图像 相关的数据库、档案或公共知识资源。",
-    "url": "https://www.si.edu/openaccess",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "博物馆",
-      "开放数据",
-      "图像"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 83,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.si.edu/openaccess",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "musicbrainz-org",
     "id": "musicbrainz-org",
     "type": "site",
@@ -21720,7 +20939,7 @@
     "type": "site",
     "name": "Threads",
     "description": "Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。",
-    "url": "https://www.threads.net",
+    "url": "https://www.threads.com/",
     "category": "social-platforms",
     "categoryName": "社交平台",
     "tags": [
@@ -21733,7 +20952,7 @@
     "featured": false,
     "priority": 4,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.threads.net",
+    "sourceUrl": "https://www.threads.com/",
     "profilePublishedAt": null
   },
   {
@@ -22653,29 +21872,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "warpcast-com",
-    "id": "warpcast-com",
-    "type": "site",
-    "name": "Warpcast",
-    "description": "Warpcast 的社交平台入口，面向 Farcaster、社交、社区 等场景提供公开主页和社区服务。",
-    "url": "https://warpcast.com/",
-    "category": "social-platforms",
-    "categoryName": "社交平台",
-    "tags": [
-      "Farcaster",
-      "社交",
-      "社区"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 45,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://warpcast.com/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "lens-xyz",
     "id": "lens-xyz",
     "type": "site",
@@ -23064,14 +22260,15 @@
     "uid": "max-com",
     "id": "max-com",
     "type": "site",
-    "name": "Max",
-    "description": "Warner Bros. Discovery 旗下流媒体服务。",
-    "url": "https://www.max.com",
+    "name": "HBO Max",
+    "description": "HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。",
+    "url": "https://www.hbomax.com/",
     "category": "video-streaming",
     "categoryName": "视频与流媒体",
     "tags": [
+      "影视",
       "流媒体",
-      "影视"
+      "HBO"
     ],
     "language": "multi",
     "hasApp": true,
@@ -23079,7 +22276,7 @@
     "featured": false,
     "priority": 12,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.max.com",
+    "sourceUrl": "https://www.hbomax.com/",
     "profilePublishedAt": null
   },
   {
@@ -24071,29 +23268,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "classes-nebula-tv",
-    "id": "classes-nebula-tv",
-    "type": "site",
-    "name": "Nebula Classes",
-    "description": "Nebula Classes 的视频入口，提供 课程、创作者、视频 相关的观看、订阅或内容发现服务。",
-    "url": "https://classes.nebula.tv/",
-    "category": "video-streaming",
-    "categoryName": "视频与流媒体",
-    "tags": [
-      "课程",
-      "创作者",
-      "视频"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 56,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://classes.nebula.tv/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "curiosityu-com",
     "id": "curiosityu-com",
     "type": "site",
@@ -24214,7 +23388,7 @@
     "type": "site",
     "name": "DIRECTV Stream",
     "description": "DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。",
-    "url": "https://streamtv.directv.com/",
+    "url": "https://www.directv.com/stream/",
     "category": "video-streaming",
     "categoryName": "视频与流媒体",
     "tags": [
@@ -24228,7 +23402,7 @@
     "featured": false,
     "priority": 62,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://streamtv.directv.com/",
+    "sourceUrl": "https://www.directv.com/stream/",
     "profilePublishedAt": null
   },
   {
@@ -27888,29 +27062,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "poker-stackexchange-com",
-    "id": "poker-stackexchange-com",
-    "type": "site",
-    "name": "Poker",
-    "description": "Poker 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。",
-    "url": "https://poker.stackexchange.com",
-    "category": "forums-communities",
-    "categoryName": "论坛社区",
-    "tags": [
-      "问答",
-      "社区",
-      "Stack Exchange"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 150,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://poker.stackexchange.com",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "mathematica-stackexchange-com",
     "id": "mathematica-stackexchange-com",
     "type": "site",
@@ -28282,7 +27433,7 @@
     "uid": "expressionengine-stackexchange-com",
     "id": "expressionengine-stackexchange-com",
     "type": "site",
-    "name": "ExpressionEngine&#174; Answers",
+    "name": "ExpressionEngine® Answers",
     "description": "ExpressionEngine&#174; Answers 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。",
     "url": "https://expressionengine.stackexchange.com",
     "category": "forums-communities",
@@ -28696,7 +27847,7 @@
     "uid": "pt-stackoverflow-com",
     "id": "pt-stackoverflow-com",
     "type": "site",
-    "name": "Stack Overflow em Portugu&#234;s",
+    "name": "Stack Overflow em Português",
     "description": "Stack Overflow em Portugu&#234;s 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。",
     "url": "https://pt.stackoverflow.com",
     "category": "forums-communities",
@@ -29501,7 +28652,7 @@
     "uid": "es-stackoverflow-com",
     "id": "es-stackoverflow-com",
     "type": "site",
-    "name": "Stack Overflow en espa&#241;ol",
+    "name": "Stack Overflow en español",
     "description": "Stack Overflow en espa&#241;ol 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。",
     "url": "https://es.stackoverflow.com",
     "category": "forums-communities",
@@ -30694,29 +29845,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "sec-gov-edgar-search",
-    "id": "sec-gov-edgar-search",
-    "type": "site",
-    "name": "SEC EDGAR",
-    "description": "美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。",
-    "url": "https://www.sec.gov/edgar/search",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "公司文件",
-      "监管",
-      "数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 12,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.sec.gov/edgar/search",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "companiesmarketcap-com",
     "id": "companiesmarketcap-com",
     "type": "site",
@@ -31154,75 +30282,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "federalreserve-gov",
-    "id": "federalreserve-gov",
-    "type": "site",
-    "name": "Federal Reserve",
-    "description": "美国联邦储备系统官网，提供货币政策、利率、监管、研究和经济数据入口。",
-    "url": "https://www.federalreserve.gov/",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "美联储",
-      "货币政策",
-      "数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 32,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.federalreserve.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "bls-gov",
-    "id": "bls-gov",
-    "type": "site",
-    "name": "BLS",
-    "description": "美国劳工统计局官网，提供就业、通胀、工资、职业和劳动力市场数据。",
-    "url": "https://www.bls.gov/",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "就业",
-      "通胀",
-      "美国数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 33,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.bls.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "bea-gov",
-    "id": "bea-gov",
-    "type": "site",
-    "name": "BEA",
-    "description": "美国经济分析局官网，提供 GDP、收入、贸易和地区经济统计数据。",
-    "url": "https://www.bea.gov/",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "GDP",
-      "宏观",
-      "美国数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 34,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.bea.gov/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "ec-europa-eu-eurostat",
     "id": "ec-europa-eu-eurostat",
     "type": "site",
@@ -31412,7 +30471,7 @@
     "type": "site",
     "name": "Financial Modeling Prep",
     "description": "金融数据 API，提供公司财报、估值指标、股票价格、日历和市场数据。核心提供市场行情、宏观指标、公司资料或金融数据。",
-    "url": "https://financialmodelingprep.com/",
+    "url": "https://site.financialmodelingprep.com/",
     "category": "finance-data",
     "categoryName": "财经与数据",
     "tags": [
@@ -31426,7 +30485,7 @@
     "featured": false,
     "priority": 43,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://financialmodelingprep.com/",
+    "sourceUrl": "https://site.financialmodelingprep.com/",
     "profilePublishedAt": null
   },
   {
@@ -31887,52 +30946,6 @@
     "priority": 63,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://www.snb.ch/en/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "fiscaldata-treasury-gov",
-    "id": "fiscaldata-treasury-gov",
-    "type": "site",
-    "name": "U.S. Treasury Data",
-    "description": "美国财政部开放数据平台，提供债务、收入、支出、国债和财政数据集。核心提供市场行情、宏观指标、公司资料或金融数据。",
-    "url": "https://fiscaldata.treasury.gov/",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "财政",
-      "美国",
-      "开放数据"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 64,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://fiscaldata.treasury.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "treasurydirect-gov",
-    "id": "treasurydirect-gov",
-    "type": "site",
-    "name": "TreasuryDirect",
-    "description": "美国国债个人投资入口，提供国债购买、利率、拍卖和储蓄债券资料。核心提供市场行情、宏观指标、公司资料或金融数据。",
-    "url": "https://www.treasurydirect.gov/",
-    "category": "finance-data",
-    "categoryName": "财经与数据",
-    "tags": [
-      "国债",
-      "美国",
-      "利率"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 65,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.treasurydirect.gov/",
     "profilePublishedAt": null
   },
   {
@@ -32419,29 +31432,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "torproject-org",
-    "id": "torproject-org",
-    "type": "site",
-    "name": "Tor Project",
-    "description": "Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。",
-    "url": "https://www.torproject.org",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "隐私",
-      "匿名",
-      "浏览器"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": true,
-    "priority": 2,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.torproject.org",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "signal-org",
     "id": "signal-org",
     "type": "site",
@@ -32784,29 +31774,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "dns0-eu",
-    "id": "dns0-eu",
-    "type": "site",
-    "name": "DNS0.eu",
-    "description": "欧洲非营利公共 DNS 服务，提供恶意域名拦截、儿童保护配置和隐私友好的解析资料。核心提供隐私保护、安全检测、账号防护或安全实践资料。",
-    "url": "https://www.dns0.eu",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "DNS",
-      "安全",
-      "隐私"
-    ],
-    "language": "multi",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 22,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.dns0.eu",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "internet-nl",
     "id": "internet-nl",
     "type": "site",
@@ -32858,7 +31825,7 @@
     "type": "site",
     "name": "Mozilla Observatory",
     "description": "Mozilla 的网站安全检测入口，评估 HTTP 安全头、TLS 配置和常见 Web 安全实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。",
-    "url": "https://observatory.mozilla.org",
+    "url": "https://developer.mozilla.org/en-US/observatory",
     "category": "privacy-security",
     "categoryName": "隐私安全",
     "tags": [
@@ -32872,7 +31839,7 @@
     "featured": false,
     "priority": 24,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://observatory.mozilla.org",
+    "sourceUrl": "https://developer.mozilla.org/en-US/observatory",
     "profilePublishedAt": null
   },
   {
@@ -32898,29 +31865,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "cisa-gov",
-    "id": "cisa-gov",
-    "type": "site",
-    "name": "CISA",
-    "description": "美国网络安全和基础设施安全局，提供网络安全提醒、指南和工具入口。",
-    "url": "https://www.cisa.gov",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "安全",
-      "官方",
-      "美国"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": true,
-    "priority": 25,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.cisa.gov",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "browserleaks-com",
     "id": "browserleaks-com",
     "type": "site",
@@ -32941,29 +31885,6 @@
     "priority": 25,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://browserleaks.com",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "nist-cybersecurity",
-    "id": "nist-cybersecurity",
-    "type": "site",
-    "name": "NIST Cybersecurity",
-    "description": "NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。",
-    "url": "https://www.nist.gov/cybersecurity-and-privacy",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "标准",
-      "安全",
-      "隐私"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": true,
-    "priority": 26,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.nist.gov/cybersecurity-and-privacy",
     "profilePublishedAt": null
   },
   {
@@ -33036,75 +31957,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "identitytheft-gov",
-    "id": "identitytheft-gov",
-    "type": "site",
-    "name": "FTC IdentityTheft.gov",
-    "description": "美国 FTC 身份盗用处理入口，提供身份被盗后的步骤指引、报告和恢复计划。",
-    "url": "https://www.identitytheft.gov/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "身份盗用",
-      "官方",
-      "美国"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 29,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.identitytheft.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "ic3-gov",
-    "id": "ic3-gov",
-    "type": "site",
-    "name": "FBI IC3",
-    "description": "FBI 网络犯罪投诉中心，提供网络诈骗、勒索、钓鱼等事件报告入口。",
-    "url": "https://www.ic3.gov/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "网络犯罪",
-      "举报",
-      "美国"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 30,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.ic3.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "kb-cert-org",
-    "id": "kb-cert-org",
-    "type": "site",
-    "name": "CERT/CC",
-    "description": "CERT 协调中心知识库，提供漏洞公告、协调披露和安全事件资料。",
-    "url": "https://www.kb.cert.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "漏洞",
-      "CERT",
-      "公告"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 31,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.kb.cert.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "isc-sans-edu",
     "id": "isc-sans-edu",
     "type": "site",
@@ -33125,75 +31977,6 @@
     "priority": 32,
     "addedAt": "2026-06-08",
     "sourceUrl": "https://isc.sans.edu/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "cve-org",
-    "id": "cve-org",
-    "type": "site",
-    "name": "CVE",
-    "description": "通用漏洞披露编号系统，提供漏洞 ID、记录规则、CNA 和漏洞资料入口。",
-    "url": "https://www.cve.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "漏洞",
-      "CVE",
-      "标准"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 33,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.cve.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "nvd-nist-gov",
-    "id": "nvd-nist-gov",
-    "type": "site",
-    "name": "NVD",
-    "description": "美国国家漏洞数据库，提供 CVE 详情、CVSS 评分、影响产品和检索工具。",
-    "url": "https://nvd.nist.gov/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "漏洞",
-      "NIST",
-      "CVSS"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 34,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://nvd.nist.gov/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "attack-mitre-org",
-    "id": "attack-mitre-org",
-    "type": "site",
-    "name": "MITRE ATT&CK",
-    "description": "攻击技术知识库，提供攻击者战术、技术、过程和防御映射资料。",
-    "url": "https://attack.mitre.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "威胁模型",
-      "攻击技术",
-      "知识库"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 35,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://attack.mitre.org/",
     "profilePublishedAt": null
   },
   {
@@ -33404,52 +32187,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "tails-net",
-    "id": "tails-net",
-    "type": "site",
-    "name": "Tails",
-    "description": "隐私保护操作系统项目，提供可从 USB 启动、默认走 Tor 的临时工作环境。",
-    "url": "https://tails.net/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "隐私",
-      "操作系统",
-      "Tor"
-    ],
-    "language": "multi",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 45,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://tails.net/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "qubes-os-org",
-    "id": "qubes-os-org",
-    "type": "site",
-    "name": "Qubes OS",
-    "description": "安全隔离型桌面操作系统，核心提供基于虚拟化的应用和任务隔离。",
-    "url": "https://www.qubes-os.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "操作系统",
-      "隔离",
-      "安全"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 46,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.qubes-os.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "privacyinternational-org",
     "id": "privacyinternational-org",
     "type": "site",
@@ -33516,29 +32253,6 @@
     "priority": 49,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://rsf.org/en",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "freedomhouse-org",
-    "id": "freedomhouse-org",
-    "type": "site",
-    "name": "Freedom House",
-    "description": "自由之家网站，提供网络自由、政治权利、公民自由和国家评估报告。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://freedomhouse.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "网络自由",
-      "报告",
-      "权利"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 50,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://freedomhouse.org/",
     "profilePublishedAt": null
   },
   {
@@ -33800,7 +32514,7 @@
     "type": "site",
     "name": "Ente Auth",
     "description": "开源双因素认证应用，提供端到端加密备份、多设备同步和离线验证码。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://ente.io/auth/",
+    "url": "https://ente.com/auth/",
     "category": "privacy-security",
     "categoryName": "隐私安全",
     "tags": [
@@ -33814,7 +32528,7 @@
     "featured": false,
     "priority": 62,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://ente.io/auth/",
+    "sourceUrl": "https://ente.com/auth/",
     "profilePublishedAt": null
   },
   {
@@ -33892,7 +32606,7 @@
     "type": "site",
     "name": "VeraCrypt",
     "description": "开源磁盘加密工具，提供整盘加密、容器加密、隐藏卷和跨平台下载。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://www.veracrypt.fr/en/Home.html",
+    "url": "https://veracrypt.io/en/Home.html",
     "category": "privacy-security",
     "categoryName": "隐私安全",
     "tags": [
@@ -33906,7 +32620,7 @@
     "featured": false,
     "priority": 66,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.veracrypt.fr/en/Home.html",
+    "sourceUrl": "https://veracrypt.io/en/Home.html",
     "profilePublishedAt": null
   },
   {
@@ -33938,7 +32652,7 @@
     "type": "site",
     "name": "age",
     "description": "现代文件加密工具，提供简单命令行、公钥加密、插件和开发库资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://age-encryption.org/",
+    "url": "https://github.com/FiloSottile/age",
     "category": "privacy-security",
     "categoryName": "隐私安全",
     "tags": [
@@ -33952,7 +32666,7 @@
     "featured": false,
     "priority": 68,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://age-encryption.org/",
+    "sourceUrl": "https://github.com/FiloSottile/age",
     "profilePublishedAt": null
   },
   {
@@ -34071,29 +32785,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "securedrop-org",
-    "id": "securedrop-org",
-    "type": "site",
-    "name": "SecureDrop",
-    "description": "面向新闻机构的匿名爆料系统，提供安全投稿、Tor 访问和开源部署资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://securedrop.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "匿名投稿",
-      "新闻安全",
-      "开源"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 74,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://securedrop.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "getsession-org",
     "id": "getsession-org",
     "type": "site",
@@ -34137,29 +32828,6 @@
     "priority": 76,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://wire.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "metrics-torproject-org",
-    "id": "metrics-torproject-org",
-    "type": "site",
-    "name": "Tor Metrics",
-    "description": "Tor 网络统计平台，提供节点、用户、桥接、流量和网络健康数据。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。",
-    "url": "https://metrics.torproject.org/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "Tor",
-      "统计",
-      "网络"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 77,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://metrics.torproject.org/",
     "profilePublishedAt": null
   },
   {
@@ -34229,98 +32897,6 @@
     "priority": 80,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://openssf.org/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "protonvpn-com",
-    "id": "protonvpn-com",
-    "type": "site",
-    "name": "Proton VPN",
-    "description": "Proton VPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。",
-    "url": "https://protonvpn.com/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "VPN",
-      "隐私",
-      "安全"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 81,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://protonvpn.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "mullvad-net",
-    "id": "mullvad-net",
-    "type": "site",
-    "name": "Mullvad VPN",
-    "description": "Mullvad VPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。",
-    "url": "https://mullvad.net/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "VPN",
-      "隐私",
-      "安全"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 82,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://mullvad.net/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "ivpn-net",
-    "id": "ivpn-net",
-    "type": "site",
-    "name": "IVPN",
-    "description": "IVPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。",
-    "url": "https://www.ivpn.net/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "VPN",
-      "隐私",
-      "安全"
-    ],
-    "language": "en",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 83,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.ivpn.net/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "mozilla-org-products-vpn",
-    "id": "mozilla-org-products-vpn",
-    "type": "site",
-    "name": "Mozilla VPN",
-    "description": "Mozilla VPN 的隐私安全入口，提供 VPN、隐私、浏览器 相关的工具、资料或安全服务。",
-    "url": "https://www.mozilla.org/products/vpn/",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "VPN",
-      "隐私",
-      "浏览器"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 84,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.mozilla.org/products/vpn/",
     "profilePublishedAt": null
   },
   {

@@ -1,4 +1,4 @@
-# 新头壳 Newtalk
+# Newtalk 新闻
 
 - 官网：[https://newtalk.tw/](https://newtalk.tw/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/newtalk-tw](https://ifanqiang.com/sites/newtalk-tw)

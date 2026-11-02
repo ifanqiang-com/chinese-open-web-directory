@@ -1,13 +1,13 @@
 # OldVersion
 
-- 官网：[http://www.oldversion.com/](http://www.oldversion.com/)
+- 官网：[https://www.oldversion.com/](https://www.oldversion.com/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/oldversion-com](https://ifanqiang.com/sites/oldversion-com)
 - 分类：应用与下载
 - 标签：旧版本、软件归档、下载
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[http://www.oldversion.com/](http://www.oldversion.com/)
+- 原始链接：[https://www.oldversion.com/](https://www.oldversion.com/)
 
 ## 简介
 

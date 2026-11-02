@@ -25,7 +25,7 @@ taiwannews-com-tw-zh,site,Taiwan News 中文,https://www.taiwannews.com.tw/zh,ch
 abc-net-au-news-chinese,site,ABC中文,https://www.abc.net.au/news/chinese,chinese-news,中文新闻,澳大利亚 ABC 的中文新闻栏目，提供澳洲社会、移民生活、国际议题和解释性报道。,澳大利亚 | 中文 | 新闻,false,2026-06-08
 udn-com-news-index,site,联合新闻网,https://udn.com/news/index,chinese-news,中文新闻,台湾联合报系新闻入口，覆盖台湾政治社会、国际、财经和生活资讯。,台湾 | 新闻 | 综合,false,2026-06-08
 news-tvbs-com-tw,site,TVBS新闻网,https://news.tvbs.com.tw/,chinese-news,中文新闻,台湾 TVBS 新闻网站，提供即时新闻、影音报道、社会事件和国际资讯。,台湾 | 电视 | 新闻,false,2026-06-08
-mirrormedia-mg,site,镜传媒,https://www.mirrormedia.mg/,chinese-news,中文新闻,台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。,台湾 | 深度 | 专题,false,2026-06-08
+mirrormedia-mg,site,镜周刊 Mirror Media,https://www.mirrormedia.mg/,chinese-news,中文新闻,台湾新闻与专题媒体，提供调查报道、人物故事、娱乐文化和财经内容。,台湾 | 深度 | 专题,false,2026-06-08
 twreporter-org,site,报导者,https://www.twreporter.org/,chinese-news,中文新闻,台湾非营利深度报道媒体，核心提供调查报道、专题解释和公共议题资料。,台湾 | 调查报道 | 公共议题,false,2026-06-08
 cw-com-tw,site,天下杂志,https://www.cw.com.tw/,chinese-news,中文新闻,台湾商业与公共议题杂志，提供产业趋势、管理、教育、国际和社会分析。,商业 | 台湾 | 分析,false,2026-06-08
 businessweekly-com-tw,site,商业周刊,https://www.businessweekly.com.tw/,chinese-news,中文新闻,台湾商业媒体，核心提供公司经营、产业趋势、投资理财和职场管理内容。,商业 | 财经 | 台湾,false,2026-06-08
@@ -40,7 +40,7 @@ technews-tw,site,科技新报,https://technews.tw/,chinese-news,中文新闻,台
 inside-com-tw,site,INSIDE,https://www.inside.com.tw/,chinese-news,中文新闻,台湾数字科技媒体，核心提供互联网产业、创业、AI、营销和产品趋势报道。,科技 | 创业 | 产品,false,2026-06-08
 tw-news-yahoo-com,site,Yahoo奇摩新闻,https://tw.news.yahoo.com/,chinese-news,中文新闻,台湾 Yahoo 新闻入口，聚合台湾媒体报道、即时新闻、影音和专题内容。,台湾 | 新闻聚合 | 入口,false,2026-06-08
 peopo-org,site,PeoPo 公民新闻,https://www.peopo.org/,chinese-news,中文新闻,台湾公民新闻平台，收录公民记者投稿、地方议题、社会观察和影音报道。核心提供新闻报道、专题内容和原站更新入口。,台湾 | 公民新闻 | 社区,false,2026-06-09
-newtalk-tw,site,新头壳 Newtalk,https://newtalk.tw/,chinese-news,中文新闻,台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。,台湾 | 新闻 | 评论,false,2026-06-09
+newtalk-tw,site,Newtalk 新闻,https://newtalk.tw/,chinese-news,中文新闻,台湾新闻媒体，覆盖政治、社会、国际、生活和公共议题评论。核心提供新闻报道、专题内容和原站更新入口。,台湾 | 新闻 | 评论,false,2026-06-09
 nownews-com,site,NOWnews 今日新闻,https://www.nownews.com/,chinese-news,中文新闻,台湾综合新闻网站，提供即时新闻、娱乐、生活、国际和财经内容。核心提供新闻报道、专题内容和原站更新入口。,台湾 | 新闻 | 即时,false,2026-06-09
 ettoday-net,site,ETtoday 新闻云,https://www.ettoday.net/,chinese-news,中文新闻,台湾综合新闻入口，提供即时新闻、影音、生活、国际、财经和娱乐报道。核心提供新闻报道、专题内容和原站更新入口。,台湾 | 新闻 | 影音,false,2026-06-09
 hk-news-yahoo-com,site,Yahoo 香港新闻,https://hk.news.yahoo.com/,chinese-news,中文新闻,香港 Yahoo 新闻入口，聚合香港本地、国际、财经、娱乐和生活报道。核心提供新闻报道、专题内容和原站更新入口。,香港 | 新闻聚合 | 入口,false,2026-06-09
@@ -131,7 +131,6 @@ hashnode-com,site,Hashnode,https://hashnode.com/,blogs-publishing,博客与出�
 bearblog-dev,site,Bear Blog,https://bearblog.dev/,blogs-publishing,博客与出版,轻量博客托管平台，核心提供极简写作、快速发布和无广告个人博客。,博客 | 极简 | 写作,false,2026-06-08
 micro-blog,site,Micro.blog,https://micro.blog/,blogs-publishing,博客与出版,独立微博客和博客平台，提供短文发布、RSS、跨站社交和个人域名。,微博客 | 独立站 | RSS,false,2026-06-08
 posthaven-com,site,Posthaven,https://posthaven.com/,blogs-publishing,博客与出版,长期托管博客服务，核心提供稳定发布、邮件投稿和简洁站点管理。,博客 | 长期托管 | 写作,false,2026-06-08
-typepad-com,site,Typepad,https://www.typepad.com/,blogs-publishing,博客与出版,老牌托管博客平台，提供个人和专业博客发布、模板和内容管理。,博客 | 托管 | CMS,false,2026-06-08
 beehiiv-com,site,Beehiiv,https://www.beehiiv.com/,blogs-publishing,博客与出版,Newsletter 发布平台，提供邮件订阅、网站、增长工具和付费内容管理。,Newsletter | 出版 | 订阅,false,2026-06-08
 buttondown-com,site,Buttondown,https://buttondown.com/,blogs-publishing,博客与出版,轻量 Newsletter 服务，核心提供邮件发布、订阅者管理、付费订阅和自动化。,Newsletter | 邮件 | 订阅,false,2026-06-08
 writefreely-org,site,WriteFreely,https://writefreely.org/,blogs-publishing,博客与出版,开源写作和博客软件，提供极简发布、联邦宇宙互通和自托管能力。,写作 | 开源 | 自托管,false,2026-06-08
@@ -148,12 +147,11 @@ getgrav-org,site,Grav,https://getgrav.org/,blogs-publishing,博客与出版,平�
 getpublii-com,site,Publii,https://getpublii.com/,blogs-publishing,博客与出版,桌面静态网站发布工具，提供可视化写作、主题、部署和 SEO 设置。核心提供文章发布、作者主页、订阅和内容发现。,静态站点 | 桌面应用 | 博客,false,2026-06-09
 blot-im,site,Blot,https://blot.im/,blogs-publishing,博客与出版,基于文件夹同步的极简博客服务，适合用 Markdown、图片和文本快速发布。核心提供文章发布、作者主页、订阅和内容发现。,博客 | 极简 | Markdown,false,2026-06-09
 neocities-org,site,Neocities,https://neocities.org/,blogs-publishing,博客与出版,个人网页托管社区，提供静态网页发布、站点发现和复古独立网站空间。核心提供文章发布、作者主页、订阅和内容发现。,个人网站 | 静态托管 | 社区,false,2026-06-09
-carrd-co,site,Carrd,https://carrd.co/,blogs-publishing,博客与出版,单页网站构建工具，提供个人主页、作品集、落地页和简单表单功能。核心提供文章发布、作者主页、订阅和内容发现。,单页网站 | 作品集 | 建站,false,2026-06-09
+carrd-co,site,Carrd,https://carrd.com/,blogs-publishing,博客与出版,单页网站构建工具，提供个人主页、作品集、落地页和简单表单功能。核心提供文章发布、作者主页、订阅和内容发现。,单页网站 | 作品集 | 建站,false,2026-06-09
 webflow-com,site,Webflow,https://webflow.com/,blogs-publishing,博客与出版,可视化网站构建平台，提供设计、CMS、托管、动画和团队协作功能。核心提供文章发布、作者主页、订阅和内容发现。,建站 | CMS | 设计,false,2026-06-09
 squarespace-com,site,Squarespace,https://www.squarespace.com/,blogs-publishing,博客与出版,网站构建和托管平台，提供模板、博客、电商、作品集和域名服务。核心提供文章发布、作者主页、订阅和内容发现。,建站 | 电商 | 模板,false,2026-06-09
 wix-com,site,Wix,https://www.wix.com/,blogs-publishing,博客与出版,可视化建站平台，提供网站模板、博客、电商、预约和营销工具。核心提供文章发布、作者主页、订阅和内容发现。,建站 | 模板 | 电商,false,2026-06-09
 weebly-com,site,Weebly,https://www.weebly.com/,blogs-publishing,博客与出版,拖拽式网站构建平台，提供个人网站、博客、电商和托管功能。核心提供文章发布、作者主页、订阅和内容发现。,建站 | 博客 | 电商,false,2026-06-09
-read-cv,site,Read.cv,https://read.cv/,blogs-publishing,博客与出版,面向创作者和从业者的个人主页平台，提供简历、作品集、项目和网络展示。核心提供文章发布、作者主页、订阅和内容发现。,个人主页 | 作品集 | 简历,false,2026-06-09
 muckrack-com,site,Muck Rack,https://muckrack.com/,blogs-publishing,博客与出版,记者和媒体资料平台，提供作者主页、报道作品、媒体数据库和公关检索。核心提供文章发布、作者主页、订阅和内容发现。,记者 | 媒体资料 | 作品,false,2026-06-09
 journoportfolio-com,site,Journo Portfolio,https://www.journoportfolio.com/,blogs-publishing,博客与出版,记者和写作者作品集工具，提供文章归档、个人网站、简历和联系页面。核心提供文章发布、作者主页、订阅和内容发现。,作品集 | 记者 | 写作,false,2026-06-09
 clippings-me,site,Clippings.me,https://www.clippings.me/,blogs-publishing,博客与出版,写作者作品集平台，提供文章链接整理、作者主页、简历和媒体作品展示。核心提供文章发布、作者主页、订阅和内容发现。,作品集 | 写作 | 作者主页,false,2026-06-09
@@ -161,7 +159,7 @@ appinn-com,site,小众软件,https://www.appinn.com/,blogs-publishing,博客与�
 sspai-com,site,少数派,https://sspai.com/,blogs-publishing,博客与出版,少数派 的出版或博客入口，长期发布 效率、数码、生活 相关的文章、评论和专题内容。,效率 | 数码 | 生活,false,2026-06-17
 iplaysoft-com,site,异次元软件世界,https://www.iplaysoft.com/,blogs-publishing,博客与出版,异次元软件世界 的出版或博客入口，长期发布 软件、应用、中文 相关的文章、评论和专题内容。,软件 | 应用 | 中文,false,2026-06-17
 liqi-io,site,利器,https://liqi.io/,blogs-publishing,博客与出版,利器 的出版或博客入口，长期发布 效率、访谈、工具 相关的文章、评论和专题内容。,效率 | 访谈 | 工具,false,2026-06-17
-yitianshijie-net,site,一言堂,https://yitianshijie.net/,blogs-publishing,博客与出版,一言堂 的出版或博客入口，长期发布 播客、文字、科技 相关的文章、评论和专题内容。,播客 | 文字 | 科技,false,2026-06-17
+yitianshijie-net,site,一天世界,https://yitianshijie.net/,blogs-publishing,博客与出版,一言堂 的出版或博客入口，长期发布 播客、文字、科技 相关的文章、评论和专题内容。,播客 | 文字 | 科技,false,2026-06-17
 gcores-com,site,机核 GCORES,https://www.gcores.com/,blogs-publishing,博客与出版,机核 GCORES 的出版或博客入口，长期发布 游戏、文化、播客 相关的文章、评论和专题内容。,游戏 | 文化 | 播客,false,2026-06-17
 daringfireball-net,site,Daring Fireball,https://daringfireball.net/,blogs-publishing,博客与出版,Daring Fireball 的出版或博客入口，长期发布 Apple、科技、评论 相关的文章、评论和专题内容。,Apple | 科技 | 评论,false,2026-06-17
 kottke-org,site,Kottke.org,https://kottke.org/,blogs-publishing,博客与出版,Kottke.org 的出版或博客入口，长期发布 文化、互联网、博客 相关的文章、评论和专题内容。,文化 | 互联网 | 博客,false,2026-06-17
@@ -224,7 +222,7 @@ propublica-org,site,ProPublica,https://www.propublica.org,international-news,国
 theconversation-com,site,The Conversation,https://theconversation.com,international-news,国际新闻,由学者和编辑合作的新闻分析网站，偏研究解释和公共议题。核心提供新闻报道、专题内容和原站更新入口。,research | analysis | education,false,2026-06-08
 pbs-newshour,site,PBS NewsHour,https://www.pbs.org/newshour,international-news,国际新闻,美国公共电视新闻节目与新闻网站。核心提供新闻报道、专题内容和原站更新入口。,public-media | us | video,false,2026-06-08
 channelnewsasia-com,site,CNA,https://www.channelnewsasia.com/,international-news,国际新闻,新加坡 Channel NewsAsia 英文新闻入口，提供亚洲、国际、商业和视频新闻。,asia | news | singapore,false,2026-06-08
-abcnews-go-com,site,ABC News,https://abcnews.go.com/,international-news,国际新闻,美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。,us | news | video,false,2026-06-08
+abcnews-go-com,site,ABC News,https://abcnews.com/,international-news,国际新闻,美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。,us | news | video,false,2026-06-08
 cbsnews-com,site,CBS News,https://www.cbsnews.com/,international-news,国际新闻,美国 CBS 新闻入口，提供电视新闻、调查报道、美国和国际新闻视频。,us | tv | news,false,2026-06-08
 nbcnews-com,site,NBC News,https://www.nbcnews.com/,international-news,国际新闻,美国 NBC 新闻网站，核心提供美国政治、社会、国际、商业和突发新闻。,us | news | politics,false,2026-06-08
 news-sky-com,site,Sky News,https://news.sky.com/,international-news,国际新闻,英国 Sky News 新闻入口，提供英国、欧洲、国际和直播新闻视频。,uk | tv | live,false,2026-06-08
@@ -303,8 +301,6 @@ insideclimatenews-org,site,Inside Climate News,https://insideclimatenews.org/,in
 grist-org,site,Grist,https://grist.org/,international-news,国际新闻,Grist 的新闻入口，覆盖 气候、环境、新闻 等主题，适合作为国际信息来源补充。,气候 | 环境 | 新闻,false,2026-06-17
 404media-co,site,404 Media,https://www.404media.co/,international-news,国际新闻,404 Media 的新闻入口，覆盖 科技、调查、新闻 等主题，适合作为国际信息来源补充。,科技 | 调查 | 新闻,false,2026-06-17
 scholar-google-com,site,Google Scholar,https://scholar.google.com,academic-research,学术研究,学术文献搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 论文 | 搜索,true,2026-06-08
-arxiv-org,site,arXiv,https://arxiv.org,academic-research,学术研究,开放预印本论文库。核心提供论文、作者、数据集或学术出版信息检索。,论文 | 预印本 | 学术,true,2026-06-08
-pubmed-ncbi-nlm-nih-gov,site,PubMed,https://pubmed.ncbi.nlm.nih.gov,academic-research,学术研究,生命科学与医学文献数据库。核心提供论文、作者、数据集或学术出版信息检索。,医学 | 论文 | 学术,false,2026-06-08
 semanticscholar-org,site,Semantic Scholar,https://www.semanticscholar.org,academic-research,学术研究,学术论文搜索和发现平台。核心提供论文、作者、数据集或学术出版信息检索。,论文 | 搜索 | 学术,false,2026-06-08
 jstor-org,site,JSTOR,https://www.jstor.org,academic-research,学术研究,学术期刊、书籍和资料库。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 期刊 | 资料,false,2026-06-08
 muse-jhu-edu,site,Project MUSE,https://muse.jhu.edu,academic-research,学术研究,人文社科期刊和图书平台。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 人文 | 社科,false,2026-06-08
@@ -314,12 +310,11 @@ openalex-org,site,OpenAlex,https://openalex.org,academic-research,学术研究,�
 crossref-org,site,Crossref,https://www.crossref.org,academic-research,学术研究,DOI 和学术出版元数据组织。核心提供论文、作者、数据集或学术出版信息检索。,DOI | 学术 | 数据,false,2026-06-08
 core-ac-uk,site,CORE,https://core.ac.uk,academic-research,学术研究,开放获取研究论文聚合平台。核心提供论文、作者、数据集或学术出版信息检索。,论文 | 开放获取 | 学术,false,2026-06-08
 base-search-net,site,BASE,https://www.base-search.net,academic-research,学术研究,学术搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 搜索 | 论文,false,2026-06-08
-worldcat-org,site,WorldCat,https://www.worldcat.org,academic-research,学术研究,全球图书馆馆藏搜索。核心提供论文、作者、数据集或学术出版信息检索。,图书馆 | 书籍 | 学术,false,2026-06-08
+worldcat-org,site,WorldCat,https://search.worldcat.org/,academic-research,学术研究,全球图书馆馆藏搜索。核心提供论文、作者、数据集或学术出版信息检索。,图书馆 | 书籍 | 学术,false,2026-06-08
 researchgate-net,site,ResearchGate,https://www.researchgate.net,academic-research,学术研究,学术社交与论文分享平台。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 社交 | 论文,false,2026-06-08
 academia-edu,site,Academia.edu,https://www.academia.edu,academic-research,学术研究,学术论文分享和研究者平台。核心提供论文、作者、数据集或学术出版信息检索。,学术 | 论文 | 社交,false,2026-06-08
 doabooks-org,site,DOAB,https://www.doabooks.org,academic-research,学术研究,开放获取学术图书目录，收录同行评审开放图书。核心提供论文、作者、数据集或学术出版信息检索。,开放获取 | 图书 | 学术,false,2026-06-08
 openstax-org,site,OpenStax,https://openstax.org,academic-research,学术研究,Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。,教材 | 开放教育 | 学术,false,2026-06-08
-pmc-ncbi-nlm-nih-gov,site,PubMed Central,https://pmc.ncbi.nlm.nih.gov/,academic-research,学术研究,美国 NIH 开放医学论文库，提供生命科学和医学论文全文检索。,医学 | 开放获取 | 论文,false,2026-06-08
 europepmc-org,site,Europe PMC,https://europepmc.org/,academic-research,学术研究,欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。,医学 | 论文 | 欧洲,false,2026-06-08
 medrxiv-org,site,medRxiv,https://www.medrxiv.org/,academic-research,学术研究,医学预印本平台，核心提供尚未同行评审的临床和健康科学研究论文。,医学 | 预印本 | 论文,false,2026-06-08
 biorxiv-org,site,bioRxiv,https://www.biorxiv.org/,academic-research,学术研究,生命科学预印本平台，提供生物学研究论文、分类浏览和早期成果发布。,生物 | 预印本 | 论文,false,2026-06-08
@@ -330,11 +325,9 @@ osf-io,site,OSF,https://osf.io/,academic-research,学术研究,开放科学框�
 figshare-com,site,Figshare,https://figshare.com/,academic-research,学术研究,科研数据和成果共享平台，提供数据集、图表、论文补充材料和 DOI。,数据集 | 开放获取 | DOI,false,2026-06-08
 repec-org,site,RePEc,http://repec.org/,academic-research,学术研究,经济学研究论文网络，核心提供经济学论文、作者、机构和工作论文索引。,经济学 | 论文 | 索引,false,2026-06-08
 ideas-repec-org,site,IDEAS,https://ideas.repec.org/,academic-research,学术研究,RePEc 旗下经济学文献搜索入口，提供论文、作者、引用和期刊资料。,经济学 | 搜索 | 论文,false,2026-06-08
-nber-org,site,NBER,https://www.nber.org/,academic-research,学术研究,美国国家经济研究局，提供经济学工作论文、研究项目和数据资料。,经济学 | 工作论文 | 数据,false,2026-06-08
 econpapers-repec-org,site,EconPapers,https://econpapers.repec.org/,academic-research,学术研究,经济学论文搜索入口，基于 RePEc 提供论文、图书章节和作者资料。,经济学 | 论文 | 搜索,false,2026-06-08
 dblp-org,site,DBLP,https://dblp.org/,academic-research,学术研究,计算机科学文献索引，提供作者、论文、会议、期刊和出版关系检索。,计算机 | 论文 | 索引,false,2026-06-08
 aclanthology-org,site,ACL Anthology,https://aclanthology.org/,academic-research,学术研究,计算语言学论文库，提供 ACL 相关会议、期刊和自然语言处理论文全文。,NLP | 论文 | 会议,false,2026-06-08
-paperswithcode-com,site,Papers with Code,https://paperswithcode.com/,academic-research,学术研究,机器学习论文和代码平台，提供论文、任务、数据集、排行榜和实现链接。,机器学习 | 代码 | 论文,false,2026-06-08
 philpapers-org,site,PhilPapers,https://philpapers.org/,academic-research,学术研究,哲学文献索引，核心提供论文、书籍、主题分类、作者和期刊资料。,哲学 | 论文 | 索引,false,2026-06-08
 dl-acm-org,site,ACM Digital Library,https://dl.acm.org/,academic-research,学术研究,ACM 数字图书馆，提供计算机科学期刊、会议论文和出版物检索。,计算机 | 期刊 | 会议,false,2026-06-08
 ieeexplore-ieee-org,site,IEEE Xplore,https://ieeexplore.ieee.org/,academic-research,学术研究,IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。,工程 | 论文 | 标准,false,2026-06-08
@@ -351,20 +344,16 @@ unpaywall-org,site,Unpaywall,https://unpaywall.org/,academic-research,学术研�
 openaire-eu,site,OpenAIRE,https://www.openaire.eu/,academic-research,学术研究,欧洲开放科学基础设施，提供项目、论文、数据集、机构和资助关系发现。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,开放科学 | 欧洲 | 研究,false,2026-06-09
 openreview-net,site,OpenReview,https://openreview.net/,academic-research,学术研究,开放同行评审平台，提供会议投稿、评审、讨论、论文和作者资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,同行评审 | 会议 | 论文,false,2026-06-09
 dimensions-ai,site,Dimensions,https://www.dimensions.ai/,academic-research,学术研究,研究信息平台，提供论文、资助、专利、临床试验和引用分析入口。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,研究分析 | 论文 | 资助,false,2026-06-09
-eric-ed-gov,site,ERIC,https://eric.ed.gov/,academic-research,学术研究,教育学文献数据库，提供教育研究论文、报告、政策资料和全文链接。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,教育 | 论文 | 数据库,false,2026-06-09
 osf-io-preprints-psyarxiv,site,PsyArXiv,https://osf.io/preprints/psyarxiv,academic-research,学术研究,心理学预印本平台，提供心理学研究早期论文和开放科学资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,心理学 | 预印本 | 论文,false,2026-06-09
 osf-io-preprints-socarxiv,site,SocArXiv,https://osf.io/preprints/socarxiv,academic-research,学术研究,社会科学预印本平台，提供社会学、政治学、传播和相关领域早期论文。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,社科 | 预印本 | 论文,false,2026-06-09
 eartharxiv-org,site,EarthArXiv,https://eartharxiv.org/,academic-research,学术研究,地球科学预印本平台，提供地质、气候、海洋和环境科学早期论文。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,地球科学 | 预印本 | 论文,false,2026-06-09
 huggingface-co-papers,site,Hugging Face Papers,https://huggingface.co/papers,academic-research,学术研究,Hugging Face 论文发现入口，聚合机器学习论文、社区讨论、代码模型链接和每日热门研究。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,论文发现 | 机器学习 | AI,false,2026-06-09
-ui-adsabs-harvard-edu,site,NASA ADS,https://ui.adsabs.harvard.edu/,academic-research,学术研究,天文学和物理文献数据库，提供论文、引用、作者和天体物理资料检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,天文学 | 物理 | 论文,false,2026-06-09
 inspirehep-net,site,INSPIRE HEP,https://inspirehep.net/,academic-research,学术研究,高能物理文献数据库，提供论文、作者、引用、实验和数据资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,高能物理 | 论文 | 引用,false,2026-06-09
 zbmath-org,site,zbMATH Open,https://zbmath.org/,academic-research,学术研究,开放数学文献数据库，提供数学论文、作者、分类和评论资料检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,数学 | 论文 | 索引,false,2026-06-09
 projecteuclid-org,site,Project Euclid,https://projecteuclid.org/,academic-research,学术研究,数学和统计学出版平台，提供期刊论文、会议论文和开放获取内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,数学 | 统计 | 期刊,false,2026-06-09
 pubpeer-com,site,PubPeer,https://pubpeer.com/,academic-research,学术研究,学术论文讨论平台，提供论文后评议、问题反馈、作者回应和研究诚信线索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,论文讨论 | 同行评议 | 科研诚信,false,2026-06-09
-clinicaltrials-gov,site,ClinicalTrials.gov,https://clinicaltrials.gov/,academic-research,学术研究,临床试验注册数据库，提供试验设计、招募状态、结果和研究机构资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,临床试验 | 医学 | 数据库,false,2026-06-09
 cochranelibrary-com,site,Cochrane Library,https://www.cochranelibrary.com/,academic-research,学术研究,循证医学资料库，提供系统综述、临床证据和医学干预研究资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,循证医学 | 综述 | 临床,false,2026-06-09
 iris-who-int,site,WHO IRIS,https://iris.who.int/,academic-research,学术研究,世界卫生组织机构知识库，提供报告、指南、统计资料和公共卫生出版物。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,WHO | 公共卫生 | 报告,false,2026-06-09
-cdc-gov-library-researchguides,site,CDC Publications,https://www.cdc.gov/library/researchguides/,academic-research,学术研究,美国 CDC 研究资料入口，提供公共卫生文献指南、数据资源和出版物线索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,公共卫生 | CDC | 资料,false,2026-06-09
 nature-com,site,Nature,https://www.nature.com/,academic-research,学术研究,Nature 出版平台，提供科学期刊论文、新闻、评论和研究合集。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,科学 | 期刊 | 出版,false,2026-06-09
 science-org,site,Science,https://www.science.org/,academic-research,学术研究,AAAS Science 出版平台，提供科学期刊、新闻、评论和研究论文。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,科学 | 期刊 | 研究,false,2026-06-09
 plos-org,site,PLOS,https://plos.org/,academic-research,学术研究,开放获取科学出版机构，提供 PLOS 系列期刊、论文和开放科学资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,开放获取 | 期刊 | 科学,false,2026-06-09
@@ -388,12 +377,6 @@ data-mendeley-com,site,Mendeley Data,https://data.mendeley.com/,academic-researc
 ukdataservice-ac-uk,site,UK Data Service,https://ukdataservice.ac.uk/,academic-research,学术研究,英国社会科学数据服务，提供调查数据、人口统计、经济数据和研究支持。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,社科数据 | 英国 | 研究,false,2026-06-09
 icpsr-umich-edu-web-pages,site,ICPSR,https://www.icpsr.umich.edu/web/pages/,academic-research,学术研究,社会科学数据档案，提供调查、政治、健康、教育和经济数据集。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,社科数据 | 档案 | 数据集,false,2026-06-09
 search-gesis-org,site,GESIS Search,https://search.gesis.org/,academic-research,学术研究,德国社会科学资料搜索平台，提供数据集、问卷、出版物和研究项目检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,社科 | 数据集 | 欧洲,false,2026-06-09
-openneuro-org,site,OpenNeuro,https://openneuro.org/,academic-research,学术研究,神经科学开放数据平台，提供脑影像数据集、元数据、下载和研究项目资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,神经科学 | 数据集 | 开放数据,false,2026-06-09
-physionet-org,site,PhysioNet,https://physionet.org/,academic-research,学术研究,生理信号开放数据库，提供临床时间序列、心电数据、软件和挑战赛资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,医学数据 | 生理信号 | 开放数据,false,2026-06-09
-ncbi-nlm-nih-gov-genbank,site,GenBank,https://www.ncbi.nlm.nih.gov/genbank/,academic-research,学术研究,NCBI 基因序列数据库入口，提供核酸序列、提交工具和生物信息资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,基因 | 生物信息 | 数据库,false,2026-06-09
-rcsb-org,site,Protein Data Bank,https://www.rcsb.org/,academic-research,学术研究,蛋白质结构数据库，提供三维结构、实验方法、配体和生物分子资料。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,蛋白质 | 结构生物学 | 数据库,false,2026-06-09
-uniprot-org,site,UniProt,https://www.uniprot.org/,academic-research,学术研究,蛋白质知识库，提供蛋白功能、序列、注释、互作和生物信息检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,蛋白质 | 生物信息 | 知识库,false,2026-06-09
-cnx-org,site,OpenStax CNX,https://cnx.org/,academic-research,学术研究,开放教育资源平台，提供模块化教材、课程资料和可复用学习内容。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,开放教育 | 教材 | 学习,false,2026-06-09
 open-umn-edu-opentextbooks,site,Open Textbook Library,https://open.umn.edu/opentextbooks,academic-research,学术研究,明尼苏达大学支持的开放教材目录，提供可免费使用和改编的大学教材、同行评审和学科分类。核心提供论文、作者、数据集、实验记录或学术出版信息检索。,开放教材 | 教育 | 学术,false,2026-06-09
 scielo-org,site,SciELO,https://scielo.org/,academic-research,学术研究,SciELO 的学术资源入口，面向 开放获取、拉美、期刊 等研究资料、论文检索或科研工作流。,开放获取 | 拉美 | 期刊,false,2026-06-17
 redalyc-org,site,Redalyc,https://www.redalyc.org/,academic-research,学术研究,Redalyc 的学术资源入口，面向 开放获取、期刊、拉美 等研究资料、论文检索或科研工作流。,开放获取 | 期刊 | 拉美,false,2026-06-17
@@ -403,11 +386,9 @@ persee-fr,site,Persée,https://www.persee.fr/,academic-research,学术研究,Per
 journals-openedition-org,site,OpenEdition Journals,https://journals.openedition.org/,academic-research,学术研究,OpenEdition Journals 的学术资源入口，面向 人文社科、开放获取、期刊 等研究资料、论文检索或科研工作流。,人文社科 | 开放获取 | 期刊,false,2026-06-17
 jstage-jst-go-jp,site,J-STAGE,https://www.jstage.jst.go.jp/,academic-research,学术研究,J-STAGE 的学术资源入口，面向 日本、学术、期刊 等研究资料、论文检索或科研工作流。,日本 | 学术 | 期刊,false,2026-06-17
 cir-nii-ac-jp,site,CiNii Research,https://cir.nii.ac.jp/,academic-research,学术研究,CiNii Research 的学术资源入口，面向 日本、论文、学术搜索 等研究资料、论文检索或科研工作流。,日本 | 论文 | 学术搜索,false,2026-06-17
-pubchem-ncbi-nlm-nih-gov,site,PubChem,https://pubchem.ncbi.nlm.nih.gov/,academic-research,学术研究,PubChem 的学术资源入口，面向 化学、数据库、研究 等研究资料、论文检索或科研工作流。,化学 | 数据库 | 研究,false,2026-06-17
-ar5iv-labs-arxiv-org,site,ar5iv,https://ar5iv.labs.arxiv.org/,academic-research,学术研究,ar5iv 的学术资源入口，面向 论文、HTML、预印本 等研究资料、论文检索或科研工作流。,论文 | HTML | 预印本,false,2026-06-17
 connectedpapers-com,site,Connected Papers,https://www.connectedpapers.com/,academic-research,学术研究,Connected Papers 的学术资源入口，面向 论文图谱、研究、发现 等研究资料、论文检索或科研工作流。,论文图谱 | 研究 | 发现,false,2026-06-17
 researchrabbit-ai,site,ResearchRabbit,https://www.researchrabbit.ai/,academic-research,学术研究,ResearchRabbit 的学术资源入口，面向 论文发现、文献图谱、研究 等研究资料、论文检索或科研工作流。,论文发现 | 文献图谱 | 研究,false,2026-06-17
-inciteful-xyz,site,Inciteful,https://inciteful.xyz/,academic-research,学术研究,Inciteful 的学术资源入口，面向 论文发现、引用、研究 等研究资料、论文检索或科研工作流。,论文发现 | 引用 | 研究,false,2026-06-17
+inciteful-xyz,site,Inciteful Academic,https://incitefulmed.com/academic/,academic-research,学术研究,通过论文引用关系探索学术文献，提供关联论文发现和文献网络分析工具。,论文发现 | 引用 | 研究,false,2026-06-17
 sourceforge-net,site,SourceForge,https://sourceforge.net,apps-downloads,应用与下载,开源软件下载和项目托管平台。核心提供软件下载、应用商店、替代品搜索或安装管理。,软件 | 开源 | 下载,true,2026-06-08
 fosshub-com,site,FossHub,https://www.fosshub.com,apps-downloads,应用与下载,软件下载站，偏免费和开源软件。核心提供软件下载、应用商店、替代品搜索或安装管理。,软件 | 下载 | 开源,true,2026-06-08
 alternativeto-net,site,AlternativeTo,https://alternativeto.net,apps-downloads,应用与下载,软件替代品搜索和推荐网站。核心提供软件下载、应用商店、替代品搜索或安装管理。,软件 | 替代 | 推荐,true,2026-06-08
@@ -448,15 +429,13 @@ filehorse-com,site,FileHorse,https://www.filehorse.com/,apps-downloads,应用与
 filehippo-com,site,FileHippo,https://filehippo.com/,apps-downloads,应用与下载,软件下载网站，提供 Windows 软件、版本更新、分类目录和下载入口。核心提供软件下载、应用商店、替代品搜索或安装管理。,软件下载 | Windows | 更新,false,2026-06-09
 snapfiles-com,site,SnapFiles,https://www.snapfiles.com/,apps-downloads,应用与下载,Windows 软件目录，提供免费软件、试用软件、编辑推荐和下载分类。核心提供软件下载、应用商店、替代品搜索或安装管理。,Windows | 软件下载 | 目录,false,2026-06-09
 freewarefiles-com,site,FreewareFiles,https://www.freewarefiles.com/,apps-downloads,应用与下载,免费软件目录，提供 Windows 工具、网络、安全、图形和多媒体软件下载。核心提供软件下载、应用商店、替代品搜索或安装管理。,免费软件 | Windows | 下载,false,2026-06-09
-oldversion-com,site,OldVersion,http://www.oldversion.com/,apps-downloads,应用与下载,旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。,旧版本 | 软件归档 | 下载,false,2026-06-09
+oldversion-com,site,OldVersion,https://www.oldversion.com/,apps-downloads,应用与下载,旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。,旧版本 | 软件归档 | 下载,false,2026-06-09
 macupdate-com-find-mac,site,MacUpdate Search,https://www.macupdate.com/find/mac,apps-downloads,应用与下载,MacUpdate 的 macOS 软件搜索入口，提供应用目录、版本更新、分类浏览和下载线索。核心提供软件下载、应用商店、替代品搜索或安装管理。,macOS | 软件发现 | 下载,false,2026-06-09
-getmacapps-com,site,GetMacApps,https://getmacapps.com/,apps-downloads,应用与下载,macOS 常用软件批量安装工具，提供勾选应用并生成安装脚本功能。核心提供软件下载、应用商店、替代品搜索或安装管理。,macOS | 批量安装 | 软件,false,2026-06-09
 corecode-io-macupdater,site,MacUpdater,https://www.corecode.io/macupdater/,apps-downloads,应用与下载,macOS 软件更新工具，提供应用版本扫描、更新检测和下载跳转。核心提供软件下载、应用商店、替代品搜索或安装管理。,macOS | 更新 | 软件管理,false,2026-06-09
 search-nixos-org-options,site,NixOS Search Options,https://search.nixos.org/options,apps-downloads,应用与下载,NixOS 配置选项搜索入口，提供系统模块、配置项、说明和示例查询。核心提供软件下载、应用商店、替代品搜索或安装管理。,NixOS | 包管理 | 配置,false,2026-06-09
 formulae-brew-sh,site,Homebrew Formulae,https://formulae.brew.sh/,apps-downloads,应用与下载,Homebrew 软件包索引，提供 formula、cask、版本、依赖和安装命令查询。核心提供软件下载、应用商店、替代品搜索或安装管理。,Homebrew | 包管理 | macOS,false,2026-06-09
 community-chocolatey-org-packages,site,Chocolatey Community Packages,https://community.chocolatey.org/packages,apps-downloads,应用与下载,Chocolatey 社区包目录，提供 Windows 软件包、版本、安装命令和维护信息。核心提供软件下载、应用商店、替代品搜索或安装管理。,Windows | 包管理 | 软件,false,2026-06-09
 snapcraft-io-store,site,Snap Store,https://snapcraft.io/store,apps-downloads,应用与下载,Ubuntu Snap 应用商店入口，提供 Linux 应用、版本、安装命令和发布者资料。核心提供软件下载、应用商店、替代品搜索或安装管理。,Linux | Snap | 应用商店,false,2026-06-09
-flathub-org-apps,site,Flathub Apps,https://flathub.org/apps,apps-downloads,应用与下载,Flathub 应用目录，提供 Linux Flatpak 应用、安装说明、截图和版本信息。核心提供软件下载、应用商店、替代品搜索或安装管理。,Linux | Flatpak | 应用,false,2026-06-09
 alternativeto-net-browse-search,site,AlternativeTo Browse,https://alternativeto.net/browse/search/,apps-downloads,应用与下载,AlternativeTo 浏览入口，提供软件替代品、平台筛选、开源选项和用户推荐。核心提供软件下载、应用商店、替代品搜索或安装管理。,软件替代 | 发现 | 推荐,false,2026-06-09
 appbrain-com,site,AppBrain,https://www.appbrain.com/,apps-downloads,应用与下载,AppBrain 的应用入口，提供 Android、应用、发现 相关的软件主页、下载或应用发现服务。,Android | 应用 | 发现,false,2026-06-17
 videolan-org-vlc,site,VLC,https://www.videolan.org/vlc/,apps-downloads,应用与下载,VLC 的应用入口，提供 播放器、开源、多媒体 相关的软件主页、下载或应用发现服务。,播放器 | 开源 | 多媒体,false,2026-06-17
@@ -484,7 +463,7 @@ qgis-org,site,QGIS,https://qgis.org/,apps-downloads,应用与下载,QGIS 的应�
 krita-org,site,Krita,https://krita.org/,apps-downloads,应用与下载,Krita 的应用入口，提供 绘画、开源、设计 相关的软件主页、下载或应用发现服务。,绘画 | 开源 | 设计,false,2026-06-17
 doc2x-noedgeai-com,site,Doc2X,https://doc2x.noedgeai.com/,apps-downloads,应用与下载,面向 PDF、扫描件和图片的文档解析与翻译工具，可识别公式、表格和版面，并导出 Word、Markdown、LaTeX 等格式。,AI | OCR | 文档 | 格式转换 | 翻译,false,2026-10-28
 github-com,site,GitHub,https://github.com,developer-resources,开发者资源,代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | 开发 | Git,true,2026-06-08
-gitlab-com,site,GitLab,https://gitlab.com,developer-resources,开发者资源,代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | DevOps | Git,false,2026-06-08
+gitlab-com,site,GitLab,https://about.gitlab.com/,developer-resources,开发者资源,代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | DevOps | Git,false,2026-06-08
 bitbucket-org,site,Bitbucket,https://bitbucket.org,developer-resources,开发者资源,Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。,代码 | Git | 团队,false,2026-06-08
 stackoverflow-com,site,Stack Overflow,https://stackoverflow.com,developer-resources,开发者资源,开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。,开发 | 问答 | 编程,true,2026-06-08
 developer-mozilla-org,site,MDN Web Docs,https://developer.mozilla.org,developer-resources,开发者资源,Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。,Web | 文档 | 前端,true,2026-06-08
@@ -512,7 +491,7 @@ docs-netlify-com,site,Netlify Docs,https://docs.netlify.com/,developer-resources
 developers-cloudflare-com,site,Cloudflare Docs,https://developers.cloudflare.com/,developer-resources,开发者资源,Cloudflare 开发者文档，提供 DNS、Workers、Pages、安全和边缘网络产品资料。,Cloudflare | 边缘计算 | 文档,false,2026-06-08
 docs-aws-amazon-com,site,AWS Docs,https://docs.aws.amazon.com/,developer-resources,开发者资源,AWS 官方文档入口，提供云服务 API、架构指南、CLI 和产品配置资料。,AWS | 云服务 | 文档,false,2026-06-08
 learn-microsoft-com-en-us-azure,site,Azure Docs,https://learn.microsoft.com/en-us/azure/,developer-resources,开发者资源,Microsoft Azure 文档入口，提供云服务、身份、数据库、AI 和部署指南。,Azure | 云服务 | 文档,false,2026-06-08
-cloud-google-com-docs,site,Google Cloud Docs,https://cloud.google.com/docs,developer-resources,开发者资源,Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。,Google Cloud | 云服务 | 文档,false,2026-06-08
+cloud-google-com-docs,site,Google Cloud Docs,https://docs.cloud.google.com/docs,developer-resources,开发者资源,Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。,Google Cloud | 云服务 | 文档,false,2026-06-08
 developer-hashicorp-com-terraform-docs,site,Terraform Docs,https://developer.hashicorp.com/terraform/docs,developer-resources,开发者资源,Terraform 官方文档，提供基础设施即代码、Provider、模块和状态管理资料。,IaC | Terraform | 文档,false,2026-06-08
 docs-ansible-com,site,Ansible Docs,https://docs.ansible.com/,developer-resources,开发者资源,Ansible 官方文档，提供自动化配置、Playbook、模块和运维实践资料。,自动化 | 运维 | 文档,false,2026-06-08
 nginx-org-en-docs,site,NGINX Docs,https://nginx.org/en/docs/,developer-resources,开发者资源,NGINX 官方文档，提供 Web 服务器、反向代理、负载均衡和配置指令资料。,服务器 | 反向代理 | 文档,false,2026-06-08
@@ -531,7 +510,7 @@ tailwindcss-com-docs,site,Tailwind CSS Docs,https://tailwindcss.com/docs,develop
 docs-deno-com,site,Deno Docs,https://docs.deno.com/,developer-resources,开发者资源,Deno 官方文档，提供 JavaScript/TypeScript 运行时、工具链、部署和 API 资料。,Deno | TypeScript | 文档,false,2026-06-08
 bun-sh-docs,site,Bun Docs,https://bun.sh/docs,developer-resources,开发者资源,Bun 官方文档，提供 JavaScript 运行时、包管理器、测试器和构建工具资料。,Bun | JavaScript | 文档,false,2026-06-08
 php-net-docs-php,site,PHP Docs,https://www.php.net/docs.php,developer-resources,开发者资源,PHP 官方文档，提供语言语法、标准库、扩展、函数参考和版本资料。,PHP | 语言文档 | 后端,false,2026-06-08
-laravel-com-docs,site,Laravel Docs,https://laravel.com/docs,developer-resources,开发者资源,Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。,Laravel | PHP | 文档,false,2026-06-08
+laravel-com-docs,site,Laravel Docs,https://laravel.com/framework/docs,developer-resources,开发者资源,Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。,Laravel | PHP | 文档,false,2026-06-08
 docs-djangoproject-com,site,Django Docs,https://docs.djangoproject.com/,developer-resources,开发者资源,Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。,Django | Python | 文档,false,2026-06-08
 guides-rubyonrails-org,site,Rails Guides,https://guides.rubyonrails.org/,developer-resources,开发者资源,Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。,Rails | Ruby | 文档,false,2026-06-08
 fastapi-tiangolo-com,site,FastAPI Docs,https://fastapi.tiangolo.com/,developer-resources,开发者资源,FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。,FastAPI | Python | API,false,2026-06-08
@@ -543,7 +522,7 @@ kotlinlang-org-docs,site,Kotlin Docs,https://kotlinlang.org/docs/,developer-reso
 swift-org-documentation,site,Swift Docs,https://www.swift.org/documentation/,developer-resources,开发者资源,Swift 官方文档，提供语言指南、标准库、包管理和服务器端 Swift 资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Swift | 语言文档 | Apple,false,2026-06-09
 learn-microsoft-com-en-us-dotnet,site,.NET Docs,https://learn.microsoft.com/en-us/dotnet/,developer-resources,开发者资源,Microsoft .NET 文档，提供 C#、运行时、ASP.NET、桌面和云开发资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,.NET | C# | 文档,false,2026-06-09
 docs-scala-lang-org,site,Scala Docs,https://docs.scala-lang.org/,developer-resources,开发者资源,Scala 官方文档，提供语言教程、集合库、工具链、Scala 3 和生态资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Scala | 语言文档 | JVM,false,2026-06-09
-hexdocs-pm-elixir,site,Elixir Docs,https://hexdocs.pm/elixir/,developer-resources,开发者资源,Elixir 官方 API 文档，提供语言模块、标准库、Mix、OTP 和示例资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Elixir | 语言文档 | 函数式,false,2026-06-09
+hexdocs-pm-elixir,site,Elixir Docs,https://elixir.hexdocs.pm/,developer-resources,开发者资源,Elixir 官方 API 文档，提供语言模块、标准库、Mix、OTP 和示例资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Elixir | 语言文档 | 函数式,false,2026-06-09
 erlang-org-docs,site,Erlang Docs,https://www.erlang.org/docs,developer-resources,开发者资源,Erlang 官方文档，提供语言、OTP、标准库、工具和并发编程资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Erlang | OTP | 文档,false,2026-06-09
 haskell-org-documentation,site,Haskell Docs,https://www.haskell.org/documentation/,developer-resources,开发者资源,Haskell 文档入口，提供语言教程、工具链、库、包管理和学习资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Haskell | 函数式 | 文档,false,2026-06-09
 ocaml-org-docs,site,OCaml Docs,https://ocaml.org/docs,developer-resources,开发者资源,OCaml 官方文档，提供语言指南、包管理、工具链和函数式编程资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,OCaml | 函数式 | 文档,false,2026-06-09
@@ -580,7 +559,7 @@ quarkus-io-guides,site,Quarkus Guides,https://quarkus.io/guides/,developer-resou
 docs-micronaut-io,site,Micronaut Docs,https://docs.micronaut.io/,developer-resources,开发者资源,Micronaut 官方文档，提供 JVM 微服务、依赖注入、云原生和测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Java | 微服务 | 文档,false,2026-06-09
 docs-nestjs-com,site,NestJS Docs,https://docs.nestjs.com/,developer-resources,开发者资源,NestJS 官方文档，提供 Node.js 服务端框架、模块、依赖注入和 API 开发资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Node.js | 后端 | 文档,false,2026-06-09
 hono-dev-docs,site,Hono Docs,https://hono.dev/docs/,developer-resources,开发者资源,Hono 官方文档，提供轻量 Web 框架、边缘运行时、路由和中间件资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Web框架 | 边缘计算 | 文档,false,2026-06-09
-remix-run-docs-en,site,Remix Docs,https://remix.run/docs/en/main,developer-resources,开发者资源,Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,React | 全栈 | 文档,false,2026-06-09
+remix-run-docs-en,site,Remix Docs,https://v2.remix.run/docs/,developer-resources,开发者资源,Remix 官方文档，提供 React 全栈框架、路由、数据加载和表单处理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,React | 全栈 | 文档,false,2026-06-09
 nuxt-com-docs,site,Nuxt Docs,https://nuxt.com/docs,developer-resources,开发者资源,Nuxt 官方文档，提供 Vue 全栈框架、路由、渲染、模块和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,Vue | 全栈 | 文档,false,2026-06-09
 docs-solidjs-com,site,SolidJS Docs,https://docs.solidjs.com/,developer-resources,开发者资源,SolidJS 官方文档，提供响应式 UI 框架、组件、路由和应用构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,前端 | SolidJS | 文档,false,2026-06-09
 preactjs-com-guide-v10,site,Preact Docs,https://preactjs.com/guide/v10/getting-started,developer-resources,开发者资源,Preact 官方文档，提供轻量 React 替代方案、组件、Hooks 和兼容资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,前端 | Preact | 文档,false,2026-06-09
@@ -610,21 +589,22 @@ graphql-org-learn,site,GraphQL Docs,https://graphql.org/learn/,developer-resourc
 apollographql-com-docs,site,Apollo GraphQL Docs,https://www.apollographql.com/docs/,developer-resources,开发者资源,Apollo 官方文档，提供 GraphQL 客户端、服务器、路由器和 Schema 管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,GraphQL | API | 文档,false,2026-06-09
 learning-postman-com-docs,site,Postman Docs,https://learning.postman.com/docs/,developer-resources,开发者资源,Postman 官方文档，提供 API 调试、集合、Mock、测试、协作和自动化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,API | 测试 | 文档,false,2026-06-09
 cncf-io,site,CNCF,https://www.cncf.io/,developer-resources,开发者资源,云原生计算基金会官网，提供 Kubernetes、云原生项目、技术景观、白皮书、活动和社区资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。,云原生 | Kubernetes | 基金会,false,2026-06-09
-en-cppreference-com-w,site,cppreference,https://en.cppreference.com/w/,developer-resources,开发者资源,cppreference 的开发者文档入口，覆盖 C++、参考、文档 等技术栈、工具或标准资料。,C++ | 参考 | 文档,false,2026-06-17
 devdocs-io,site,DevDocs,https://devdocs.io/,developer-resources,开发者资源,DevDocs 的开发者文档入口，覆盖 API、文档、搜索 等技术栈、工具或标准资料。,API | 文档 | 搜索,false,2026-06-17
 regex101-com,site,Regex101,https://regex101.com/,developer-resources,开发者资源,Regex101 的开发者文档入口，覆盖 正则、调试、工具 等技术栈、工具或标准资料。,正则 | 调试 | 工具,false,2026-06-17
-readthedocs-org,site,Read the Docs,https://readthedocs.org/,developer-resources,开发者资源,Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。,文档托管 | 开源 | 开发,false,2026-06-17
+readthedocs-org,site,Read the Docs,https://about.readthedocs.com/,developer-resources,开发者资源,Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。,文档托管 | 开源 | 开发,false,2026-06-17
 pandas-pydata-org-docs,site,Pandas Docs,https://pandas.pydata.org/docs/,developer-resources,开发者资源,Pandas Docs 的开发者文档入口，覆盖 Python、数据、文档 等技术栈、工具或标准资料。,Python | 数据 | 文档,false,2026-06-17
 numpy-org-doc,site,NumPy Docs,https://numpy.org/doc/,developer-resources,开发者资源,NumPy Docs 的开发者文档入口，覆盖 Python、科学计算、文档 等技术栈、工具或标准资料。,Python | 科学计算 | 文档,false,2026-06-17
 docs-scipy-org-doc-scipy,site,SciPy Docs,https://docs.scipy.org/doc/scipy/,developer-resources,开发者资源,SciPy Docs 的开发者文档入口，覆盖 Python、科学计算、文档 等技术栈、工具或标准资料。,Python | 科学计算 | 文档,false,2026-06-17
 matplotlib-org-stable,site,Matplotlib Docs,https://matplotlib.org/stable/,developer-resources,开发者资源,Matplotlib Docs 的开发者文档入口，覆盖 Python、图表、文档 等技术栈、工具或标准资料。,Python | 图表 | 文档,false,2026-06-17
 docs-jupyter-org,site,Jupyter Docs,https://docs.jupyter.org/,developer-resources,开发者资源,Jupyter Docs 的开发者文档入口，覆盖 Python、笔记本、文档 等技术栈、工具或标准资料。,Python | 笔记本 | 文档,false,2026-06-17
 tensorflow-org-learn,site,TensorFlow Docs,https://www.tensorflow.org/learn,developer-resources,开发者资源,TensorFlow Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。,机器学习 | 文档 | 开发,false,2026-06-17
-pytorch-org-docs-stable-index-html,site,PyTorch Docs,https://pytorch.org/docs/stable/index.html,developer-resources,开发者资源,PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。,机器学习 | 文档 | 开发,false,2026-06-17
+pytorch-org-docs-stable-index-html,site,PyTorch Docs,https://docs.pytorch.org/docs/stable/index.html,developer-resources,开发者资源,PyTorch Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。,机器学习 | 文档 | 开发,false,2026-06-17
 huggingface-co-docs,site,Hugging Face Docs,https://huggingface.co/docs,developer-resources,开发者资源,Hugging Face Docs 的开发者文档入口，覆盖 AI、模型、文档 等技术栈、工具或标准资料。,AI | 模型 | 文档,false,2026-06-17
-python-langchain-com-docs,site,LangChain Docs,https://python.langchain.com/docs/,developer-resources,开发者资源,LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,false,2026-06-17
-docs-llamaindex-ai,site,LlamaIndex Docs,https://docs.llamaindex.ai/,developer-resources,开发者资源,LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,false,2026-06-17
+python-langchain-com-docs,site,LangChain Docs,https://docs.langchain.com/oss/python/langchain/overview,developer-resources,开发者资源,LangChain Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,false,2026-06-17
+docs-llamaindex-ai,site,LlamaIndex Docs,https://developers.llamaindex.ai/python/framework/,developer-resources,开发者资源,LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。,AI | 开发 | 文档,false,2026-06-17
 wiki-archlinux-org,site,ArchWiki,https://wiki.archlinux.org/,developer-resources,开发者资源,ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。,Linux | 文档 | 社区,false,2026-06-17
+hello-algo-com,site,Hello 算法,https://www.hello-algo.com/,developer-resources,开发者资源,开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。,算法 | 数据结构 | 中文 | 开源,false,2026-11-02
+zh-javascript-info,site,现代 JavaScript 教程,https://zh.javascript.info/,developer-resources,开发者资源,现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。,JavaScript | 中文 | 教程 | 前端,false,2026-11-02
 vostride-com,site,Agent QA,https://vostride.com/,developer-resources,开发者资源,面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。,AI | 软件测试 | 自动化 | MCP | 开发者工具,false,2026-10-28
 google-com,site,Google,https://www.google.com,search-discovery,搜索与发现,Google 搜索。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 网页,true,2026-06-08
 bing-com,site,Bing,https://www.bing.com,search-discovery,搜索与发现,Microsoft Bing 搜索。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 网页,false,2026-06-08
@@ -637,7 +617,7 @@ search-yahoo-com,site,Yahoo Search,https://search.yahoo.com,search-discovery,搜
 yandex-com,site,Yandex,https://yandex.com,search-discovery,搜索与发现,俄罗斯搜索和互联网服务入口。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 门户,false,2026-06-08
 mojeek-com,site,Mojeek,https://www.mojeek.com,search-discovery,搜索与发现,独立搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 独立,false,2026-06-08
 kagi-com,site,Kagi,https://kagi.com,search-discovery,搜索与发现,付费搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 付费,false,2026-06-08
-search-marginalia-nu,site,Marginalia Search,https://search.marginalia.nu,search-discovery,搜索与发现,偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 小众 | 网页发现,false,2026-06-08
+search-marginalia-nu,site,Marginalia Search,https://marginalia-search.com/,search-discovery,搜索与发现,偏小众网页发现的搜索引擎。核心提供网页、资料、代码或垂直内容检索入口。,搜索 | 小众 | 网页发现,false,2026-06-08
 perplexity-ai,site,Perplexity,https://www.perplexity.ai/,search-discovery,搜索与发现,AI 搜索和问答工具，核心提供带来源的网页检索、摘要和追问式资料发现。,AI | 搜索 | 问答,false,2026-06-08
 you-com,site,You.com,https://you.com/,search-discovery,搜索与发现,AI 搜索和聊天入口，提供网页检索、摘要、写作辅助和多模型问答。,AI | 搜索 | 聊天,false,2026-06-08
 wolframalpha-com-input,site,WolframAlpha,https://www.wolframalpha.com/input,search-discovery,搜索与发现,计算知识引擎，核心提供数学、单位、统计、科学和事实型计算查询。,计算 | 知识引擎 | 数学,false,2026-06-08
@@ -683,7 +663,6 @@ siteinspire-com,site,Siteinspire,https://www.siteinspire.com/,search-discovery,�
 land-book-com,site,Land-book,https://land-book.com/,search-discovery,搜索与发现,Land-book 的发现工具入口，可用于 网页设计、灵感、发现 等资源搜索、目录浏览和趋势发现。,网页设计 | 灵感 | 发现,false,2026-06-17
 muz-li,site,Muzli,https://muz.li/,search-discovery,搜索与发现,Muzli 的发现工具入口，可用于 设计、灵感、发现 等资源搜索、目录浏览和趋势发现。,设计 | 灵感 | 发现,false,2026-06-17
 mobbin-com,site,Mobbin,https://mobbin.com/,search-discovery,搜索与发现,Mobbin 的发现工具入口，可用于 移动设计、灵感、界面 等资源搜索、目录浏览和趋势发现。,移动设计 | 灵感 | 界面,false,2026-06-17
-jingxuan-fuye-pages-dev,site,精选副业,https://jingxuan-fuye.pages.dev/,search-discovery,搜索与发现,面向中文读者的副业和个人项目案例库，可按方向、技能和平台筛选案例，并查看作者自述的成果、投入条件、风险与来源入口。,中文 | 案例研究 | 独立开发 | 副业 | 项目验证,false,2026-10-28
 podcasts-apple-com,site,Apple Podcasts,https://podcasts.apple.com,podcasts-audio,播客与音频,Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 目录 | 收听,true,2026-06-08
 open-spotify-com-genre-podcasts-web,site,Spotify Podcasts,https://open.spotify.com/genre/podcasts-web,podcasts-audio,播客与音频,Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 音乐 | 收听,true,2026-06-08
 pocketcasts-com,site,Pocket Casts,https://pocketcasts.com,podcasts-audio,播客与音频,跨平台播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 播放器,false,2026-06-08
@@ -710,7 +689,7 @@ audible-com-ep-podcasts,site,Audible Podcasts,https://www.audible.com/ep/podcast
 podverse-fm,site,Podverse,https://podverse.fm/,podcasts-audio,播客与音频,开源播客播放器，提供跨平台收听、剪辑、同步和开放播客生态支持。,播客 | 开源 | 播放器,false,2026-06-08
 fountain-fm,site,Fountain,https://www.fountain.fm/,podcasts-audio,播客与音频,面向 Podcasting 2.0 的播客应用，提供收听、互动、打赏和发现功能。,播客 | 打赏 | 发现,false,2026-06-08
 antennapod-org,site,AntennaPod,https://antennapod.org/,podcasts-audio,播客与音频,Android 开源播客播放器，提供订阅、下载、播放列表和离线收听。,播客 | Android | 开源,false,2026-06-08
-podcasters-spotify-com,site,Spotify for Podcasters,https://podcasters.spotify.com/,podcasts-audio,播客与音频,Spotify 播客创作者平台，提供节目发布、统计、分发、视频播客和变现工具。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 创作者 | Spotify,false,2026-06-09
+podcasters-spotify-com,site,Spotify for Creators,https://creators.spotify.com/,podcasts-audio,播客与音频,Spotify 面向创作者的官方平台，提供播客管理、音视频节目发布、受众分析和变现工具。,播客 | 创作者 | 音频 | 视频,false,2026-06-09
 buzzsprout-com,site,Buzzsprout,https://www.buzzsprout.com/,podcasts-audio,播客与音频,播客托管平台，提供节目发布、分发、统计、网站和变现功能。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 托管 | 统计,false,2026-06-09
 transistor-fm,site,Transistor,https://transistor.fm/,podcasts-audio,播客与音频,播客托管服务，提供多节目管理、私密播客、网站和分析数据。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 托管 | 分析,false,2026-06-09
 libsyn-com,site,Libsyn,https://libsyn.com/,podcasts-audio,播客与音频,老牌播客托管平台，提供音频托管、分发、统计、广告和节目网站。核心提供播客搜索、订阅、托管或跨平台收听。,播客 | 托管 | 分发,false,2026-06-09
@@ -733,7 +712,7 @@ podfriend-com,site,Podfriend,https://podfriend.com/,podcasts-audio,播客与音�
 fyyd-de,site,fyyd,https://fyyd.de/,podcasts-audio,播客与音频,fyyd 的音频入口，覆盖 播客、目录、发现 等播客、节目或音频发布场景。,播客 | 目录 | 发现,false,2026-06-17
 audio-com,site,Audio.com,https://audio.com/,podcasts-audio,播客与音频,Audio.com 的音频入口，覆盖 音频、托管、创作者 等播客、节目或音频发布场景。,音频 | 托管 | 创作者,false,2026-06-17
 audioboom-com,site,Audioboom,https://audioboom.com/,podcasts-audio,播客与音频,Audioboom 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。,播客 | 托管 | 广告,false,2026-06-17
-megaphone-fm,site,Megaphone,https://www.megaphone.fm/,podcasts-audio,播客与音频,Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。,播客 | 托管 | 广告,false,2026-06-17
+megaphone-fm,site,Megaphone,https://megaphone.spotify.com/,podcasts-audio,播客与音频,Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。,播客 | 托管 | 广告,false,2026-06-17
 luminarypodcasts-com,site,Luminary,https://luminarypodcasts.com/,podcasts-audio,播客与音频,Luminary 的音频入口，覆盖 播客、订阅、音频 等播客、节目或音频发布场景。,播客 | 订阅 | 音频,false,2026-06-17
 bbc-co-uk-podcasts,site,BBC Podcasts,https://www.bbc.co.uk/podcasts,podcasts-audio,播客与音频,BBC Podcasts 的音频入口，覆盖 播客、英国、音频 等播客、节目或音频发布场景。,播客 | 英国 | 音频,false,2026-06-17
 cbc-ca-radio-podcasts,site,CBC Podcasts,https://www.cbc.ca/radio/podcasts,podcasts-audio,播客与音频,CBC Podcasts 的音频入口，覆盖 播客、加拿大、音频 等播客、节目或音频发布场景。,播客 | 加拿大 | 音频,false,2026-06-17
@@ -741,7 +720,6 @@ abc-net-au-listen-podcasts,site,ABC Podcasts,https://www.abc.net.au/listen/podca
 theguardian-com-podcasts,site,The Guardian Podcasts,https://www.theguardian.com/podcasts,podcasts-audio,播客与音频,The Guardian Podcasts 的音频入口，覆盖 播客、新闻、英国 等播客、节目或音频发布场景。,播客 | 新闻 | 英国,false,2026-06-17
 economist-com-podcasts,site,The Economist Podcasts,https://www.economist.com/podcasts,podcasts-audio,播客与音频,The Economist Podcasts 的音频入口，覆盖 播客、财经、国际 等播客、节目或音频发布场景。,播客 | 财经 | 国际,false,2026-06-17
 audiocollective-ted-com,site,TED Audio Collective,https://audiocollective.ted.com/,podcasts-audio,播客与音频,TED Audio Collective 的音频入口，覆盖 播客、知识、访谈 等播客、节目或音频发布场景。,播客 | 知识 | 访谈,false,2026-06-17
-justpodmedia-com,site,JustPod,https://www.justpod.com/,podcasts-audio,播客与音频,JustPod 的音频入口，覆盖 中文播客、网络、制作 等播客、节目或音频发布场景。,中文播客 | 网络 | 制作,false,2026-06-17
 shengfm-cn,site,声动活泼,https://shengfm.cn/,podcasts-audio,播客与音频,声动活泼 的音频入口，覆盖 中文播客、商业、科技 等播客、节目或音频发布场景。,中文播客 | 商业 | 科技,false,2026-06-17
 storyfm-cn,site,故事FM,https://storyfm.cn/,podcasts-audio,播客与音频,故事FM 的音频入口，覆盖 中文播客、故事、人物 等播客、节目或音频发布场景。,中文播客 | 故事 | 人物,false,2026-06-17
 ritanbbpark-com,site,日谈公园,https://www.ritanbbpark.com/,podcasts-audio,播客与音频,日谈公园 的音频入口，覆盖 中文播客、文化、生活 等播客、节目或音频发布场景。,中文播客 | 文化 | 生活,false,2026-06-17
@@ -801,7 +779,6 @@ theculturetrip-com,site,Culture Trip,https://theculturetrip.com/,life-travel,生
 atlasobscura-com,site,Atlas Obscura,https://www.atlasobscura.com/,life-travel,生活出行,另类旅行和奇特地点指南，提供小众景点、故事、地图和旅行灵感。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,旅行发现 | 景点 | 地图,false,2026-06-09
 wanderlog-com,site,Wanderlog,https://wanderlog.com/,life-travel,生活出行,旅行规划工具，提供行程编辑、地图、协作、预算和景点收藏功能。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,行程规划 | 地图 | 旅行,false,2026-06-09
 roadtrippers-com,site,Roadtrippers,https://roadtrippers.com/,life-travel,生活出行,自驾旅行规划工具，提供路线、沿途景点、住宿、加油和行程保存。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,自驾 | 路线 | 旅行,false,2026-06-09
-cdc-gov-travel,site,CDC Travelers' Health,https://wwwnc.cdc.gov/travel/,life-travel,生活出行,美国 CDC 旅行健康入口，提供目的地疫苗、疾病风险、旅行建议和健康安全提醒。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,旅行健康 | 疫苗 | 安全,false,2026-06-09
 flightconnections-com,site,FlightConnections,https://www.flightconnections.com/,life-travel,生活出行,航线地图工具，提供直飞航线、航空公司、机场连接和路线查询。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,航班 | 航线 | 地图,false,2026-06-09
 airportia-com,site,Airportia,https://www.airportia.com/,life-travel,生活出行,机场和航班资料网站，提供机场信息、航班状态、航线和延误资料。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,机场 | 航班 | 资料,false,2026-06-09
 flightstats-com,site,FlightStats,https://www.flightstats.com/,life-travel,生活出行,航班状态查询工具，提供航班动态、机场延误、路线和航空公司信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,航班 | 机场 | 状态,false,2026-06-09
@@ -819,7 +796,7 @@ flixbus-com,site,FlixBus,https://www.flixbus.com/,life-travel,生活出行,长�
 hostelz-com,site,Hostelz,https://www.hostelz.com/,life-travel,生活出行,旅舍搜索和比价网站，提供青年旅舍价格、评价、地图和预订链接。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,旅舍 | 住宿 | 比价,false,2026-06-09
 vrbo-com,site,Vrbo,https://www.vrbo.com/,life-travel,生活出行,度假短租平台，提供整套房源、家庭旅行住宿、评价和预订管理。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,短租 | 住宿 | 旅行,false,2026-06-09
 homeexchange-com,site,HomeExchange,https://www.homeexchange.com/,life-travel,生活出行,换房旅行平台，提供会员住房交换、目的地搜索和家庭旅行住宿选择。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,换房 | 住宿 | 旅行,false,2026-06-09
-nomadlist-com,site,Nomad List,https://nomadlist.com/,life-travel,生活出行,数字游民城市资料平台，提供生活成本、网速、安全、天气和社区信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,数字游民 | 城市 | 生活成本,false,2026-06-09
+nomadlist-com,site,Nomads.com,https://nomads.com/,life-travel,生活出行,面向远程工作者和数字游民的城市资料与社区，提供生活成本、网络条件和目的地比较。,数字游民 | 城市 | 生活成本,false,2026-06-09
 expatistan-com-cost-of-living,site,Expatistan,https://www.expatistan.com/cost-of-living,life-travel,生活出行,生活成本比较网站，提供城市间价格、住房、餐饮、交通和薪资成本对比。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,生活成本 | 城市 | 比较,false,2026-06-09
 internationalliving-com,site,International Living,https://internationalliving.com/,life-travel,生活出行,海外生活媒体，提供退休目的地、生活成本、移居经验和国家指南。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,海外生活 | 退休 | 目的地,false,2026-06-09
 openweathermap-org,site,OpenWeatherMap,https://openweathermap.org/,life-travel,生活出行,天气数据服务，提供城市天气、预报、地图、API 和历史天气资料。核心提供出行、住宿、地图、翻译、天气或本地生活工具。,天气 | API | 地图,false,2026-06-09
@@ -869,7 +846,6 @@ iep-utm-edu,site,Internet Encyclopedia of Philosophy,https://iep.utm.edu,encyclo
 mathworld-wolfram-com,site,Wolfram MathWorld,https://mathworld.wolfram.com,encyclopedia-open-data,百科与开放资料,数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。,数学 | 百科 | 资料,false,2026-06-08
 fandom-com,site,Fandom,https://www.fandom.com,encyclopedia-open-data,百科与开放资料,影视、游戏、动漫等粉丝百科社区。核心提供结构化知识、参考资料或开放馆藏查询。,百科 | 粉丝 | 社区,false,2026-06-08
 archive-org,site,Internet Archive,https://archive.org,encyclopedia-open-data,百科与开放资料,数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。,档案 | 图书馆 | 百科,true,2026-06-08
-loc-gov,site,Library of Congress,https://www.loc.gov,encyclopedia-open-data,百科与开放资料,美国国会图书馆，提供馆藏、档案、图片、地图和数字资源。核心提供结构化知识、参考资料或开放馆藏查询。,图书馆 | 档案 | 美国,true,2026-06-08
 openlibrary-org,site,Open Library,https://openlibrary.org,encyclopedia-open-data,百科与开放资料,Internet Archive 旗下开放图书目录和借阅入口。,图书 | 开放 | 资料,false,2026-06-08
 europeana-eu,site,Europeana,https://www.europeana.eu,encyclopedia-open-data,百科与开放资料,欧洲数字文化遗产平台，聚合艺术、图书、影像和音乐等馆藏。核心提供结构化知识、参考资料或开放馆藏查询。,文化遗产 | 档案 | 欧洲,false,2026-06-08
 wikivoyage-org,site,Wikivoyage,https://www.wikivoyage.org/,encyclopedia-open-data,百科与开放资料,维基媒体旅行指南，提供目的地介绍、交通、住宿、景点和实用旅行信息。,旅行 | 百科 | 维基,false,2026-06-08
@@ -881,11 +857,8 @@ worldhistory-org,site,World History Encyclopedia,https://www.worldhistory.org/,e
 encyclopedia-com,site,Encyclopedia.com,https://www.encyclopedia.com/,encyclopedia-open-data,百科与开放资料,综合参考资料入口，聚合百科、词典、传记和主题解释内容。,百科 | 参考 | 英文,false,2026-06-08
 scholarpedia-org,site,Scholarpedia,http://www.scholarpedia.org/,encyclopedia-open-data,百科与开放资料,由学者撰写和维护的百科项目，重点提供科学和数学领域专题条目。,学术 | 百科 | 科学,false,2026-06-08
 howstuffworks-com,site,HowStuffWorks,https://www.howstuffworks.com/,encyclopedia-open-data,百科与开放资料,通俗知识解释网站，提供科学、技术、生活、历史和文化问题解答。,科普 | 解释 | 生活,false,2026-06-08
-cia-gov-the-world-factbook,site,CIA World Factbook,https://www.cia.gov/the-world-factbook/,encyclopedia-open-data,百科与开放资料,国家和地区资料库，提供人口、经济、地理、政府和基础指标概览。,国家资料 | 地理 | 数据,false,2026-06-08
 whc-unesco-org,site,UNESCO World Heritage Centre,https://whc.unesco.org/,encyclopedia-open-data,百科与开放资料,联合国教科文组织世界遗产中心，提供遗产名录、地图和保护资料。,世界遗产 | 联合国 | 文化,false,2026-06-08
-si-edu,site,Smithsonian,https://www.si.edu/,encyclopedia-open-data,百科与开放资料,史密森学会入口，提供博物馆、馆藏、展览、教育和研究资源。,博物馆 | 馆藏 | 教育,false,2026-06-08
 nationalgeographic-com,site,National Geographic,https://www.nationalgeographic.com/,encyclopedia-open-data,百科与开放资料,国家地理网站，提供自然、科学、探险、摄影和人文地理内容。,自然 | 地理 | 摄影,false,2026-06-08
-medlineplus-gov,site,MedlinePlus,https://medlineplus.gov/,encyclopedia-open-data,百科与开放资料,美国医学图书馆健康资料入口，提供疾病、药物、检查和健康主题说明。,健康 | 医学 | 资料,false,2026-06-08
 merckmanuals-com,site,Merck Manuals,https://www.merckmanuals.com/,encyclopedia-open-data,百科与开放资料,默沙东医学手册，提供面向公众和专业人士的疾病、症状和治疗说明。,医学 | 健康 | 手册,false,2026-06-08
 mayoclinic-org,site,Mayo Clinic,https://www.mayoclinic.org/,encyclopedia-open-data,百科与开放资料,梅奥诊所健康资料站，核心提供疾病症状、诊断、治疗和健康管理内容。,医学 | 健康 | 临床,false,2026-06-08
 ourworldindata-org,site,Our World in Data,https://ourworldindata.org/,encyclopedia-open-data,百科与开放资料,开放数据和可视化平台，提供全球发展、健康、能源、人口和环境数据解释。,开放数据 | 可视化 | 全球发展,false,2026-06-08
@@ -895,10 +868,9 @@ eol-org,site,Encyclopedia of Life,https://eol.org/,encyclopedia-open-data,百科
 dp-la,site,DPLA,https://dp.la/,encyclopedia-open-data,百科与开放资料,美国数字公共图书馆，聚合图书馆、档案馆、博物馆和开放文化遗产资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,数字图书馆 | 档案 | 美国,false,2026-06-09
 trove-nla-gov-au,site,Trove,https://trove.nla.gov.au/,encyclopedia-open-data,百科与开放资料,澳大利亚国家图书馆资料平台，提供报纸、图片、图书、地图和档案检索。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,图书馆 | 澳大利亚 | 档案,false,2026-06-09
 digitalnz-org,site,DigitalNZ,https://digitalnz.org/,encyclopedia-open-data,百科与开放资料,新西兰数字文化资料平台，聚合图片、音频、视频、报纸和馆藏记录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,新西兰 | 数字馆藏 | 档案,false,2026-06-09
-library-archives-canada-ca,site,Library and Archives Canada,https://library-archives.canada.ca/,encyclopedia-open-data,百科与开放资料,加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,加拿大 | 档案 | 图书馆,false,2026-06-09
+library-archives-canada-ca,site,Library and Archives Canada,https://www.canada.ca/en/library-archives.html,encyclopedia-open-data,百科与开放资料,加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,加拿大 | 档案 | 图书馆,false,2026-06-09
 bl-uk,site,British Library,https://www.bl.uk/,encyclopedia-open-data,百科与开放资料,英国国家图书馆网站，提供馆藏、展览、研究资料、手稿和数字化资源。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,英国 | 图书馆 | 馆藏,false,2026-06-09
 nationalarchives-gov-uk,site,National Archives UK,https://www.nationalarchives.gov.uk/,encyclopedia-open-data,百科与开放资料,英国国家档案馆，提供政府档案、历史资料、家谱研究和在线目录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,英国 | 档案 | 历史,false,2026-06-09
-archives-gov,site,U.S. National Archives,https://www.archives.gov/,encyclopedia-open-data,百科与开放资料,美国国家档案馆入口，提供历史文件、政府档案、总统图书馆和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,美国 | 档案 | 政府文件,false,2026-06-09
 hathitrust-org,site,HathiTrust,https://www.hathitrust.org/,encyclopedia-open-data,百科与开放资料,数字图书馆合作项目，提供书籍全文检索、馆藏访问和学术图书资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,数字图书馆 | 图书 | 学术,false,2026-06-09
 gutenberg-org,site,Project Gutenberg,https://www.gutenberg.org/,encyclopedia-open-data,百科与开放资料,公共领域电子书项目，提供免费电子书下载、在线阅读和多格式文本。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,电子书 | 公共领域 | 开放,false,2026-06-09
 standardebooks-org,site,Standard Ebooks,https://standardebooks.org/,encyclopedia-open-data,百科与开放资料,高质量公共领域电子书项目，提供精校排版的 EPUB、Kindle 和网页版本。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,电子书 | 公共领域 | 排版,false,2026-06-09
@@ -908,14 +880,9 @@ metmuseum-org-art-collection,site,The Met Collection,https://www.metmuseum.org/a
 moma-org-collection,site,MoMA Collection,https://www.moma.org/collection/,encyclopedia-open-data,百科与开放资料,纽约现代艺术博物馆馆藏，提供现代艺术作品、艺术家、展览和研究资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 现代艺术 | 馆藏,false,2026-06-09
 collections-louvre-fr-en,site,Louvre Collections,https://collections.louvre.fr/en/,encyclopedia-open-data,百科与开放资料,卢浮宫馆藏数据库，提供艺术品、文物、作者、年代和展览资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 博物馆 | 法国,false,2026-06-09
 tate-org-uk-art,site,Tate Collection,https://www.tate.org.uk/art,encyclopedia-open-data,百科与开放资料,泰特美术馆艺术资料库，提供英国和现代艺术作品、艺术家和展览资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 英国 | 馆藏,false,2026-06-09
-rijksmuseum-nl-en-rijksstudio,site,Rijksmuseum Collection,https://www.rijksmuseum.nl/en/rijksstudio,encyclopedia-open-data,百科与开放资料,荷兰国立博物馆馆藏平台，提供高清艺术图像、作品资料和开放下载。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 荷兰 | 开放图像,false,2026-06-09
+rijksmuseum-nl-en-rijksstudio,site,Rijksmuseum Collection,https://www.rijksmuseum.nl/en/collection,encyclopedia-open-data,百科与开放资料,荷兰国立博物馆馆藏平台，提供高清艺术图像、作品资料和开放下载。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 荷兰 | 开放图像,false,2026-06-09
 getty-edu-art-collection,site,Getty,https://www.getty.edu/art/collection/,encyclopedia-open-data,百科与开放资料,盖蒂博物馆馆藏入口，提供艺术品、照片、手稿、研究资料和开放内容。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,艺术 | 馆藏 | 研究,false,2026-06-09
-nasa-gov,site,NASA,https://www.nasa.gov/,encyclopedia-open-data,百科与开放资料,美国 NASA 官网，提供航天任务、科学新闻、图片、视频和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,航天 | 科学 | NASA,false,2026-06-09
-images-nasa-gov,site,NASA Images,https://images.nasa.gov/,encyclopedia-open-data,百科与开放资料,NASA 图片和视频资料库，提供航天影像、任务照片、音频和公共素材下载。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,图片 | 航天 | 开放素材,false,2026-06-09
 esa-int,site,ESA,https://www.esa.int/,encyclopedia-open-data,百科与开放资料,欧洲航天局官网，提供航天任务、科学项目、图片、新闻和教育资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,航天 | 欧洲 | 科学,false,2026-06-09
-noaa-gov,site,NOAA,https://www.noaa.gov/,encyclopedia-open-data,百科与开放资料,美国海洋和大气管理局网站，提供气象、海洋、气候、地图和科学资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,气候 | 海洋 | 科学,false,2026-06-09
-usgs-gov,site,USGS,https://www.usgs.gov/,encyclopedia-open-data,百科与开放资料,美国地质调查局网站，提供地震、地图、水文、地质和自然资源数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,地质 | 地图 | 自然资源,false,2026-06-09
-earthexplorer-usgs-gov,site,USGS EarthExplorer,https://earthexplorer.usgs.gov/,encyclopedia-open-data,百科与开放资料,遥感影像检索平台，提供 Landsat、航空影像、DEM 和地球观测数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,遥感 | 地图 | 数据,false,2026-06-09
 gbif-org,site,GBIF,https://www.gbif.org/,encyclopedia-open-data,百科与开放资料,全球生物多样性信息平台，提供物种分布、观察记录、数据集和 API。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,生物多样性 | 物种 | 开放数据,false,2026-06-09
 inaturalist-org,site,iNaturalist,https://www.inaturalist.org/,encyclopedia-open-data,百科与开放资料,自然观察社区和资料库，提供物种识别、观察记录、地图和公民科学项目。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,自然 | 物种 | 公民科学,false,2026-06-09
 world-openfoodfacts-org,site,Open Food Facts,https://world.openfoodfacts.org/,encyclopedia-open-data,百科与开放资料,开放食品资料库，提供食品营养、配料、条码、标签和全球产品数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。,食品 | 营养 | 开放数据,false,2026-06-09
@@ -939,12 +906,11 @@ dbpedia-org,site,DBpedia,https://www.dbpedia.org/,encyclopedia-open-data,百科�
 openhistoricalmap-org,site,OpenHistoricalMap,https://www.openhistoricalmap.org/,encyclopedia-open-data,百科与开放资料,OpenHistoricalMap 的开放资料入口，提供 历史地图、开放数据、地图 相关的数据库、档案或公共知识资源。,历史地图 | 开放数据 | 地图,false,2026-06-17
 openaerialmap-org,site,OpenAerialMap,https://openaerialmap.org/,encyclopedia-open-data,百科与开放资料,OpenAerialMap 的开放资料入口，提供 航拍、地图、开放数据 相关的数据库、档案或公共知识资源。,航拍 | 地图 | 开放数据,false,2026-06-17
 gallica-bnf-fr,site,Gallica,https://gallica.bnf.fr/,encyclopedia-open-data,百科与开放资料,Gallica 的开放资料入口，提供 数字图书馆、法国、档案 相关的数据库、档案或公共知识资源。,数字图书馆 | 法国 | 档案,false,2026-06-17
-si-edu-openaccess,site,Smithsonian Open Access,https://www.si.edu/openaccess,encyclopedia-open-data,百科与开放资料,Smithsonian Open Access 的开放资料入口，提供 博物馆、开放数据、图像 相关的数据库、档案或公共知识资源。,博物馆 | 开放数据 | 图像,false,2026-06-17
 musicbrainz-org,site,MusicBrainz,https://musicbrainz.org/,encyclopedia-open-data,百科与开放资料,MusicBrainz 的开放资料入口，提供 音乐、开放数据、元数据 相关的数据库、档案或公共知识资源。,音乐 | 开放数据 | 元数据,false,2026-06-17
 x-com,site,X,https://x.com,social-platforms,社交平台,实时社交平台，原 Twitter。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 短消息 | 实时,true,2026-06-08
 facebook-com,site,Facebook,https://www.facebook.com,social-platforms,社交平台,社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 社区 | 主页,false,2026-06-08
 instagram-com,site,Instagram,https://www.instagram.com,social-platforms,社交平台,图片、短视频和社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 图片 | 短视频,false,2026-06-08
-threads-net,site,Threads,https://www.threads.net,social-platforms,社交平台,Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 文本,false,2026-06-08
+threads-net,site,Threads,https://www.threads.com/,social-platforms,社交平台,Meta 旗下文本社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 文本,false,2026-06-08
 bsky-app,site,Bluesky,https://bsky.app,social-platforms,社交平台,去中心化社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 去中心化,false,2026-06-08
 joinmastodon-org,site,Mastodon,https://joinmastodon.org,social-platforms,社交平台,去中心化社交网络项目。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 联邦宇宙 | 开源,false,2026-06-08
 telegram-org,site,Telegram,https://telegram.org,social-platforms,社交平台,即时通讯、频道和群组平台。核心提供账号、关注、私信或公开发布等社交连接功能。,通讯 | 频道 | 群组,true,2026-06-08
@@ -985,7 +951,6 @@ tiktok-com,site,TikTok,https://www.tiktok.com/,social-platforms,社交平台,Tik
 nostr-com,site,Nostr,https://nostr.com/,social-platforms,社交平台,Nostr 的社交平台入口，面向 去中心化、社交、协议 等场景提供公开主页和社区服务。,去中心化 | 社交 | 协议,false,2026-06-17
 damus-io,site,Damus,https://damus.io/,social-platforms,社交平台,Damus 的社交平台入口，面向 Nostr、社交、应用 等场景提供公开主页和社区服务。,Nostr | 社交 | 应用,false,2026-06-17
 farcaster-xyz,site,Farcaster,https://www.farcaster.xyz/,social-platforms,社交平台,Farcaster 的社交平台入口，面向 社交协议、社区、Web3 等场景提供公开主页和社区服务。,社交协议 | 社区 | Web3,false,2026-06-17
-warpcast-com,site,Warpcast,https://warpcast.com/,social-platforms,社交平台,Warpcast 的社交平台入口，面向 Farcaster、社交、社区 等场景提供公开主页和社区服务。,Farcaster | 社交 | 社区,false,2026-06-17
 lens-xyz,site,Lens Protocol,https://www.lens.xyz/,social-platforms,社交平台,Lens Protocol 的社交平台入口，面向 社交协议、创作者、Web3 等场景提供公开主页和社区服务。,社交协议 | 创作者 | Web3,false,2026-06-17
 minds-com,site,Minds,https://www.minds.com/,social-platforms,社交平台,Minds 的社交平台入口，面向 社交、创作者、社区 等场景提供公开主页和社区服务。,社交 | 创作者 | 社区,false,2026-06-17
 vk-com,site,VK,https://vk.com/,social-platforms,社交平台,VK 的社交平台入口，面向 社交、欧洲、社区 等场景提供公开主页和社区服务。,社交 | 欧洲 | 社区,false,2026-06-17
@@ -1003,7 +968,7 @@ netflix-com,site,Netflix,https://www.netflix.com,video-streaming,视频与流媒
 disneyplus-com,site,Disney+,https://www.disneyplus.com,video-streaming,视频与流媒体,Disney 旗下流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,流媒体 | 影视,false,2026-06-08
 primevideo-com,site,Prime Video,https://www.primevideo.com,video-streaming,视频与流媒体,Amazon 旗下流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,流媒体 | 影视,false,2026-06-08
 hulu-com,site,Hulu,https://www.hulu.com,video-streaming,视频与流媒体,美国流媒体视频服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,流媒体 | 影视,false,2026-06-08
-max-com,site,Max,https://www.max.com,video-streaming,视频与流媒体,Warner Bros. Discovery 旗下流媒体服务。,流媒体 | 影视,false,2026-06-08
+max-com,site,HBO Max,https://www.hbomax.com/,video-streaming,视频与流媒体,HBO Max 官方流媒体平台，提供 HBO 剧集、电影、纪录片及原创节目；内容与服务范围因地区而异。,影视 | 流媒体 | HBO,false,2026-06-08
 nebula-tv,site,Nebula,https://nebula.tv,video-streaming,视频与流媒体,创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,视频 | 创作者 | 教育,false,2026-06-08
 curiositystream-com,site,Curiosity Stream,https://curiositystream.com,video-streaming,视频与流媒体,纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,纪录片 | 知识 | 视频,false,2026-06-08
 kick-com,site,Kick,https://kick.com,video-streaming,视频与流媒体,直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。,直播 | 视频,false,2026-06-08
@@ -1047,13 +1012,12 @@ online-stanford-edu,site,Stanford Online,https://online.stanford.edu/,video-stre
 harvardonline-harvard-edu,site,Harvard Online,https://www.harvardonline.harvard.edu/,video-streaming,视频与流媒体,哈佛在线学习入口，提供开放课程、职业项目、证书和专题学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。,哈佛 | 课程 | 证书,false,2026-06-09
 oyc-yale-edu,site,Open Yale Courses,https://oyc.yale.edu/,video-streaming,视频与流媒体,耶鲁开放课程项目，提供课程视频、讲义、阅读材料和课堂录音。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。,耶鲁 | 开放课程 | 教育,false,2026-06-09
 classcentral-com,site,Class Central,https://www.classcentral.com/,video-streaming,视频与流媒体,在线课程搜索平台，聚合 MOOC、大学课程、证书和免费学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。,课程搜索 | MOOC | 学习,false,2026-06-09
-classes-nebula-tv,site,Nebula Classes,https://classes.nebula.tv/,video-streaming,视频与流媒体,Nebula Classes 的视频入口，提供 课程、创作者、视频 相关的观看、订阅或内容发现服务。,课程 | 创作者 | 视频,false,2026-06-17
 curiosityu-com,site,Curiosity University,https://curiosityu.com/,video-streaming,视频与流媒体,Curiosity University 的视频入口，提供 课程、知识、视频 相关的观看、订阅或内容发现服务。,课程 | 知识 | 视频,false,2026-06-17
 athome-fandango-com,site,Fandango at Home,https://athome.fandango.com/,video-streaming,视频与流媒体,Fandango at Home 的视频入口，提供 电影、租赁、流媒体 相关的观看、订阅或内容发现服务。,电影 | 租赁 | 流媒体,false,2026-06-17
 sling-com,site,Sling TV,https://www.sling.com/,video-streaming,视频与流媒体,Sling TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。,直播电视 | 美国 | 流媒体,false,2026-06-17
 fubo-tv,site,Fubo,https://www.fubo.tv/,video-streaming,视频与流媒体,Fubo 的视频入口，提供 体育、直播电视、流媒体 相关的观看、订阅或内容发现服务。,体育 | 直播电视 | 流媒体,false,2026-06-17
 philo-com,site,Philo,https://www.philo.com/,video-streaming,视频与流媒体,Philo 的视频入口，提供 直播电视、娱乐、美国 相关的观看、订阅或内容发现服务。,直播电视 | 娱乐 | 美国,false,2026-06-17
-streamtv-directv-com,site,DIRECTV Stream,https://streamtv.directv.com/,video-streaming,视频与流媒体,DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。,直播电视 | 美国 | 流媒体,false,2026-06-17
+streamtv-directv-com,site,DIRECTV Stream,https://www.directv.com/stream/,video-streaming,视频与流媒体,DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。,直播电视 | 美国 | 流媒体,false,2026-06-17
 tv-youtube-com,site,YouTube TV,https://tv.youtube.com/,video-streaming,视频与流媒体,YouTube TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。,直播电视 | 美国 | 流媒体,false,2026-06-17
 watch-plex-tv,site,Plex TV,https://watch.plex.tv/,video-streaming,视频与流媒体,Plex TV 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。,免费电视 | 电影 | 流媒体,false,2026-06-17
 therokuchannel-roku-com,site,The Roku Channel,https://therokuchannel.roku.com/,video-streaming,视频与流媒体,The Roku Channel 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。,免费电视 | 电影 | 流媒体,false,2026-06-17
@@ -1213,7 +1177,6 @@ spanish-stackexchange-com,site,Spanish Language,https://spanish.stackexchange.co
 scicomp-stackexchange-com,site,Computational Science,https://scicomp.stackexchange.com,forums-communities,论坛社区,Computational Science 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 movies-stackexchange-com,site,Movies & TV,https://movies.stackexchange.com,forums-communities,论坛社区,Movies & TV 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 biology-stackexchange-com,site,Biology,https://biology.stackexchange.com,forums-communities,论坛社区,Biology 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
-poker-stackexchange-com,site,Poker,https://poker.stackexchange.com,forums-communities,论坛社区,Poker 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 mathematica-stackexchange-com,site,Mathematica,https://mathematica.stackexchange.com,forums-communities,论坛社区,Mathematica 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 psychology-stackexchange-com,site,Psychology & Neuroscience,https://psychology.stackexchange.com,forums-communities,论坛社区,Psychology & Neuroscience 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 outdoors-stackexchange-com,site,The Great Outdoors,https://outdoors.stackexchange.com,forums-communities,论坛社区,The Great Outdoors 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
@@ -1230,7 +1193,7 @@ salesforce-stackexchange-com,site,Salesforce,https://salesforce.stackexchange.co
 patents-stackexchange-com,site,Ask Patents,https://patents.stackexchange.com,forums-communities,论坛社区,Ask Patents 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 genealogy-stackexchange-com,site,Genealogy & Family History,https://genealogy.stackexchange.com,forums-communities,论坛社区,Genealogy & Family History 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 robotics-stackexchange-com,site,Robotics,https://robotics.stackexchange.com,forums-communities,论坛社区,Robotics 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
-expressionengine-stackexchange-com,site,ExpressionEngine&#174; Answers,https://expressionengine.stackexchange.com,forums-communities,论坛社区,ExpressionEngine&#174; Answers 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
+expressionengine-stackexchange-com,site,ExpressionEngine® Answers,https://expressionengine.stackexchange.com,forums-communities,论坛社区,ExpressionEngine&#174; Answers 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 anime-stackexchange-com,site,Anime & Manga,https://anime.stackexchange.com,forums-communities,论坛社区,Anime & Manga 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 magento-stackexchange-com,site,Magento,https://magento.stackexchange.com,forums-communities,论坛社区,Magento 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 ell-stackexchange-com,site,English Language Learners,https://ell.stackexchange.com,forums-communities,论坛社区,English Language Learners 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
@@ -1248,7 +1211,7 @@ tor-stackexchange-com,site,Tor,https://tor.stackexchange.com,forums-communities,
 pets-stackexchange-com,site,Pets,https://pets.stackexchange.com,forums-communities,论坛社区,Pets 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 ham-stackexchange-com,site,Amateur Radio,https://ham.stackexchange.com,forums-communities,论坛社区,Amateur Radio 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 italian-stackexchange-com,site,Italian Language,https://italian.stackexchange.com,forums-communities,论坛社区,Italian Language 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
-pt-stackoverflow-com,site,Stack Overflow em Portugu&#234;s,https://pt.stackoverflow.com,forums-communities,论坛社区,Stack Overflow em Portugu&#234;s 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
+pt-stackoverflow-com,site,Stack Overflow em Português,https://pt.stackoverflow.com,forums-communities,论坛社区,Stack Overflow em Portugu&#234;s 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 aviation-stackexchange-com,site,Aviation,https://aviation.stackexchange.com,forums-communities,论坛社区,Aviation 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 ebooks-stackexchange-com,site,Ebooks,https://ebooks.stackexchange.com,forums-communities,论坛社区,Ebooks 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 alcohol-stackexchange-com,site,"Beer, Wine & Spirits",https://alcohol.stackexchange.com,forums-communities,论坛社区,"Beer, Wine & Spirits 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。",问答 | 社区 | Stack Exchange,false,2026-06-17
@@ -1283,7 +1246,7 @@ elementaryos-stackexchange-com,site,elementary OS,https://elementaryos.stackexch
 portuguese-stackexchange-com,site,Portuguese Language,https://portuguese.stackexchange.com,forums-communities,论坛社区,Portuguese Language 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 computergraphics-stackexchange-com,site,Computer Graphics,https://computergraphics.stackexchange.com,forums-communities,论坛社区,Computer Graphics 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 hardwarerecs-stackexchange-com,site,Hardware Recommendations,https://hardwarerecs.stackexchange.com,forums-communities,论坛社区,Hardware Recommendations 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
-es-stackoverflow-com,site,Stack Overflow en espa&#241;ol,https://es.stackoverflow.com,forums-communities,论坛社区,Stack Overflow en espa&#241;ol 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
+es-stackoverflow-com,site,Stack Overflow en español,https://es.stackoverflow.com,forums-communities,论坛社区,Stack Overflow en espa&#241;ol 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 3dprinting-stackexchange-com,site,3D Printing,https://3dprinting.stackexchange.com,forums-communities,论坛社区,3D Printing 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 languagelearning-stackexchange-com,site,Language Learning,https://languagelearning.stackexchange.com,forums-communities,论坛社区,Language Learning 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
 retrocomputing-stackexchange-com,site,Retrocomputing,https://retrocomputing.stackexchange.com,forums-communities,论坛社区,Retrocomputing 是 Stack Exchange 网络中的公开问答社区，适合检索对应领域的讨论、问题解答和经验资料。,问答 | 社区 | Stack Exchange,false,2026-06-17
@@ -1335,7 +1298,6 @@ wsj-com-finance,site,Wall Street Journal,https://www.wsj.com/finance,finance-dat
 tradingview-com,site,TradingView,https://www.tradingview.com,finance-data,财经与数据,图表、市场数据和交易观点社区。核心提供市场行情、宏观指标、公司资料或金融数据。,图表 | 市场 | 交易,true,2026-06-08
 investing-com,site,Investing.com,https://www.investing.com,finance-data,财经与数据,全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。,市场 | 财经日历 | 数据,false,2026-06-08
 fred-stlouisfed-org,site,FRED,https://fred.stlouisfed.org,finance-data,财经与数据,美国圣路易斯联储经济数据。核心提供市场行情、宏观指标、公司资料或金融数据。,宏观 | 数据 | 经济,true,2026-06-08
-sec-gov-edgar-search,site,SEC EDGAR,https://www.sec.gov/edgar/search,finance-data,财经与数据,美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。,公司文件 | 监管 | 数据,false,2026-06-08
 companiesmarketcap-com,site,CompaniesMarketCap,https://companiesmarketcap.com,finance-data,财经与数据,上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。,市值 | 公司 | 数据,false,2026-06-08
 macrotrends-net,site,Macrotrends,https://www.macrotrends.net,finance-data,财经与数据,宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。,宏观 | 数据 | 图表,false,2026-06-08
 koyfin-com,site,Koyfin,https://www.koyfin.com,finance-data,财经与数据,金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。,金融数据 | 图表 | 投资,false,2026-06-08
@@ -1355,9 +1317,6 @@ imf-org-en-data,site,IMF Data,https://www.imf.org/en/Data,finance-data,财经与
 data-explorer-oecd-org,site,OECD Data Explorer,https://data-explorer.oecd.org/,finance-data,财经与数据,OECD 新版数据浏览器，提供成员国经济、教育、就业、环境和社会指标查询。,OECD | 宏观 | 数据,false,2026-06-08
 bis-org,site,BIS,https://www.bis.org/,finance-data,财经与数据,国际清算银行官网，提供央行研究、金融稳定、银行监管和统计数据。,央行 | 金融稳定 | 数据,false,2026-06-08
 ecb-europa-eu,site,ECB,https://www.ecb.europa.eu/,finance-data,财经与数据,欧洲央行官网，提供欧元区货币政策、利率、统计数据和研究资料。,央行 | 欧元区 | 货币政策,false,2026-06-08
-federalreserve-gov,site,Federal Reserve,https://www.federalreserve.gov/,finance-data,财经与数据,美国联邦储备系统官网，提供货币政策、利率、监管、研究和经济数据入口。,美联储 | 货币政策 | 数据,false,2026-06-08
-bls-gov,site,BLS,https://www.bls.gov/,finance-data,财经与数据,美国劳工统计局官网，提供就业、通胀、工资、职业和劳动力市场数据。,就业 | 通胀 | 美国数据,false,2026-06-08
-bea-gov,site,BEA,https://www.bea.gov/,finance-data,财经与数据,美国经济分析局官网，提供 GDP、收入、贸易和地区经济统计数据。,GDP | 宏观 | 美国数据,false,2026-06-08
 ec-europa-eu-eurostat,site,Eurostat,https://ec.europa.eu/eurostat,finance-data,财经与数据,欧盟统计局入口，提供欧洲人口、经济、社会、贸易和环境统计数据。,欧盟 | 统计 | 数据,false,2026-06-08
 gov-uk-government-organisations,site,UK Companies House,https://www.gov.uk/government/organisations/companies-house,finance-data,财经与数据,英国公司注册署入口，提供英国公司登记、申报、董事和公司资料查询。,公司资料 | 英国 | 监管,false,2026-06-08
 opencorporates-com,site,OpenCorporates,https://opencorporates.com/,finance-data,财经与数据,开放公司资料库，核心提供跨国家公司注册信息和企业实体查询。,公司资料 | 开放数据 | 企业,false,2026-06-08
@@ -1366,7 +1325,7 @@ alphavantage-co,site,Alpha Vantage,https://www.alphavantage.co/,finance-data,财
 finnhub-io,site,Finnhub,https://finnhub.io/,finance-data,财经与数据,金融数据 API 平台，提供股票、新闻、财报、经济指标和实时行情接口。核心提供市场行情、宏观指标、公司资料或金融数据。,金融API | 股票 | 数据,false,2026-06-09
 tiingo-com,site,Tiingo,https://www.tiingo.com/,finance-data,财经与数据,金融数据平台，提供股票、基金、外汇、加密资产和历史行情 API。核心提供市场行情、宏观指标、公司资料或金融数据。,金融数据 | API | 行情,false,2026-06-09
 data-nasdaq-com,site,Nasdaq Data Link,https://data.nasdaq.com/,finance-data,财经与数据,金融和替代数据平台，提供经济、市场、商品、基金和商业数据集。核心提供市场行情、宏观指标、公司资料或金融数据。,数据集 | 金融 | 市场,false,2026-06-09
-financialmodelingprep-com,site,Financial Modeling Prep,https://financialmodelingprep.com/,finance-data,财经与数据,金融数据 API，提供公司财报、估值指标、股票价格、日历和市场数据。核心提供市场行情、宏观指标、公司资料或金融数据。,财报 | API | 股票,false,2026-06-09
+financialmodelingprep-com,site,Financial Modeling Prep,https://site.financialmodelingprep.com/,finance-data,财经与数据,金融数据 API，提供公司财报、估值指标、股票价格、日历和市场数据。核心提供市场行情、宏观指标、公司资料或金融数据。,财报 | API | 股票,false,2026-06-09
 finviz-com,site,Finviz,https://finviz.com/,finance-data,财经与数据,股票筛选和市场可视化工具，提供热力图、新闻、图表和基本面筛选。核心提供市场行情、宏观指标、公司资料或金融数据。,股票筛选 | 图表 | 市场,false,2026-06-09
 barchart-com,site,Barchart,https://www.barchart.com/,finance-data,财经与数据,金融市场数据网站，提供股票、期货、外汇、期权、图表和市场新闻。核心提供市场行情、宏观指标、公司资料或金融数据。,期货 | 股票 | 行情,false,2026-06-09
 zacks-com,site,Zacks,https://www.zacks.com/,finance-data,财经与数据,投资研究网站，提供股票评级、盈利预测、筛选器和研究报告入口。核心提供市场行情、宏观指标、公司资料或金融数据。,股票研究 | 评级 | 投资,false,2026-06-09
@@ -1387,8 +1346,6 @@ boj-or-jp-en-statistics,site,Bank of Japan Statistics,https://www.boj.or.jp/en/s
 rba-gov-au,site,Reserve Bank of Australia,https://www.rba.gov.au/,finance-data,财经与数据,澳大利亚央行官网，提供货币政策、利率、金融稳定和经济数据资料。核心提供市场行情、宏观指标、公司资料或金融数据。,央行 | 澳大利亚 | 数据,false,2026-06-09
 bankofcanada-ca,site,Bank of Canada,https://www.bankofcanada.ca/,finance-data,财经与数据,加拿大央行官网，提供利率、货币政策、金融系统、研究和数据入口。核心提供市场行情、宏观指标、公司资料或金融数据。,央行 | 加拿大 | 数据,false,2026-06-09
 snb-ch-en,site,Swiss National Bank,https://www.snb.ch/en/,finance-data,财经与数据,瑞士央行官网，提供货币政策、汇率、金融市场和统计数据。核心提供市场行情、宏观指标、公司资料或金融数据。,央行 | 瑞士 | 数据,false,2026-06-09
-fiscaldata-treasury-gov,site,U.S. Treasury Data,https://fiscaldata.treasury.gov/,finance-data,财经与数据,美国财政部开放数据平台，提供债务、收入、支出、国债和财政数据集。核心提供市场行情、宏观指标、公司资料或金融数据。,财政 | 美国 | 开放数据,false,2026-06-09
-treasurydirect-gov,site,TreasuryDirect,https://www.treasurydirect.gov/,finance-data,财经与数据,美国国债个人投资入口，提供国债购买、利率、拍卖和储蓄债券资料。核心提供市场行情、宏观指标、公司资料或金融数据。,国债 | 美国 | 利率,false,2026-06-09
 wid-world,site,World Inequality Database,https://wid.world/,finance-data,财经与数据,全球不平等数据库，提供收入、财富、分配、国家和历史时间序列数据。核心提供市场行情、宏观指标、公司资料或金融数据。,不平等 | 宏观 | 数据,false,2026-06-09
 gapminder-org-tools,site,Gapminder Tools,https://www.gapminder.org/tools/,finance-data,财经与数据,全球发展数据可视化工具，提供国家指标、时间序列和互动图表。核心提供市场行情、宏观指标、公司资料或金融数据。,发展数据 | 可视化 | 教育,false,2026-06-09
 fred-stlouisfed-org-docs-api,site,FRED API Docs,https://fred.stlouisfed.org/docs/api/fred/,finance-data,财经与数据,FRED 数据 API 文档，提供美国和全球经济时间序列的接口使用资料。核心提供市场行情、宏观指标、公司资料或金融数据。,经济数据 | API | FRED,false,2026-06-09
@@ -1410,7 +1367,6 @@ tikr-com,site,TIKR,https://www.tikr.com/,finance-data,财经与数据,TIKR 的�
 quartr-com,site,Quartr,https://quartr.com/,finance-data,财经与数据,Quartr 的财经数据入口，提供 公司财报、会议、投资 相关的市场信息、图表或数据服务。,公司财报 | 会议 | 投资,false,2026-06-17
 openbb-co,site,OpenBB,https://openbb.co/,finance-data,财经与数据,OpenBB 的财经数据入口，提供 投资研究、数据、开源 相关的市场信息、图表或数据服务。,投资研究 | 数据 | 开源,false,2026-06-17
 privacyguides-org,site,Privacy Guides,https://www.privacyguides.org,privacy-security,隐私安全,独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。,隐私 | 安全 | 指南,true,2026-06-08
-torproject-org,site,Tor Project,https://www.torproject.org,privacy-security,隐私安全,Tor 浏览器和匿名网络项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。,隐私 | 匿名 | 浏览器,true,2026-06-08
 signal-org,site,Signal,https://signal.org,privacy-security,隐私安全,端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。,通讯 | 加密 | 隐私,true,2026-06-08
 proton-me-mail,site,Proton Mail,https://proton.me/mail,privacy-security,隐私安全,强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。,邮箱 | 隐私 | 加密,true,2026-06-08
 mailbox-org-en,site,Mailbox.org,https://mailbox.org/en/,privacy-security,隐私安全,德国隐私邮箱服务，提供邮箱、日历、联系人、云存储和面向隐私的办公功能。,邮箱 | 隐私 | 加密,false,2026-06-08
@@ -1426,24 +1382,15 @@ malwarebytes-com,site,Malwarebytes,https://www.malwarebytes.com,privacy-security
 eff-org,site,EFF,https://www.eff.org,privacy-security,隐私安全,电子前哨基金会，数字权利和隐私倡导组织。核心提供隐私保护、安全检测、账号防护或安全实践资料。,数字权利 | 隐私 | 安全,false,2026-06-08
 letsencrypt-org,site,Let's Encrypt,https://letsencrypt.org,privacy-security,隐私安全,免费 TLS 证书项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。,HTTPS | 证书 | 安全,false,2026-06-08
 nextdns-io,site,NextDNS,https://nextdns.io,privacy-security,隐私安全,可配置的 DNS 过滤和隐私服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。,DNS | 隐私 | 安全,false,2026-06-08
-dns0-eu,site,DNS0.eu,https://www.dns0.eu,privacy-security,隐私安全,欧洲非营利公共 DNS 服务，提供恶意域名拦截、儿童保护配置和隐私友好的解析资料。核心提供隐私保护、安全检测、账号防护或安全实践资料。,DNS | 安全 | 隐私,false,2026-06-09
 internet-nl,site,Internet.nl,https://internet.nl,privacy-security,隐私安全,荷兰互联网标准检测工具，提供网站、邮箱和连接的 IPv6、DNSSEC、HTTPS 与安全配置测试。核心提供隐私保护、安全检测、账号防护或安全实践资料。,检测 | 标准 | HTTPS,false,2026-06-09
 quad9-net,site,Quad9,https://www.quad9.net,privacy-security,隐私安全,注重安全过滤的公共 DNS 服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。,DNS | 安全 | 隐私,false,2026-06-08
-mozilla-observatory,site,Mozilla Observatory,https://observatory.mozilla.org,privacy-security,隐私安全,Mozilla 的网站安全检测入口，评估 HTTP 安全头、TLS 配置和常见 Web 安全实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。,Web安全 | 检测 | Mozilla,false,2026-06-09
+mozilla-observatory,site,Mozilla Observatory,https://developer.mozilla.org/en-US/observatory,privacy-security,隐私安全,Mozilla 的网站安全检测入口，评估 HTTP 安全头、TLS 配置和常见 Web 安全实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。,Web安全 | 检测 | Mozilla,false,2026-06-09
 opendns-com,site,OpenDNS,https://www.opendns.com,privacy-security,隐私安全,Cisco OpenDNS 公共 DNS 和安全服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。,DNS | 安全,false,2026-06-08
-cisa-gov,site,CISA,https://www.cisa.gov,privacy-security,隐私安全,美国网络安全和基础设施安全局，提供网络安全提醒、指南和工具入口。,安全 | 官方 | 美国,true,2026-06-08
 browserleaks-com,site,BrowserLeaks,https://browserleaks.com,privacy-security,隐私安全,浏览器指纹和隐私暴露检测工具，展示 WebRTC、Canvas、字体、传感器和网络环境可见信息。核心提供隐私保护、安全检测、账号防护或安全实践资料。,浏览器 | 指纹 | 隐私,false,2026-06-09
-nist-cybersecurity,site,NIST Cybersecurity,https://www.nist.gov/cybersecurity-and-privacy,privacy-security,隐私安全,NIST 网络安全与隐私资源，覆盖标准、框架和最佳实践。核心提供隐私保护、安全检测、账号防护或安全实践资料。,标准 | 安全 | 隐私,true,2026-06-08
 spamhaus-org,site,Spamhaus,https://www.spamhaus.org,privacy-security,隐私安全,反垃圾邮件和威胁情报组织，提供 IP、域名、恶意网络活动和封锁清单相关资料。核心提供隐私保护、安全检测、账号防护或安全实践资料。,威胁情报 | 邮件安全 | 黑名单,false,2026-06-09
 eff-ssd,site,EFF Surveillance Self-Defense,https://ssd.eff.org,privacy-security,隐私安全,EFF 的数字安全与隐私自我防护指南。核心提供隐私保护、安全检测、账号防护或安全实践资料。,隐私 | 安全 | 指南,false,2026-06-08
 mozilla-monitor,site,Mozilla Monitor,https://monitor.mozilla.org,privacy-security,隐私安全,Mozilla 的数据泄露监控和账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。,泄露查询 | 隐私 | 安全,false,2026-06-08
-identitytheft-gov,site,FTC IdentityTheft.gov,https://www.identitytheft.gov/,privacy-security,隐私安全,美国 FTC 身份盗用处理入口，提供身份被盗后的步骤指引、报告和恢复计划。,身份盗用 | 官方 | 美国,false,2026-06-08
-ic3-gov,site,FBI IC3,https://www.ic3.gov/,privacy-security,隐私安全,FBI 网络犯罪投诉中心，提供网络诈骗、勒索、钓鱼等事件报告入口。,网络犯罪 | 举报 | 美国,false,2026-06-08
-kb-cert-org,site,CERT/CC,https://www.kb.cert.org/,privacy-security,隐私安全,CERT 协调中心知识库，提供漏洞公告、协调披露和安全事件资料。,漏洞 | CERT | 公告,false,2026-06-08
 isc-sans-edu,site,SANS ISC,https://isc.sans.edu/,privacy-security,隐私安全,SANS Internet Storm Center，提供安全事件监测、威胁日志和每日安全分析。,威胁情报 | 日志 | 安全,false,2026-06-08
-cve-org,site,CVE,https://www.cve.org/,privacy-security,隐私安全,通用漏洞披露编号系统，提供漏洞 ID、记录规则、CNA 和漏洞资料入口。,漏洞 | CVE | 标准,false,2026-06-08
-nvd-nist-gov,site,NVD,https://nvd.nist.gov/,privacy-security,隐私安全,美国国家漏洞数据库，提供 CVE 详情、CVSS 评分、影响产品和检索工具。,漏洞 | NIST | CVSS,false,2026-06-08
-attack-mitre-org,site,MITRE ATT&CK,https://attack.mitre.org/,privacy-security,隐私安全,攻击技术知识库，提供攻击者战术、技术、过程和防御映射资料。,威胁模型 | 攻击技术 | 知识库,false,2026-06-08
 first-org-cvss,site,FIRST CVSS,https://www.first.org/cvss/,privacy-security,隐私安全,CVSS 标准官方入口，提供漏洞严重性评分规范、计算器和版本资料。,CVSS | 标准 | 漏洞,false,2026-06-08
 cisecurity-org-cis-benchmarks,site,CIS Benchmarks,https://www.cisecurity.org/cis-benchmarks,privacy-security,隐私安全,CIS 安全基线入口，提供操作系统、云服务、数据库和软件的加固建议。,安全基线 | 加固 | 标准,false,2026-06-08
 gchq-github-io-cyberchef,site,CyberChef,https://gchq.github.io/CyberChef/,privacy-security,隐私安全,浏览器内数据处理工具，提供编码解码、哈希、加密、解析和取证辅助操作。,编码 | 取证 | 工具,false,2026-06-08
@@ -1453,12 +1400,9 @@ shodan-io,site,Shodan,https://www.shodan.io/,privacy-security,隐私安全,互�
 urlscan-io,site,urlscan.io,https://urlscan.io/,privacy-security,隐私安全,URL 扫描和分析平台，提供网页请求、截图、域名、脚本和恶意行为线索。,URL扫描 | 威胁分析 | 工具,false,2026-06-08
 abuseipdb-com,site,AbuseIPDB,https://www.abuseipdb.com/,privacy-security,隐私安全,恶意 IP 查询平台，提供 IP 信誉、滥用报告、黑名单和 API 查询。,IP信誉 | 黑名单 | 安全,false,2026-06-08
 phishtank-org,site,PhishTank,https://phishtank.org/,privacy-security,隐私安全,钓鱼网址社区数据库，提供钓鱼链接提交、验证、搜索和 API 数据。,钓鱼 | URL | 数据库,false,2026-06-08
-tails-net,site,Tails,https://tails.net/,privacy-security,隐私安全,隐私保护操作系统项目，提供可从 USB 启动、默认走 Tor 的临时工作环境。,隐私 | 操作系统 | Tor,false,2026-06-08
-qubes-os-org,site,Qubes OS,https://www.qubes-os.org/,privacy-security,隐私安全,安全隔离型桌面操作系统，核心提供基于虚拟化的应用和任务隔离。,操作系统 | 隔离 | 安全,false,2026-06-08
 privacyinternational-org,site,Privacy International,https://privacyinternational.org/,privacy-security,隐私安全,数字隐私倡议组织，提供监控、数据权利、政策研究和行动资源。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,隐私权 | 政策 | 监控,false,2026-06-09
 accessnow-org,site,Access Now,https://www.accessnow.org/,privacy-security,隐私安全,数字权利组织，提供网络自由、隐私、审查、政策倡议和安全热线资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,数字权利 | 网络自由 | 政策,false,2026-06-09
 rsf-org-en,site,Reporters Without Borders,https://rsf.org/en,privacy-security,隐私安全,记者无国界官网，提供新闻自由指数、记者安全、审查和国家报告资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,新闻自由 | 安全 | 报告,false,2026-06-09
-freedomhouse-org,site,Freedom House,https://freedomhouse.org/,privacy-security,隐私安全,自由之家网站，提供网络自由、政治权利、公民自由和国家评估报告。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,网络自由 | 报告 | 权利,false,2026-06-09
 citizenlab-ca,site,Citizen Lab,https://citizenlab.ca/,privacy-security,隐私安全,多伦多大学数字安全研究机构，提供间谍软件、审查、监控和威胁研究报告。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,安全研究 | 监控 | 报告,false,2026-06-09
 krebsonsecurity-com,site,Krebs on Security,https://krebsonsecurity.com/,privacy-security,隐私安全,安全新闻博客，提供网络犯罪、数据泄露、欺诈、勒索软件和调查报道。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,安全新闻 | 网络犯罪 | 调查,false,2026-06-09
 schneier-com,site,Schneier on Security,https://www.schneier.com/,privacy-security,隐私安全,安全专家博客，提供密码学、政策、隐私、安全工程和社会风险评论。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,安全评论 | 密码学 | 政策,false,2026-06-09
@@ -1470,29 +1414,23 @@ ublockorigin-com,site,uBlock Origin,https://ublockorigin.com/,privacy-security,�
 privacybadger-org,site,Privacy Badger,https://privacybadger.org/,privacy-security,隐私安全,EFF 的浏览器隐私扩展，提供自动阻止第三方跟踪器和隐私保护说明。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,浏览器扩展 | 隐私 | EFF,false,2026-06-09
 relay-firefox-com,site,Firefox Relay,https://relay.firefox.com/,privacy-security,隐私安全,Mozilla 邮箱别名服务，提供邮箱转发、号码保护和减少账号暴露功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,邮箱别名 | 隐私 | Mozilla,false,2026-06-09
 proton-me-pass,site,Proton Pass,https://proton.me/pass,privacy-security,隐私安全,Proton 密码管理器，提供密码、通行密钥、邮箱别名和端到端加密同步。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,密码管理 | 通行密钥 | 隐私,false,2026-06-09
-ente-io-auth,site,Ente Auth,https://ente.io/auth/,privacy-security,隐私安全,开源双因素认证应用，提供端到端加密备份、多设备同步和离线验证码。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,2FA | 开源 | 认证,false,2026-06-09
+ente-io-auth,site,Ente Auth,https://ente.com/auth/,privacy-security,隐私安全,开源双因素认证应用，提供端到端加密备份、多设备同步和离线验证码。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,2FA | 开源 | 认证,false,2026-06-09
 getaegis-app,site,Aegis Authenticator,https://getaegis.app/,privacy-security,隐私安全,Android 开源两步验证应用，提供加密备份、导入导出和离线 OTP 管理。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,2FA | Android | 开源,false,2026-06-09
 yubico-com,site,Yubico,https://www.yubico.com/,privacy-security,隐私安全,硬件安全密钥厂商，提供 YubiKey、FIDO2、Passkey、企业 MFA 和开发资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,硬件密钥 | MFA | Passkey,false,2026-06-09
 nitrokey-com,site,Nitrokey,https://www.nitrokey.com/,privacy-security,隐私安全,开源硬件安全产品入口，提供安全密钥、加密存储、HSM 和隐私硬件资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,硬件密钥 | 开源硬件 | 加密,false,2026-06-09
-veracrypt-fr-en-home-html,site,VeraCrypt,https://www.veracrypt.fr/en/Home.html,privacy-security,隐私安全,开源磁盘加密工具，提供整盘加密、容器加密、隐藏卷和跨平台下载。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,磁盘加密 | 开源 | 隐私,false,2026-06-09
+veracrypt-fr-en-home-html,site,VeraCrypt,https://veracrypt.io/en/Home.html,privacy-security,隐私安全,开源磁盘加密工具，提供整盘加密、容器加密、隐藏卷和跨平台下载。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,磁盘加密 | 开源 | 隐私,false,2026-06-09
 cryptomator-org,site,Cryptomator,https://cryptomator.org/,privacy-security,隐私安全,开源云文件加密工具，提供本地加密保险库、跨平台应用和云盘隐私保护。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,文件加密 | 云盘 | 开源,false,2026-06-09
-age-encryption-org,site,age,https://age-encryption.org/,privacy-security,隐私安全,现代文件加密工具，提供简单命令行、公钥加密、插件和开发库资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,文件加密 | 命令行 | 开源,false,2026-06-09
+age-encryption-org,site,age,https://github.com/FiloSottile/age,privacy-security,隐私安全,现代文件加密工具，提供简单命令行、公钥加密、插件和开发库资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,文件加密 | 命令行 | 开源,false,2026-06-09
 gnupg-org,site,GnuPG,https://gnupg.org/,privacy-security,隐私安全,OpenPGP 加密工具套件，提供邮件加密、签名、密钥管理和命令行工具。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,PGP | 加密 | 签名,false,2026-06-09
 openpgp-org,site,OpenPGP,https://www.openpgp.org/,privacy-security,隐私安全,OpenPGP 标准和生态入口，提供邮件加密、软件列表、规范和学习资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,PGP | 标准 | 加密,false,2026-06-09
 coveryourtracks-eff-org,site,Cover Your Tracks,https://coveryourtracks.eff.org/,privacy-security,隐私安全,EFF 的浏览器隐私检测工具，测试追踪保护、浏览器指纹和广告跟踪暴露情况。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,浏览器 | 指纹 | 隐私检测,false,2026-06-09
 librewolf-net,site,LibreWolf,https://librewolf.net/,privacy-security,隐私安全,Firefox 衍生隐私浏览器，提供默认隐私强化、遥测移除和安全设置。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,浏览器 | 隐私 | 开源,false,2026-06-09
 onionshare-org,site,OnionShare,https://onionshare.org/,privacy-security,隐私安全,Tor 网络文件分享和匿名发布工具，提供安全传文件、聊天和临时网站功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,Tor | 文件分享 | 匿名,false,2026-06-09
-securedrop-org,site,SecureDrop,https://securedrop.org/,privacy-security,隐私安全,面向新闻机构的匿名爆料系统，提供安全投稿、Tor 访问和开源部署资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,匿名投稿 | 新闻安全 | 开源,false,2026-06-09
 getsession-org,site,Session,https://getsession.org/,privacy-security,隐私安全,去中心化加密通讯应用，提供无手机号账号、端到端加密和隐私消息功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,通讯 | 加密 | 隐私,false,2026-06-09
 wire-com,site,Wire,https://wire.com/,privacy-security,隐私安全,端到端加密通讯和协作平台，提供团队消息、语音视频、文件和企业安全功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,通讯 | 加密 | 团队,false,2026-06-09
-metrics-torproject-org,site,Tor Metrics,https://metrics.torproject.org/,privacy-security,隐私安全,Tor 网络统计平台，提供节点、用户、桥接、流量和网络健康数据。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,Tor | 统计 | 网络,false,2026-06-09
 clamav-net,site,ClamAV,https://www.clamav.net/,privacy-security,隐私安全,开源恶意软件检测工具，提供病毒扫描引擎、签名库、命令行和邮件网关用途。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,恶意软件 | 开源 | 扫描,false,2026-06-09
 osquery-io,site,osquery,https://osquery.io/,privacy-security,隐私安全,开源终端可观测工具，提供用 SQL 查询操作系统状态、资产和安全事件资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,终端安全 | 资产 | 开源,false,2026-06-09
 openssf-org,site,OpenSSF,https://openssf.org/,privacy-security,隐私安全,开源软件安全基金会，提供供应链安全、最佳实践、项目和安全工具资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。,开源安全 | 供应链 | 基金会,false,2026-06-09
-protonvpn-com,site,Proton VPN,https://protonvpn.com/,privacy-security,隐私安全,Proton VPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。,VPN | 隐私 | 安全,false,2026-06-17
-mullvad-net,site,Mullvad VPN,https://mullvad.net/,privacy-security,隐私安全,Mullvad VPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。,VPN | 隐私 | 安全,false,2026-06-17
-ivpn-net,site,IVPN,https://www.ivpn.net/,privacy-security,隐私安全,IVPN 的隐私安全入口，提供 VPN、隐私、安全 相关的工具、资料或安全服务。,VPN | 隐私 | 安全,false,2026-06-17
-mozilla-org-products-vpn,site,Mozilla VPN,https://www.mozilla.org/products/vpn/,privacy-security,隐私安全,Mozilla VPN 的隐私安全入口，提供 VPN、隐私、浏览器 相关的工具、资料或安全服务。,VPN | 隐私 | 浏览器,false,2026-06-17
 tuta-com,site,Tuta,https://tuta.com/,privacy-security,隐私安全,Tuta 的隐私安全入口，提供 加密邮箱、隐私、德国 相关的工具、资料或安全服务。,加密邮箱 | 隐私 | 德国,false,2026-06-17
 startmail-com,site,StartMail,https://www.startmail.com/,privacy-security,隐私安全,StartMail 的隐私安全入口，提供 隐私邮箱、安全、搜索 相关的工具、资料或安全服务。,隐私邮箱 | 安全 | 搜索,false,2026-06-17
 fastmail-com,site,Fastmail,https://www.fastmail.com/,privacy-security,隐私安全,Fastmail 的隐私安全入口，提供 邮箱、隐私、付费 相关的工具、资料或安全服务。,邮箱 | 隐私 | 付费,false,2026-06-17
@@ -1512,13 +1450,13 @@ greynoise-io,site,GreyNoise,https://www.greynoise.io/,privacy-security,隐私安
 xiaolin-youtube,youtube-channel,小Lin说,https://www.youtube.com/channel/UCilwQlk62k1z7aUEZPOB6yw,youtube-business-finance,商业财经,用故事化方式讲解商业公司、金融事件、经济周期、行业变化和消费市场逻辑。,财经 | 商业 | 经济,true,2026-06-09
 zrbros-youtube,youtube-channel,柴鼠兄弟,https://www.youtube.com/@ZRBros,youtube-business-finance,商业财经,台湾财经教育频道，覆盖投资观念、理财工具、市场基础知识和个人财务规划。,理财 | 投资 | 台湾,false,2026-06-09
 gooaye-youtube,youtube-channel,股癌 Gooaye,https://www.youtube.com/@Gooaye,youtube-business-finance,商业财经,台湾财经评论和播客频道，围绕股市、科技产业、宏观环境和投资情绪做讨论。,股市 | 播客 | 财经,false,2026-06-09
-linvo-youtube,youtube-channel,李自然说,https://www.youtube.com/@Linvo,youtube-business-finance,商业财经,商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。,商业 | 科技 | 创业,false,2026-06-09
+linvo-youtube,youtube-channel,李自然说,https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw,youtube-business-finance,商业财经,商业科技叙事频道，解析创业公司、互联网产品、技术趋势和商业模式变化。,商业 | 科技 | 创业,false,2026-06-09
 joeman-youtube,youtube-channel,Joeman,https://www.youtube.com/@Joeman,youtube-business-finance,商业财经,台湾综合型创作者，代表内容包括开箱评测、商业合作、房产消费和人物企划。,评测 | 商业 | 生活,true,2026-06-09
 laogao-youtube,youtube-channel,老高与小茉,https://www.youtube.com/@laogao,youtube-film-entertainment,影视娱乐,中文长视频头部频道之一，内容以都市传说、历史谜题、科学想象和故事型讲述为主。,故事 | 悬疑 | 长视频,true,2026-06-09
 howhow-youtube,youtube-channel,HowHow,https://www.youtube.com/@HowFunOfficial,youtube-film-entertainment,影视娱乐,台湾喜剧创作者，代表内容是短剧、广告梗、角色表演和网络流行文化创作。,喜剧 | 短剧 | 台湾,true,2026-06-09
-tsaigray-youtube,youtube-channel,蔡阿嘎,https://www.youtube.com/@tsaigray2018,youtube-film-entertainment,影视娱乐,台湾早期代表性 YouTuber，内容覆盖生活企划、家庭记录、台湾文化和娱乐短片。,生活 | 娱乐 | 台湾,false,2026-06-09
+tsaigray-youtube,youtube-channel,蔡阿嘎,https://www.youtube.com/channel/UCPwxSX0DYDMQxCvgfeVDv_g,youtube-film-entertainment,影视娱乐,台湾早期代表性 YouTuber，内容覆盖生活企划、家庭记录、台湾文化和娱乐短片。,生活 | 娱乐 | 台湾,false,2026-06-09
 tgop-youtube,youtube-channel,这群人 TGOP,https://www.youtube.com/user/e84768131,youtube-film-entertainment,影视娱乐,台湾喜剧团体频道，以经典语录、情境短剧、翻唱企划和团队型娱乐内容闻名。,喜剧 | 短剧 | 团队,false,2026-06-09
-asenstudio-youtube,youtube-channel,阿神,https://www.youtube.com/@AsenStudio,youtube-film-entertainment,影视娱乐,中文游戏和实况频道，长期制作游戏流程、实况片段、合作企划和粉丝向内容。,游戏 | 实况 | 娱乐,false,2026-06-09
+asenstudio-youtube,youtube-channel,阿神,https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg,youtube-film-entertainment,影视娱乐,中文游戏和实况频道，长期制作游戏流程、实况片段、合作企划和粉丝向内容。,游戏 | 实况 | 娱乐,false,2026-06-09
 muyao4-youtube,youtube-channel,木曜 4 超玩,https://www.youtube.com/@Muyao4,youtube-film-entertainment,影视娱乐,台湾综艺型 YouTube 频道，代表内容包括一日系列、艺人企划、职业体验和外景节目。,综艺 | 台湾 | 外景,true,2026-06-09
 nsfw-youtube,youtube-channel,上班不要看,https://www.youtube.com/@nsfwofficial,youtube-film-entertainment,影视娱乐,台湾网络娱乐团队，制作实测企划、短剧、人物挑战、直播片段和品牌合作内容。,娱乐 | 企划 | 台湾,false,2026-06-09
 str-network-youtube,youtube-channel,STR Network,https://www.youtube.com/@STRNetworkasia,youtube-film-entertainment,影视娱乐,博恩和团队相关的喜剧内容入口，包含脱口秀、访谈、讽刺短片和舞台节目片段。,脱口秀 | 喜剧 | 访谈,false,2026-06-09
@@ -1530,23 +1468,21 @@ dw-chinese-youtube,youtube-channel,DW 中文,https://www.youtube.com/@dwchinese,
 tvbs-news-youtube,youtube-channel,TVBS NEWS,https://www.youtube.com/@TVBSNEWS01,youtube-news-public-affairs,新闻与公共议题,台湾 TVBS 新闻频道，提供即时新闻、政经节目、社会现场、国际报道和直播片段。,台湾 | 新闻 | 直播,false,2026-06-09
 pts-news-youtube,youtube-channel,公视新闻,https://www.youtube.com/@PNNPTS,youtube-news-public-affairs,新闻与公共议题,台湾公共电视新闻频道，提供公共议题、调查报道、新闻现场和深度专题节目。,台湾 | 公共媒体 | 新闻,false,2026-06-09
 setn-youtube,youtube-channel,三立新闻,https://www.youtube.com/@SETN,youtube-news-public-affairs,新闻与公共议题,三立新闻 YouTube 频道，集中台湾即时新闻、政论节目、社会新闻和现场直播。,台湾 | 新闻 | 政论,false,2026-06-09
-fan-america-time-youtube,youtube-channel,范琪斐的美国时间,https://www.youtube.com/@TheStormMedia,youtube-news-public-affairs,新闻与公共议题,以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。,美国 | 访谈 | 公共议题,true,2026-06-09
+fan-america-time-youtube,youtube-channel,范琪斐的美国时间,https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw,youtube-news-public-affairs,新闻与公共议题,以美国政治、国际关系和台湾公共讨论为主，节目形态包含评论、访谈和议题拆解。,美国 | 访谈 | 公共议题,true,2026-06-09
 wang-zhian-youtube,youtube-channel,王志安,https://www.youtube.com/@wangzhian,youtube-news-public-affairs,新闻与公共议题,中文时事评论频道，常以长节目形式分析新闻事件、公共政策和社会议题争议。,时事 | 评论 | 公共议题,false,2026-06-09
-wenzhao-youtube,youtube-channel,文昭谈古论今,https://www.youtube.com/@wenzhaoofficial,youtube-news-public-affairs,新闻与公共议题,中文时政和历史评论频道，结合历史背景、国际关系和现实新闻做长线解读。,时政 | 历史 | 评论,false,2026-06-09
 shasha77-youtube,youtube-channel,志祺七七,https://www.youtube.com/@shasha77,youtube-news-public-affairs,新闻与公共议题,台湾议题解释型频道，用图文和短片拆解公共政策、社会现象、国际事件和文化议题。,解释 | 台湾 | 社会,true,2026-06-09
 bailingguo-youtube,youtube-channel,百灵果 News,https://www.youtube.com/@bailingguo,youtube-news-public-affairs,新闻与公共议题,中文新闻谈话与播客型频道，以国际新闻、台湾社会、人物访谈和轻松评论为主。,播客 | 新闻 | 访谈,false,2026-06-09
 liyongle-youtube,youtube-channel,李永乐老师,https://www.youtube.com/@TeacherLiYongLe,youtube-knowledge-education,知识教育,面向大众的数学、物理和科学解释频道，用板书方式讲解概念、新闻背后的科学原理。,科学 | 数学 | 物理,true,2026-06-09
-luoxiang-youtube,youtube-channel,罗翔说刑法,https://www.youtube.com/@luoxiang,youtube-knowledge-education,知识教育,法律知识普及频道，围绕刑法案例、法治观念、社会伦理和公共讨论做解释。,法律 | 教育 | 案例,false,2026-06-09
 chuchushoe-youtube,youtube-channel,啾啾鞋,https://www.youtube.com/@chuchushoeTW,youtube-knowledge-education,知识教育,台湾知识型创作者，内容涵盖科学冷知识、心理学、社会现象和书籍概念整理。,知识 | 科学 | 心理,true,2026-06-09
-cheap-history-youtube,youtube-channel,Cheap,https://www.youtube.com/@CheapHistory,youtube-knowledge-education,知识教育,台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。,历史 | 交通 | 台湾,false,2026-06-09
-x-investigations-youtube,youtube-channel,X 调查,https://www.youtube.com/@XInvestigations,youtube-knowledge-education,知识教育,案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。,案件 | 叙事 | 资料,false,2026-06-09
-funscience-youtube,youtube-channel,芳斯塔芙,https://www.youtube.com/@FunScience,youtube-knowledge-education,知识教育,科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。,科普 | 动画 | 自然,false,2026-06-09
-vincentbook-youtube,youtube-channel,文森说书,https://www.youtube.com/@vincentbook,youtube-knowledge-education,知识教育,读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。,读书 | 知识 | 心理,false,2026-06-09
+cheap-history-youtube,youtube-channel,Cheap,https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA,youtube-knowledge-education,知识教育,台湾历史和交通议题频道，用大众化叙事讲历史故事、城市规划和公共交通议题。,历史 | 交通 | 台湾,false,2026-06-09
+x-investigations-youtube,youtube-channel,X 调查,https://www.youtube.com/channel/UCOyshL6rKK1GqwoEfy_ehBg,youtube-knowledge-education,知识教育,案件和社会事件叙事频道，整理真实事件、人物背景、时间线和相关公开资料。,案件 | 叙事 | 资料,false,2026-06-09
+funscience-youtube,youtube-channel,芳斯塔芙,https://www.youtube.com/channel/UClLEMac0ZjZCsVOTiaBtJBg,youtube-knowledge-education,知识教育,科普内容频道，使用动画和实验解释科学概念、自然现象、人体知识和生活问题。,科普 | 动画 | 自然,false,2026-06-09
+vincentbook-youtube,youtube-channel,文森说书,https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw,youtube-knowledge-education,知识教育,读书和知识整理频道，围绕商业、心理、社会科学和个人成长类书籍做结构化讲解。,读书 | 知识 | 心理,false,2026-06-09
 aottergirls-youtube,youtube-channel,电獭少女,https://www.youtube.com/@aottergirls,youtube-tech-digital,科技与数码,台湾数码科技频道，提供手机、电脑、应用、AI 工具和消费电子新品体验。,数码 | 手机 | AI,true,2026-06-09
 3c-tim-youtube,youtube-channel,3C Tim哥生活日常,https://www.youtube.com/@3CTim,youtube-tech-digital,科技与数码,台湾 3C 频道，重点是手机、配件、Apple 生态、消费电子和实用购买建议。,3C | 手机 | Apple,false,2026-06-09
-techdog-youtube,youtube-channel,科技狗 3C Dog,https://www.youtube.com/@TechDog,youtube-tech-digital,科技与数码,数码评测频道，覆盖智能手机、电脑周边、相机设备、家电和使用体验比较。,评测 | 数码 | 硬件,false,2026-06-09
-geekerwan-youtube,youtube-channel,极客湾 Geekerwan,https://www.youtube.com/@Geekerwan,youtube-tech-digital,科技与数码,硬件评测和技术解析频道，擅长手机芯片、电脑硬件、性能测试和工程向解释。,硬件 | 性能 | 芯片,true,2026-06-09
-mediastorm-youtube,youtube-channel,影视飓风,https://www.youtube.com/@mediastormfilm,youtube-tech-digital,科技与数码,影像技术和创作频道，覆盖摄影器材、后期流程、影像制作、创作者设备和实验项目。,影像 | 摄影 | 创作,true,2026-06-09
+techdog-youtube,youtube-channel,科技狗 3C Dog,https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg,youtube-tech-digital,科技与数码,数码评测频道，覆盖智能手机、电脑周边、相机设备、家电和使用体验比较。,评测 | 数码 | 硬件,false,2026-06-09
+geekerwan-youtube,youtube-channel,极客湾 Geekerwan,https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ,youtube-tech-digital,科技与数码,硬件评测和技术解析频道，擅长手机芯片、电脑硬件、性能测试和工程向解释。,硬件 | 性能 | 芯片,true,2026-06-09
+mediastorm-youtube,youtube-channel,影视飓风,https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA,youtube-tech-digital,科技与数码,影像技术和创作频道，覆盖摄影器材、后期流程、影像制作、创作者设备和实验项目。,影像 | 摄影 | 创作,true,2026-06-09
 chienseating-youtube,youtube-channel,千千进食中,https://www.youtube.com/@chienseating,youtube-food-travel,美食旅行,台湾美食频道，内容覆盖餐厅探店、吃到饱、地方小吃、旅行餐桌和饮食体验。,美食 | 台湾 | 探店,true,2026-06-09
 ladyflavor-youtube,youtube-channel,好味小姐,https://www.youtube.com/@LadyFlavor,youtube-food-travel,美食旅行,台湾生活与料理频道，核心内容包含家庭料理、日常记录、品牌企划和生活感内容。,生活 | 料理 | 台湾,false,2026-06-09
 kusdream-youtube,youtube-channel,Ku's dream 酷的梦,https://www.youtube.com/@Kusdream,youtube-food-travel,美食旅行,法国创作者在台湾的旅行和文化频道，覆盖台湾生活、地方体验和跨文化观察。,旅行 | 台湾 | 文化,true,2026-06-09
@@ -1567,14 +1503,14 @@ mandarin-blueprint-youtube,youtube-channel,Mandarin Blueprint,https://www.youtub
 pomato-youtube,youtube-channel,Pomato 小薯茄,https://www.youtube.com/@PomatoHK,youtube-hong-kong-southeast-asia,香港与东南亚,香港粤语娱乐团队，制作短剧、综艺企划、人物角色和本地流行文化内容。,香港 | 粤语 | 短剧,true,2026-06-09
 trial-and-error-youtube,youtube-channel,Trial & Error,https://www.youtube.com/@TrialAndError924,youtube-hong-kong-southeast-asia,香港与东南亚,香港粤语创作团队，内容包含生活挑战、都市观察、实验企划和娱乐访谈。,香港 | 粤语 | 企划,false,2026-06-09
 fhproductionhk-youtube,youtube-channel,FHProductionHK,https://www.youtube.com/@FHProductionHK,youtube-hong-kong-southeast-asia,香港与东南亚,香港网络短片团队，以校园、职场、感情和城市生活题材的粤语短剧见长。,香港 | 短剧 | 粤语,false,2026-06-09
-mill-milk-youtube,youtube-channel,米纸,https://www.youtube.com/@MillMilk,youtube-hong-kong-southeast-asia,香港与东南亚,香港人物和社区故事频道，关注本地饮食、街区文化、人物专访和城市记忆。,香港 | 人物 | 社区,true,2026-06-09
-100most-youtube,youtube-channel,毛记电视,https://www.youtube.com/user/100mosthk,youtube-hong-kong-southeast-asia,香港与东南亚,香港网络媒体和娱乐品牌，内容包含讽刺短片、节目片段、本地娱乐和流行文化。,香港 | 娱乐 | 媒体,false,2026-06-09
-dimcookguide-youtube,youtube-channel,点 Cook Guide,https://www.youtube.com/@dimcookguide,youtube-hong-kong-southeast-asia,香港与东南亚,香港粤语料理频道，提供家常菜、港式美食、厨房技巧和易跟做的食谱影片。,香港 | 料理 | 粤语,false,2026-06-09
+mill-milk-youtube,youtube-channel,米纸,https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A,youtube-hong-kong-southeast-asia,香港与东南亚,香港人物和社区故事频道，关注本地饮食、街区文化、人物专访和城市记忆。,香港 | 人物 | 社区,true,2026-06-09
+100most-youtube,youtube-channel,毛记电视,https://www.youtube.com/channel/UCiJnCs2K5gP-DXnMxlstC9A,youtube-hong-kong-southeast-asia,香港与东南亚,香港网络媒体和娱乐品牌，内容包含讽刺短片、节目片段、本地娱乐和流行文化。,香港 | 娱乐 | 媒体,false,2026-06-09
+dimcookguide-youtube,youtube-channel,点 Cook Guide,https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg,youtube-hong-kong-southeast-asia,香港与东南亚,香港粤语料理频道，提供家常菜、港式美食、厨房技巧和易跟做的食谱影片。,香港 | 料理 | 粤语,false,2026-06-09
 singsing-kitchen-youtube,youtube-channel,职人吹水,https://www.youtube.com/@singSingKitchen,youtube-hong-kong-southeast-asia,香港与东南亚,香港粤语厨艺频道，以餐饮从业经验讲解港式料理、厨房流程和实用烹饪技巧。,香港 | 厨艺 | 粤语,false,2026-06-09
 jinnyboytv-youtube,youtube-channel,JinnyboyTV,https://www.youtube.com/user/JinnyboyTV,youtube-hong-kong-southeast-asia,香港与东南亚,马来西亚网络创作团队，制作英文和华语受众都熟悉的短片、人物故事和喜剧内容。,马来西亚 | 短片 | 喜剧,false,2026-06-09
 the-ming-thing-youtube,youtube-channel,The Ming Thing,https://www.youtube.com/@TheMingThing,youtube-hong-kong-southeast-asia,香港与东南亚,马来西亚创作团队，内容涵盖都市青年生活、情感短剧、喜剧企划和品牌故事。,马来西亚 | 短剧 | 生活,false,2026-06-09
 wahbanana-youtube,youtube-channel,Wah!Banana,https://www.youtube.com/@WahBanana,youtube-hong-kong-southeast-asia,香港与东南亚,新加坡网络娱乐团队，制作英语和华语文化圈都容易理解的短剧、喜剧和生活观察。,新加坡 | 喜剧 | 短剧,false,2026-06-09
-smileboyhk-youtube,youtube-channel,笑波子,https://www.youtube.com/@smileboyhk,youtube-hong-kong-southeast-asia,香港与东南亚,香港游戏和娱乐频道，提供游戏实况、挑战、角色内容和面向年轻用户的轻娱乐。,香港 | 游戏 | 娱乐,false,2026-06-09
-dajj-youtube,youtube-channel,大J,https://www.youtube.com/@dajj,youtube-hong-kong-southeast-asia,香港与东南亚,香港游戏与生活创作者，内容包含游戏评论、实况、个人生活和社会话题观察。,香港 | 游戏 | 生活,false,2026-06-09
+smileboyhk-youtube,youtube-channel,笑波子,https://www.youtube.com/channel/UCDpK1rg5I9Zc3ToY13vbR3w,youtube-hong-kong-southeast-asia,香港与东南亚,香港游戏和娱乐频道，提供游戏实况、挑战、角色内容和面向年轻用户的轻娱乐。,香港 | 游戏 | 娱乐,false,2026-06-09
+dajj-youtube,youtube-channel,大J,https://www.youtube.com/channel/UCJfKbbSaleFcT1Dg_b2Nepg,youtube-hong-kong-southeast-asia,香港与东南亚,香港游戏与生活创作者，内容包含游戏评论、实况、个人生活和社会话题观察。,香港 | 游戏 | 生活,false,2026-06-09
 emiwong-youtube,youtube-channel,Emi Wong,https://www.youtube.com/@emiwong,youtube-hong-kong-southeast-asia,香港与东南亚,香港健身和生活方式频道，提供居家训练、身材管理、健康习惯和日常记录内容。,香港 | 健身 | 生活,false,2026-06-09
 coffeelam-youtube,youtube-channel,Coffee 林芊妤,https://www.youtube.com/@CoffeeLam,youtube-hong-kong-southeast-asia,香港与东南亚,香港瑜伽、健身和生活方式频道，提供训练课程、饮食记录和健康生活内容。,香港 | 瑜伽 | 生活,false,2026-06-09

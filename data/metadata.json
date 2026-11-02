@@ -1,32 +1,26 @@
 {
-  "generatedAt": "2026-10-28T20:13:08.580Z",
+  "generatedAt": "2026-11-02T10:14:07.086Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1512,
-    "sitesPublic": 1512,
+    "sitesTotal": 1514,
+    "sitesPublic": 1448,
     "youtubeTotal": 69,
-    "youtubePublic": 69,
+    "youtubePublic": 67,
     "profileTableAvailable": false
   },
   "publicOverrides": {
-    "excludedSiteIds": [
-      "kktv-me",
-      "xkb-com-au"
-    ],
-    "siteUrlOverrideIds": [
-      "peoplemedia-tw",
-      "justpodmedia-com"
-    ]
+    "excludedSiteIds": [],
+    "siteUrlOverrideIds": []
   },
   "counts": {
-    "sites": 1510,
-    "youtubeChannels": 69,
+    "sites": 1448,
+    "youtubeChannels": 67,
     "categories": 25,
-    "allLinks": 1579,
+    "allLinks": 1515,
     "topics": 30,
-    "topicResolvedItems": 1702,
+    "topicResolvedItems": 1684,
     "sitesWithProfile": 0,
-    "markdownFiles": 1637
+    "markdownFiles": 1573
   }
 }

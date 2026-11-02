@@ -1,6 +1,6 @@
 # 科技狗 3C Dog
 
-- YouTube：[https://www.youtube.com/@TechDog](https://www.youtube.com/@TechDog)
+- YouTube：[https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg](https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/techdog-youtube](https://ifanqiang.com/youtube/techdog-youtube)
 - 分类：科技与数码
 - 标签：评测、数码、硬件

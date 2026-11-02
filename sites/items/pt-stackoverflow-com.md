@@ -1,4 +1,4 @@
-# Stack Overflow em Portugu&#234;s
+# Stack Overflow em Português
 
 - 官网：[https://pt.stackoverflow.com](https://pt.stackoverflow.com)
 - 爱翻墙详情：[https://ifanqiang.com/sites/pt-stackoverflow-com](https://ifanqiang.com/sites/pt-stackoverflow-com)

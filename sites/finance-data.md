@@ -1,6 +1,6 @@
 # 财经与数据
 
-共 85 个网站。点击名称可直接访问官网。
+共 79 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -15,7 +15,6 @@
 | [TradingView](https://www.tradingview.com) | [详情](items/tradingview-com.md) | 图表、市场数据和交易观点社区。核心提供市场行情、宏观指标、公司资料或金融数据。 | 图表、市场、交易 | 多语言 |
 | [Investing.com](https://www.investing.com) | [详情](items/investing-com.md) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 市场、财经日历、数据 | 多语言 |
 | [FRED](https://fred.stlouisfed.org) | [详情](items/fred-stlouisfed-org.md) | 美国圣路易斯联储经济数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 宏观、数据、经济 | 英文 |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | [详情](items/sec-gov-edgar-search.md) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 公司文件、监管、数据 | 英文 |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | [详情](items/companiesmarketcap-com.md) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 市值、公司、数据 | 英文 |
 | [Macrotrends](https://www.macrotrends.net) | [详情](items/macrotrends-net.md) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 宏观、数据、图表 | 英文 |
 | [Koyfin](https://www.koyfin.com) | [详情](items/koyfin-com.md) | 金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 金融数据、图表、投资 | 英文 |
@@ -35,9 +34,6 @@
 | [OECD Data Explorer](https://data-explorer.oecd.org/) | [详情](items/data-explorer-oecd-org.md) | OECD 新版数据浏览器，提供成员国经济、教育、就业、环境和社会指标查询。 | OECD、宏观、数据 | 英文 |
 | [BIS](https://www.bis.org/) | [详情](items/bis-org.md) | 国际清算银行官网，提供央行研究、金融稳定、银行监管和统计数据。 | 央行、金融稳定、数据 | 英文 |
 | [ECB](https://www.ecb.europa.eu/) | [详情](items/ecb-europa-eu.md) | 欧洲央行官网，提供欧元区货币政策、利率、统计数据和研究资料。 | 央行、欧元区、货币政策 | 英文 |
-| [Federal Reserve](https://www.federalreserve.gov/) | [详情](items/federalreserve-gov.md) | 美国联邦储备系统官网，提供货币政策、利率、监管、研究和经济数据入口。 | 美联储、货币政策、数据 | 英文 |
-| [BLS](https://www.bls.gov/) | [详情](items/bls-gov.md) | 美国劳工统计局官网，提供就业、通胀、工资、职业和劳动力市场数据。 | 就业、通胀、美国数据 | 英文 |
-| [BEA](https://www.bea.gov/) | [详情](items/bea-gov.md) | 美国经济分析局官网，提供 GDP、收入、贸易和地区经济统计数据。 | GDP、宏观、美国数据 | 英文 |
 | [Eurostat](https://ec.europa.eu/eurostat) | [详情](items/ec-europa-eu-eurostat.md) | 欧盟统计局入口，提供欧洲人口、经济、社会、贸易和环境统计数据。 | 欧盟、统计、数据 | 英文 |
 | [UK Companies House](https://www.gov.uk/government/organisations/companies-house) | [详情](items/gov-uk-government-organisations.md) | 英国公司注册署入口，提供英国公司登记、申报、董事和公司资料查询。 | 公司资料、英国、监管 | 英文 |
 | [OpenCorporates](https://opencorporates.com/) | [详情](items/opencorporates-com.md) | 开放公司资料库，核心提供跨国家公司注册信息和企业实体查询。 | 公司资料、开放数据、企业 | 英文 |
@@ -46,7 +42,7 @@
 | [Finnhub](https://finnhub.io/) | [详情](items/finnhub-io.md) | 金融数据 API 平台，提供股票、新闻、财报、经济指标和实时行情接口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 金融API、股票、数据 | 英文 |
 | [Tiingo](https://www.tiingo.com/) | [详情](items/tiingo-com.md) | 金融数据平台，提供股票、基金、外汇、加密资产和历史行情 API。核心提供市场行情、宏观指标、公司资料或金融数据。 | 金融数据、API、行情 | 英文 |
 | [Nasdaq Data Link](https://data.nasdaq.com/) | [详情](items/data-nasdaq-com.md) | 金融和替代数据平台，提供经济、市场、商品、基金和商业数据集。核心提供市场行情、宏观指标、公司资料或金融数据。 | 数据集、金融、市场 | 英文 |
-| [Financial Modeling Prep](https://financialmodelingprep.com/) | [详情](items/financialmodelingprep-com.md) | 金融数据 API，提供公司财报、估值指标、股票价格、日历和市场数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财报、API、股票 | 英文 |
+| [Financial Modeling Prep](https://site.financialmodelingprep.com/) | [详情](items/financialmodelingprep-com.md) | 金融数据 API，提供公司财报、估值指标、股票价格、日历和市场数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财报、API、股票 | 英文 |
 | [Finviz](https://finviz.com/) | [详情](items/finviz-com.md) | 股票筛选和市场可视化工具，提供热力图、新闻、图表和基本面筛选。核心提供市场行情、宏观指标、公司资料或金融数据。 | 股票筛选、图表、市场 | 英文 |
 | [Barchart](https://www.barchart.com/) | [详情](items/barchart-com.md) | 金融市场数据网站，提供股票、期货、外汇、期权、图表和市场新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 期货、股票、行情 | 英文 |
 | [Zacks](https://www.zacks.com/) | [详情](items/zacks-com.md) | 投资研究网站，提供股票评级、盈利预测、筛选器和研究报告入口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 股票研究、评级、投资 | 英文 |
@@ -67,8 +63,6 @@
 | [Reserve Bank of Australia](https://www.rba.gov.au/) | [详情](items/rba-gov-au.md) | 澳大利亚央行官网，提供货币政策、利率、金融稳定和经济数据资料。核心提供市场行情、宏观指标、公司资料或金融数据。 | 央行、澳大利亚、数据 | 英文 |
 | [Bank of Canada](https://www.bankofcanada.ca/) | [详情](items/bankofcanada-ca.md) | 加拿大央行官网，提供利率、货币政策、金融系统、研究和数据入口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 央行、加拿大、数据 | 英文 |
 | [Swiss National Bank](https://www.snb.ch/en/) | [详情](items/snb-ch-en.md) | 瑞士央行官网，提供货币政策、汇率、金融市场和统计数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 央行、瑞士、数据 | 英文 |
-| [U.S. Treasury Data](https://fiscaldata.treasury.gov/) | [详情](items/fiscaldata-treasury-gov.md) | 美国财政部开放数据平台，提供债务、收入、支出、国债和财政数据集。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财政、美国、开放数据 | 英文 |
-| [TreasuryDirect](https://www.treasurydirect.gov/) | [详情](items/treasurydirect-gov.md) | 美国国债个人投资入口，提供国债购买、利率、拍卖和储蓄债券资料。核心提供市场行情、宏观指标、公司资料或金融数据。 | 国债、美国、利率 | 英文 |
 | [World Inequality Database](https://wid.world/) | [详情](items/wid-world.md) | 全球不平等数据库，提供收入、财富、分配、国家和历史时间序列数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 不平等、宏观、数据 | 英文 |
 | [Gapminder Tools](https://www.gapminder.org/tools/) | [详情](items/gapminder-org-tools.md) | 全球发展数据可视化工具，提供国家指标、时间序列和互动图表。核心提供市场行情、宏观指标、公司资料或金融数据。 | 发展数据、可视化、教育 | 英文 |
 | [FRED API Docs](https://fred.stlouisfed.org/docs/api/fred/) | [详情](items/fred-stlouisfed-org-docs-api.md) | FRED 数据 API 文档，提供美国和全球经济时间序列的接口使用资料。核心提供市场行情、宏观指标、公司资料或金融数据。 | 经济数据、API、FRED | 英文 |

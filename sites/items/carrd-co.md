@@ -1,13 +1,13 @@
 # Carrd
 
-- 官网：[https://carrd.co/](https://carrd.co/)
+- 官网：[https://carrd.com/](https://carrd.com/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/carrd-co](https://ifanqiang.com/sites/carrd-co)
 - 分类：博客与出版
 - 标签：单页网站、作品集、建站
 - 语言：英文
 - 移动端：有 App 或移动端入口
 - 收录日期：2026-06-09
-- 原始链接：[https://carrd.co/](https://carrd.co/)
+- 原始链接：[https://carrd.com/](https://carrd.com/)
 
 ## 简介
 

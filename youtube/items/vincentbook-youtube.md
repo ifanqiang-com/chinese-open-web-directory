@@ -1,6 +1,6 @@
 # 文森说书
 
-- YouTube：[https://www.youtube.com/@vincentbook](https://www.youtube.com/@vincentbook)
+- YouTube：[https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw](https://www.youtube.com/channel/UCPgGtH2PxZ9xR0ehzQ27FHw)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/vincentbook-youtube](https://ifanqiang.com/youtube/vincentbook-youtube)
 - 分类：知识教育
 - 标签：读书、知识、心理

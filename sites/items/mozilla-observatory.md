@@ -1,13 +1,13 @@
 # Mozilla Observatory
 
-- 官网：[https://observatory.mozilla.org](https://observatory.mozilla.org)
+- 官网：[https://developer.mozilla.org/en-US/observatory](https://developer.mozilla.org/en-US/observatory)
 - 爱翻墙详情：[https://ifanqiang.com/sites/mozilla-observatory](https://ifanqiang.com/sites/mozilla-observatory)
 - 分类：隐私安全
 - 标签：Web安全、检测、Mozilla
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://observatory.mozilla.org](https://observatory.mozilla.org)
+- 原始链接：[https://developer.mozilla.org/en-US/observatory](https://developer.mozilla.org/en-US/observatory)
 
 ## 简介
 

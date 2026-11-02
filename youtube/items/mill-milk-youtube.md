@@ -1,6 +1,6 @@
 # 米纸
 
-- YouTube：[https://www.youtube.com/@MillMilk](https://www.youtube.com/@MillMilk)
+- YouTube：[https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A](https://www.youtube.com/channel/UCGKZBiAkSYd1v1O_5vFky7A)
 - 爱翻墙详情：[https://ifanqiang.com/youtube/mill-milk-youtube](https://ifanqiang.com/youtube/mill-milk-youtube)
 - 分类：香港与东南亚
 - 标签：香港、人物、社区

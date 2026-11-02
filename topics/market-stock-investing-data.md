@@ -22,11 +22,11 @@
 | [Financial Times](https://www.ft.com/markets) | Financial Times 的市场与财经新闻入口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/ft-com-markets) |
 | [Wall Street Journal](https://www.wsj.com/finance) | Wall Street Journal 的财经与市场频道。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/wsj-com-finance) |
 | [Investing.com](https://www.investing.com) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经日历、数据 | [爱翻墙](https://ifanqiang.com/sites/investing-com) |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 公司文件、监管、数据 | [爱翻墙](https://ifanqiang.com/sites/sec-gov-edgar-search) |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市值、公司、数据 | [爱翻墙](https://ifanqiang.com/sites/companiesmarketcap-com) |
 | [Macrotrends](https://www.macrotrends.net) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/macrotrends-net) |
 | [Koyfin](https://www.koyfin.com) | 金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融数据、图表、投资 | [爱翻墙](https://ifanqiang.com/sites/koyfin-com) |
 | [Seeking Alpha](https://seekingalpha.com) | 股票分析、观点和财经社区。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 股票、分析、社区 | [爱翻墙](https://ifanqiang.com/sites/seekingalpha-com) |
+| [Morningstar](https://www.morningstar.com) | 基金、股票和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 基金、投资、研究 | [爱翻墙](https://ifanqiang.com/sites/morningstar-com) |
 
 ## 公司资料和财报
 
@@ -45,11 +45,11 @@
 | [Financial Times](https://www.ft.com/markets) | Financial Times 的市场与财经新闻入口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/ft-com-markets) |
 | [Wall Street Journal](https://www.wsj.com/finance) | Wall Street Journal 的财经与市场频道。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/wsj-com-finance) |
 | [Investing.com](https://www.investing.com) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经日历、数据 | [爱翻墙](https://ifanqiang.com/sites/investing-com) |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 公司文件、监管、数据 | [爱翻墙](https://ifanqiang.com/sites/sec-gov-edgar-search) |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市值、公司、数据 | [爱翻墙](https://ifanqiang.com/sites/companiesmarketcap-com) |
 | [Macrotrends](https://www.macrotrends.net) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/macrotrends-net) |
 | [Koyfin](https://www.koyfin.com) | 金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融数据、图表、投资 | [爱翻墙](https://ifanqiang.com/sites/koyfin-com) |
 | [Seeking Alpha](https://seekingalpha.com) | 股票分析、观点和财经社区。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 股票、分析、社区 | [爱翻墙](https://ifanqiang.com/sites/seekingalpha-com) |
+| [Morningstar](https://www.morningstar.com) | 基金、股票和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 基金、投资、研究 | [爱翻墙](https://ifanqiang.com/sites/morningstar-com) |
 
 ## 宏观经济和公共指标
 
@@ -68,11 +68,11 @@
 | [Financial Times](https://www.ft.com/markets) | Financial Times 的市场与财经新闻入口。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/ft-com-markets) |
 | [Wall Street Journal](https://www.wsj.com/finance) | Wall Street Journal 的财经与市场频道。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 财经、商业、新闻 | [爱翻墙](https://ifanqiang.com/sites/wsj-com-finance) |
 | [Investing.com](https://www.investing.com) | 全球市场数据、财经日历和新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经日历、数据 | [爱翻墙](https://ifanqiang.com/sites/investing-com) |
-| [SEC EDGAR](https://www.sec.gov/edgar/search) | 美国 SEC 公司文件搜索。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 公司文件、监管、数据 | [爱翻墙](https://ifanqiang.com/sites/sec-gov-edgar-search) |
 | [CompaniesMarketCap](https://companiesmarketcap.com) | 上市公司市值和排名数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市值、公司、数据 | [爱翻墙](https://ifanqiang.com/sites/companiesmarketcap-com) |
 | [Macrotrends](https://www.macrotrends.net) | 宏观、市场和公司历史数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 宏观、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/macrotrends-net) |
 | [Koyfin](https://www.koyfin.com) | 金融数据、图表和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 金融数据、图表、投资 | [爱翻墙](https://ifanqiang.com/sites/koyfin-com) |
 | [Seeking Alpha](https://seekingalpha.com) | 股票分析、观点和财经社区。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 股票、分析、社区 | [爱翻墙](https://ifanqiang.com/sites/seekingalpha-com) |
+| [Morningstar](https://www.morningstar.com) | 基金、股票和投资研究平台。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 基金、投资、研究 | [爱翻墙](https://ifanqiang.com/sites/morningstar-com) |
 
 ## 财经新闻和研究
 
