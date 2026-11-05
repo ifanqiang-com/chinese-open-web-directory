@@ -1,6 +1,6 @@
 # 学术研究
 
-共 89 个网站。点击名称可直接访问官网。
+共 87 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@
 | [ResearchGate](https://www.researchgate.net) | [详情](items/researchgate-net.md) | 学术社交与论文分享平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术、社交、论文 | 英文 |
 | [Academia.edu](https://www.academia.edu) | [详情](items/academia-edu.md) | 学术论文分享和研究者平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术、论文、社交 | 英文 |
 | [DOAB](https://www.doabooks.org) | [详情](items/doabooks-org.md) | 开放获取学术图书目录，收录同行评审开放图书。核心提供论文、作者、数据集或学术出版信息检索。 | 开放获取、图书、学术 | 英文 |
-| [OpenStax](https://openstax.org) | [详情](items/openstax-org.md) | Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。 | 教材、开放教育、学术 | 英文 |
 | [Europe PMC](https://europepmc.org/) | [详情](items/europepmc-org.md) | 欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。 | 医学、论文、欧洲 | 英文 |
 | [medRxiv](https://www.medrxiv.org/) | [详情](items/medrxiv-org.md) | 医学预印本平台，核心提供尚未同行评审的临床和健康科学研究论文。 | 医学、预印本、论文 | 英文 |
 | [bioRxiv](https://www.biorxiv.org/) | [详情](items/biorxiv-org.md) | 生命科学预印本平台，提供生物学研究论文、分类浏览和早期成果发布。 | 生物、预印本、论文 | 英文 |
@@ -79,7 +78,6 @@
 | [Dryad](https://datadryad.org/) | [详情](items/datadryad-org.md) | 科研数据仓库，提供可复用数据集、DOI、元数据和期刊数据托管。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 数据集、开放科学、DOI | 英文 |
 | [Mendeley Data](https://data.mendeley.com/) | [详情](items/data-mendeley-com.md) | 科研数据发布平台，提供数据集托管、DOI、引用和研究数据检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 数据集、研究、DOI | 英文 |
 | [UK Data Service](https://ukdataservice.ac.uk/) | [详情](items/ukdataservice-ac-uk.md) | 英国社会科学数据服务，提供调查数据、人口统计、经济数据和研究支持。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 社科数据、英国、研究 | 英文 |
-| [ICPSR](https://www.icpsr.umich.edu/web/pages/) | [详情](items/icpsr-umich-edu-web-pages.md) | 社会科学数据档案，提供调查、政治、健康、教育和经济数据集。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 社科数据、档案、数据集 | 英文 |
 | [GESIS Search](https://search.gesis.org/) | [详情](items/search-gesis-org.md) | 德国社会科学资料搜索平台，提供数据集、问卷、出版物和研究项目检索。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 社科、数据集、欧洲 | 英文 |
 | [Open Textbook Library](https://open.umn.edu/opentextbooks) | [详情](items/open-umn-edu-opentextbooks.md) | 明尼苏达大学支持的开放教材目录，提供可免费使用和改编的大学教材、同行评审和学科分类。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 开放教材、教育、学术 | 英文 |
 | [SciELO](https://scielo.org/) | [详情](items/scielo-org.md) | SciELO 的学术资源入口，面向 开放获取、拉美、期刊 等研究资料、论文检索或科研工作流。 | 开放获取、拉美、期刊 | 多语言 |

@@ -1,6 +1,6 @@
 # 播客与音频
 
-共 64 个网站。点击名称可直接访问官网。
+共 63 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -16,8 +16,7 @@
 | [SoundOn](https://www.soundon.fm) | [详情](items/soundon-fm.md) | 华语播客托管和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、华语 | 中文 |
 | [小宇宙](https://www.xiaoyuzhoufm.com) | [详情](items/xiaoyuzhoufm-com.md) | 中文播客收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、中文、收听 | 中文 |
 | [RSS.com](https://rss.com) | [详情](items/rss-com.md) | 播客托管与 RSS 发布服务。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、RSS、托管 | 英文 |
-| [Podomatic](https://www.podomatic.com/) | [详情](items/podomatic-com.md) | 播客发布和收听平台，提供节目托管、创作者主页、在线播放和播客发现。 | 播客、托管、收听 | 多语言 |
-| [NPR Podcasts](https://www.npr.org/podcasts) | [详情](items/npr-org-podcasts.md) | NPR 播客目录。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、新闻、英语 | 英文 |
+| [Podomatic](https://podomatic.com/) | [详情](items/podomatic-com.md) | 播客托管与发布平台，提供音频上传、节目分发、收听统计及播客发现入口。 | 播客、托管、收听 | 多语言 |
 | [Podcast Index](https://podcastindex.org/) | [详情](items/podcastindex-org.md) | 开放播客目录项目，提供播客索引、API、命名空间和开放生态资料。 | 播客、开放目录、API | 英文 |
 | [Podchaser](https://www.podchaser.com/) | [详情](items/podchaser-com.md) | 播客资料库，核心提供节目、单集、创作者、评论和播客发现功能。 | 播客、资料库、发现 | 英文 |
 | [Player FM](https://player.fm/) | [详情](items/player-fm.md) | 播客播放器和目录，提供节目订阅、分类发现、网页收听和跨设备同步。 | 播客、播放器、目录 | 多语言 |

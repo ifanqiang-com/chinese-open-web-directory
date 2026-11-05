@@ -2,7 +2,7 @@
 
 Chinese Open Web Directory
 
-![网站](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-1448-2ea44f)
+![网站](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-1441-2ea44f)
 ![YouTube 频道](https://img.shields.io/badge/YouTube%20%E9%A2%91%E9%81%93-67-red)
 ![专题](https://img.shields.io/badge/%E4%B8%93%E9%A2%98-30-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -23,7 +23,7 @@ Chinese Open Web Directory
 - 灰产、成人、赌博、盗版或不安全链接集合。
 - 对任何网站在任何网络环境下都能访问、不能访问、被阻断或未被阻断的声明。
 
-最近一次生产数据导出时间：`2026-11-02T10:14:07.086Z`
+最近一次生产数据导出时间：`2026-11-05T10:11:28.083Z`
 
 ## 项目简介
 
@@ -45,12 +45,12 @@ Chinese Open Web Directory
 
 | 数据 | 数量 | 入口 |
 | --- | ---: | --- |
-| 网站 | 1448 | [sites/README.md](sites/README.md) |
+| 网站 | 1441 | [sites/README.md](sites/README.md) |
 | YouTube 频道 | 67 | [youtube/README.md](youtube/README.md) |
 | 专题 | 30 | [topics/README.md](topics/README.md) |
 | 网站分类 | 15 | [sites/README.md](sites/README.md) |
 | YouTube 分类 | 8 | [youtube/README.md](youtube/README.md) |
-| 全部导出链接 | 1515 | [data/all-links.json](data/all-links.json) |
+| 全部导出链接 | 1508 | [data/all-links.json](data/all-links.json) |
 
 公开导出规则：
 
@@ -83,18 +83,18 @@ Chinese Open Web Directory
 | 分类 | 数量 |
 | --- | ---: |
 | [中文新闻](sites/chinese-news.md) | 116 |
-| [国际新闻](sites/international-news.md) | 100 |
-| [视频与流媒体](sites/video-streaming.md) | 77 |
+| [国际新闻](sites/international-news.md) | 98 |
+| [视频与流媒体](sites/video-streaming.md) | 75 |
 | [社交平台](sites/social-platforms.md) | 50 |
 | [论坛社区](sites/forums-communities.md) | 253 |
 | [博客与出版](sites/blogs-publishing.md) | 85 |
-| [播客与音频](sites/podcasts-audio.md) | 64 |
+| [播客与音频](sites/podcasts-audio.md) | 63 |
 | [搜索与发现](sites/search-discovery.md) | 57 |
 | [百科与开放资料](sites/encyclopedia-open-data.md) | 73 |
-| [学术研究](sites/academic-research.md) | 89 |
+| [学术研究](sites/academic-research.md) | 87 |
 | [财经与数据](sites/finance-data.md) | 79 |
-| [应用与下载](sites/apps-downloads.md) | 73 |
-| [开发者资源](sites/developer-resources.md) | 144 |
+| [应用与下载](sites/apps-downloads.md) | 72 |
+| [开发者资源](sites/developer-resources.md) | 145 |
 | [生活出行](sites/life-travel.md) | 107 |
 | [隐私安全](sites/privacy-security.md) | 81 |
 

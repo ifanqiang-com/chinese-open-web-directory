@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T10:14:07.086Z",
+  "generatedAt": "2026-11-05T10:11:28.083Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1514,
-    "sitesPublic": 1448,
+    "sitesTotal": 1515,
+    "sitesPublic": 1441,
     "youtubeTotal": 69,
     "youtubePublic": 67,
     "profileTableAvailable": false
@@ -14,14 +14,14 @@
     "siteUrlOverrideIds": []
   },
   "counts": {
-    "sites": 1448,
+    "sites": 1441,
     "youtubeChannels": 67,
     "categories": 25,
-    "allLinks": 1515,
+    "allLinks": 1508,
     "topics": 30,
-    "topicResolvedItems": 1684,
+    "topicResolvedItems": 1683,
     "sitesWithProfile": 0,
-    "markdownFiles": 1573
+    "markdownFiles": 1566
   },
   "categories": [
     {
@@ -1703,8 +1703,8 @@
       "id": "buzzorange-com-techorange",
       "type": "site",
       "name": "TechOrange 科技报橘",
-      "description": "TechOrange 科技报橘 的中文资讯入口，围绕 科技、台湾、创新 等主题提供报道、文章和资料更新。",
-      "url": "https://buzzorange.com/techorange/",
+      "description": "台湾科技媒体，提供人工智能、科技产业、金融科技、资安与企业创新报道。",
+      "url": "https://techorange.com/",
       "category": "chinese-news",
       "categoryName": "中文新闻",
       "tags": [
@@ -1718,7 +1718,7 @@
       "featured": false,
       "priority": 71,
       "addedAt": "2026-06-17",
-      "sourceUrl": "https://buzzorange.com/techorange/",
+      "sourceUrl": "https://techorange.com/",
       "profilePublishedAt": null
     },
     {
@@ -5033,29 +5033,6 @@
       "profilePublishedAt": null
     },
     {
-      "uid": "npr-org",
-      "id": "npr-org",
-      "type": "site",
-      "name": "NPR",
-      "description": "美国公共广播新闻与播客内容。核心提供新闻报道、专题内容和原站更新入口。",
-      "url": "https://www.npr.org",
-      "category": "international-news",
-      "categoryName": "国际新闻",
-      "tags": [
-        "news",
-        "radio",
-        "podcast"
-      ],
-      "language": "en",
-      "hasApp": true,
-      "status": "active",
-      "featured": false,
-      "priority": 9,
-      "addedAt": "2026-06-08",
-      "sourceUrl": "https://www.npr.org",
-      "profilePublishedAt": null
-    },
-    {
       "uid": "aljazeera-com",
       "id": "aljazeera-com",
       "type": "site",
@@ -5306,29 +5283,6 @@
       "priority": 20,
       "addedAt": "2026-06-08",
       "sourceUrl": "https://theconversation.com",
-      "profilePublishedAt": null
-    },
-    {
-      "uid": "pbs-newshour",
-      "id": "pbs-newshour",
-      "type": "site",
-      "name": "PBS NewsHour",
-      "description": "美国公共电视新闻节目与新闻网站。核心提供新闻报道、专题内容和原站更新入口。",
-      "url": "https://www.pbs.org/newshour",
-      "category": "international-news",
-      "categoryName": "国际新闻",
-      "tags": [
-        "public-media",
-        "us",
-        "video"
-      ],
-      "language": "en",
-      "hasApp": true,
-      "status": "active",
-      "featured": false,
-      "priority": 21,
-      "addedAt": "2026-06-08",
-      "sourceUrl": "https://www.pbs.org/newshour",
       "profilePublishedAt": null
     },
     {
@@ -7471,29 +7425,6 @@
       "profilePublishedAt": null
     },
     {
-      "uid": "openstax-org",
-      "id": "openstax-org",
-      "type": "site",
-      "name": "OpenStax",
-      "description": "Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。",
-      "url": "https://openstax.org",
-      "category": "academic-research",
-      "categoryName": "学术研究",
-      "tags": [
-        "教材",
-        "开放教育",
-        "学术"
-      ],
-      "language": "en",
-      "hasApp": false,
-      "status": "active",
-      "featured": false,
-      "priority": 17,
-      "addedAt": "2026-06-08",
-      "sourceUrl": "https://openstax.org",
-      "profilePublishedAt": null
-    },
-    {
       "uid": "europepmc-org",
       "id": "europepmc-org",
       "type": "site",
@@ -8874,29 +8805,6 @@
       "profilePublishedAt": null
     },
     {
-      "uid": "icpsr-umich-edu-web-pages",
-      "id": "icpsr-umich-edu-web-pages",
-      "type": "site",
-      "name": "ICPSR",
-      "description": "社会科学数据档案，提供调查、政治、健康、教育和经济数据集。核心提供论文、作者、数据集、实验记录或学术出版信息检索。",
-      "url": "https://www.icpsr.umich.edu/web/pages/",
-      "category": "academic-research",
-      "categoryName": "学术研究",
-      "tags": [
-        "社科数据",
-        "档案",
-        "数据集"
-      ],
-      "language": "en",
-      "hasApp": false,
-      "status": "active",
-      "featured": false,
-      "priority": 85,
-      "addedAt": "2026-06-09",
-      "sourceUrl": "https://www.icpsr.umich.edu/web/pages/",
-      "profilePublishedAt": null
-    },
-    {
       "uid": "search-gesis-org",
       "id": "search-gesis-org",
       "type": "site",
@@ -10089,29 +9997,6 @@
       "priority": 39,
       "addedAt": "2026-06-09",
       "sourceUrl": "https://www.snapfiles.com/",
-      "profilePublishedAt": null
-    },
-    {
-      "uid": "freewarefiles-com",
-      "id": "freewarefiles-com",
-      "type": "site",
-      "name": "FreewareFiles",
-      "description": "免费软件目录，提供 Windows 工具、网络、安全、图形和多媒体软件下载。核心提供软件下载、应用商店、替代品搜索或安装管理。",
-      "url": "https://www.freewarefiles.com/",
-      "category": "apps-downloads",
-      "categoryName": "应用与下载",
-      "tags": [
-        "免费软件",
-        "Windows",
-        "下载"
-      ],
-      "language": "en",
-      "hasApp": false,
-      "status": "active",
-      "featured": false,
-      "priority": 40,
-      "addedAt": "2026-06-09",
-      "sourceUrl": "https://www.freewarefiles.com/",
       "profilePublishedAt": null
     },
     {
@@ -14119,6 +14004,29 @@
       "profilePublishedAt": null
     },
     {
+      "uid": "ts-xcatliu-com",
+      "id": "ts-xcatliu-com",
+      "type": "site",
+      "name": "TypeScript 入门教程",
+      "description": "面向已有 JavaScript 基础的中文 TypeScript 入门教程，讲解类型系统、接口、泛型和声明文件，附示例与开源内容。",
+      "url": "https://ts.xcatliu.com/",
+      "category": "developer-resources",
+      "categoryName": "开发者资源",
+      "tags": [
+        "TypeScript",
+        "中文教程",
+        "前端开发"
+      ],
+      "language": "zh",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 160,
+      "addedAt": "2026-11-05",
+      "sourceUrl": "https://ts.xcatliu.com/",
+      "profilePublishedAt": null
+    },
+    {
       "uid": "hello-algo-com",
       "id": "hello-algo-com",
       "type": "site",
@@ -15769,8 +15677,8 @@
       "id": "podomatic-com",
       "type": "site",
       "name": "Podomatic",
-      "description": "播客发布和收听平台，提供节目托管、创作者主页、在线播放和播客发现。",
-      "url": "https://www.podomatic.com/",
+      "description": "播客托管与发布平台，提供音频上传、节目分发、收听统计及播客发现入口。",
+      "url": "https://podomatic.com/",
       "category": "podcasts-audio",
       "categoryName": "播客与音频",
       "tags": [
@@ -15784,30 +15692,7 @@
       "featured": false,
       "priority": 13,
       "addedAt": "2026-06-08",
-      "sourceUrl": "https://www.podomatic.com/",
-      "profilePublishedAt": null
-    },
-    {
-      "uid": "npr-org-podcasts",
-      "id": "npr-org-podcasts",
-      "type": "site",
-      "name": "NPR Podcasts",
-      "description": "NPR 播客目录。核心提供播客搜索、订阅、托管或跨平台收听。",
-      "url": "https://www.npr.org/podcasts",
-      "category": "podcasts-audio",
-      "categoryName": "播客与音频",
-      "tags": [
-        "播客",
-        "新闻",
-        "英语"
-      ],
-      "language": "en",
-      "hasApp": true,
-      "status": "active",
-      "featured": false,
-      "priority": 14,
-      "addedAt": "2026-06-08",
-      "sourceUrl": "https://www.npr.org/podcasts",
+      "sourceUrl": "https://podomatic.com/",
       "profilePublishedAt": null
     },
     {
@@ -18245,9 +18130,9 @@
       "uid": "eurail-com",
       "id": "eurail-com",
       "type": "site",
-      "name": "Eurail",
-      "description": "欧洲铁路通票平台，提供火车通票、路线规划、国家铁路信息和订票入口。核心提供出行、住宿、地图、翻译、天气或本地生活工具。",
-      "url": "https://www.eurail.com/",
+      "name": "Interrail（原 Eurail）",
+      "description": "欧洲铁路通票与旅行规划平台，原 Eurail 与 Interrail 已统一为 Interrail，提供通票、线路资料和订座入口。",
+      "url": "https://www.interrail.com/en-int",
       "category": "life-travel",
       "categoryName": "生活出行",
       "tags": [
@@ -18261,7 +18146,7 @@
       "featured": false,
       "priority": 58,
       "addedAt": "2026-06-09",
-      "sourceUrl": "https://www.eurail.com/",
+      "sourceUrl": "https://www.interrail.com/en-int",
       "profilePublishedAt": null
     },
     {
@@ -22966,29 +22851,6 @@
       "profilePublishedAt": null
     },
     {
-      "uid": "pbs-org-video",
-      "id": "pbs-org-video",
-      "type": "site",
-      "name": "PBS Video",
-      "description": "美国 PBS 视频平台，提供纪录片、新闻、公共电视节目和教育内容。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。",
-      "url": "https://www.pbs.org/video/",
-      "category": "video-streaming",
-      "categoryName": "视频与流媒体",
-      "tags": [
-        "公共媒体",
-        "纪录片",
-        "视频"
-      ],
-      "language": "en",
-      "hasApp": true,
-      "status": "active",
-      "featured": false,
-      "priority": 33,
-      "addedAt": "2026-06-09",
-      "sourceUrl": "https://www.pbs.org/video/",
-      "profilePublishedAt": null
-    },
-    {
       "uid": "criterionchannel-com",
       "id": "criterionchannel-com",
       "type": "site",
@@ -23699,29 +23561,6 @@
       "priority": 65,
       "addedAt": "2026-06-17",
       "sourceUrl": "https://therokuchannel.roku.com/",
-      "profilePublishedAt": null
-    },
-    {
-      "uid": "amazon-com-freevee",
-      "id": "amazon-com-freevee",
-      "type": "site",
-      "name": "Amazon Freevee",
-      "description": "Amazon Freevee 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。",
-      "url": "https://www.amazon.com/freevee",
-      "category": "video-streaming",
-      "categoryName": "视频与流媒体",
-      "tags": [
-        "免费电视",
-        "电影",
-        "流媒体"
-      ],
-      "language": "en",
-      "hasApp": true,
-      "status": "active",
-      "featured": false,
-      "priority": 66,
-      "addedAt": "2026-06-17",
-      "sourceUrl": "https://www.amazon.com/freevee",
       "profilePublishedAt": null
     },
     {
@@ -31455,15 +31294,15 @@
       "uid": "messari-io",
       "id": "messari-io",
       "type": "site",
-      "name": "Messari",
-      "description": "Messari 的财经数据入口，提供 加密资产、研究、数据 相关的市场信息、图表或数据服务。",
-      "url": "https://messari.io/",
+      "name": "Blockworks Intel（原 Messari）",
+      "description": "Blockworks 的加密资产研究与数据平台，整合原 Messari，提供项目资料、研究报告、链上指标和市场分析。",
+      "url": "https://app.blockworks.com/",
       "category": "finance-data",
       "categoryName": "财经与数据",
       "tags": [
         "加密资产",
         "研究",
-        "数据"
+        "链上数据"
       ],
       "language": "en",
       "hasApp": true,
@@ -31471,7 +31310,7 @@
       "featured": false,
       "priority": 78,
       "addedAt": "2026-06-17",
-      "sourceUrl": "https://messari.io/",
+      "sourceUrl": "https://app.blockworks.com/",
       "profilePublishedAt": null
     },
     {
@@ -31502,8 +31341,8 @@
       "id": "ceicdata-com",
       "type": "site",
       "name": "CEIC Data",
-      "description": "CEIC Data 的财经数据入口，提供 宏观经济、数据库、指标 相关的市场信息、图表或数据服务。",
-      "url": "https://www.ceicdata.com/",
+      "description": "ISI Markets 旗下宏观经济数据库，提供全球及新兴市场经济指标、时间序列、数据分析和研究入口。",
+      "url": "https://isimarkets.com/ceic/",
       "category": "finance-data",
       "categoryName": "财经与数据",
       "tags": [
@@ -31517,7 +31356,7 @@
       "featured": false,
       "priority": 80,
       "addedAt": "2026-06-17",
-      "sourceUrl": "https://www.ceicdata.com/",
+      "sourceUrl": "https://isimarkets.com/ceic/",
       "profilePublishedAt": null
     },
     {

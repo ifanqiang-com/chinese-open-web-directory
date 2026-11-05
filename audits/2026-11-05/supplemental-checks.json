@@ -1,0 +1,217 @@
+[
+  {
+    "url": "https://podomatic.com/",
+    "checkedAt": "2026-11-05T10:08:27.191773+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://podomatic.com/",
+    "redirects": 0,
+    "title": "Create a Podcast >> Start Podcasting | Hosting by Podomatic",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://podomatic.com/",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://www.podomatic.com/landing/listen",
+    "checkedAt": "2026-11-05T10:08:43.681747+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.podomatic.com/landing/listen",
+    "redirects": 0,
+    "title": "Listen to Podcasts | Podcast Hosting by Podomatic",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://www.podomatic.com/landing/listen",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://techorange.com/",
+    "checkedAt": "2026-11-05T10:08:19.655792+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://techorange.com/",
+    "redirects": 0,
+    "title": "TechOrange 科技報橘",
+    "canonical": "https://techorange.com/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://techorange.com/",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://app.blockworks.com/",
+    "checkedAt": "2026-11-05T10:08:19.428987+00:00",
+    "status": 429,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://app.blockworks.com/",
+    "redirects": 0,
+    "title": "Vercel Security Checkpoint",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 429 Too Many Requests"
+    ],
+    "attempts": [
+      {
+        "status": 429,
+        "curlExit": 0,
+        "finalUrl": "https://app.blockworks.com/",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://isimarkets.com/ceic/",
+    "checkedAt": "2026-11-05T10:08:21.167114+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://isimarkets.com/ceic/",
+    "redirects": 0,
+    "title": "CEIC: Global Macroeconomic Data & Analytics Platform",
+    "canonical": "https://isimarkets.com/ceic/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://isimarkets.com/ceic/",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://www.interrail.com/en-int",
+    "checkedAt": "2026-11-05T10:08:19.778949+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.interrail.com/en-int",
+    "redirects": 0,
+    "title": "Travel through Europe by Train | 33 Countries with 1 Rail Pass",
+    "canonical": "https://www.interrail.com/en-int",
+    "contentType": "text/html;charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://www.interrail.com/en-int",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://www.firefox.com/",
+    "checkedAt": "2026-11-05T10:08:19.841450+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.firefox.com/",
+    "redirects": 0,
+    "title": "Get Firefox for desktop and mobile — Firefox.com",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://www.firefox.com/",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://course.rs/",
+    "checkedAt": "2026-11-05T10:08:22.164826+00:00",
+    "status": 404,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://beatai.org/rust-course",
+    "redirects": 1,
+    "title": "404 | BeatAI Bulkhead Control",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 301 Moved Permanently",
+      "Location: https://beatai.org/rust-course",
+      "HTTP/1.1 404 Not Found"
+    ],
+    "attempts": [
+      {
+        "status": 404,
+        "curlExit": 0,
+        "finalUrl": "https://beatai.org/rust-course",
+        "error": ""
+      },
+      {
+        "status": 404,
+        "curlExit": 0,
+        "finalUrl": "https://beatai.org/rust-course",
+        "error": ""
+      }
+    ]
+  },
+  {
+    "url": "https://ts.xcatliu.com/",
+    "checkedAt": "2026-11-05T10:08:21.447740+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://ts.xcatliu.com/",
+    "redirects": 0,
+    "title": "TypeScript 入门教程",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://ts.xcatliu.com/",
+        "error": ""
+      }
+    ]
+  }
+]

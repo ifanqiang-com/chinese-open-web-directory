@@ -25,8 +25,8 @@
 | [ResearchGate](https://www.researchgate.net) | 学术社交与论文分享平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、社交、论文 | [爱翻墙](https://ifanqiang.com/sites/researchgate-net) |
 | [Academia.edu](https://www.academia.edu) | 学术论文分享和研究者平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、社交 | [爱翻墙](https://ifanqiang.com/sites/academia-edu) |
 | [DOAB](https://www.doabooks.org) | 开放获取学术图书目录，收录同行评审开放图书。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、图书、学术 | [爱翻墙](https://ifanqiang.com/sites/doabooks-org) |
-| [OpenStax](https://openstax.org) | Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 教材、开放教育、学术 | [爱翻墙](https://ifanqiang.com/sites/openstax-org) |
 | [Europe PMC](https://europepmc.org/) | 欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。 | 学术研究 | 医学、论文、欧洲 | [爱翻墙](https://ifanqiang.com/sites/europepmc-org) |
+| [medRxiv](https://www.medrxiv.org/) | 医学预印本平台，核心提供尚未同行评审的临床和健康科学研究论文。 | 学术研究 | 医学、预印本、论文 | [爱翻墙](https://ifanqiang.com/sites/medrxiv-org) |
 
 ## 开放课程与学习资料
 
@@ -37,7 +37,6 @@
 | [Wikibooks](https://www.wikibooks.org) | 自由教材和学习资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 教材、百科、学习 | [爱翻墙](https://ifanqiang.com/sites/wikibooks-org) |
 | [OpenAlex](https://openalex.org) | 开放学术数据目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、数据、开放 | [爱翻墙](https://ifanqiang.com/sites/openalex-org) |
 | [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
-| [OpenStax](https://openstax.org) | Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 教材、开放教育、学术 | [爱翻墙](https://ifanqiang.com/sites/openstax-org) |
 | [Wikinews](https://www.wikinews.org/) | 维基媒体新闻项目，提供多语言开放新闻写作和存档入口。 | 百科与开放资料 | 新闻、维基、开放 | [爱翻墙](https://ifanqiang.com/sites/wikinews-org) |
 | [Wikiversity](https://www.wikiversity.org/) | 维基媒体学习资源项目，提供课程、学习计划、开放教学材料和研究资料。 | 百科与开放资料 | 教育、开放资源、维基 | [爱翻墙](https://ifanqiang.com/sites/wikiversity-org) |
 | [World History Encyclopedia](https://www.worldhistory.org/) | 世界历史百科，提供历史人物、文明、地图、时间线和教学资源。 | 百科与开放资料 | 历史、百科、教育 | [爱翻墙](https://ifanqiang.com/sites/worldhistory-org) |

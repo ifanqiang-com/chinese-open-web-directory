@@ -1,0 +1,234 @@
+[
+  {
+    "action": "update",
+    "type": "site",
+    "id": "buzzorange-com-techorange",
+    "name": "TechOrange 科技报橘",
+    "fields": {
+      "url": "https://techorange.com/",
+      "source_url": "https://techorange.com/",
+      "description": "台湾科技媒体，提供人工智能、科技产业、金融科技、资安与企业创新报道。"
+    },
+    "reason": "旧入口 301 跳转至新独立域名；新站 canonical 与品牌身份一致。",
+    "evidence": [
+      "https://buzzorange.com/techorange/",
+      "https://techorange.com/"
+    ],
+    "beforeUrl": "https://buzzorange.com/techorange/"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "messari-io",
+    "name": "Messari",
+    "fields": {
+      "url": "https://app.blockworks.com/",
+      "source_url": "https://app.blockworks.com/",
+      "description": "Blockworks 的加密资产研究与数据平台，整合原 Messari，提供项目资料、研究报告、链上指标和市场分析。",
+      "name": "Blockworks Intel（原 Messari）",
+      "tags": [
+        "加密资产",
+        "研究",
+        "链上数据"
+      ],
+      "language": "en"
+    },
+    "reason": "旧域名 301 跳转，官方收购及 Intel 上线公告明确完成平台整合；新入口反爬 429 不作为失效依据。",
+    "evidence": [
+      "https://blockworks.com/insights/blockworks-acquires-messari",
+      "https://blockworks.com/insights/introducing-blockworks-intel"
+    ],
+    "beforeUrl": "https://messari.io/"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "ceicdata-com",
+    "name": "CEIC Data",
+    "fields": {
+      "url": "https://isimarkets.com/ceic/",
+      "source_url": "https://isimarkets.com/ceic/",
+      "description": "ISI Markets 旗下宏观经济数据库，提供全球及新兴市场经济指标、时间序列、数据分析和研究入口。"
+    },
+    "reason": "旧站跳转至母公司 CEIC 产品页，目标 canonical 与 CEIC 登录页返回官网链接相互印证。",
+    "evidence": [
+      "https://isimarkets.com/ceic/",
+      "https://insights.ceicdata.com/"
+    ],
+    "beforeUrl": "https://www.ceicdata.com/"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "eurail-com",
+    "name": "Eurail",
+    "fields": {
+      "url": "https://www.interrail.com/en-int",
+      "source_url": "https://www.interrail.com/en-int",
+      "description": "欧洲铁路通票与旅行规划平台，原 Eurail 与 Interrail 已统一为 Interrail，提供通票、线路资料和订座入口。",
+      "name": "Interrail（原 Eurail）"
+    },
+    "reason": "官方公告确认 2026-09-09 统一品牌；采用无欢迎片段的 canonical URL。",
+    "evidence": [
+      "https://community.interrail.com/news-and-announcements-39/one-brand-one-journey-welcome-to-interrail-22554",
+      "https://www.interrail.com/en-int"
+    ],
+    "beforeUrl": "https://www.eurail.com/"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "podomatic-com",
+    "name": "Podomatic",
+    "fields": {
+      "url": "https://podomatic.com/",
+      "source_url": "https://podomatic.com/",
+      "description": "播客托管与发布平台，提供音频上传、节目分发、收听统计及播客发现入口。"
+    },
+    "reason": "www 首页连续两次 404；同域无 www 官方首页和收听入口均返回 200，修复入口而非归档平台。",
+    "evidence": [
+      "https://podomatic.com/",
+      "https://www.podomatic.com/landing/listen"
+    ],
+    "beforeUrl": "https://www.podomatic.com/"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "freewarefiles-com",
+    "name": "FreewareFiles",
+    "reason": "连续两轮跳转到无关的 sntssseccionv.com / kemendagri.com 域名链，已不提供原软件下载入口；独立安全扫描 2025-11-09 留有博彩内容记录。按无关内容和安全规则归档，不仅依据重定向超限。",
+    "evidence": [
+      "https://www.freewarefiles.com/",
+      "https://gridinsoft.com/online-virus-scanner/url/freewarefiles-com"
+    ],
+    "beforeUrl": "https://www.freewarefiles.com/"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "amazon-com-freevee",
+    "name": "Amazon Freevee",
+    "reason": "Amazon 官方说明 Freevee 已并入 Prime Video 的免费内容；归档已退役的独立品牌条目，保留现有 Prime Video。",
+    "evidence": [
+      "https://advertising.amazon.com/resources/whats-new/unboxed-2025-amc-launches-prime-video-insights",
+      "https://advertising.amazon.com/es-co/library/guides/free-ad-supported-streaming-tv"
+    ],
+    "beforeUrl": "https://www.amazon.com/freevee"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "openstax-org",
+    "name": "OpenStax",
+    "reason": "Rice 官方公告明确 OpenStax 获 NSF 9,000 万美元五年研究项目拨款；按既有政府资助排除政策归档，不是失效或安全判定。",
+    "evidence": [
+      "https://news.rice.edu/news/2024/rices-openstax-awarded-90m-lead-first-its-kind-nsf-research-hub-transformational-learning"
+    ],
+    "beforeUrl": "https://openstax.org"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "icpsr-umich-edu-web-pages",
+    "name": "ICPSR",
+    "reason": "运营机构官方资料明确 ICPSR 获 NSF 3,800 万美元研究数据基础设施资助；按既有政府资助排除政策归档。",
+    "evidence": [
+      "https://midas.umich.edu/data-for-democracy-building-the-social-science-infrastructure-behind-better-policy/",
+      "https://www.icpsr.umich.edu/sites/icpsr/about/history/timeline"
+    ],
+    "beforeUrl": "https://www.icpsr.umich.edu/web/pages/"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "npr-org",
+    "name": "NPR",
+    "reason": "官方审计明确披露联邦机构及 CPB 历史拨款。沿用上轮包含已披露历史资助的排除口径；官网现说明联邦资助已终止，不能表述为当前仍获资助，也不作可信度或恶意判断。",
+    "evidence": [
+      "https://media.npr.org/documents/about/statements/fy2023/National%20Public%20Radio%20-%20Consolidated%20Financial%20Statements%20-%20S2322%20FINAL%20%28S%29.pdf",
+      "https://contribute.npr.org/secure/stand-public-media"
+    ],
+    "beforeUrl": "https://www.npr.org"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "npr-org-podcasts",
+    "name": "NPR Podcasts",
+    "reason": "官方审计明确披露联邦机构及 CPB 历史拨款。沿用上轮包含已披露历史资助的排除口径；官网现说明联邦资助已终止，不能表述为当前仍获资助，也不作可信度或恶意判断。",
+    "evidence": [
+      "https://media.npr.org/documents/about/statements/fy2023/National%20Public%20Radio%20-%20Consolidated%20Financial%20Statements%20-%20S2322%20FINAL%20%28S%29.pdf",
+      "https://contribute.npr.org/secure/stand-public-media"
+    ],
+    "beforeUrl": "https://www.npr.org/podcasts"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "pbs-newshour",
+    "name": "PBS NewsHour",
+    "reason": "PBS 官方资料披露联邦 Ready to Learn 拨款及公共广播资助。沿用上轮包含已披露历史资助的排除口径；2025 年资助终止情况一并注明，不表述为当前仍获资助，也不作恶意判断。",
+    "evidence": [
+      "https://www.pbs.org/about/about-pbs/blogs/news/pbs-2025-fact-sheet/",
+      "https://www.pbs.org/video/may-6-2025-pbs-news-hour-full-episode-1746504001/"
+    ],
+    "beforeUrl": "https://www.pbs.org/newshour"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "pbs-org-video",
+    "name": "PBS Video",
+    "reason": "PBS 官方资料披露联邦 Ready to Learn 拨款及公共广播资助。沿用上轮包含已披露历史资助的排除口径；2025 年资助终止情况一并注明，不表述为当前仍获资助，也不作恶意判断。",
+    "evidence": [
+      "https://www.pbs.org/about/about-pbs/blogs/news/pbs-2025-fact-sheet/",
+      "https://www.pbs.org/video/may-6-2025-pbs-news-hour-full-episode-1746504001/"
+    ],
+    "beforeUrl": "https://www.pbs.org/video/"
+  },
+  {
+    "action": "add",
+    "type": "site",
+    "id": "ts-xcatliu-com",
+    "name": "TypeScript 入门教程",
+    "fields": {
+      "id": "ts-xcatliu-com",
+      "name": "TypeScript 入门教程",
+      "url": "https://ts.xcatliu.com/",
+      "category": "开发者资源",
+      "description": "面向已有 JavaScript 基础的中文 TypeScript 入门教程，讲解类型系统、接口、泛型和声明文件，附示例与开源内容。",
+      "tags": [
+        "TypeScript",
+        "中文教程",
+        "前端开发"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 160,
+      "added_at": "2026-11-05",
+      "source_url": "https://ts.xcatliu.com/"
+    },
+    "reason": "作者官网与开源仓库双向确认，公开可读、上线多年且对中文初学者有明确价值；ID、域名和规范化 URL 均无重复。",
+    "evidence": [
+      "https://ts.xcatliu.com/",
+      "https://github.com/xcatliu/typescript-tutorial"
+    ]
+  },
+  {
+    "action": "update",
+    "type": "static-tool",
+    "id": "firefox",
+    "name": "Firefox",
+    "beforeUrl": "https://www.mozilla.org/firefox/",
+    "url": "https://www.firefox.com/",
+    "reason": "Mozilla 旧官方入口 301 跳转至 Firefox 品牌官网，目标普通 GET 200。",
+    "evidence": [
+      "https://www.mozilla.org/firefox/",
+      "https://www.firefox.com/"
+    ]
+  }
+]

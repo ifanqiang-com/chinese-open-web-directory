@@ -20,13 +20,13 @@
 | [The Wall Street Journal](https://www.wsj.com) | 美国商业财经新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | business、finance、news | [爱翻墙](https://ifanqiang.com/sites/wsj-com) |
 | [The Washington Post](https://www.washingtonpost.com) | 美国新闻媒体，覆盖政治、国际与社会议题。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、us、politics | [爱翻墙](https://ifanqiang.com/sites/washingtonpost-com) |
 | [CNN](https://www.cnn.com) | 美国有线电视新闻网，覆盖突发新闻与国际新闻。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、tv、global | [爱翻墙](https://ifanqiang.com/sites/cnn-com) |
-| [NPR](https://www.npr.org) | 美国公共广播新闻与播客内容。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、radio、podcast | [爱翻墙](https://ifanqiang.com/sites/npr-org) |
 | [Al Jazeera](https://www.aljazeera.com) | 卡塔尔国际新闻媒体，覆盖中东与全球新闻。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、middle-east、global | [爱翻墙](https://ifanqiang.com/sites/aljazeera-com) |
 | [Financial Times](https://www.ft.com) | 英国财经与商业新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | finance、business、news | [爱翻墙](https://ifanqiang.com/sites/ft-com) |
 | [The Economist](https://www.economist.com) | 国际政治、经济、商业与科技分析媒体。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | analysis、business、world | [爱翻墙](https://ifanqiang.com/sites/economist-com) |
 | [Bloomberg](https://www.bloomberg.com) | 财经、市场、商业与全球新闻平台。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | finance、markets、business | [爱翻墙](https://ifanqiang.com/sites/bloomberg-com) |
 | [Politico](https://www.politico.com) | 美国和欧洲政治新闻网站。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | politics、news、us | [爱翻墙](https://ifanqiang.com/sites/politico-com) |
 | [Axios](https://www.axios.com) | 美国新闻简报与分析网站。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、briefing、us | [爱翻墙](https://ifanqiang.com/sites/axios-com) |
+| [The Atlantic](https://www.theatlantic.com) | 美国长文、观点、文化与政治杂志。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | magazine、opinion、culture | [爱翻墙](https://ifanqiang.com/sites/theatlantic-com) |
 
 ## 英国和欧洲新闻
 
@@ -42,14 +42,14 @@
 | [The Wall Street Journal](https://www.wsj.com) | 美国商业财经新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | business、finance、news | [爱翻墙](https://ifanqiang.com/sites/wsj-com) |
 | [The Washington Post](https://www.washingtonpost.com) | 美国新闻媒体，覆盖政治、国际与社会议题。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、us、politics | [爱翻墙](https://ifanqiang.com/sites/washingtonpost-com) |
 | [CNN](https://www.cnn.com) | 美国有线电视新闻网，覆盖突发新闻与国际新闻。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、tv、global | [爱翻墙](https://ifanqiang.com/sites/cnn-com) |
-| [NPR](https://www.npr.org) | 美国公共广播新闻与播客内容。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、radio、podcast | [爱翻墙](https://ifanqiang.com/sites/npr-org) |
 | [Al Jazeera](https://www.aljazeera.com) | 卡塔尔国际新闻媒体，覆盖中东与全球新闻。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、middle-east、global | [爱翻墙](https://ifanqiang.com/sites/aljazeera-com) |
 | [Financial Times](https://www.ft.com) | 英国财经与商业新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | finance、business、news | [爱翻墙](https://ifanqiang.com/sites/ft-com) |
 | [Politico](https://www.politico.com) | 美国和欧洲政治新闻网站。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | politics、news、us | [爱翻墙](https://ifanqiang.com/sites/politico-com) |
 | [Axios](https://www.axios.com) | 美国新闻简报与分析网站。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | news、briefing、us | [爱翻墙](https://ifanqiang.com/sites/axios-com) |
 | [TIME](https://time.com) | 美国新闻杂志，覆盖国际、人物、商业与文化。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | magazine、news、global | [爱翻墙](https://ifanqiang.com/sites/time-com) |
-| [PBS NewsHour](https://www.pbs.org/newshour) | 美国公共电视新闻节目与新闻网站。核心提供新闻报道、专题内容和原站更新入口。 | 国际新闻 | public-media、us、video | [爱翻墙](https://ifanqiang.com/sites/pbs-newshour) |
 | [CNA](https://www.channelnewsasia.com/) | 新加坡 Channel NewsAsia 英文新闻入口，提供亚洲、国际、商业和视频新闻。 | 国际新闻 | asia、news、singapore | [爱翻墙](https://ifanqiang.com/sites/channelnewsasia-com) |
+| [ABC News](https://abcnews.com/) | 美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。 | 国际新闻 | us、news、video | [爱翻墙](https://ifanqiang.com/sites/abcnews-go-com) |
+| [CBS News](https://www.cbsnews.com/) | 美国 CBS 新闻入口，提供电视新闻、调查报道、美国和国际新闻视频。 | 国际新闻 | us、tv、news | [爱翻墙](https://ifanqiang.com/sites/cbsnews-com) |
 
 ## 财经商业和公司报道
 

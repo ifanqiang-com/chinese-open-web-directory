@@ -1,0 +1,374 @@
+[
+  {
+    "repository": "directory",
+    "counts": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 1,
+      "critical": 0,
+      "total": 1
+    },
+    "packages": [
+      {
+        "name": "fast-uri",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "fast-uri vulnerable to host confusion via literal backslash authority delimiter",
+            "url": "https://github.com/advisories/GHSA-v2hh-gcrm-f6hx"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via backslash authority introducer",
+            "url": "https://github.com/advisories/GHSA-7p8r-x3mc-p8w7"
+          },
+          {
+            "title": "fast-uri vulnerable to server-side request forgery via malformed IPv6 normalization",
+            "url": "https://github.com/advisories/GHSA-f65p-4m7j-42xc"
+          },
+          {
+            "title": "fast-uri vulnerable to server-side request forgery via repeated hostname percent-decoding",
+            "url": "https://github.com/advisories/GHSA-fph4-wmhf-6fwf"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via percent-encoded scheme normalization",
+            "url": "https://github.com/advisories/GHSA-jqff-g426-hqxp"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via failed IDN canonicalization",
+            "url": "https://github.com/advisories/GHSA-4c8g-83qw-93j6"
+          },
+          {
+            "title": "fast-uri vulnerable to authority injection via an unvalidated port in serialize",
+            "url": "https://github.com/advisories/GHSA-qw65-cvwx-89v3"
+          },
+          {
+            "title": "fast-uri vulnerable to inconsistent host case normalization via percent-encoded octets",
+            "url": "https://github.com/advisories/GHSA-hrr3-gc8f-f4qj"
+          },
+          {
+            "title": "fast-uri vulnerable to URI scheme spoofing via percent-encoded scheme decoding",
+            "url": "https://github.com/advisories/GHSA-w74x-v6f9-j3xg"
+          },
+          {
+            "title": "fast-uri vulnerable to improper path equivalence in relative reference normalization",
+            "url": "https://github.com/advisories/GHSA-xhq7-xmqj-769h"
+          },
+          {
+            "title": "fast-uri vulnerable to scheme injection via an unescaped first-segment colon in suffix references",
+            "url": "https://github.com/advisories/GHSA-333x-w4r6-6crp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "repository": "static",
+    "counts": {
+      "info": 0,
+      "low": 1,
+      "moderate": 0,
+      "high": 11,
+      "critical": 1,
+      "total": 13
+    },
+    "packages": [
+      {
+        "name": "astro",
+        "severity": "critical",
+        "fixAvailable": {
+          "name": "astro",
+          "version": "7.4.1",
+          "isSemVerMajor": true
+        },
+        "advisories": [
+          {
+            "title": "Astro: XSS via unescaped spread attribute names in renderHTMLElement (incomplete fix for CVE-2026-54298)",
+            "url": "https://github.com/advisories/GHSA-f48w-9m4c-m7f5"
+          },
+          {
+            "title": "Astro: Cross-site scripting via unescaped transition:* directive values on hydrated islands",
+            "url": "https://github.com/advisories/GHSA-7pw4-f3q4-r2p2"
+          },
+          {
+            "title": "Astro: Reflected XSS via unescaped View Transition animation properties",
+            "url": "https://github.com/advisories/GHSA-4g3v-8h47-v7g6"
+          },
+          {
+            "title": "Astro: Remote code execution through AVIF image optimization",
+            "url": "https://github.com/advisories/GHSA-26w7-cxv4-gfx2"
+          },
+          {
+            "title": "Astro: Authorization bypass from missing path-segment boundary check when stripping the configured base",
+            "url": "https://github.com/advisories/GHSA-376h-93r7-7g6f"
+          },
+          {
+            "title": "Astro: Reflected/Stored XSS via unescaped <script>/<style> tag content in JSX/MDX rendering",
+            "url": "https://github.com/advisories/GHSA-98hj-9722-w3j8"
+          }
+        ]
+      },
+      {
+        "name": "devalue",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "Svelte devalue: DoS via malformed input",
+            "url": "https://github.com/advisories/GHSA-9rgm-9g3h-6x36"
+          },
+          {
+            "title": "devalue: `stringify`/`uneval` serialize shared memory",
+            "url": "https://github.com/advisories/GHSA-j22f-vq7h-c4qm"
+          },
+          {
+            "title": "devalue: Residual sparse-array CPU amplification in uneval",
+            "url": "https://github.com/advisories/GHSA-hx4r-w6wj-j8fg"
+          },
+          {
+            "title": "devalue: Repeated primitive strings cause quadratic expansion in uneval",
+            "url": "https://github.com/advisories/GHSA-mcm9-63f2-9j32"
+          },
+          {
+            "title": "devalue: Sparse arrays emitted by uneval cause eager allocation when evaluated",
+            "url": "https://github.com/advisories/GHSA-wf3x-273g-mvxv"
+          },
+          {
+            "title": "devalue: stringifyAsync can cause an unhandled rejection despite a caught returned promise",
+            "url": "https://github.com/advisories/GHSA-x5rw-q4pp-hg5g"
+          },
+          {
+            "title": "devalue: Malformed null-prototype object keys bypass __proto__ rejection via property-key coercion",
+            "url": "https://github.com/advisories/GHSA-4q55-j62x-fr9h"
+          },
+          {
+            "title": "devalue: Custom ArrayBuffer revivers can bypass typed-array allocation validation",
+            "url": "https://github.com/advisories/GHSA-r9w8-h9r3-54w4"
+          }
+        ]
+      },
+      {
+        "name": "esbuild",
+        "severity": "low",
+        "fixAvailable": {
+          "name": "astro",
+          "version": "7.4.1",
+          "isSemVerMajor": true
+        },
+        "advisories": [
+          {
+            "title": "esbuild allows arbitrary file read when running the development server on Windows",
+            "url": "https://github.com/advisories/GHSA-g7r4-m6w7-qqqr"
+          }
+        ]
+      },
+      {
+        "name": "fast-uri",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "fast-uri vulnerable to host confusion via literal backslash authority delimiter",
+            "url": "https://github.com/advisories/GHSA-v2hh-gcrm-f6hx"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via backslash authority introducer",
+            "url": "https://github.com/advisories/GHSA-7p8r-x3mc-p8w7"
+          },
+          {
+            "title": "fast-uri vulnerable to server-side request forgery via malformed IPv6 normalization",
+            "url": "https://github.com/advisories/GHSA-f65p-4m7j-42xc"
+          },
+          {
+            "title": "fast-uri vulnerable to server-side request forgery via repeated hostname percent-decoding",
+            "url": "https://github.com/advisories/GHSA-fph4-wmhf-6fwf"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via percent-encoded scheme normalization",
+            "url": "https://github.com/advisories/GHSA-jqff-g426-hqxp"
+          },
+          {
+            "title": "fast-uri vulnerable to host confusion via failed IDN canonicalization",
+            "url": "https://github.com/advisories/GHSA-4c8g-83qw-93j6"
+          },
+          {
+            "title": "fast-uri vulnerable to authority injection via an unvalidated port in serialize",
+            "url": "https://github.com/advisories/GHSA-qw65-cvwx-89v3"
+          },
+          {
+            "title": "fast-uri vulnerable to inconsistent host case normalization via percent-encoded octets",
+            "url": "https://github.com/advisories/GHSA-hrr3-gc8f-f4qj"
+          },
+          {
+            "title": "fast-uri vulnerable to URI scheme spoofing via percent-encoded scheme decoding",
+            "url": "https://github.com/advisories/GHSA-w74x-v6f9-j3xg"
+          },
+          {
+            "title": "fast-uri vulnerable to improper path equivalence in relative reference normalization",
+            "url": "https://github.com/advisories/GHSA-xhq7-xmqj-769h"
+          },
+          {
+            "title": "fast-uri vulnerable to scheme injection via an unescaped first-segment colon in suffix references",
+            "url": "https://github.com/advisories/GHSA-333x-w4r6-6crp"
+          }
+        ]
+      },
+      {
+        "name": "js-yaml",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "js-yaml: YAML merge-key chains can force quadratic CPU consumption",
+            "url": "https://github.com/advisories/GHSA-52cp-r559-cp3m"
+          },
+          {
+            "title": "JS-YAML: Quadratic CPU consumption in !!omap resolution (3.x and 4.x) — CVE-2026-59870 fix not backported",
+            "url": "https://github.com/advisories/GHSA-5p4m-2wfm-xmqj"
+          },
+          {
+            "title": "js-yaml: maxTotalMergeKeys does not limit CPU use for empty merge sources",
+            "url": "https://github.com/advisories/GHSA-2883-xcg3-v3hh"
+          }
+        ]
+      },
+      {
+        "name": "nanoid",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "nanoid: non-secure generators can loop indefinitely with negative size",
+            "url": "https://github.com/advisories/GHSA-28wg-ghj8-5hjv"
+          },
+          {
+            "title": "nanoid: custom generators can loop indefinitely when size is zero",
+            "url": "https://github.com/advisories/GHSA-2v37-7h3g-55p8"
+          }
+        ]
+      },
+      {
+        "name": "postcss",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "PostCSS: incomplete fix of GHSA-6g55-p6wh-862q — attacker-controlled sourceMappingURL reads arbitrary .map files when `from` is unset",
+            "url": "https://github.com/advisories/GHSA-fxqj-rqcc-2cmp"
+          },
+          {
+            "title": "PostCSS: Path Traversal in Previous Source Map Auto-Loading (sourceMappingURL) leads to Arbitrary .map File Disclosure",
+            "url": "https://github.com/advisories/GHSA-r28c-9q8g-f849"
+          }
+        ]
+      },
+      {
+        "name": "sharp",
+        "severity": "high",
+        "fixAvailable": {
+          "name": "astro",
+          "version": "7.4.1",
+          "isSemVerMajor": true
+        },
+        "advisories": [
+          {
+            "title": "sharp inherited vulnerabilities in libvips: CVE-2026-33327, CVE-2026-33328, CVE-2026-35590, CVE-2026-35591",
+            "url": "https://github.com/advisories/GHSA-f88m-g3jw-g9cj"
+          },
+          {
+            "title": "sharp: Vulnerabilities in libheif: GHSA-g89c-p67h-r497 and GHSA-2jg2-4ch7-h545",
+            "url": "https://github.com/advisories/GHSA-rgj7-g3m4-5g8c"
+          },
+          {
+            "title": "sharp : Vulnerability in librsvg dependency CVE-2026-96889",
+            "url": "https://github.com/advisories/GHSA-wq5f-xc86-pv6w"
+          }
+        ]
+      },
+      {
+        "name": "smol-toml",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "smol-toml: Denial of Service via malformed TOML documents",
+            "url": "https://github.com/advisories/GHSA-7w5x-hrqm-74c2"
+          },
+          {
+            "title": "smol-toml: Quadratic-time parse() from parseKey rescanning to end of document on each key line",
+            "url": "https://github.com/advisories/GHSA-r4xh-jqrq-34v2"
+          }
+        ]
+      },
+      {
+        "name": "source-map-js",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "source-map-js allows event-loop denial of service through indexed source-map section offsets",
+            "url": "https://github.com/advisories/GHSA-68fv-2mgg-jv7q"
+          }
+        ]
+      },
+      {
+        "name": "svgo",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "SVGO removeScripts plugin leaves some executable scripts intact",
+            "url": "https://github.com/advisories/GHSA-2p49-hgcm-8545"
+          },
+          {
+            "title": "SVGO: removeScripts incompletely sanitizes executable HTML in SVG foreignObject elements",
+            "url": "https://github.com/advisories/GHSA-4vpr-x523-8j87"
+          },
+          {
+            "title": "SVGO: removeScripts allows executable links through namespace and control-character bypasses",
+            "url": "https://github.com/advisories/GHSA-w27v-7q3p-w38r"
+          }
+        ]
+      },
+      {
+        "name": "vite",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "launch-editor: escapeCmdArgs() omits % escaping on Windows",
+            "url": "https://github.com/advisories/GHSA-698v-4r3x-3vcv"
+          },
+          {
+            "title": "launch-editor: Editor CLI flag misinterpretation causing arbitrary command execution for some editors",
+            "url": "https://github.com/advisories/GHSA-r825-w8mm-5pxw"
+          },
+          {
+            "title": "launch-editor: `fs.existsSync()` existence check can be bypassed on Windows",
+            "url": "https://github.com/advisories/GHSA-587h-7wmj-h5pm"
+          },
+          {
+            "title": "Vite: Cross origin script execution through Vite custom middleware",
+            "url": "https://github.com/advisories/GHSA-9jrq-w75r-8gcw"
+          },
+          {
+            "title": "Vite: Files outside `server.fs.allow` could be served when project paths match system paths on non-Windows machine",
+            "url": "https://github.com/advisories/GHSA-rq7h-c2jc-7f22"
+          }
+        ]
+      },
+      {
+        "name": "zod",
+        "severity": "high",
+        "fixAvailable": true,
+        "advisories": [
+          {
+            "title": "Zod can exhaust memory while validating oversized constrained collections",
+            "url": "https://github.com/advisories/GHSA-mrhx-c7xc-m3w5"
+          }
+        ]
+      }
+    ]
+  }
+]
