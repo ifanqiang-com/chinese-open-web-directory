@@ -62,7 +62,7 @@ https://hongkongfp.com/
 https://www.edigest.hk/
 https://www.nmplus.hk/
 https://www.ulifestyle.com.hk/
-https://buzzorange.com/techorange/
+https://techorange.com/
 https://buzzorange.com/
 https://www.bnext.com.tw/
 https://www.managertoday.com.tw/
@@ -207,7 +207,6 @@ https://www.nytimes.com
 https://www.wsj.com
 https://www.washingtonpost.com
 https://www.cnn.com
-https://www.npr.org
 https://www.aljazeera.com
 https://www.ft.com
 https://www.economist.com
@@ -219,7 +218,6 @@ https://time.com
 https://www.foreignaffairs.com
 https://www.propublica.org
 https://theconversation.com
-https://www.pbs.org/newshour
 https://www.channelnewsasia.com/
 https://abcnews.com/
 https://www.cbsnews.com/
@@ -313,7 +311,6 @@ https://search.worldcat.org/
 https://www.researchgate.net
 https://www.academia.edu
 https://www.doabooks.org
-https://openstax.org
 https://europepmc.org/
 https://www.medrxiv.org/
 https://www.biorxiv.org/
@@ -374,7 +371,6 @@ https://osf.io/preprints/
 https://datadryad.org/
 https://data.mendeley.com/
 https://ukdataservice.ac.uk/
-https://www.icpsr.umich.edu/web/pages/
 https://search.gesis.org/
 https://open.umn.edu/opentextbooks
 https://scielo.org/
@@ -427,7 +423,6 @@ https://www.uptodown.com/
 https://www.filehorse.com/
 https://filehippo.com/
 https://www.snapfiles.com/
-https://www.freewarefiles.com/
 https://www.oldversion.com/
 https://www.macupdate.com/find/mac
 https://www.corecode.io/macupdater/
@@ -602,6 +597,7 @@ https://huggingface.co/docs
 https://docs.langchain.com/oss/python/langchain/overview
 https://developers.llamaindex.ai/python/framework/
 https://wiki.archlinux.org/
+https://ts.xcatliu.com/
 https://www.hello-algo.com/
 https://zh.javascript.info/
 https://vostride.com/
@@ -674,8 +670,7 @@ https://firstory.me
 https://www.soundon.fm
 https://www.xiaoyuzhoufm.com
 https://rss.com
-https://www.podomatic.com/
-https://www.npr.org/podcasts
+https://podomatic.com/
 https://podcastindex.org/
 https://www.podchaser.com/
 https://player.fm/
@@ -782,7 +777,7 @@ https://www.flightconnections.com/
 https://www.airportia.com/
 https://www.flightstats.com/
 https://seatmaps.com/
-https://www.eurail.com/
+https://www.interrail.com/en-int
 https://www.raileurope.com/
 https://int.bahn.de/en
 https://www.sbb.ch/en
@@ -988,7 +983,6 @@ https://www.edx.org/
 https://www.masterclass.com/
 https://www.kanopy.com/
 https://www.hoopladigital.com/
-https://www.pbs.org/video/
 https://www.criterionchannel.com/
 https://www.shudder.com/
 https://www.britbox.com/
@@ -1020,7 +1014,6 @@ https://www.directv.com/stream/
 https://tv.youtube.com/
 https://watch.plex.tv/
 https://therokuchannel.roku.com/
-https://www.amazon.com/freevee
 https://www.discoveryplus.com/
 https://plus.espn.com/
 https://www.dazn.com/
@@ -1357,9 +1350,9 @@ https://www.marketscreener.com/
 https://stockanalysis.com/
 https://www.tipranks.com/
 https://defillama.com/
-https://messari.io/
+https://app.blockworks.com/
 https://tradingeconomics.com/
-https://www.ceicdata.com/
+https://isimarkets.com/ceic/
 https://en.macromicro.me/
 https://ycharts.com/
 https://www.tikr.com/

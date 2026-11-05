@@ -1,6 +1,6 @@
 # 视频与流媒体
 
-共 77 个网站。点击名称可直接访问官网。
+共 75 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,6 @@
 | [MasterClass](https://www.masterclass.com/) | [详情](items/masterclass-com.md) | 名人讲授型在线课程平台，提供写作、商业、艺术、烹饪和生活技能课程。 | 课程、创意、技能 | 英文 |
 | [Kanopy](https://www.kanopy.com/) | [详情](items/kanopy-com.md) | 图书馆和高校合作的流媒体平台，提供电影、纪录片、课程和经典影片。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 电影、图书馆、教育 | 英文 |
 | [Hoopla](https://www.hoopladigital.com/) | [详情](items/hoopladigital-com.md) | 公共图书馆数字媒体平台，提供电影、音乐、有声书、漫画和电子书借阅。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 图书馆、数字媒体、借阅 | 英文 |
-| [PBS Video](https://www.pbs.org/video/) | [详情](items/pbs-org-video.md) | 美国 PBS 视频平台，提供纪录片、新闻、公共电视节目和教育内容。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 公共媒体、纪录片、视频 | 英文 |
 | [The Criterion Channel](https://www.criterionchannel.com/) | [详情](items/criterionchannel-com.md) | 电影策展流媒体平台，提供经典电影、艺术电影、专题片单和导演访谈。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 电影、经典、策展 | 英文 |
 | [Shudder](https://www.shudder.com/) | [详情](items/shudder-com.md) | 恐怖和惊悚片流媒体平台，提供类型电影、原创剧集和专题片库。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 恐怖、电影、流媒体 | 英文 |
 | [BritBox](https://www.britbox.com/) | [详情](items/britbox-com.md) | 英剧流媒体平台，提供 BBC、ITV 等英国剧集、喜剧和经典节目。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 英剧、电视、流媒体 | 英文 |
@@ -68,7 +67,6 @@
 | [YouTube TV](https://tv.youtube.com/) | [详情](items/tv-youtube-com.md) | YouTube TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [Plex TV](https://watch.plex.tv/) | [详情](items/watch-plex-tv.md) | Plex TV 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
 | [The Roku Channel](https://therokuchannel.roku.com/) | [详情](items/therokuchannel-roku-com.md) | The Roku Channel 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
-| [Amazon Freevee](https://www.amazon.com/freevee) | [详情](items/amazon-com-freevee.md) | Amazon Freevee 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
 | [Discovery+](https://www.discoveryplus.com/) | [详情](items/discoveryplus-com.md) | Discovery+ 的视频入口，提供 纪录片、生活、流媒体 相关的观看、订阅或内容发现服务。 | 纪录片、生活、流媒体 | 英文 |
 | [ESPN+](https://plus.espn.com/) | [详情](items/plus-espn-com.md) | ESPN+ 的视频入口，提供 体育、直播、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播、流媒体 | 英文 |
 | [DAZN](https://www.dazn.com/) | [详情](items/dazn-com.md) | DAZN 的视频入口，提供 体育、直播、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播、流媒体 | 多语言 |

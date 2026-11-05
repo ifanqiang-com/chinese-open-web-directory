@@ -69,10 +69,10 @@
 | [SoundOn](https://www.soundon.fm) | 华语播客托管和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、华语 | [爱翻墙](https://ifanqiang.com/sites/soundon-fm) |
 | [小宇宙](https://www.xiaoyuzhoufm.com) | 中文播客收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、中文、收听 | [爱翻墙](https://ifanqiang.com/sites/xiaoyuzhoufm-com) |
 | [RSS.com](https://rss.com) | 播客托管与 RSS 发布服务。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、RSS、托管 | [爱翻墙](https://ifanqiang.com/sites/rss-com) |
-| [Podomatic](https://www.podomatic.com/) | 播客发布和收听平台，提供节目托管、创作者主页、在线播放和播客发现。 | 播客与音频 | 播客、托管、收听 | [爱翻墙](https://ifanqiang.com/sites/podomatic-com) |
-| [NPR Podcasts](https://www.npr.org/podcasts) | NPR 播客目录。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、新闻、英语 | [爱翻墙](https://ifanqiang.com/sites/npr-org-podcasts) |
+| [Podomatic](https://podomatic.com/) | 播客托管与发布平台，提供音频上传、节目分发、收听统计及播客发现入口。 | 播客与音频 | 播客、托管、收听 | [爱翻墙](https://ifanqiang.com/sites/podomatic-com) |
 | [Podcast Index](https://podcastindex.org/) | 开放播客目录项目，提供播客索引、API、命名空间和开放生态资料。 | 播客与音频 | 播客、开放目录、API | [爱翻墙](https://ifanqiang.com/sites/podcastindex-org) |
 | [Podchaser](https://www.podchaser.com/) | 播客资料库，核心提供节目、单集、创作者、评论和播客发现功能。 | 播客与音频 | 播客、资料库、发现 | [爱翻墙](https://ifanqiang.com/sites/podchaser-com) |
+| [Player FM](https://player.fm/) | 播客播放器和目录，提供节目订阅、分类发现、网页收听和跨设备同步。 | 播客与音频 | 播客、播放器、目录 | [爱翻墙](https://ifanqiang.com/sites/player-fm) |
 
 ## 创作者与中文频道
 

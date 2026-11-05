@@ -1,6 +1,6 @@
 # 国际新闻
 
-共 100 个网站。点击名称可直接访问官网。
+共 98 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,6 @@
 | [The Wall Street Journal](https://www.wsj.com) | [详情](items/wsj-com.md) | 美国商业财经新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | business、finance、news | 英文 |
 | [The Washington Post](https://www.washingtonpost.com) | [详情](items/washingtonpost-com.md) | 美国新闻媒体，覆盖政治、国际与社会议题。核心提供新闻报道、专题内容和原站更新入口。 | news、us、politics | 英文 |
 | [CNN](https://www.cnn.com) | [详情](items/cnn-com.md) | 美国有线电视新闻网，覆盖突发新闻与国际新闻。核心提供新闻报道、专题内容和原站更新入口。 | news、tv、global | 英文 |
-| [NPR](https://www.npr.org) | [详情](items/npr-org.md) | 美国公共广播新闻与播客内容。核心提供新闻报道、专题内容和原站更新入口。 | news、radio、podcast | 英文 |
 | [Al Jazeera](https://www.aljazeera.com) | [详情](items/aljazeera-com.md) | 卡塔尔国际新闻媒体，覆盖中东与全球新闻。核心提供新闻报道、专题内容和原站更新入口。 | news、middle-east、global | 英文 |
 | [Financial Times](https://www.ft.com) | [详情](items/ft-com.md) | 英国财经与商业新闻媒体。核心提供新闻报道、专题内容和原站更新入口。 | finance、business、news | 英文 |
 | [The Economist](https://www.economist.com) | [详情](items/economist-com.md) | 国际政治、经济、商业与科技分析媒体。核心提供新闻报道、专题内容和原站更新入口。 | analysis、business、world | 英文 |
@@ -24,7 +23,6 @@
 | [Foreign Affairs](https://www.foreignaffairs.com) | [详情](items/foreignaffairs-com.md) | 国际关系与外交政策分析杂志。核心提供新闻报道、专题内容和原站更新入口。 | foreign-policy、analysis、world | 英文 |
 | [ProPublica](https://www.propublica.org) | [详情](items/propublica-org.md) | 美国非营利调查新闻机构，关注公共利益报道。核心提供新闻报道、专题内容和原站更新入口。 | investigative、nonprofit、us | 英文 |
 | [The Conversation](https://theconversation.com) | [详情](items/theconversation-com.md) | 由学者和编辑合作的新闻分析网站，偏研究解释和公共议题。核心提供新闻报道、专题内容和原站更新入口。 | research、analysis、education | 英文 |
-| [PBS NewsHour](https://www.pbs.org/newshour) | [详情](items/pbs-newshour.md) | 美国公共电视新闻节目与新闻网站。核心提供新闻报道、专题内容和原站更新入口。 | public-media、us、video | 英文 |
 | [CNA](https://www.channelnewsasia.com/) | [详情](items/channelnewsasia-com.md) | 新加坡 Channel NewsAsia 英文新闻入口，提供亚洲、国际、商业和视频新闻。 | asia、news、singapore | 英文 |
 | [ABC News](https://abcnews.com/) | [详情](items/abcnews-go-com.md) | 美国 ABC 新闻网站，提供美国政治、突发新闻、国际、健康和视频报道。 | us、news、video | 英文 |
 | [CBS News](https://www.cbsnews.com/) | [详情](items/cbsnews-com.md) | 美国 CBS 新闻入口，提供电视新闻、调查报道、美国和国际新闻视频。 | us、tv、news | 英文 |

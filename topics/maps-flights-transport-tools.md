@@ -64,7 +64,7 @@
 | [Trainline](https://www.thetrainline.com/) | 欧洲火车和巴士票务平台，提供车次查询、票价比较、订票和电子票管理。 | 生活出行 | 火车、欧洲、票务 | [爱翻墙](https://ifanqiang.com/sites/thetrainline-com) |
 | [Lonely Planet](https://www.lonelyplanet.com/) | 旅行指南网站，提供目的地介绍、行程灵感、景点、交通和旅行建议。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 旅行指南、目的地、攻略 | [爱翻墙](https://ifanqiang.com/sites/lonelyplanet-com) |
 | [Frommer’s](https://www.frommers.com/) | 旅行指南网站，提供城市攻略、预算建议、交通信息和旅行新闻。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 旅行指南、预算、攻略 | [爱翻墙](https://ifanqiang.com/sites/frommers-com) |
-| [Eurail](https://www.eurail.com/) | 欧洲铁路通票平台，提供火车通票、路线规划、国家铁路信息和订票入口。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 欧洲、火车、旅行 | [爱翻墙](https://ifanqiang.com/sites/eurail-com) |
+| [Interrail（原 Eurail）](https://www.interrail.com/en-int) | 欧洲铁路通票与旅行规划平台，原 Eurail 与 Interrail 已统一为 Interrail，提供通票、线路资料和订座入口。 | 生活出行 | 欧洲、火车、旅行 | [爱翻墙](https://ifanqiang.com/sites/eurail-com) |
 | [Rail Europe](https://www.raileurope.com/) | 欧洲火车票平台，提供跨国列车查询、订票、通票和旅行路线规划。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 欧洲、火车、票务 | [爱翻墙](https://ifanqiang.com/sites/raileurope-com) |
 | [Deutsche Bahn](https://int.bahn.de/en) | 德国铁路英文入口，提供德国和欧洲火车查询、订票和实时行程信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 德国、火车、票务 | [爱翻墙](https://ifanqiang.com/sites/int-bahn-de-en) |
 | [SBB](https://www.sbb.ch/en) | 瑞士铁路英文入口，提供火车时刻、票价、通票、站点和实时交通信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活出行 | 瑞士、火车、交通 | [爱翻墙](https://ifanqiang.com/sites/sbb-ch-en) |

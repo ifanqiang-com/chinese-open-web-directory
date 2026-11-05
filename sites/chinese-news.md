@@ -68,7 +68,7 @@
 | [经济一周](https://www.edigest.hk/) | [详情](items/edigest-hk.md) | 经济一周 的中文资讯入口，围绕 香港、财经、生活 等主题提供报道、文章和资料更新。 | 香港、财经、生活 | 中文 |
 | [新Monday](https://www.nmplus.hk/) | [详情](items/nmplus-hk.md) | 新Monday 的中文资讯入口，围绕 香港、生活、娱乐 等主题提供报道、文章和资料更新。 | 香港、生活、娱乐 | 中文 |
 | [U Lifestyle](https://www.ulifestyle.com.hk/) | [详情](items/ulifestyle-com-hk.md) | U Lifestyle 的中文资讯入口，围绕 香港、生活、资讯 等主题提供报道、文章和资料更新。 | 香港、生活、资讯 | 中文 |
-| [TechOrange 科技报橘](https://buzzorange.com/techorange/) | [详情](items/buzzorange-com-techorange.md) | TechOrange 科技报橘 的中文资讯入口，围绕 科技、台湾、创新 等主题提供报道、文章和资料更新。 | 科技、台湾、创新 | 中文 |
+| [TechOrange 科技报橘](https://techorange.com/) | [详情](items/buzzorange-com-techorange.md) | 台湾科技媒体，提供人工智能、科技产业、金融科技、资安与企业创新报道。 | 科技、台湾、创新 | 中文 |
 | [报橘](https://buzzorange.com/) | [详情](items/buzzorange-com.md) | 报橘 的中文资讯入口，围绕 台湾、评论、社会 等主题提供报道、文章和资料更新。 | 台湾、评论、社会 | 中文 |
 | [数位时代](https://www.bnext.com.tw/) | [详情](items/bnext-com-tw.md) | 数位时代 的中文资讯入口，围绕 科技、商业、台湾 等主题提供报道、文章和资料更新。 | 科技、商业、台湾 | 中文 |
 | [经理人](https://www.managertoday.com.tw/) | [详情](items/managertoday-com-tw.md) | 经理人 的中文资讯入口，围绕 管理、商业、台湾 等主题提供报道、文章和资料更新。 | 管理、商业、台湾 | 中文 |

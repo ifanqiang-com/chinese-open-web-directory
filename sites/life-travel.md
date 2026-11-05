@@ -60,7 +60,7 @@
 | [Airportia](https://www.airportia.com/) | [详情](items/airportia-com.md) | 机场和航班资料网站，提供机场信息、航班状态、航线和延误资料。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 机场、航班、资料 | 英文 |
 | [FlightStats](https://www.flightstats.com/) | [详情](items/flightstats-com.md) | 航班状态查询工具，提供航班动态、机场延误、路线和航空公司信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 航班、机场、状态 | 英文 |
 | [SeatMaps](https://seatmaps.com/) | [详情](items/seatmaps-com.md) | 飞机座位图资料站，提供航司机型、座位布局、舱位和座位建议。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 航班、座位图、航空 | 英文 |
-| [Eurail](https://www.eurail.com/) | [详情](items/eurail-com.md) | 欧洲铁路通票平台，提供火车通票、路线规划、国家铁路信息和订票入口。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 欧洲、火车、旅行 | 多语言 |
+| [Interrail（原 Eurail）](https://www.interrail.com/en-int) | [详情](items/eurail-com.md) | 欧洲铁路通票与旅行规划平台，原 Eurail 与 Interrail 已统一为 Interrail，提供通票、线路资料和订座入口。 | 欧洲、火车、旅行 | 多语言 |
 | [Rail Europe](https://www.raileurope.com/) | [详情](items/raileurope-com.md) | 欧洲火车票平台，提供跨国列车查询、订票、通票和旅行路线规划。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 欧洲、火车、票务 | 多语言 |
 | [Deutsche Bahn](https://int.bahn.de/en) | [详情](items/int-bahn-de-en.md) | 德国铁路英文入口，提供德国和欧洲火车查询、订票和实时行程信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 德国、火车、票务 | 英文 |
 | [SBB](https://www.sbb.ch/en) | [详情](items/sbb-ch-en.md) | 瑞士铁路英文入口，提供火车时刻、票价、通票、站点和实时交通信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 瑞士、火车、交通 | 英文 |

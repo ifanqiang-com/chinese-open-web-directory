@@ -48,8 +48,8 @@
 | [Stock Analysis](https://stockanalysis.com/) | Stock Analysis 的财经数据入口，提供 股票、财报、数据 相关的市场信息、图表或数据服务。 | 财经与数据 | 股票、财报、数据 | [爱翻墙](https://ifanqiang.com/sites/stockanalysis-com) |
 | [TipRanks](https://www.tipranks.com/) | TipRanks 的财经数据入口，提供 股票、分析师、投资 相关的市场信息、图表或数据服务。 | 财经与数据 | 股票、分析师、投资 | [爱翻墙](https://ifanqiang.com/sites/tipranks-com) |
 | [DefiLlama](https://defillama.com/) | DefiLlama 的财经数据入口，提供 DeFi、链上数据、仪表盘 相关的市场信息、图表或数据服务。 | 财经与数据 | DeFi、链上数据、仪表盘 | [爱翻墙](https://ifanqiang.com/sites/defillama-com) |
-| [Messari](https://messari.io/) | Messari 的财经数据入口，提供 加密资产、研究、数据 相关的市场信息、图表或数据服务。 | 财经与数据 | 加密资产、研究、数据 | [爱翻墙](https://ifanqiang.com/sites/messari-io) |
 | [Trading Economics](https://tradingeconomics.com/) | Trading Economics 的财经数据入口，提供 宏观经济、数据、图表 相关的市场信息、图表或数据服务。 | 财经与数据 | 宏观经济、数据、图表 | [爱翻墙](https://ifanqiang.com/sites/tradingeconomics-com) |
+| [CEIC Data](https://isimarkets.com/ceic/) | ISI Markets 旗下宏观经济数据库，提供全球及新兴市场经济指标、时间序列、数据分析和研究入口。 | 财经与数据 | 宏观经济、数据库、指标 | [爱翻墙](https://ifanqiang.com/sites/ceicdata-com) |
 
 ## 机器学习和 AI 开发
 

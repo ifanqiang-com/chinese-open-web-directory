@@ -1,6 +1,6 @@
 # 应用与下载
 
-共 73 个网站。点击名称可直接访问官网。
+共 72 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -43,7 +43,6 @@
 | [FileHorse](https://www.filehorse.com/) | [详情](items/filehorse-com.md) | 软件下载目录，提供 Windows 和 Mac 常用软件、版本信息和官方下载链接。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 软件下载、Windows、Mac | 英文 |
 | [FileHippo](https://filehippo.com/) | [详情](items/filehippo-com.md) | 软件下载网站，提供 Windows 软件、版本更新、分类目录和下载入口。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 软件下载、Windows、更新 | 英文 |
 | [SnapFiles](https://www.snapfiles.com/) | [详情](items/snapfiles-com.md) | Windows 软件目录，提供免费软件、试用软件、编辑推荐和下载分类。核心提供软件下载、应用商店、替代品搜索或安装管理。 | Windows、软件下载、目录 | 英文 |
-| [FreewareFiles](https://www.freewarefiles.com/) | [详情](items/freewarefiles-com.md) | 免费软件目录，提供 Windows 工具、网络、安全、图形和多媒体软件下载。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 免费软件、Windows、下载 | 英文 |
 | [OldVersion](https://www.oldversion.com/) | [详情](items/oldversion-com.md) | 旧版软件归档站，提供历史版本软件下载和版本回退入口。核心提供软件下载、应用商店、替代品搜索或安装管理。 | 旧版本、软件归档、下载 | 英文 |
 | [MacUpdate Search](https://www.macupdate.com/find/mac) | [详情](items/macupdate-com-find-mac.md) | MacUpdate 的 macOS 软件搜索入口，提供应用目录、版本更新、分类浏览和下载线索。核心提供软件下载、应用商店、替代品搜索或安装管理。 | macOS、软件发现、下载 | 英文 |
 | [MacUpdater](https://www.corecode.io/macupdater/) | [详情](items/corecode-io-macupdater.md) | macOS 软件更新工具，提供应用版本扫描、更新检测和下载跳转。核心提供软件下载、应用商店、替代品搜索或安装管理。 | macOS、更新、软件管理 | 英文 |

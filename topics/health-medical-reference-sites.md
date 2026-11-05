@@ -93,8 +93,8 @@
 | [ResearchGate](https://www.researchgate.net) | 学术社交与论文分享平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、社交、论文 | [爱翻墙](https://ifanqiang.com/sites/researchgate-net) |
 | [Academia.edu](https://www.academia.edu) | 学术论文分享和研究者平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、社交 | [爱翻墙](https://ifanqiang.com/sites/academia-edu) |
 | [DOAB](https://www.doabooks.org) | 开放获取学术图书目录，收录同行评审开放图书。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、图书、学术 | [爱翻墙](https://ifanqiang.com/sites/doabooks-org) |
-| [OpenStax](https://openstax.org) | Rice University 支持的开放教材平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 教材、开放教育、学术 | [爱翻墙](https://ifanqiang.com/sites/openstax-org) |
 | [Europe PMC](https://europepmc.org/) | 欧洲生命科学文献平台，提供论文、预印本、项目资助和引用检索。 | 学术研究 | 医学、论文、欧洲 | [爱翻墙](https://ifanqiang.com/sites/europepmc-org) |
+| [medRxiv](https://www.medrxiv.org/) | 医学预印本平台，核心提供尚未同行评审的临床和健康科学研究论文。 | 学术研究 | 医学、预印本、论文 | [爱翻墙](https://ifanqiang.com/sites/medrxiv-org) |
 
 ## 常见问题
 

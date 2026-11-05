@@ -75,9 +75,9 @@
 | [Stock Analysis](https://stockanalysis.com/) | [详情](items/stockanalysis-com.md) | Stock Analysis 的财经数据入口，提供 股票、财报、数据 相关的市场信息、图表或数据服务。 | 股票、财报、数据 | 英文 |
 | [TipRanks](https://www.tipranks.com/) | [详情](items/tipranks-com.md) | TipRanks 的财经数据入口，提供 股票、分析师、投资 相关的市场信息、图表或数据服务。 | 股票、分析师、投资 | 英文 |
 | [DefiLlama](https://defillama.com/) | [详情](items/defillama-com.md) | DefiLlama 的财经数据入口，提供 DeFi、链上数据、仪表盘 相关的市场信息、图表或数据服务。 | DeFi、链上数据、仪表盘 | 英文 |
-| [Messari](https://messari.io/) | [详情](items/messari-io.md) | Messari 的财经数据入口，提供 加密资产、研究、数据 相关的市场信息、图表或数据服务。 | 加密资产、研究、数据 | 英文 |
+| [Blockworks Intel（原 Messari）](https://app.blockworks.com/) | [详情](items/messari-io.md) | Blockworks 的加密资产研究与数据平台，整合原 Messari，提供项目资料、研究报告、链上指标和市场分析。 | 加密资产、研究、链上数据 | 英文 |
 | [Trading Economics](https://tradingeconomics.com/) | [详情](items/tradingeconomics-com.md) | Trading Economics 的财经数据入口，提供 宏观经济、数据、图表 相关的市场信息、图表或数据服务。 | 宏观经济、数据、图表 | 英文 |
-| [CEIC Data](https://www.ceicdata.com/) | [详情](items/ceicdata-com.md) | CEIC Data 的财经数据入口，提供 宏观经济、数据库、指标 相关的市场信息、图表或数据服务。 | 宏观经济、数据库、指标 | 英文 |
+| [CEIC Data](https://isimarkets.com/ceic/) | [详情](items/ceicdata-com.md) | ISI Markets 旗下宏观经济数据库，提供全球及新兴市场经济指标、时间序列、数据分析和研究入口。 | 宏观经济、数据库、指标 | 英文 |
 | [MacroMicro 财经M平方](https://en.macromicro.me/) | [详情](items/en-macromicro-me.md) | MacroMicro 财经M平方 的财经数据入口，提供 宏观、市场、图表 相关的市场信息、图表或数据服务。 | 宏观、市场、图表 | 多语言 |
 | [YCharts](https://ycharts.com/) | [详情](items/ycharts-com.md) | YCharts 的财经数据入口，提供 投资、图表、市场数据 相关的市场信息、图表或数据服务。 | 投资、图表、市场数据 | 英文 |
 | [TIKR](https://www.tikr.com/) | [详情](items/tikr-com.md) | TIKR 的财经数据入口，提供 股票、财报、投资 相关的市场信息、图表或数据服务。 | 股票、财报、投资 | 英文 |
