@@ -1,6 +1,6 @@
 # 搜索与发现
 
-共 57 个网站。点击名称可直接访问官网。
+共 56 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@
 | [SearXNG](https://docs.searxng.org/) | [详情](items/docs-searxng-org.md) | 开源元搜索引擎项目，提供自托管搜索、隐私保护和多搜索源聚合资料。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 元搜索、开源、隐私 | 英文 |
 | [searx.space](https://searx.space/) | [详情](items/searx-space.md) | 公开 SearXNG 实例目录，提供可用实例状态、地区、功能和隐私设置对比。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索实例、隐私、目录 | 英文 |
 | [YaCy](https://yacy.net/) | [详情](items/yacy-net.md) | 去中心化搜索引擎项目，提供点对点网页索引、自托管搜索和开放搜索资料。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 去中心化、搜索、开源 | 英文 |
-| [Whoogle Search](https://github.com/benbusby/whoogle-search) | [详情](items/github-com-benbusby-whoogle-search.md) | 自托管 Google 搜索代理项目，提供无广告、隐私友好的搜索前端资料。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 搜索、自托管、隐私 | 英文 |
 | [SearchCode](https://searchcode.com/) | [详情](items/searchcode-com.md) | 代码搜索引擎，提供跨开源项目的函数、变量、文件和代码片段检索。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 代码搜索、开源、开发 | 英文 |
 | [grep.app](https://grep.app/) | [详情](items/grep-app.md) | GitHub 代码搜索工具，提供正则搜索、仓库过滤、语言过滤和代码定位。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 代码搜索、GitHub、正则 | 英文 |
 | [PublicWWW](https://publicwww.com/) | [详情](items/publicwww-com.md) | 网页源码搜索工具，提供 HTML、JavaScript、CSS、跟踪代码和技术指纹检索。核心提供网页、资料、代码、趋势或垂直内容检索入口。 | 源码搜索、网页、技术 | 英文 |

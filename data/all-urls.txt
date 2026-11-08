@@ -477,13 +477,14 @@ https://www.w3.org
 https://owasp.org
 https://web.dev
 https://caniuse.com
-https://git-scm.com/doc
+https://git-scm.com/docs
 https://code.visualstudio.com/
 https://www.jetbrains.com/
 https://vercel.com/docs
 https://docs.netlify.com/
 https://developers.cloudflare.com/
 https://docs.aws.amazon.com/
+https://github.com/benbusby/whoogle-search
 https://learn.microsoft.com/en-us/azure/
 https://docs.cloud.google.com/docs
 https://developer.hashicorp.com/terraform/docs
@@ -598,6 +599,7 @@ https://docs.langchain.com/oss/python/langchain/overview
 https://developers.llamaindex.ai/python/framework/
 https://wiki.archlinux.org/
 https://ts.xcatliu.com/
+https://oi-wiki.org/
 https://www.hello-algo.com/
 https://zh.javascript.info/
 https://vostride.com/
@@ -628,7 +630,6 @@ https://openverse.org/
 https://docs.searxng.org/
 https://searx.space/
 https://yacy.net/
-https://github.com/benbusby/whoogle-search
 https://searchcode.com/
 https://grep.app/
 https://publicwww.com/
