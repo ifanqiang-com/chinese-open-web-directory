@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 145 个网站。点击名称可直接访问官网。
+共 147 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -25,13 +25,14 @@
 | [OWASP](https://owasp.org) | [详情](items/owasp-org.md) | 开放 Web 应用安全项目，提供应用安全标准、指南和项目资源。 | 安全、Web、开发 | 英文 |
 | [web.dev](https://web.dev) | [详情](items/web-dev.md) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | Web、性能、文档 | 英文 |
 | [Can I use](https://caniuse.com) | [详情](items/caniuse-com.md) | 前端浏览器兼容性查询表。核心提供开发文档、代码协作、技术标准或工程工具。 | 浏览器兼容、Web、前端 | 英文 |
-| [Git Documentation](https://git-scm.com/doc) | [详情](items/git-scm-doc.md) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | Git、文档、开发 | 英文 |
+| [Git Documentation](https://git-scm.com/docs) | [详情](items/git-scm-doc.md) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | Git、文档、开发 | 英文 |
 | [VS Code](https://code.visualstudio.com/) | [详情](items/code-visualstudio-com.md) | 微软代码编辑器官网，提供 VS Code 下载、扩展市场、文档和远程开发资料。 | 编辑器、开发工具、微软 | 多语言 |
 | [JetBrains](https://www.jetbrains.com/) | [详情](items/jetbrains-com.md) | 开发工具公司官网，提供 IntelliJ、PyCharm、WebStorm 等 IDE 下载和文档。 | IDE、开发工具、软件 | 英文 |
 | [Vercel Docs](https://vercel.com/docs) | [详情](items/vercel-com-docs.md) | Vercel 官方文档，提供前端部署、Serverless、域名、缓存和项目配置资料。 | 部署、前端、文档 | 英文 |
 | [Netlify Docs](https://docs.netlify.com/) | [详情](items/docs-netlify-com.md) | Netlify 官方文档，提供静态站点部署、函数、表单、域名和构建配置。 | 部署、Jamstack、文档 | 英文 |
 | [Cloudflare Docs](https://developers.cloudflare.com/) | [详情](items/developers-cloudflare-com.md) | Cloudflare 开发者文档，提供 DNS、Workers、Pages、安全和边缘网络产品资料。 | Cloudflare、边缘计算、文档 | 英文 |
 | [AWS Docs](https://docs.aws.amazon.com/) | [详情](items/docs-aws-amazon-com.md) | AWS 官方文档入口，提供云服务 API、架构指南、CLI 和产品配置资料。 | AWS、云服务、文档 | 英文 |
+| [Whoogle Search（历史源码）](https://github.com/benbusby/whoogle-search) | [详情](items/github-com-benbusby-whoogle-search.md) | 已终止维护的 Whoogle 搜索项目历史源码。作者确认其已无法返回 Google 搜索结果，仓库仅保留代码供研究参考，不再支持部署或日常搜索。 | 历史源码、停止维护、搜索技术 | 英文 |
 | [Azure Docs](https://learn.microsoft.com/en-us/azure/) | [详情](items/learn-microsoft-com-en-us-azure.md) | Microsoft Azure 文档入口，提供云服务、身份、数据库、AI 和部署指南。 | Azure、云服务、文档 | 英文 |
 | [Google Cloud Docs](https://docs.cloud.google.com/docs) | [详情](items/cloud-google-com-docs.md) | Google Cloud 文档入口，提供计算、存储、网络、数据和机器学习服务资料。 | Google Cloud、云服务、文档 | 英文 |
 | [Terraform Docs](https://developer.hashicorp.com/terraform/docs) | [详情](items/developer-hashicorp-com-terraform-docs.md) | Terraform 官方文档，提供基础设施即代码、Provider、模块和状态管理资料。 | IaC、Terraform、文档 | 英文 |
@@ -146,6 +147,7 @@
 | [LlamaIndex Docs](https://developers.llamaindex.ai/python/framework/) | [详情](items/docs-llamaindex-ai.md) | LlamaIndex Docs 的开发者文档入口，覆盖 AI、开发、文档 等技术栈、工具或标准资料。 | AI、开发、文档 | 英文 |
 | [ArchWiki](https://wiki.archlinux.org/) | [详情](items/wiki-archlinux-org.md) | ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。 | Linux、文档、社区 | 英文 |
 | [TypeScript 入门教程](https://ts.xcatliu.com/) | [详情](items/ts-xcatliu-com.md) | 面向已有 JavaScript 基础的中文 TypeScript 入门教程，讲解类型系统、接口、泛型和声明文件，附示例与开源内容。 | TypeScript、中文教程、前端开发 | 中文 |
+| [OI Wiki](https://oi-wiki.org/) | [详情](items/oi-wiki-org.md) | 社区维护的中文算法与编程竞赛知识库，提供数据结构、动态规划、图论、计算几何和竞赛工具的讲解、示例与学习资料。 | 算法、数据结构、编程竞赛、中文资料 | 中文 |
 | [Hello 算法](https://www.hello-algo.com/) | [详情](items/hello-algo-com.md) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 算法、数据结构、中文、开源 | 中文 |
 | [现代 JavaScript 教程](https://zh.javascript.info/) | [详情](items/zh-javascript-info.md) | 现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。 | JavaScript、中文、教程、前端 | 中文 |
 | [Agent QA](https://vostride.com/) | [详情](items/vostride-com.md) | 面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。 | AI、软件测试、自动化、MCP、开发者工具 | 英文 |

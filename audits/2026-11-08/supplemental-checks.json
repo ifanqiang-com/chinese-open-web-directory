@@ -1,0 +1,255 @@
+[
+  {
+    "url": "https://git-scm.com/docs",
+    "checkedAt": "2026-11-08T10:09:00.550852+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://git-scm.com/docs",
+    "redirects": 0,
+    "title": "Git - Reference",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://git-scm.com/docs"
+      }
+    ]
+  },
+  {
+    "url": "https://oi-wiki.org/",
+    "checkedAt": "2026-11-08T10:09:03.138713+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://oi-wiki.org/",
+    "redirects": 0,
+    "title": "OI Wiki - OI Wiki",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://oi-wiki.org/"
+      }
+    ]
+  },
+  {
+    "url": "https://oi-wiki.org/intro/about/",
+    "checkedAt": "2026-11-08T10:09:04.867119+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://oi-wiki.org/intro/about/",
+    "redirects": 0,
+    "title": "关于本项目 - OI Wiki",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://oi-wiki.org/intro/about/"
+      }
+    ]
+  },
+  {
+    "url": "https://oi-wiki.org/ds/",
+    "checkedAt": "2026-11-08T10:09:06.953797+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://oi-wiki.org/ds/",
+    "redirects": 0,
+    "title": "数据结构部分简介 - OI Wiki",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://oi-wiki.org/ds/"
+      }
+    ]
+  },
+  {
+    "url": "http://www.scholarpedia.org/article/Main_Page",
+    "checkedAt": "2026-11-08T10:09:01.289952+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "http://www.scholarpedia.org/article/Main_Page",
+    "redirects": 0,
+    "title": "Scholarpedia",
+    "canonical": "http://www.scholarpedia.org/article/Main_Page",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "http://www.scholarpedia.org/article/Main_Page"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.astro.build/en/getting-started/",
+    "checkedAt": "2026-11-08T10:09:01.530165+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.astro.build/en/getting-started/",
+    "redirects": 0,
+    "title": "Getting started | Docs",
+    "canonical": "https://docs.astro.build/en/getting-started/",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.astro.build/en/getting-started/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.julialang.org/en/v1/",
+    "checkedAt": "2026-11-08T10:09:02.010803+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.julialang.org/en/v1/",
+    "redirects": 0,
+    "title": "Julia Documentation · The Julia Language",
+    "canonical": "https://docs.julialang.org/en/v1/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.julialang.org/en/v1/"
+      }
+    ]
+  },
+  {
+    "url": "https://elixir.hexdocs.pm/Kernel.html",
+    "checkedAt": "2026-11-08T10:09:03.015085+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://elixir.hexdocs.pm/Kernel.html",
+    "redirects": 0,
+    "title": "Kernel — Elixir v1.20.5",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 "
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://elixir.hexdocs.pm/Kernel.html"
+      }
+    ]
+  },
+  {
+    "url": "https://kotlinlang.org/docs/home.html",
+    "checkedAt": "2026-11-08T10:09:03.418359+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://kotlinlang.org/docs/home.html",
+    "redirects": 0,
+    "title": "Kotlin Docs | Kotlin Documentation",
+    "canonical": "/docs/home.html",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://kotlinlang.org/docs/home.html"
+      }
+    ]
+  },
+  {
+    "url": "https://krita.org/en/",
+    "checkedAt": "2026-11-08T10:09:03.418093+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://krita.org/en/",
+    "redirects": 0,
+    "title": "Krita | Digital Painting. Creative Freedom.",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://krita.org/en/"
+      }
+    ]
+  },
+  {
+    "url": "https://discord.com/invite/vue",
+    "checkedAt": "2026-11-08T10:09:04.377791+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://discord.com/invite/vue",
+    "redirects": 0,
+    "title": "Vue Land",
+    "canonical": "https://discord.com/invite/vue",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://discord.com/invite/vue"
+      }
+    ]
+  }
+]

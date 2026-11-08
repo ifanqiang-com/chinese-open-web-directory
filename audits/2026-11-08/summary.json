@@ -1,0 +1,28 @@
+{
+  "checked": 1522,
+  "supplemental": 11,
+  "counts": {
+    "update": 2,
+    "add": 1
+  },
+  "pending": 161,
+  "recoveredFromPrevious": 11,
+  "checkedAt": "2026-11-08T10:10:11.200903+00:00",
+  "publicSites": 1442,
+  "publicChannels": 67,
+  "httpStatuses": {
+    "200": 1382,
+    "403": 88,
+    "0": 13,
+    "401": 7,
+    "202": 9,
+    "406": 4,
+    "412": 2,
+    "429": 8,
+    "504": 5,
+    "301": 1,
+    "400": 1,
+    "302": 1,
+    "402": 1
+  }
+}

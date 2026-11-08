@@ -1,0 +1,76 @@
+[
+  {
+    "action": "update",
+    "type": "site",
+    "id": "github-com-benbusby-whoogle-search",
+    "name": "Whoogle Search",
+    "fields": {
+      "name": "Whoogle Search（历史源码）",
+      "category": "开发者资源",
+      "description": "已终止维护的 Whoogle 搜索项目历史源码。作者确认其已无法返回 Google 搜索结果，仓库仅保留代码供研究参考，不再支持部署或日常搜索。",
+      "tags": [
+        "历史源码",
+        "停止维护",
+        "搜索技术"
+      ],
+      "has_app": false
+    },
+    "reason": "官方 README 明确搜索功能已失效且维护终止，GitHub 标记为归档仓库。仓库本身仍可经官方 API 读取；按严格失效归档门槛保留历史代码资料，纠正原条目仍可用的描述和搜索分类，不把本轮 504 当作永久失效。",
+    "evidence": [
+      "https://github.com/benbusby/whoogle-search#readme",
+      "https://api.github.com/repos/benbusby/whoogle-search"
+    ],
+    "beforeUrl": "https://github.com/benbusby/whoogle-search"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "git-scm-doc",
+    "name": "Git Documentation",
+    "fields": {
+      "url": "https://git-scm.com/docs",
+      "source_url": "https://git-scm.com/docs",
+      "description": "Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。"
+    },
+    "reason": "旧 /doc 页面已成为 HTML meta refresh 跳转页，canonical 指向 /docs；官方 Reference 导航和新页面内容共同确认。采用 HTTPS 直接入口并明确命令参考用途。",
+    "evidence": [
+      "https://git-scm.com/doc",
+      "https://git-scm.com/docs"
+    ],
+    "beforeUrl": "https://git-scm.com/doc"
+  },
+  {
+    "action": "add",
+    "type": "site",
+    "id": "oi-wiki-org",
+    "name": "OI Wiki",
+    "fields": {
+      "id": "oi-wiki-org",
+      "name": "OI Wiki",
+      "url": "https://oi-wiki.org/",
+      "category": "开发者资源",
+      "description": "社区维护的中文算法与编程竞赛知识库，提供数据结构、动态规划、图论、计算几何和竞赛工具的讲解、示例与学习资料。",
+      "tags": [
+        "算法",
+        "数据结构",
+        "编程竞赛",
+        "中文资料"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 161,
+      "added_at": "2026-11-08",
+      "source_url": "https://oi-wiki.org/"
+    },
+    "reason": "官网、关于页、数据结构页面与官方 GitHub 仓库相互核验；仓库创建于 2018 年、2026-11-07 仍有更新。中文竞赛算法资料公开可读，ID、规范化 URL、域名及品牌无重复，未发现命中排除政策的证据。",
+    "evidence": [
+      "https://oi-wiki.org/",
+      "https://oi-wiki.org/intro/about/",
+      "https://oi-wiki.org/ds/",
+      "https://github.com/OI-wiki/OI-wiki"
+    ]
+  }
+]

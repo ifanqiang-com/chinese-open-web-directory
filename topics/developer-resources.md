@@ -14,7 +14,7 @@
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
 | [GitLab](https://about.gitlab.com/) | 代码托管、CI/CD 和 DevOps 平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、DevOps、Git | [爱翻墙](https://ifanqiang.com/sites/gitlab-com) |
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
-| [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
+| [Git Documentation](https://git-scm.com/docs) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
 | [Read the Docs](https://about.readthedocs.com/) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 开发者资源 | 文档托管、开源、开发 | [爱翻墙](https://ifanqiang.com/sites/readthedocs-org) |
 | [Hello 算法](https://www.hello-algo.com/) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 开发者资源 | 算法、数据结构、中文、开源 | [爱翻墙](https://ifanqiang.com/sites/hello-algo-com) |
 
@@ -39,7 +39,7 @@
 | [Node.js Docs](https://nodejs.org/en/docs) | Node.js 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Node.js、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/nodejs-org-en-docs) |
 | [W3C](https://www.w3.org) | Web 标准组织网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 标准、Web、文档 | [爱翻墙](https://ifanqiang.com/sites/w3-org) |
 | [Encyclopedia.com](https://www.encyclopedia.com/) | 综合参考资料入口，聚合百科、词典、传记和主题解释内容。 | 百科与开放资料 | 百科、参考、英文 | [爱翻墙](https://ifanqiang.com/sites/encyclopedia-com) |
-| [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
+| [Git Documentation](https://git-scm.com/docs) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
 
 ## API 与开发工具
 
@@ -59,7 +59,7 @@
 | [Rust Docs](https://doc.rust-lang.org) | Rust 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Rust、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/doc-rust-lang-org) |
 | [Go Docs](https://go.dev/doc) | Go 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Go、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/go-dev-doc) |
 | [Node.js Docs](https://nodejs.org/en/docs) | Node.js 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Node.js、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/nodejs-org-en-docs) |
-| [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
+| [Git Documentation](https://git-scm.com/docs) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
 | [Sourcegraph](https://sourcegraph.com/search) | 代码搜索平台，核心提供跨仓库代码检索、符号查询和开发资料发现。 | 搜索与发现 | 代码搜索、开发、仓库 | [爱翻墙](https://ifanqiang.com/sites/sourcegraph-com-search) |
 | [AWS Docs](https://docs.aws.amazon.com/) | AWS 官方文档入口，提供云服务 API、架构指南、CLI 和产品配置资料。 | 开发者资源 | AWS、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-aws-amazon-com) |
 | [Azure Docs](https://learn.microsoft.com/en-us/azure/) | Microsoft Azure 文档入口，提供云服务、身份、数据库、AI 和部署指南。 | 开发者资源 | Azure、云服务、文档 | [爱翻墙](https://ifanqiang.com/sites/learn-microsoft-com-en-us-azure) |

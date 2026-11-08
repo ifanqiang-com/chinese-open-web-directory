@@ -13,7 +13,8 @@
 | --- | --- | --- | --- | --- |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
-| [Git Documentation](https://git-scm.com/doc) | Git 官方文档、手册和参考资料。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
+| [Git Documentation](https://git-scm.com/docs) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
+| [Whoogle Search（历史源码）](https://github.com/benbusby/whoogle-search) | 已终止维护的 Whoogle 搜索项目历史源码。作者确认其已无法返回 Google 搜索结果，仓库仅保留代码供研究参考，不再支持部署或日常搜索。 | 开发者资源 | 历史源码、停止维护、搜索技术 | [爱翻墙](https://ifanqiang.com/sites/github-com-benbusby-whoogle-search) |
 | [Merck Manuals](https://www.merckmanuals.com/) | 默沙东医学手册，提供面向公众和专业人士的疾病、症状和治疗说明。 | 百科与开放资料 | 医学、健康、手册 | [爱翻墙](https://ifanqiang.com/sites/merckmanuals-com) |
 | [Library and Archives Canada](https://www.canada.ca/en/library-archives.html) | 加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 加拿大、档案、图书馆 | [爱翻墙](https://ifanqiang.com/sites/library-archives-canada-ca) |
 | [National Archives UK](https://www.nationalarchives.gov.uk/) | 英国国家档案馆，提供政府档案、历史资料、家谱研究和在线目录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 英国、档案、历史 | [爱翻墙](https://ifanqiang.com/sites/nationalarchives-gov-uk) |
@@ -26,7 +27,6 @@
 | [Storybook Docs](https://storybook.js.org/docs) | Storybook 官方文档，提供 UI 组件开发、文档、测试和设计系统资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 组件、设计系统、文档 | [爱翻墙](https://ifanqiang.com/sites/storybook-js-org-docs) |
 | [Elastic Docs](https://www.elastic.co/guide/) | Elastic 官方指南，提供 Elasticsearch、Kibana、Logstash、安全和搜索资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 搜索、日志、文档 | [爱翻墙](https://ifanqiang.com/sites/elastic-co-guide) |
 | [NATS Docs](https://docs.nats.io/) | NATS 官方文档，提供消息系统、JetStream、服务、集群和客户端资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 消息系统、云原生、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-nats-io) |
-| [GraphQL Docs](https://graphql.org/learn/) | GraphQL 官方学习资料，提供查询语言、Schema、类型系统、执行和最佳实践。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | GraphQL、API、文档 | [爱翻墙](https://ifanqiang.com/sites/graphql-org-learn) |
 
 ## 容器和云原生
 
