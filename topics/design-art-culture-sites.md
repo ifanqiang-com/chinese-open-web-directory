@@ -33,7 +33,6 @@
 | --- | --- | --- | --- | --- |
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
 | [纽约时报中文网](https://cn.nytimes.com) | 纽约时报中文内容，覆盖国际、中国、商业与文化。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、中文 | [爱翻墙](https://ifanqiang.com/sites/cn-nytimes-com) |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [端传媒](https://theinitium.com) | 面向华语读者的深度报道与评论媒体。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、华语 | [爱翻墙](https://ifanqiang.com/sites/theinitium-com) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
@@ -47,6 +46,7 @@
 | [联合早报](https://www.zaobao.com.sg) | 新加坡联合早报中文新闻与评论。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、新加坡、中文 | [爱翻墙](https://ifanqiang.com/sites/zaobao-com-sg) |
 | [Fandom](https://www.fandom.com) | 影视、游戏、动漫等粉丝百科社区。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、粉丝、社区 | [爱翻墙](https://ifanqiang.com/sites/fandom-com) |
 | [Open Library](https://openlibrary.org) | Internet Archive 旗下开放图书目录和借阅入口。 | 百科与开放资料 | 图书、开放、资料 | [爱翻墙](https://ifanqiang.com/sites/openlibrary-org) |
+| [Europeana](https://www.europeana.eu) | 欧洲数字文化遗产平台，聚合艺术、图书、影像和音乐等馆藏。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文化遗产、档案、欧洲 | [爱翻墙](https://ifanqiang.com/sites/europeana-eu) |
 
 ## 摄影、影像和电影
 

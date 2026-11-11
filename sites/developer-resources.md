@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 147 个网站。点击名称可直接访问官网。
+共 148 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -148,6 +148,7 @@
 | [ArchWiki](https://wiki.archlinux.org/) | [详情](items/wiki-archlinux-org.md) | ArchWiki 的开发者文档入口，覆盖 Linux、文档、社区 等技术栈、工具或标准资料。 | Linux、文档、社区 | 英文 |
 | [TypeScript 入门教程](https://ts.xcatliu.com/) | [详情](items/ts-xcatliu-com.md) | 面向已有 JavaScript 基础的中文 TypeScript 入门教程，讲解类型系统、接口、泛型和声明文件，附示例与开源内容。 | TypeScript、中文教程、前端开发 | 中文 |
 | [OI Wiki](https://oi-wiki.org/) | [详情](items/oi-wiki-org.md) | 社区维护的中文算法与编程竞赛知识库，提供数据结构、动态规划、图论、计算几何和竞赛工具的讲解、示例与学习资料。 | 算法、数据结构、编程竞赛、中文资料 | 中文 |
+| [tldr pages](https://tldr.sh/) | [详情](items/tldr-sh.md) | 社区维护的命令行速查手册，用简短示例说明 Linux、macOS、Windows 等常用工具的用法，提供简体中文等多语言页面、网页阅读和命令行客户端。 | 命令行、速查手册、中文资料、开源 | 多语言 |
 | [Hello 算法](https://www.hello-algo.com/) | [详情](items/hello-algo-com.md) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 算法、数据结构、中文、开源 | 中文 |
 | [现代 JavaScript 教程](https://zh.javascript.info/) | [详情](items/zh-javascript-info.md) | 现代 JavaScript 教程的中文版本，系统讲解语言基础、对象、异步编程、浏览器 DOM 与事件，并提供配套习题。 | JavaScript、中文、教程、前端 | 中文 |
 | [Agent QA](https://vostride.com/) | [详情](items/vostride-com.md) | 面向 Web 和移动应用的自动化质量保证工具，可用自然语言编写测试，通过 CLI 或 MCP 执行，并保留可审查的步骤、截图和结果证据。 | AI、软件测试、自动化、MCP、开发者工具 | 英文 |

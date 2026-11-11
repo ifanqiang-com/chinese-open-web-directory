@@ -2,7 +2,7 @@
 
 Chinese Open Web Directory
 
-![网站](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-1442-2ea44f)
+![网站](https://img.shields.io/badge/%E7%BD%91%E7%AB%99-1438-2ea44f)
 ![YouTube 频道](https://img.shields.io/badge/YouTube%20%E9%A2%91%E9%81%93-67-red)
 ![专题](https://img.shields.io/badge/%E4%B8%93%E9%A2%98-30-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -23,7 +23,7 @@ Chinese Open Web Directory
 - 灰产、成人、赌博、盗版或不安全链接集合。
 - 对任何网站在任何网络环境下都能访问、不能访问、被阻断或未被阻断的声明。
 
-最近一次生产数据导出时间：`2026-11-08T10:09:38.058Z`
+最近一次生产数据导出时间：`2026-11-11T10:08:50.676Z`
 
 ## 项目简介
 
@@ -45,12 +45,12 @@ Chinese Open Web Directory
 
 | 数据 | 数量 | 入口 |
 | --- | ---: | --- |
-| 网站 | 1442 | [sites/README.md](sites/README.md) |
+| 网站 | 1438 | [sites/README.md](sites/README.md) |
 | YouTube 频道 | 67 | [youtube/README.md](youtube/README.md) |
 | 专题 | 30 | [topics/README.md](topics/README.md) |
 | 网站分类 | 15 | [sites/README.md](sites/README.md) |
 | YouTube 分类 | 8 | [youtube/README.md](youtube/README.md) |
-| 全部导出链接 | 1509 | [data/all-links.json](data/all-links.json) |
+| 全部导出链接 | 1505 | [data/all-links.json](data/all-links.json) |
 
 公开导出规则：
 
@@ -90,13 +90,13 @@ Chinese Open Web Directory
 | [博客与出版](sites/blogs-publishing.md) | 85 |
 | [播客与音频](sites/podcasts-audio.md) | 63 |
 | [搜索与发现](sites/search-discovery.md) | 56 |
-| [百科与开放资料](sites/encyclopedia-open-data.md) | 73 |
+| [百科与开放资料](sites/encyclopedia-open-data.md) | 70 |
 | [学术研究](sites/academic-research.md) | 87 |
 | [财经与数据](sites/finance-data.md) | 79 |
-| [应用与下载](sites/apps-downloads.md) | 72 |
-| [开发者资源](sites/developer-resources.md) | 147 |
+| [应用与下载](sites/apps-downloads.md) | 71 |
+| [开发者资源](sites/developer-resources.md) | 148 |
 | [生活出行](sites/life-travel.md) | 107 |
-| [隐私安全](sites/privacy-security.md) | 81 |
+| [隐私安全](sites/privacy-security.md) | 80 |
 
 ### YouTube 频道
 

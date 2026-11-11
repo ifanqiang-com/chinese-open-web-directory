@@ -17,7 +17,6 @@
 | [ECB](https://www.ecb.europa.eu/) | 欧洲央行官网，提供欧元区货币政策、利率、统计数据和研究资料。 | 财经与数据 | 央行、欧元区、货币政策 | [爱翻墙](https://ifanqiang.com/sites/ecb-europa-eu) |
 | [Our World in Data](https://ourworldindata.org/) | 开放数据和可视化平台，提供全球发展、健康、能源、人口和环境数据解释。 | 百科与开放资料 | 开放数据、可视化、全球发展 | [爱翻墙](https://ifanqiang.com/sites/ourworldindata-org) |
 | [Eurostat](https://ec.europa.eu/eurostat) | 欧盟统计局入口，提供欧洲人口、经济、社会、贸易和环境统计数据。 | 财经与数据 | 欧盟、统计、数据 | [爱翻墙](https://ifanqiang.com/sites/ec-europa-eu-eurostat) |
-| [DPLA](https://dp.la/) | 美国数字公共图书馆，聚合图书馆、档案馆、博物馆和开放文化遗产资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 数字图书馆、档案、美国 | [爱翻墙](https://ifanqiang.com/sites/dp-la) |
 | [OpenCorporates](https://opencorporates.com/) | 开放公司资料库，核心提供跨国家公司注册信息和企业实体查询。 | 财经与数据 | 公司资料、开放数据、企业 | [爱翻墙](https://ifanqiang.com/sites/opencorporates-com) |
 | [Trove](https://trove.nla.gov.au/) | 澳大利亚国家图书馆资料平台，提供报纸、图片、图书、地图和档案检索。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 图书馆、澳大利亚、档案 | [爱翻墙](https://ifanqiang.com/sites/trove-nla-gov-au) |
 | [DigitalNZ](https://digitalnz.org/) | 新西兰数字文化资料平台，聚合图片、音频、视频、报纸和馆藏记录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 新西兰、数字馆藏、档案 | [爱翻墙](https://ifanqiang.com/sites/digitalnz-org) |
@@ -27,6 +26,7 @@
 | [HathiTrust](https://www.hathitrust.org/) | 数字图书馆合作项目，提供书籍全文检索、馆藏访问和学术图书资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 数字图书馆、图书、学术 | [爱翻墙](https://ifanqiang.com/sites/hathitrust-org) |
 | [ROR](https://ror.org/) | 研究组织注册表，提供高校、研究机构、资助机构和组织标识符数据。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 机构、标识符、开放数据 | [爱翻墙](https://ifanqiang.com/sites/ror-org) |
 | [Project Gutenberg](https://www.gutenberg.org/) | 公共领域电子书项目，提供免费电子书下载、在线阅读和多格式文本。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 百科与开放资料 | 电子书、公共领域、开放 | [爱翻墙](https://ifanqiang.com/sites/gutenberg-org) |
+| [OpenCitations](https://opencitations.net/) | 开放引用数据项目，提供论文引用关系、索引、数据集和查询接口。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 引用、开放数据、论文 | [爱翻墙](https://ifanqiang.com/sites/opencitations-net) |
 
 ## 宏观经济和市场数据
 
@@ -59,7 +59,6 @@
 | --- | --- | --- | --- | --- |
 | [Google Scholar](https://scholar.google.com) | 学术文献搜索引擎。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、论文、搜索 | [爱翻墙](https://ifanqiang.com/sites/scholar-google-com) |
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
 | [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
@@ -73,6 +72,7 @@
 | [SSRN](https://www.ssrn.com) | 社会科学和法学等领域论文平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、社科、预印本 | [爱翻墙](https://ifanqiang.com/sites/ssrn-com) |
 | [DOAJ](https://doaj.org) | 开放获取期刊目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、期刊、学术 | [爱翻墙](https://ifanqiang.com/sites/doaj-org) |
 | [Internet Encyclopedia of Philosophy](https://iep.utm.edu) | 互联网哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、百科 | [爱翻墙](https://ifanqiang.com/sites/iep-utm-edu) |
+| [OpenAlex](https://openalex.org) | 开放学术数据目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、数据、开放 | [爱翻墙](https://ifanqiang.com/sites/openalex-org) |
 
 ## 数据分析和可视化工具
 

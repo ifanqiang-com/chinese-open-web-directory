@@ -1,0 +1,123 @@
+[
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "zotero-org",
+    "name": "Zotero",
+    "reason": "Zotero 官方资助致谢确认曾获美国联邦机构 IMLS 支持，项目原开发机构亦确认早期拨款；依既有历史资助排除口径归档。官方当前说明开发及运营由个人和机构存储订阅收入支持，不声称目前仍受政府资助，也不认定软件不安全。",
+    "evidence": [
+      "https://www.zotero.org/support/credits_and_acknowledgments",
+      "https://20.rrchnm.org/exhibits/show/ooh/funding.html",
+      "https://www.zotero.org/getinvolved"
+    ],
+    "beforeUrl": "https://www.zotero.org/"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "plato-stanford-edu",
+    "name": "Stanford Encyclopedia of Philosophy",
+    "reason": "官方 History of Grants 列出 NEH、NSF 对本项目的多笔历史拨款（1998—2008），按目录资金来源排除政策归档；不是链接失效或内容质量判断。",
+    "evidence": [
+      "https://plato.stanford.edu/about.html",
+      "https://www.neh.gov/news/press-release/2000-09-28"
+    ],
+    "beforeUrl": "https://plato.stanford.edu"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "dp-la",
+    "name": "DPLA",
+    "reason": "IMLS 官方公告确认 2014 年向 DPLA 提供 999,485 美元用于扩展基础设施，且此前于 2012 年拨款；DPLA 自身公告也确认 Open eBooks 的 IMLS 支持。依目录资金来源政策归档；这是历史资助证据，不声称当前仍获此拨款。",
+    "evidence": [
+      "https://www.imls.gov/news/new-imls-funding-support-digital-public-library-america",
+      "https://dp.la/news/open-ebooks-opens-world-of-digital-reading-to-children"
+    ],
+    "beforeUrl": "https://dp.la/"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "signal-org",
+    "name": "Signal",
+    "reason": "OTF 官方项目页列出 2013—2016 年向 Signal/Open Whisper Systems 提供的历史资金共 2,955,000 美元，并明确项目状态 Inactive；USAGM 官方介绍确认其与 OTF 的资助体系。按目录历史资助排除口径归档，不声称 Signal 当前受资助或不安全。",
+    "evidence": [
+      "https://www.opentech.fund/projects-we-support/supported-projects/signal-open-whisper-systems/",
+      "https://www.usagm.gov/networks/otf/"
+    ],
+    "beforeUrl": "https://signal.org"
+  },
+  {
+    "action": "archive",
+    "type": "site",
+    "id": "perseus-tufts-edu-hopper",
+    "name": "Perseus Digital Library",
+    "reason": "NEH 官方项目介绍及 2017 年专题确认 Perseus 获得 11 笔 NEH 拨款，共 1,162,653 美元。按目录历史资助排除政策归档，不以 HTTP 响应或资源质量为理由。",
+    "evidence": [
+      "https://www.neh.gov/project/perseus-project",
+      "https://www.neh.gov/humanities/2017/fall/feature/how-do-you-get-students-study-ancient-greek-modern-campus"
+    ],
+    "beforeUrl": "https://www.perseus.tufts.edu/hopper/"
+  },
+  {
+    "action": "update",
+    "type": "site",
+    "id": "therokuchannel-roku-com",
+    "name": "Roku App",
+    "fields": {
+      "name": "Roku App",
+      "url": "https://app.roku.com/",
+      "source_url": "https://www.roku.com/roku-app",
+      "description": "Roku 官方网页与移动端流媒体入口，提供免费电影、剧集、直播频道及订阅管理。网页观看服务主要面向美国，部分内容和功能受地区或账户限制。",
+      "tags": [
+        "免费电视",
+        "电影",
+        "流媒体",
+        "地区限制"
+      ]
+    },
+    "reason": "原 The Roku Channel 网页入口返回 301，新入口 canonical 为 app.roku.com；Roku 官方产品页与支持文档共同确认更名及迁移。同步名称、URL、来源、简介与标签，保留原分类、英语及有 App 字段。地区限制或临时错误不作为失效依据。",
+    "evidence": [
+      "https://therokuchannel.roku.com/",
+      "https://app.roku.com/",
+      "https://www.roku.com/roku-app",
+      "https://support.roku.com/article/get-the-roku-channel"
+    ],
+    "beforeUrl": "https://therokuchannel.roku.com/"
+  },
+  {
+    "action": "add",
+    "type": "site",
+    "id": "tldr-sh",
+    "name": "tldr pages",
+    "fields": {
+      "id": "tldr-sh",
+      "name": "tldr pages",
+      "url": "https://tldr.sh/",
+      "category": "开发者资源",
+      "description": "社区维护的命令行速查手册，用简短示例说明 Linux、macOS、Windows 等常用工具的用法，提供简体中文等多语言页面、网页阅读和命令行客户端。",
+      "tags": [
+        "命令行",
+        "速查手册",
+        "中文资料",
+        "开源"
+      ],
+      "language": "multi",
+      "has_app": true,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 162,
+      "added_at": "2026-11-11",
+      "source_url": "https://github.com/tldr-pages/tldr"
+    },
+    "reason": "官网、官方 GitHub 仓库及简体中文 tar/git 页面互相核验。项目创建于 2013-12-08，本轮仍活跃，公开可读且提供中文实例；ID、规范化 URL、域名和品牌均无重复，未发现排除政策证据。",
+    "evidence": [
+      "https://tldr.sh/",
+      "https://github.com/tldr-pages/tldr",
+      "https://github.com/tldr-pages/tldr/blob/main/pages.zh/common/tar.md",
+      "https://github.com/tldr-pages/tldr/blob/main/pages.zh/common/git.md"
+    ]
+  }
+]

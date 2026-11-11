@@ -12,10 +12,10 @@
 | [博客与出版](blogs-publishing.md) | 85 |
 | [播客与音频](podcasts-audio.md) | 63 |
 | [搜索与发现](search-discovery.md) | 56 |
-| [百科与开放资料](encyclopedia-open-data.md) | 73 |
+| [百科与开放资料](encyclopedia-open-data.md) | 70 |
 | [学术研究](academic-research.md) | 87 |
 | [财经与数据](finance-data.md) | 79 |
-| [应用与下载](apps-downloads.md) | 72 |
-| [开发者资源](developer-resources.md) | 147 |
+| [应用与下载](apps-downloads.md) | 71 |
+| [开发者资源](developer-resources.md) | 148 |
 | [生活出行](life-travel.md) | 107 |
-| [隐私安全](privacy-security.md) | 81 |
+| [隐私安全](privacy-security.md) | 80 |

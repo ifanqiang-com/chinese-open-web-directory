@@ -54,7 +54,6 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
 | [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
@@ -69,6 +68,7 @@
 | [Wikivoyage](https://www.wikivoyage.org/) | 维基媒体旅行指南，提供目的地介绍、交通、住宿、景点和实用旅行信息。 | 百科与开放资料 | 旅行、百科、维基 | [爱翻墙](https://ifanqiang.com/sites/wikivoyage-org) |
 | [Wikiquote](https://www.wikiquote.org/) | 多语言自由语录库，核心提供人物、作品和主题相关引用资料。 | 百科与开放资料 | 语录、百科、维基 | [爱翻墙](https://ifanqiang.com/sites/wikiquote-org) |
 | [World History Encyclopedia](https://www.worldhistory.org/) | 世界历史百科，提供历史人物、文明、地图、时间线和教学资源。 | 百科与开放资料 | 历史、百科、教育 | [爱翻墙](https://ifanqiang.com/sites/worldhistory-org) |
+| [Encyclopedia.com](https://www.encyclopedia.com/) | 综合参考资料入口，聚合百科、词典、传记和主题解释内容。 | 百科与开放资料 | 百科、参考、英文 | [爱翻墙](https://ifanqiang.com/sites/encyclopedia-com) |
 
 ## 公共数据与资料检索
 

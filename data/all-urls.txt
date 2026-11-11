@@ -451,7 +451,6 @@ https://www.thunderbird.net/
 https://obsidian.md/
 https://logseq.com/
 https://joplinapp.org/
-https://www.zotero.org/
 https://apps.ankiweb.net/
 https://qgis.org/
 https://krita.org/
@@ -600,6 +599,7 @@ https://developers.llamaindex.ai/python/framework/
 https://wiki.archlinux.org/
 https://ts.xcatliu.com/
 https://oi-wiki.org/
+https://tldr.sh/
 https://www.hello-algo.com/
 https://zh.javascript.info/
 https://vostride.com/
@@ -836,7 +836,6 @@ https://www.wikibooks.org
 https://commons.wikimedia.org
 https://www.wikidata.org
 https://www.britannica.com
-https://plato.stanford.edu
 https://iep.utm.edu
 https://mathworld.wolfram.com
 https://www.fandom.com
@@ -860,7 +859,6 @@ https://ourworldindata.org/
 https://artsandculture.google.com/
 https://www.openculture.com/
 https://eol.org/
-https://dp.la/
 https://trove.nla.gov.au/
 https://digitalnz.org/
 https://www.canada.ca/en/library-archives.html
@@ -870,7 +868,6 @@ https://www.hathitrust.org/
 https://www.gutenberg.org/
 https://standardebooks.org/
 https://sacred-texts.com/
-https://www.perseus.tufts.edu/hopper/
 https://www.metmuseum.org/art/collection
 https://www.moma.org/collection/
 https://collections.louvre.fr/en/
@@ -1014,7 +1011,7 @@ https://www.philo.com/
 https://www.directv.com/stream/
 https://tv.youtube.com/
 https://watch.plex.tv/
-https://therokuchannel.roku.com/
+https://app.roku.com/
 https://www.discoveryplus.com/
 https://plus.espn.com/
 https://www.dazn.com/
@@ -1360,7 +1357,6 @@ https://www.tikr.com/
 https://quartr.com/
 https://openbb.co/
 https://www.privacyguides.org
-https://signal.org
 https://proton.me/mail
 https://mailbox.org/en/
 https://bitwarden.com

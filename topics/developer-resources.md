@@ -16,6 +16,7 @@
 | [Bitbucket](https://bitbucket.org) | Atlassian 旗下代码托管平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、Git、团队 | [爱翻墙](https://ifanqiang.com/sites/bitbucket-org) |
 | [Git Documentation](https://git-scm.com/docs) | Git 官方命令参考手册，提供命令用法、选项说明及工作流、修订版本、钩子和配置等指南。 | 开发者资源 | Git、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/git-scm-doc) |
 | [Read the Docs](https://about.readthedocs.com/) | Read the Docs 的开发者文档入口，覆盖 文档托管、开源、开发 等技术栈、工具或标准资料。 | 开发者资源 | 文档托管、开源、开发 | [爱翻墙](https://ifanqiang.com/sites/readthedocs-org) |
+| [tldr pages](https://tldr.sh/) | 社区维护的命令行速查手册，用简短示例说明 Linux、macOS、Windows 等常用工具的用法，提供简体中文等多语言页面、网页阅读和命令行客户端。 | 开发者资源 | 命令行、速查手册、中文资料、开源 | [爱翻墙](https://ifanqiang.com/sites/tldr-sh) |
 | [Hello 算法](https://www.hello-algo.com/) | 开源的数据结构与算法教程，提供中文图解、多种编程语言示例、在线阅读及练习，适合算法入门与复习。 | 开发者资源 | 算法、数据结构、中文、开源 | [爱翻墙](https://ifanqiang.com/sites/hello-algo-com) |
 
 ## 官方文档与技术资料

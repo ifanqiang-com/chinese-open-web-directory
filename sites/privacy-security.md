@@ -1,11 +1,10 @@
 # 隐私安全
 
-共 81 个网站。点击名称可直接访问官网。
+共 80 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
 | [Privacy Guides](https://www.privacyguides.org) | [详情](items/privacyguides-org.md) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私、安全、指南 | 多语言 |
-| [Signal](https://signal.org) | [详情](items/signal-org.md) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 通讯、加密、隐私 | 多语言 |
 | [Proton Mail](https://proton.me/mail) | [详情](items/proton-me-mail.md) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 邮箱、隐私、加密 | 多语言 |
 | [Mailbox.org](https://mailbox.org/en/) | [详情](items/mailbox-org-en.md) | 德国隐私邮箱服务，提供邮箱、日历、联系人、云存储和面向隐私的办公功能。 | 邮箱、隐私、加密 | 多语言 |
 | [Bitwarden](https://bitwarden.com) | [详情](items/bitwarden-com.md) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 密码管理、开源、安全 | 多语言 |

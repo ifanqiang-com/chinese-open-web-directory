@@ -64,7 +64,6 @@
 | --- | --- | --- | --- | --- |
 | [GitHub](https://github.com) | 代码托管和协作开发平台。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 代码、开发、Git | [爱翻墙](https://ifanqiang.com/sites/github-com) |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Stack Overflow](https://stackoverflow.com) | 开发者问答网站。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | 开发、问答、编程 | [爱翻墙](https://ifanqiang.com/sites/stackoverflow-com) |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
@@ -78,6 +77,7 @@
 | [npm](https://www.npmjs.com) | JavaScript 包注册表。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | JavaScript、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/npmjs-com) |
 | [1Password](https://1password.com) | 密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、安全 | [爱翻墙](https://ifanqiang.com/sites/1password-com) |
 | [PyPI](https://pypi.org) | Python 包索引。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Python、包管理、开发 | [爱翻墙](https://ifanqiang.com/sites/pypi-org) |
+| [KeePassXC](https://keepassxc.org) | 开源本地密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、本地 | [爱翻墙](https://ifanqiang.com/sites/keepassxc-org) |
 
 ## 常见问题
 
