@@ -1,6 +1,6 @@
 # 百科与开放资料
 
-共 73 个网站。点击名称可直接访问官网。
+共 70 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -11,7 +11,6 @@
 | [Wikimedia Commons](https://commons.wikimedia.org) | [详情](items/commons-wikimedia-org.md) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 图片、媒体、百科 | 多语言 |
 | [Wikidata](https://www.wikidata.org) | [详情](items/wikidata-org.md) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 数据、百科、知识图谱 | 多语言 |
 | [Encyclopaedia Britannica](https://www.britannica.com) | [详情](items/britannica-com.md) | 英文百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科、英文 | 英文 |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | [详情](items/plato-stanford-edu.md) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 哲学、学术、百科 | 英文 |
 | [Internet Encyclopedia of Philosophy](https://iep.utm.edu) | [详情](items/iep-utm-edu.md) | 互联网哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 哲学、百科 | 英文 |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | [详情](items/mathworld-wolfram-com.md) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 数学、百科、资料 | 英文 |
 | [Fandom](https://www.fandom.com) | [详情](items/fandom-com.md) | 影视、游戏、动漫等粉丝百科社区。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科、粉丝、社区 | 多语言 |
@@ -35,7 +34,6 @@
 | [Google Arts & Culture](https://artsandculture.google.com/) | [详情](items/artsandculture-google-com.md) | 艺术与文化资料平台，提供博物馆馆藏、虚拟展览、艺术家和文化专题。 | 艺术、博物馆、文化 | 多语言 |
 | [Open Culture](https://www.openculture.com/) | [详情](items/openculture-com.md) | 开放文化资源目录，整理免费课程、电子书、电影、有声书和语言学习资源。 | 开放资源、课程、电子书 | 英文 |
 | [Encyclopedia of Life](https://eol.org/) | [详情](items/eol-org.md) | 生命百科资料库，核心提供物种页面、图片、分类信息和生物多样性资料。 | 生物、物种、百科 | 英文 |
-| [DPLA](https://dp.la/) | [详情](items/dp-la.md) | 美国数字公共图书馆，聚合图书馆、档案馆、博物馆和开放文化遗产资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 数字图书馆、档案、美国 | 英文 |
 | [Trove](https://trove.nla.gov.au/) | [详情](items/trove-nla-gov-au.md) | 澳大利亚国家图书馆资料平台，提供报纸、图片、图书、地图和档案检索。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 图书馆、澳大利亚、档案 | 英文 |
 | [DigitalNZ](https://digitalnz.org/) | [详情](items/digitalnz-org.md) | 新西兰数字文化资料平台，聚合图片、音频、视频、报纸和馆藏记录。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 新西兰、数字馆藏、档案 | 英文 |
 | [Library and Archives Canada](https://www.canada.ca/en/library-archives.html) | [详情](items/library-archives-canada-ca.md) | 加拿大图书档案馆入口，提供历史档案、家谱、政府文件和数字馆藏。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 加拿大、档案、图书馆 | 英文 |
@@ -45,7 +43,6 @@
 | [Project Gutenberg](https://www.gutenberg.org/) | [详情](items/gutenberg-org.md) | 公共领域电子书项目，提供免费电子书下载、在线阅读和多格式文本。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 电子书、公共领域、开放 | 英文 |
 | [Standard Ebooks](https://standardebooks.org/) | [详情](items/standardebooks-org.md) | 高质量公共领域电子书项目，提供精校排版的 EPUB、Kindle 和网页版本。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 电子书、公共领域、排版 | 英文 |
 | [Internet Sacred Text Archive](https://sacred-texts.com/) | [详情](items/sacred-texts-com.md) | 宗教和民俗文本资料库，提供经典文本、神话、民间故事和文化资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 宗教、文本、文化 | 英文 |
-| [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) | [详情](items/perseus-tufts-edu-hopper.md) | 古典研究数字图书馆，提供希腊罗马文本、翻译、词典和历史资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 古典学、文本、图书馆 | 英文 |
 | [The Met Collection](https://www.metmuseum.org/art/collection) | [详情](items/metmuseum-org-art-collection.md) | 大都会艺术博物馆馆藏入口，提供艺术品图片、年代、作者和开放数据。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 艺术、博物馆、馆藏 | 英文 |
 | [MoMA Collection](https://www.moma.org/collection/) | [详情](items/moma-org-collection.md) | 纽约现代艺术博物馆馆藏，提供现代艺术作品、艺术家、展览和研究资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 艺术、现代艺术、馆藏 | 英文 |
 | [Louvre Collections](https://collections.louvre.fr/en/) | [详情](items/collections-louvre-fr-en.md) | 卢浮宫馆藏数据库，提供艺术品、文物、作者、年代和展览资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。 | 艺术、博物馆、法国 | 英文 |

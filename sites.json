@@ -10417,29 +10417,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "zotero-org",
-    "id": "zotero-org",
-    "type": "site",
-    "name": "Zotero",
-    "description": "Zotero 的应用入口，提供 文献管理、研究、开源 相关的软件主页、下载或应用发现服务。",
-    "url": "https://www.zotero.org/",
-    "category": "apps-downloads",
-    "categoryName": "应用与下载",
-    "tags": [
-      "文献管理",
-      "研究",
-      "开源"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": false,
-    "priority": 71,
-    "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.zotero.org/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "apps-ankiweb-net",
     "id": "apps-ankiweb-net",
     "type": "site",
@@ -13844,6 +13821,30 @@
     "priority": 161,
     "addedAt": "2026-11-08",
     "sourceUrl": "https://oi-wiki.org/",
+    "profilePublishedAt": null
+  },
+  {
+    "uid": "tldr-sh",
+    "id": "tldr-sh",
+    "type": "site",
+    "name": "tldr pages",
+    "description": "社区维护的命令行速查手册，用简短示例说明 Linux、macOS、Windows 等常用工具的用法，提供简体中文等多语言页面、网页阅读和命令行客户端。",
+    "url": "https://tldr.sh/",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "命令行",
+      "速查手册",
+      "中文资料",
+      "开源"
+    ],
+    "language": "multi",
+    "hasApp": true,
+    "status": "active",
+    "featured": false,
+    "priority": 162,
+    "addedAt": "2026-11-11",
+    "sourceUrl": "https://github.com/tldr-pages/tldr",
     "profilePublishedAt": null
   },
   {
@@ -19257,29 +19258,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "plato-stanford-edu",
-    "id": "plato-stanford-edu",
-    "type": "site",
-    "name": "Stanford Encyclopedia of Philosophy",
-    "description": "斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。",
-    "url": "https://plato.stanford.edu",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "哲学",
-      "学术",
-      "百科"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": true,
-    "priority": 8,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://plato.stanford.edu",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "iep-utm-edu",
     "id": "iep-utm-edu",
     "type": "site",
@@ -19808,29 +19786,6 @@
     "profilePublishedAt": null
   },
   {
-    "uid": "dp-la",
-    "id": "dp-la",
-    "type": "site",
-    "name": "DPLA",
-    "description": "美国数字公共图书馆，聚合图书馆、档案馆、博物馆和开放文化遗产资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://dp.la/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "数字图书馆",
-      "档案",
-      "美国"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 36,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://dp.la/",
-    "profilePublishedAt": null
-  },
-  {
     "uid": "trove-nla-gov-au",
     "id": "trove-nla-gov-au",
     "type": "site",
@@ -20035,29 +19990,6 @@
     "priority": 46,
     "addedAt": "2026-06-09",
     "sourceUrl": "https://sacred-texts.com/",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "perseus-tufts-edu-hopper",
-    "id": "perseus-tufts-edu-hopper",
-    "type": "site",
-    "name": "Perseus Digital Library",
-    "description": "古典研究数字图书馆，提供希腊罗马文本、翻译、词典和历史资料。核心提供结构化知识、参考资料、开放馆藏或公共数据查询。",
-    "url": "https://www.perseus.tufts.edu/hopper/",
-    "category": "encyclopedia-open-data",
-    "categoryName": "百科与开放资料",
-    "tags": [
-      "古典学",
-      "文本",
-      "图书馆"
-    ],
-    "language": "en",
-    "hasApp": false,
-    "status": "active",
-    "featured": false,
-    "priority": 47,
-    "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.perseus.tufts.edu/hopper/",
     "profilePublishedAt": null
   },
   {
@@ -23341,15 +23273,16 @@
     "uid": "therokuchannel-roku-com",
     "id": "therokuchannel-roku-com",
     "type": "site",
-    "name": "The Roku Channel",
-    "description": "The Roku Channel 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。",
-    "url": "https://therokuchannel.roku.com/",
+    "name": "Roku App",
+    "description": "Roku 官方网页与移动端流媒体入口，提供免费电影、剧集、直播频道及订阅管理。网页观看服务主要面向美国，部分内容和功能受地区或账户限制。",
+    "url": "https://app.roku.com/",
     "category": "video-streaming",
     "categoryName": "视频与流媒体",
     "tags": [
       "免费电视",
       "电影",
-      "流媒体"
+      "流媒体",
+      "地区限制"
     ],
     "language": "en",
     "hasApp": true,
@@ -23357,7 +23290,7 @@
     "featured": false,
     "priority": 65,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://therokuchannel.roku.com/",
+    "sourceUrl": "https://www.roku.com/roku-app",
     "profilePublishedAt": null
   },
   {
@@ -31292,29 +31225,6 @@
     "priority": 1,
     "addedAt": "2026-06-08",
     "sourceUrl": "https://www.privacyguides.org",
-    "profilePublishedAt": null
-  },
-  {
-    "uid": "signal-org",
-    "id": "signal-org",
-    "type": "site",
-    "name": "Signal",
-    "description": "端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。",
-    "url": "https://signal.org",
-    "category": "privacy-security",
-    "categoryName": "隐私安全",
-    "tags": [
-      "通讯",
-      "加密",
-      "隐私"
-    ],
-    "language": "multi",
-    "hasApp": true,
-    "status": "active",
-    "featured": true,
-    "priority": 3,
-    "addedAt": "2026-06-08",
-    "sourceUrl": "https://signal.org",
     "profilePublishedAt": null
   },
   {

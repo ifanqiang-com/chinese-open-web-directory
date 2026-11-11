@@ -66,7 +66,7 @@
 | [DIRECTV Stream](https://www.directv.com/stream/) | [详情](items/streamtv-directv-com.md) | DIRECTV Stream 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [YouTube TV](https://tv.youtube.com/) | [详情](items/tv-youtube-com.md) | YouTube TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [Plex TV](https://watch.plex.tv/) | [详情](items/watch-plex-tv.md) | Plex TV 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
-| [The Roku Channel](https://therokuchannel.roku.com/) | [详情](items/therokuchannel-roku-com.md) | The Roku Channel 的视频入口，提供 免费电视、电影、流媒体 相关的观看、订阅或内容发现服务。 | 免费电视、电影、流媒体 | 英文 |
+| [Roku App](https://app.roku.com/) | [详情](items/therokuchannel-roku-com.md) | Roku 官方网页与移动端流媒体入口，提供免费电影、剧集、直播频道及订阅管理。网页观看服务主要面向美国，部分内容和功能受地区或账户限制。 | 免费电视、电影、流媒体、地区限制 | 英文 |
 | [Discovery+](https://www.discoveryplus.com/) | [详情](items/discoveryplus-com.md) | Discovery+ 的视频入口，提供 纪录片、生活、流媒体 相关的观看、订阅或内容发现服务。 | 纪录片、生活、流媒体 | 英文 |
 | [ESPN+](https://plus.espn.com/) | [详情](items/plus-espn-com.md) | ESPN+ 的视频入口，提供 体育、直播、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播、流媒体 | 英文 |
 | [DAZN](https://www.dazn.com/) | [详情](items/dazn-com.md) | DAZN 的视频入口，提供 体育、直播、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播、流媒体 | 多语言 |

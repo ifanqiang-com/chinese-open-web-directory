@@ -1,6 +1,6 @@
 # 应用与下载
 
-共 72 个网站。点击名称可直接访问官网。
+共 71 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,6 @@
 | [Obsidian](https://obsidian.md/) | [详情](items/obsidian-md.md) | Obsidian 的应用入口，提供 笔记、知识管理、应用 相关的软件主页、下载或应用发现服务。 | 笔记、知识管理、应用 | 英文 |
 | [Logseq](https://logseq.com/) | [详情](items/logseq-com.md) | Logseq 的应用入口，提供 笔记、知识管理、开源 相关的软件主页、下载或应用发现服务。 | 笔记、知识管理、开源 | 英文 |
 | [Joplin](https://joplinapp.org/) | [详情](items/joplinapp-org.md) | Joplin 的应用入口，提供 笔记、开源、同步 相关的软件主页、下载或应用发现服务。 | 笔记、开源、同步 | 多语言 |
-| [Zotero](https://www.zotero.org/) | [详情](items/zotero-org.md) | Zotero 的应用入口，提供 文献管理、研究、开源 相关的软件主页、下载或应用发现服务。 | 文献管理、研究、开源 | 多语言 |
 | [Anki](https://apps.ankiweb.net/) | [详情](items/apps-ankiweb-net.md) | Anki 的应用入口，提供 记忆、学习、开源 相关的软件主页、下载或应用发现服务。 | 记忆、学习、开源 | 多语言 |
 | [QGIS](https://qgis.org/) | [详情](items/qgis-org.md) | QGIS 的应用入口，提供 地图、GIS、开源 相关的软件主页、下载或应用发现服务。 | 地图、GIS、开源 | 多语言 |
 | [Krita](https://krita.org/) | [详情](items/krita-org.md) | Krita 的应用入口，提供 绘画、开源、设计 相关的软件主页、下载或应用发现服务。 | 绘画、开源、设计 | 多语言 |

@@ -28,7 +28,6 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Bitwarden](https://bitwarden.com) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、安全 | [爱翻墙](https://ifanqiang.com/sites/bitwarden-com) |
 | [Have I Been Pwned](https://haveibeenpwned.com) | 账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、泄露查询 | [爱翻墙](https://ifanqiang.com/sites/haveibeenpwned-com) |
@@ -43,6 +42,7 @@
 | [Let's Encrypt](https://letsencrypt.org) | 免费 TLS 证书项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | HTTPS、证书、安全 | [爱翻墙](https://ifanqiang.com/sites/letsencrypt-org) |
 | [NextDNS](https://nextdns.io) | 可配置的 DNS 过滤和隐私服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/nextdns-io) |
 | [Internet.nl](https://internet.nl) | 荷兰互联网标准检测工具，提供网站、邮箱和连接的 IPv6、DNSSEC、HTTPS 与安全配置测试。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 检测、标准、HTTPS | [爱翻墙](https://ifanqiang.com/sites/internet-nl) |
+| [Quad9](https://www.quad9.net) | 注重安全过滤的公共 DNS 服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/quad9-net) |
 
 ## 双因素认证和硬件密钥
 
@@ -64,7 +64,6 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Privacy Guides](https://www.privacyguides.org) | 独立隐私工具和安全实践推荐网站。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 隐私、安全、指南 | [爱翻墙](https://ifanqiang.com/sites/privacyguides-org) |
-| [Signal](https://signal.org) | 端到端加密即时通讯工具。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 通讯、加密、隐私 | [爱翻墙](https://ifanqiang.com/sites/signal-org) |
 | [Proton Mail](https://proton.me/mail) | 强调隐私和加密的邮箱服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 邮箱、隐私、加密 | [爱翻墙](https://ifanqiang.com/sites/proton-me-mail) |
 | [Bitwarden](https://bitwarden.com) | 开源密码管理器。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 密码管理、开源、安全 | [爱翻墙](https://ifanqiang.com/sites/bitwarden-com) |
 | [Have I Been Pwned](https://haveibeenpwned.com) | 账号泄露查询服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 安全、泄露查询 | [爱翻墙](https://ifanqiang.com/sites/haveibeenpwned-com) |
@@ -79,6 +78,7 @@
 | [Let's Encrypt](https://letsencrypt.org) | 免费 TLS 证书项目。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | HTTPS、证书、安全 | [爱翻墙](https://ifanqiang.com/sites/letsencrypt-org) |
 | [NextDNS](https://nextdns.io) | 可配置的 DNS 过滤和隐私服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、隐私、安全 | [爱翻墙](https://ifanqiang.com/sites/nextdns-io) |
 | [Internet.nl](https://internet.nl) | 荷兰互联网标准检测工具，提供网站、邮箱和连接的 IPv6、DNSSEC、HTTPS 与安全配置测试。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | 检测、标准、HTTPS | [爱翻墙](https://ifanqiang.com/sites/internet-nl) |
+| [Quad9](https://www.quad9.net) | 注重安全过滤的公共 DNS 服务。核心提供隐私保护、安全检测、账号防护或安全实践资料。 | 隐私安全 | DNS、安全、隐私 | [爱翻墙](https://ifanqiang.com/sites/quad9-net) |
 
 ## 常见问题
 

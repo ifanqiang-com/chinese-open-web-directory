@@ -62,7 +62,6 @@
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
 | [Hacker News](https://news.ycombinator.com) | 创业、科技和开发者新闻讨论社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 科技、开发、创业 | [爱翻墙](https://ifanqiang.com/sites/news-ycombinator-com) |
 | [V2EX](https://www.v2ex.com) | 中文开发者与互联网社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 中文、开发者、社区 | [爱翻墙](https://ifanqiang.com/sites/v2ex-com) |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [Quora](https://www.quora.com) | 问答社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 问答、社区 | [爱翻墙](https://ifanqiang.com/sites/quora-com) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
 | [Semantic Scholar](https://www.semanticscholar.org) | 学术论文搜索和发现平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、搜索、学术 | [爱翻墙](https://ifanqiang.com/sites/semanticscholar-org) |
@@ -73,6 +72,7 @@
 | [PTT](https://www.ptt.cc) | 台湾 BBS 社区。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 台湾、BBS、论坛 | [爱翻墙](https://ifanqiang.com/sites/ptt-cc) |
 | [SSRN](https://www.ssrn.com) | 社会科学和法学等领域论文平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、社科、预印本 | [爱翻墙](https://ifanqiang.com/sites/ssrn-com) |
 | [DOAJ](https://doaj.org) | 开放获取期刊目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、期刊、学术 | [爱翻墙](https://ifanqiang.com/sites/doaj-org) |
+| [Stack Exchange](https://stackexchange.com) | 由多个专业问答社区组成的平台。核心提供按主题发帖、回复、问答和社区讨论。 | 论坛社区 | 问答、知识、社区 | [爱翻墙](https://ifanqiang.com/sites/stackexchange-com) |
 
 ## 综合论坛和社区
 

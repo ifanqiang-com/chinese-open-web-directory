@@ -1,0 +1,489 @@
+[
+  {
+    "url": "https://www.zotero.org/support/credits_and_acknowledgments",
+    "checkedAt": "2026-11-11T10:04:52.848602+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.zotero.org/support/credits_and_acknowledgments",
+    "redirects": 0,
+    "title": "About Zotero | Zotero Documentation",
+    "canonical": "",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.zotero.org/support/credits_and_acknowledgments"
+      }
+    ]
+  },
+  {
+    "url": "https://20.rrchnm.org/exhibits/show/ooh/funding.html",
+    "checkedAt": "2026-11-11T10:04:52.931517+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://20.rrchnm.org/exhibits/show/ooh/funding.html",
+    "redirects": 0,
+    "title": "Funding · The Object of History · RRCHNM20",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://20.rrchnm.org/exhibits/show/ooh/funding.html"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zotero.org/getinvolved",
+    "checkedAt": "2026-11-11T10:04:53.390039+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.zotero.org/getinvolved",
+    "redirects": 0,
+    "title": "Zotero | Get Involved",
+    "canonical": "",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.zotero.org/getinvolved"
+      }
+    ]
+  },
+  {
+    "url": "https://plato.stanford.edu/about.html",
+    "checkedAt": "2026-11-11T10:04:53.615803+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://plato.stanford.edu/about.html",
+    "redirects": 0,
+    "title": "About the Stanford Encyclopedia of Philosophy",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://plato.stanford.edu/about.html"
+      }
+    ]
+  },
+  {
+    "url": "https://www.neh.gov/news/press-release/2000-09-28",
+    "checkedAt": "2026-11-11T10:04:54.481960+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.neh.gov/news/press-release/2000-09-28",
+    "redirects": 0,
+    "title": "U.S. Humanities Endowment Funds High-Tech Solutions to Humanities Research Problems | National Endowment for the Humanities",
+    "canonical": "https://www.neh.gov/news/press-release/2000-09-28",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.neh.gov/news/press-release/2000-09-28"
+      }
+    ]
+  },
+  {
+    "url": "https://www.imls.gov/news/new-imls-funding-support-digital-public-library-america",
+    "checkedAt": "2026-11-11T10:04:54.662460+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.imls.gov/news/new-imls-funding-support-digital-public-library-america",
+    "redirects": 0,
+    "title": "New IMLS Funding to Support the Digital Public Library of America | Institute of Museum and Library Services",
+    "canonical": "http://www.imls.gov/news/new-imls-funding-support-digital-public-library-america",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.imls.gov/news/new-imls-funding-support-digital-public-library-america"
+      }
+    ]
+  },
+  {
+    "url": "https://dp.la/news/open-ebooks-opens-world-of-digital-reading-to-children",
+    "checkedAt": "2026-11-11T10:04:54.901550+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://dp.la/news/open-ebooks-opens-world-of-digital-reading-to-children",
+    "redirects": 0,
+    "title": "Open eBooks Opens World of Digital Reading to Children | DPLA",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://dp.la/news/open-ebooks-opens-world-of-digital-reading-to-children"
+      }
+    ]
+  },
+  {
+    "url": "https://www.opentech.fund/projects-we-support/supported-projects/signal-open-whisper-systems/",
+    "checkedAt": "2026-11-11T10:04:56.003653+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.opentech.fund/projects-we-support/supported-projects/signal-open-whisper-systems/",
+    "redirects": 0,
+    "title": "Signal (Open Whisper Systems) | OTF",
+    "canonical": "https://www.opentech.fund/projects-we-support/supported-projects/signal-open-whisper-systems/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.opentech.fund/projects-we-support/supported-projects/signal-open-whisper-systems/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.usagm.gov/networks/otf/",
+    "checkedAt": "2026-11-11T10:04:55.393879+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.usagm.gov/networks/otf/",
+    "redirects": 0,
+    "title": "OTF – USAGM",
+    "canonical": "https://www.usagm.gov/networks/otf/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.usagm.gov/networks/otf/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.neh.gov/project/perseus-project",
+    "checkedAt": "2026-11-11T10:04:55.959271+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.neh.gov/project/perseus-project",
+    "redirects": 0,
+    "title": "Perseus Project | National Endowment for the Humanities",
+    "canonical": "https://www.neh.gov/project/perseus-project",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.neh.gov/project/perseus-project"
+      }
+    ]
+  },
+  {
+    "url": "https://www.neh.gov/humanities/2017/fall/feature/how-do-you-get-students-study-ancient-greek-modern-campus",
+    "checkedAt": "2026-11-11T10:04:56.884251+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.neh.gov/humanities/2017/fall/feature/how-do-you-get-students-study-ancient-greek-modern-campus",
+    "redirects": 0,
+    "title": "How Do You Get Students to Study Ancient Greek on a Modern Campus? | National Endowment for the Humanities",
+    "canonical": "https://www.neh.gov/humanities/2017/fall/feature/how-do-you-get-students-study-ancient-greek-modern-campus",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.neh.gov/humanities/2017/fall/feature/how-do-you-get-students-study-ancient-greek-modern-campus"
+      }
+    ]
+  },
+  {
+    "url": "https://therokuchannel.roku.com/",
+    "checkedAt": "2026-11-11T10:05:51.072603+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://app.roku.com/",
+    "redirects": 1,
+    "title": "Roku",
+    "canonical": "https://app.roku.com/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 301 Moved Permanently",
+      "Location: https://app.roku.com/",
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://app.roku.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://app.roku.com/",
+    "checkedAt": "2026-11-11T10:05:52.002724+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://app.roku.com/",
+    "redirects": 0,
+    "title": "Roku",
+    "canonical": "https://app.roku.com/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://app.roku.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.roku.com/roku-app",
+    "checkedAt": "2026-11-11T10:05:52.961834+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.roku.com/intl?query-omitted",
+    "redirects": 1,
+    "title": "Roku",
+    "canonical": "https://intl.roku.com/intl",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 302 Found",
+      "location: https://www.roku.com/intl?query-omitted",
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.roku.com/intl?query-omitted"
+      }
+    ]
+  },
+  {
+    "url": "https://support.roku.com/article/get-the-roku-channel",
+    "checkedAt": "2026-11-11T10:05:54.017939+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://support.roku.com/article/get-the-roku-channel",
+    "redirects": 0,
+    "title": "How to get Roku Free TV | Official Roku Support",
+    "canonical": "https://support.roku.com/article/get-the-roku-channel",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://support.roku.com/article/get-the-roku-channel"
+      }
+    ]
+  },
+  {
+    "url": "https://tldr.sh/",
+    "checkedAt": "2026-11-11T10:08:18.320456+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://tldr.sh/",
+    "redirects": 0,
+    "title": "tldr pages",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://tldr.sh/"
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/tldr-pages/tldr",
+    "checkedAt": "2026-11-11T10:08:18.486692+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://github.com/tldr-pages/tldr",
+    "redirects": 0,
+    "title": "GitHub - tldr-pages/tldr: Collaborative cheatsheets for console commands 📚. · GitHub",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://github.com/tldr-pages/tldr"
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/tar.md",
+    "checkedAt": "2026-11-11T10:08:18.593063+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/tar.md",
+    "redirects": 0,
+    "title": "",
+    "canonical": "",
+    "contentType": "text/plain; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/tar.md"
+      }
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/git.md",
+    "checkedAt": "2026-11-11T10:08:19.238623+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/git.md",
+    "redirects": 0,
+    "title": "",
+    "canonical": "",
+    "contentType": "text/plain; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://raw.githubusercontent.com/tldr-pages/tldr/main/pages.zh/common/git.md"
+      }
+    ]
+  },
+  {
+    "url": "https://fullstackopen.com/zh/new-platform/",
+    "checkedAt": "2026-11-11T10:08:18.882068+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://fullstackopen.com/zh/new-platform/",
+    "redirects": 0,
+    "title": "Full Stack Open 正在迁移到新平台 | Full Stack open",
+    "canonical": "https://fullstackopen.com/zh/new-platform/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://fullstackopen.com/zh/new-platform/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.pytorch.org/docs/2.15/index.html",
+    "checkedAt": "2026-11-11T10:08:19.057295+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html",
+    "redirects": 0,
+    "title": "PyTorch documentation — PyTorch 2.15 documentation",
+    "canonical": "https://docs.pytorch.org/docs/stable/index.html",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html"
+      }
+    ]
+  }
+]

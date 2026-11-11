@@ -82,7 +82,6 @@
 | --- | --- | --- | --- | --- |
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
 | [YouTube](https://www.youtube.com) | 全球视频平台，覆盖新闻、教育、娱乐、直播和频道订阅。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 视频、频道、直播 | [爱翻墙](https://ifanqiang.com/sites/youtube-com) |
-| [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu) | 斯坦福哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、学术、百科 | [爱翻墙](https://ifanqiang.com/sites/plato-stanford-edu) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
 | [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
@@ -96,6 +95,7 @@
 | [OpenAlex](https://openalex.org) | 开放学术数据目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、数据、开放 | [爱翻墙](https://ifanqiang.com/sites/openalex-org) |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数学、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/mathworld-wolfram-com) |
 | [CORE](https://core.ac.uk) | 开放获取研究论文聚合平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、开放获取、学术 | [爱翻墙](https://ifanqiang.com/sites/core-ac-uk) |
+| [Fandom](https://www.fandom.com) | 影视、游戏、动漫等粉丝百科社区。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、粉丝、社区 | [爱翻墙](https://ifanqiang.com/sites/fandom-com) |
 
 ## 常见问题
 
