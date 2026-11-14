@@ -1,0 +1,151 @@
+[
+  {
+    "type": "site",
+    "action": "archive",
+    "id": "onionshare-org",
+    "name": "OnionShare",
+    "reason": "维护者公告及项目安全公告确认，2021 年项目安全审计由 OTF Red Team Lab 资助；按既有美国政府资助排除口径归档。此为历史审计支持，不表示当前拨款或当前软件不安全。",
+    "evidence": [
+      "https://micahflee.com/onionshare-25-released/",
+      "https://github.com/onionshare/onionshare/security/advisories/GHSA-ch22-x2v3-v6vq",
+      "https://www.usagm.gov/networks/otf/"
+    ],
+    "beforeUrl": "https://onionshare.org/"
+  },
+  {
+    "type": "site",
+    "action": "archive",
+    "id": "citizenlab-ca",
+    "name": "Citizen Lab",
+    "reason": "项目方 2020 年说明：不接受直接政府拨款，但 OTF 通过研究员项目及 Citizen Lab Summer Institute 提供支持；按既有实质资金支持排除口径归档，不将研究员资助表述为实验室直接政府拨款。",
+    "evidence": [
+      "https://citizenlab.ca/keep-the-open-technology-fund-open/",
+      "https://www.usagm.gov/networks/otf/"
+    ],
+    "beforeUrl": "https://citizenlab.ca/"
+  },
+  {
+    "type": "site",
+    "action": "archive",
+    "id": "amtrak-com",
+    "name": "Amtrak",
+    "reason": "Amtrak 2026-11-09 官方公告明确芝加哥联合车站项目获得美国国会拨款及 FRA 联邦补助；按美国政府资金支持排除规则归档，不表示其服务失效或不安全。",
+    "evidence": [
+      "https://media.amtrak.com/2026/11/amtrak-to-start-construction-of-new-boarding-platforms-at-chicago-union-station/"
+    ],
+    "beforeUrl": "https://www.amtrak.com/"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "audiocollective-ted-com",
+    "name": "TED Podcasts",
+    "reason": "旧官方入口发布迁移通知并以 JavaScript 跳转至 TED Podcasts；新页面 canonical 一致，并包含 TED 中文节目入口。保留原 ID，同步名称、URL、简介、标签、语言及来源地址。",
+    "evidence": [
+      "https://audiocollective.ted.com/",
+      "https://www.ted.com/podcasts",
+      "https://www.ted.com/podcasts/tedinchinese"
+    ],
+    "fields": {
+      "name": "TED Podcasts",
+      "url": "https://www.ted.com/podcasts",
+      "description": "TED 官方播客目录，提供科技、工作、生活与思想主题节目及收听入口，涵盖英语、中文、法语和西班牙语内容。",
+      "tags": [
+        "播客",
+        "知识",
+        "访谈",
+        "多语言"
+      ],
+      "language": "multi",
+      "source_url": "https://www.ted.com/podcasts"
+    },
+    "beforeUrl": "https://audiocollective.ted.com/"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "tv-apple-com",
+    "name": "Apple TV",
+    "reason": "Apple 官方产品页与当前播放入口已使用 Apple TV 名称；修正旧 Apple TV+ 名称及简介，保留官方播放地址和分类。",
+    "evidence": [
+      "https://www.apple.com/apple-tv/",
+      "https://tv.apple.com/"
+    ],
+    "fields": {
+      "name": "Apple TV",
+      "description": "Apple 官方流媒体服务与网页观看入口，提供原创剧集、电影和纪录片；内容与可用性因地区及订阅方案而异。",
+      "source_url": "https://www.apple.com/apple-tv/"
+    },
+    "beforeUrl": "https://tv.apple.com/"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "openapis-org",
+    "name": "OpenAPI Initiative",
+    "reason": "原 www 官网现 301 至根域，新页面 canonical 为 https://openapis.org/；同步 URL 与来源地址。",
+    "evidence": [
+      "https://www.openapis.org/",
+      "https://openapis.org/"
+    ],
+    "fields": {
+      "url": "https://openapis.org/",
+      "source_url": "https://openapis.org/"
+    },
+    "beforeUrl": "https://www.openapis.org/"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "peoplemedia-tw",
+    "name": "民报",
+    "reason": "官方首页现明确以财经及生活新闻为重点；更新过于笼统的简介和评论标签，网址、名称及中文新闻分类保持适用。",
+    "evidence": [
+      "https://www.peoplenews.tw/"
+    ],
+    "fields": {
+      "description": "台湾新闻媒体，聚焦财经政策、投资理财、消费生活、医疗健康与运动休闲，提供新闻报道、专题和影音内容。",
+      "tags": [
+        "台湾",
+        "新闻",
+        "财经",
+        "生活"
+      ]
+    },
+    "beforeUrl": "https://www.peoplenews.tw/"
+  },
+  {
+    "type": "site",
+    "action": "add",
+    "id": "learngitbranching-js-org",
+    "name": "Learn Git Branching",
+    "reason": "2012 年创建且持续维护的 MIT 开源 Git 可视化教程；官方仓库 CNAME 验证域名归属，浏览器实测简体中文关卡与界面可用。无重复 ID、规范化 URL 或同品牌记录。",
+    "evidence": [
+      "https://learngitbranching.js.org/",
+      "https://github.com/pcottle/learnGitBranching",
+      "https://github.com/pcottle/learnGitBranching/blob/main/CNAME",
+      "https://github.com/pcottle/learnGitBranching/blob/main/src/levels/intro/commits.js"
+    ],
+    "fields": {
+      "id": "learngitbranching-js-org",
+      "name": "Learn Git Branching",
+      "url": "https://learngitbranching.js.org/",
+      "category": "开发者资源",
+      "description": "交互式 Git 学习工具，通过可视化提交树和练习关卡讲解分支、合并、变基与远程协作；支持简体中文、繁体中文等语言，无需安装。",
+      "tags": [
+        "Git",
+        "可视化",
+        "交互教程",
+        "中文"
+      ],
+      "language": "multi",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 90,
+      "added_at": "2026-11-14",
+      "source_url": "https://github.com/pcottle/learnGitBranching"
+    }
+  }
+]

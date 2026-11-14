@@ -59,7 +59,7 @@
 | [ABC Podcasts](https://www.abc.net.au/listen/podcasts) | [详情](items/abc-net-au-listen-podcasts.md) | ABC Podcasts 的音频入口，覆盖 播客、澳大利亚、音频 等播客、节目或音频发布场景。 | 播客、澳大利亚、音频 | 英文 |
 | [The Guardian Podcasts](https://www.theguardian.com/podcasts) | [详情](items/theguardian-com-podcasts.md) | The Guardian Podcasts 的音频入口，覆盖 播客、新闻、英国 等播客、节目或音频发布场景。 | 播客、新闻、英国 | 英文 |
 | [The Economist Podcasts](https://www.economist.com/podcasts) | [详情](items/economist-com-podcasts.md) | The Economist Podcasts 的音频入口，覆盖 播客、财经、国际 等播客、节目或音频发布场景。 | 播客、财经、国际 | 英文 |
-| [TED Audio Collective](https://audiocollective.ted.com/) | [详情](items/audiocollective-ted-com.md) | TED Audio Collective 的音频入口，覆盖 播客、知识、访谈 等播客、节目或音频发布场景。 | 播客、知识、访谈 | 英文 |
+| [TED Podcasts](https://www.ted.com/podcasts) | [详情](items/audiocollective-ted-com.md) | TED 官方播客目录，提供科技、工作、生活与思想主题节目及收听入口，涵盖英语、中文、法语和西班牙语内容。 | 播客、知识、访谈、多语言 | 多语言 |
 | [声动活泼](https://shengfm.cn/) | [详情](items/shengfm-cn.md) | 声动活泼 的音频入口，覆盖 中文播客、商业、科技 等播客、节目或音频发布场景。 | 中文播客、商业、科技 | 中文 |
 | [故事FM](https://storyfm.cn/) | [详情](items/storyfm-cn.md) | 故事FM 的音频入口，覆盖 中文播客、故事、人物 等播客、节目或音频发布场景。 | 中文播客、故事、人物 | 中文 |
 | [日谈公园](https://www.ritanbbpark.com/) | [详情](items/ritanbbpark-com.md) | 日谈公园 的音频入口，覆盖 中文播客、文化、生活 等播客、节目或音频发布场景。 | 中文播客、文化、生活 | 中文 |

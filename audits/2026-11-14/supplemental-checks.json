@@ -1,0 +1,554 @@
+[
+  {
+    "url": "https://www.ted.com/podcasts",
+    "checkedAt": "2026-11-14T10:04:53.483136+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.ted.com/podcasts",
+    "redirects": 0,
+    "title": "TED Podcasts | TED",
+    "canonical": "https://www.ted.com/podcasts",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.ted.com/podcasts"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ted.com/podcasts/tedinchinese",
+    "checkedAt": "2026-11-14T10:04:54.170463+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.ted.com/podcasts/tedinchinese",
+    "redirects": 0,
+    "title": "TED中文 (TED in Chinese) | TED",
+    "canonical": "https://www.ted.com/podcasts/tedinchinese",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.ted.com/podcasts/tedinchinese"
+      }
+    ]
+  },
+  {
+    "url": "https://micahflee.com/onionshare-25-released/",
+    "checkedAt": "2026-11-14T10:04:53.608995+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://micahflee.com/onionshare-25-released/",
+    "redirects": 0,
+    "title": "OnionShare 2.5 fixes security issues and adds censorship circumvention features",
+    "canonical": "https://micahflee.com/onionshare-25-released/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://micahflee.com/onionshare-25-released/"
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/onionshare/onionshare/security/advisories/GHSA-ch22-x2v3-v6vq",
+    "checkedAt": "2026-11-14T10:04:54.086881+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://github.com/onionshare/onionshare/security/advisories/GHSA-ch22-x2v3-v6vq",
+    "redirects": 0,
+    "title": "OTF-001: Improper Input Sanitation: The path parameter of the requested URL is not sanitized before being passed to the QT frontend · Advisory · onionshare/onionshare · GitHub",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://github.com/onionshare/onionshare/security/advisories/GHSA-ch22-x2v3-v6vq"
+      }
+    ]
+  },
+  {
+    "url": "https://www.usagm.gov/networks/otf/",
+    "checkedAt": "2026-11-14T10:04:54.517811+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.usagm.gov/networks/otf/",
+    "redirects": 0,
+    "title": "OTF – USAGM",
+    "canonical": "https://www.usagm.gov/networks/otf/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.usagm.gov/networks/otf/"
+      }
+    ]
+  },
+  {
+    "url": "https://citizenlab.ca/keep-the-open-technology-fund-open/",
+    "checkedAt": "2026-11-14T10:04:54.610384+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://citizenlab.ca/keep-the-open-technology-fund-open/",
+    "redirects": 0,
+    "title": "Keep the Open Technology Fund Open - The Citizen Lab",
+    "canonical": "https://citizenlab2.staging-001.dev/keep-the-open-technology-fund-open/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://citizenlab.ca/keep-the-open-technology-fund-open/"
+      }
+    ]
+  },
+  {
+    "url": "https://citizenlab.ca/who-we-are/",
+    "checkedAt": "2026-11-14T10:04:55.407993+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://citizenlab.ca/who-we-are/",
+    "redirects": 0,
+    "title": "Who We Are - The Citizen Lab",
+    "canonical": "https://citizenlab.ca/who-we-are/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://citizenlab.ca/who-we-are/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.accessnow.org/financials/",
+    "checkedAt": "2026-11-14T10:04:55.066648+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.accessnow.org/financials/",
+    "redirects": 0,
+    "title": "Funding - Access Now",
+    "canonical": "https://www.accessnow.org/financials/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.accessnow.org/financials/"
+      }
+    ]
+  },
+  {
+    "url": "https://rsf.org/en/finance-and-supports",
+    "checkedAt": "2026-11-14T10:04:55.803567+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://rsf.org/en/finance-and-supports",
+    "redirects": 0,
+    "title": "Finance and supports | RSF",
+    "canonical": "https://rsf.org/en/finance-and-supports",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://rsf.org/en/finance-and-supports"
+      }
+    ]
+  },
+  {
+    "url": "https://media.amtrak.com/2026/11/amtrak-to-start-construction-of-new-boarding-platforms-at-chicago-union-station/",
+    "checkedAt": "2026-11-14T10:04:56.357057+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://media.amtrak.com/2026/11/amtrak-to-start-construction-of-new-boarding-platforms-at-chicago-union-station/",
+    "redirects": 0,
+    "title": "Amtrak To Start Construction of New Boarding Platforms at Chicago Union Station - Amtrak Media",
+    "canonical": "https://media.amtrak.com/2026/11/amtrak-to-start-construction-of-new-boarding-platforms-at-chicago-union-station/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://media.amtrak.com/2026/11/amtrak-to-start-construction-of-new-boarding-platforms-at-chicago-union-station/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.apple.com/apple-tv/",
+    "checkedAt": "2026-11-14T10:06:24.006720+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.apple.com/apple-tv/",
+    "redirects": 0,
+    "title": " Apple TV - Apple ",
+    "canonical": "https://www.apple.com/apple-tv/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.apple.com/apple-tv/"
+      }
+    ]
+  },
+  {
+    "url": "http://www.scholarpedia.org/article/Main_Page",
+    "checkedAt": "2026-11-14T10:07:11.470319+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "http://www.scholarpedia.org/article/Main_Page",
+    "redirects": 0,
+    "title": "Scholarpedia",
+    "canonical": "http://www.scholarpedia.org/article/Main_Page",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "http://www.scholarpedia.org/article/Main_Page"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.astro.build/en/getting-started/",
+    "checkedAt": "2026-11-14T10:07:11.066426+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.astro.build/en/getting-started/",
+    "redirects": 0,
+    "title": "Getting started | Docs",
+    "canonical": "https://docs.astro.build/en/getting-started/",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.astro.build/en/getting-started/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.julialang.org/en/v1/",
+    "checkedAt": "2026-11-14T10:07:11.329177+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.julialang.org/en/v1/",
+    "redirects": 0,
+    "title": "Julia Documentation · The Julia Language",
+    "canonical": "https://docs.julialang.org/en/v1/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.julialang.org/en/v1/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.pytorch.org/docs/2.15/index.html",
+    "checkedAt": "2026-11-14T10:07:11.648713+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html",
+    "redirects": 0,
+    "title": "PyTorch documentation — PyTorch 2.15 documentation",
+    "canonical": "https://docs.pytorch.org/docs/stable/index.html",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html"
+      }
+    ]
+  },
+  {
+    "url": "https://elixir.hexdocs.pm/Kernel.html",
+    "checkedAt": "2026-11-14T10:07:11.600794+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://elixir.hexdocs.pm/Kernel.html",
+    "redirects": 0,
+    "title": "Kernel — Elixir v1.20.5",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 "
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://elixir.hexdocs.pm/Kernel.html"
+      }
+    ]
+  },
+  {
+    "url": "https://kotlinlang.org/docs/home.html",
+    "checkedAt": "2026-11-14T10:07:11.773748+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://kotlinlang.org/docs/home.html",
+    "redirects": 0,
+    "title": "Kotlin Docs | Kotlin Documentation",
+    "canonical": "/docs/home.html",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://kotlinlang.org/docs/home.html"
+      }
+    ]
+  },
+  {
+    "url": "https://krita.org/en/",
+    "checkedAt": "2026-11-14T10:07:11.804074+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://krita.org/en/",
+    "redirects": 0,
+    "title": "Krita | Digital Painting. Creative Freedom.",
+    "canonical": "",
+    "contentType": "text/html",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://krita.org/en/"
+      }
+    ]
+  },
+  {
+    "url": "https://openapis.org/",
+    "checkedAt": "2026-11-14T10:09:01.834348+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://openapis.org/",
+    "redirects": 0,
+    "title": "OpenAPI Initiative",
+    "canonical": "https://openapis.org/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://openapis.org/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.happycow.net/",
+    "checkedAt": "2026-11-14T10:09:02.481186+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://www.happycow.net/",
+    "redirects": 0,
+    "title": "Find Vegan & Vegetarian Restaurants Near Me - HappyCow",
+    "canonical": "https://www.happycow.net/",
+    "contentType": "text/html; charset=UTF-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://www.happycow.net/"
+      }
+    ]
+  },
+  {
+    "url": "https://learngitbranching.js.org/",
+    "checkedAt": "2026-11-14T10:09:36.472544+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://learngitbranching.js.org/",
+    "redirects": 0,
+    "title": "Learn Git Branching",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://learngitbranching.js.org/"
+      }
+    ]
+  },
+  {
+    "url": "https://learngitbranching.js.org/?query-omitted",
+    "checkedAt": "2026-11-14T10:09:36.898816+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://learngitbranching.js.org/?query-omitted",
+    "redirects": 0,
+    "title": "Learn Git Branching",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://learngitbranching.js.org/?query-omitted"
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "checkedAt": "2026-11-14T10:09:36.985192+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://github.com/pcottle/learnGitBranching",
+    "redirects": 0,
+    "title": "GitHub - pcottle/learnGitBranching: An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! · GitHub",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://github.com/pcottle/learnGitBranching"
+      }
+    ]
+  },
+  {
+    "url": "https://fullstackopen.com/zh/new-platform/",
+    "checkedAt": "2026-11-14T10:09:37.144792+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "error": "",
+    "finalUrl": "https://fullstackopen.com/zh/new-platform/",
+    "redirects": 0,
+    "title": "Full Stack Open 正在迁移到新平台 | Full Stack open",
+    "canonical": "https://fullstackopen.com/zh/new-platform/",
+    "contentType": "text/html; charset=utf-8",
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "error": "",
+        "finalUrl": "https://fullstackopen.com/zh/new-platform/"
+      }
+    ]
+  }
+]

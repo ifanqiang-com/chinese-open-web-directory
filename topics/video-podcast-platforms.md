@@ -26,7 +26,7 @@
 | [Nebula](https://nebula.tv) | 创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 视频、创作者、教育 | [爱翻墙](https://ifanqiang.com/sites/nebula-tv) |
 | [Curiosity Stream](https://curiositystream.com) | 纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 纪录片、知识、视频 | [爱翻墙](https://ifanqiang.com/sites/curiositystream-com) |
 | [Kick](https://kick.com) | 直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频与流媒体 | 直播、视频 | [爱翻墙](https://ifanqiang.com/sites/kick-com) |
-| [Apple TV+](https://tv.apple.com/) | Apple 的流媒体入口，提供原创剧集、电影、纪录片和 Apple 购买内容管理。 | 视频与流媒体 | 流媒体、影视、Apple | [爱翻墙](https://ifanqiang.com/sites/tv-apple-com) |
+| [Apple TV](https://tv.apple.com/) | Apple 官方流媒体服务与网页观看入口，提供原创剧集、电影和纪录片；内容与可用性因地区及订阅方案而异。 | 视频与流媒体 | 流媒体、影视、Apple | [爱翻墙](https://ifanqiang.com/sites/tv-apple-com) |
 
 ## 学习与知识视频
 

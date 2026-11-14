@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 148 个网站。点击名称可直接访问官网。
+共 149 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 | [Rails Guides](https://guides.rubyonrails.org/) | [详情](items/guides-rubyonrails-org.md) | Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。 | Rails、Ruby、文档 | 英文 |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | [详情](items/fastapi-tiangolo-com.md) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | FastAPI、Python、API | 英文 |
 | [Express Docs](https://expressjs.com/) | [详情](items/expressjs-com.md) | Express 官方文档，提供 Node.js Web 框架、路由、中间件和 API 开发资料。 | Express、Node.js、文档 | 英文 |
-| [OpenAPI Initiative](https://www.openapis.org/) | [详情](items/openapis-org.md) | OpenAPI 项目官网，提供 API 描述规范、生态工具、标准文档和社区资料。 | API、标准、规范 | 英文 |
+| [OpenAPI Initiative](https://openapis.org/) | [详情](items/openapis-org.md) | OpenAPI 项目官网，提供 API 描述规范、生态工具、标准文档和社区资料。 | API、标准、规范 | 英文 |
 | [cppreference](https://en.cppreference.com/) | [详情](items/en-cppreference-com.md) | C++ 和 C 参考文档，提供标准库、语言特性、示例和版本差异资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | C++、C、文档 | 英文 |
 | [Ruby Docs](https://docs.ruby-lang.org/) | [详情](items/docs-ruby-lang-org.md) | Ruby 官方文档入口，提供语言核心库、标准库、API 和版本资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Ruby、语言文档、API | 英文 |
 | [Kotlin Docs](https://kotlinlang.org/docs/) | [详情](items/kotlinlang-org-docs.md) | Kotlin 官方文档，提供语言语法、标准库、协程、多平台和工具链资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Kotlin、语言文档、JetBrains | 英文 |
@@ -95,6 +95,7 @@
 | [Cypress Docs](https://docs.cypress.io/) | [详情](items/docs-cypress-io.md) | Cypress 官方文档，提供前端端到端测试、组件测试、调试和 CI 资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 测试、前端、文档 | 英文 |
 | [Storybook Docs](https://storybook.js.org/docs) | [详情](items/storybook-js-org-docs.md) | Storybook 官方文档，提供 UI 组件开发、文档、测试和设计系统资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 组件、设计系统、文档 | 英文 |
 | [Docusaurus Docs](https://docusaurus.io/docs) | [详情](items/docusaurus-io-docs.md) | Docusaurus 官方文档，提供文档站、博客、版本化文档和 React 主题资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 文档站、React、静态站点 | 英文 |
+| [Learn Git Branching](https://learngitbranching.js.org/) | [详情](items/learngitbranching-js-org.md) | 交互式 Git 学习工具，通过可视化提交树和练习关卡讲解分支、合并、变基与远程协作；支持简体中文、繁体中文等语言，无需安装。 | Git、可视化、交互教程、中文 | 多语言 |
 | [MkDocs](https://www.mkdocs.org/) | [详情](items/mkdocs-org.md) | Python 文档站生成器，提供 Markdown 文档、主题、插件和静态站点构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 文档站、Python、Markdown | 英文 |
 | [Flask Docs](https://flask.palletsprojects.com/) | [详情](items/flask-palletsprojects-com.md) | Flask 官方文档，提供 Python Web 框架、路由、模板、扩展和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Flask、Python、文档 | 英文 |
 | [Spring Docs](https://spring.io/projects/spring-framework) | [详情](items/spring-io-projects-spring-framework.md) | Spring Framework 官方项目页，提供 Java 企业应用、依赖注入、Web 和文档入口。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Java、Spring、框架 | 英文 |

@@ -1,6 +1,6 @@
 # 隐私安全
 
-共 80 个网站。点击名称可直接访问官网。
+共 78 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -40,7 +40,6 @@
 | [Privacy International](https://privacyinternational.org/) | [详情](items/privacyinternational-org.md) | 数字隐私倡议组织，提供监控、数据权利、政策研究和行动资源。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 隐私权、政策、监控 | 英文 |
 | [Access Now](https://www.accessnow.org/) | [详情](items/accessnow-org.md) | 数字权利组织，提供网络自由、隐私、审查、政策倡议和安全热线资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 数字权利、网络自由、政策 | 英文 |
 | [Reporters Without Borders](https://rsf.org/en) | [详情](items/rsf-org-en.md) | 记者无国界官网，提供新闻自由指数、记者安全、审查和国家报告资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 新闻自由、安全、报告 | 英文 |
-| [Citizen Lab](https://citizenlab.ca/) | [详情](items/citizenlab-ca.md) | 多伦多大学数字安全研究机构，提供间谍软件、审查、监控和威胁研究报告。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 安全研究、监控、报告 | 英文 |
 | [Krebs on Security](https://krebsonsecurity.com/) | [详情](items/krebsonsecurity-com.md) | 安全新闻博客，提供网络犯罪、数据泄露、欺诈、勒索软件和调查报道。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 安全新闻、网络犯罪、调查 | 英文 |
 | [Schneier on Security](https://www.schneier.com/) | [详情](items/schneier-com.md) | 安全专家博客，提供密码学、政策、隐私、安全工程和社会风险评论。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 安全评论、密码学、政策 | 英文 |
 | [The Hacker News](https://thehackernews.com/) | [详情](items/thehackernews-com.md) | 网络安全新闻网站，提供漏洞、攻击事件、恶意软件、云安全和行业动态。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 安全新闻、漏洞、威胁 | 英文 |
@@ -62,7 +61,6 @@
 | [OpenPGP](https://www.openpgp.org/) | [详情](items/openpgp-org.md) | OpenPGP 标准和生态入口，提供邮件加密、软件列表、规范和学习资料。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | PGP、标准、加密 | 英文 |
 | [Cover Your Tracks](https://coveryourtracks.eff.org/) | [详情](items/coveryourtracks-eff-org.md) | EFF 的浏览器隐私检测工具，测试追踪保护、浏览器指纹和广告跟踪暴露情况。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 浏览器、指纹、隐私检测 | 英文 |
 | [LibreWolf](https://librewolf.net/) | [详情](items/librewolf-net.md) | Firefox 衍生隐私浏览器，提供默认隐私强化、遥测移除和安全设置。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 浏览器、隐私、开源 | 多语言 |
-| [OnionShare](https://onionshare.org/) | [详情](items/onionshare-org.md) | Tor 网络文件分享和匿名发布工具，提供安全传文件、聊天和临时网站功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | Tor、文件分享、匿名 | 多语言 |
 | [Session](https://getsession.org/) | [详情](items/getsession-org.md) | 去中心化加密通讯应用，提供无手机号账号、端到端加密和隐私消息功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 通讯、加密、隐私 | 多语言 |
 | [Wire](https://wire.com/) | [详情](items/wire-com.md) | 端到端加密通讯和协作平台，提供团队消息、语音视频、文件和企业安全功能。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 通讯、加密、团队 | 多语言 |
 | [ClamAV](https://www.clamav.net/) | [详情](items/clamav-net.md) | 开源恶意软件检测工具，提供病毒扫描引擎、签名库、命令行和邮件网关用途。核心提供隐私保护、安全检测、账号防护、威胁情报或安全实践资料。 | 恶意软件、开源、扫描 | 英文 |
