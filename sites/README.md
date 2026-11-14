@@ -16,6 +16,6 @@
 | [学术研究](academic-research.md) | 87 |
 | [财经与数据](finance-data.md) | 79 |
 | [应用与下载](apps-downloads.md) | 71 |
-| [开发者资源](developer-resources.md) | 148 |
-| [生活出行](life-travel.md) | 107 |
-| [隐私安全](privacy-security.md) | 80 |
+| [开发者资源](developer-resources.md) | 149 |
+| [生活出行](life-travel.md) | 106 |
+| [隐私安全](privacy-security.md) | 78 |

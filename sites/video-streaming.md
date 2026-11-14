@@ -19,7 +19,7 @@
 | [Nebula](https://nebula.tv) | [详情](items/nebula-tv.md) | 创作者会员制视频平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 视频、创作者、教育 | 英文 |
 | [Curiosity Stream](https://curiositystream.com) | [详情](items/curiositystream-com.md) | 纪录片与知识视频流媒体服务。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 纪录片、知识、视频 | 英文 |
 | [Kick](https://kick.com) | [详情](items/kick-com.md) | 直播平台。核心提供视频上传、播放、频道浏览或流媒体内容观看入口。 | 直播、视频 | 多语言 |
-| [Apple TV+](https://tv.apple.com/) | [详情](items/tv-apple-com.md) | Apple 的流媒体入口，提供原创剧集、电影、纪录片和 Apple 购买内容管理。 | 流媒体、影视、Apple | 多语言 |
+| [Apple TV](https://tv.apple.com/) | [详情](items/tv-apple-com.md) | Apple 官方流媒体服务与网页观看入口，提供原创剧集、电影和纪录片；内容与可用性因地区及订阅方案而异。 | 流媒体、影视、Apple | 多语言 |
 | [Paramount+](https://www.paramountplus.com/) | [详情](items/paramountplus-com.md) | Paramount 的流媒体服务，提供剧集、电影、体育直播和电视网络内容。 | 流媒体、影视、电视 | 英文 |
 | [Peacock](https://www.peacocktv.com/) | [详情](items/peacocktv-com.md) | NBCUniversal 流媒体平台，提供美剧、电影、体育和电视节目点播。 | 流媒体、影视、美国 | 英文 |
 | [Tubi](https://tubitv.com/) | [详情](items/tubitv-com.md) | 免费广告支持流媒体服务，提供电影、剧集、纪录片和频道内容。 | 免费、流媒体、影视 | 英文 |

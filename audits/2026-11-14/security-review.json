@@ -1,0 +1,100 @@
+{
+  "newAdvisories": [
+    {
+      "url": "https://github.com/advisories/GHSA-mh32-jxcr-mh9f",
+      "severity": "low",
+      "appliesToCurrentSource": false,
+      "reason": "No untrusted input used as HTML tag name; uppercase tags are imported static components.",
+      "fixedVersion": "7.4.5"
+    },
+    {
+      "url": "https://github.com/advisories/GHSA-r3h5-4585-7x3w",
+      "severity": "moderate",
+      "appliesToCurrentSource": false,
+      "reason": "Default static output; no @astrojs/node adapter or on-demand image endpoint.",
+      "fixedVersion": "7.4.7"
+    }
+  ],
+  "uppercaseTagInventory": {
+    "src/components/LinkGrid.astro": [
+      "LinkCard"
+    ],
+    "src/components/SiteDirectory.astro": [
+      "CategorySection"
+    ],
+    "src/components/Layout.astro": [
+      "Footer",
+      "GoogleAnalytics",
+      "Header",
+      "SEO"
+    ],
+    "src/components/CategorySection.astro": [
+      "LinkGrid"
+    ],
+    "src/pages/404.astro": [
+      "Layout"
+    ],
+    "src/pages/youtube.astro": [
+      "CategorySection",
+      "Layout"
+    ],
+    "src/pages/about.astro": [
+      "Layout"
+    ],
+    "src/pages/privacy.astro": [
+      "Layout"
+    ],
+    "src/pages/policy.astro": [
+      "Layout"
+    ],
+    "src/pages/index.astro": [
+      "Layout",
+      "SiteDirectory"
+    ],
+    "src/pages/telegram.astro": [
+      "Layout",
+      "LinkGrid"
+    ],
+    "src/pages/submit.astro": [
+      "Layout"
+    ],
+    "src/pages/disclaimer.astro": [
+      "Layout"
+    ],
+    "src/pages/x.astro": [
+      "Layout",
+      "LinkGrid"
+    ],
+    "src/pages/sites.astro": [
+      "Layout",
+      "SiteDirectory"
+    ],
+    "src/pages/advertise.astro": [
+      "Layout"
+    ],
+    "src/pages/youtube/[id].astro": [
+      "Layout",
+      "LinkGrid"
+    ],
+    "src/pages/sites/[id].astro": [
+      "DirectorySite",
+      "Layout",
+      "LinkGrid"
+    ],
+    "src/pages/guides/index.astro": [
+      "Layout"
+    ],
+    "src/pages/guides/[slug].astro": [
+      "Layout",
+      "LinkGrid"
+    ],
+    "src/pages/topics/index.astro": [
+      "Layout"
+    ],
+    "src/pages/topics/[slug].astro": [
+      "Layout",
+      "LinkGrid"
+    ]
+  },
+  "action": "Record new advisories and applicability; no unrelated framework major upgrade in content audit. Existing dependency advisories remain outstanding."
+}

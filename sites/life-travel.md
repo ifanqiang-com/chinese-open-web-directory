@@ -1,6 +1,6 @@
 # 生活出行
 
-共 107 个网站。点击名称可直接访问官网。
+共 106 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -67,7 +67,6 @@
 | [ÖBB](https://www.oebb.at/en/) | [详情](items/oebb-at-en.md) | 奥地利铁路英文入口，提供火车查询、订票、夜车、通票和出行资讯。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 奥地利、火车、票务 | 英文 |
 | [SNCF Connect](https://www.sncf-connect.com/en-en/) | [详情](items/sncf-connect-com-en-en.md) | 法国铁路订票平台，提供法国和欧洲火车票、行程规划和电子票管理。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 法国、火车、票务 | 英文 |
 | [NS International](https://www.nsinternational.com/en) | [详情](items/nsinternational-com-en.md) | 荷兰国际铁路入口，提供欧洲跨国火车查询、订票和行程资讯。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 荷兰、火车、欧洲 | 英文 |
-| [Amtrak](https://www.amtrak.com/) | [详情](items/amtrak-com.md) | 美国铁路客运平台，提供列车查询、订票、路线图、车站和会员服务。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 美国、火车、票务 | 英文 |
 | [National Rail](https://www.nationalrail.co.uk/) | [详情](items/nationalrail-co-uk.md) | 英国铁路查询入口，提供车次、票价、实时运行、车站和中断信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 英国、火车、交通 | 英文 |
 | [FlixBus](https://www.flixbus.com/) | [详情](items/flixbus-com.md) | 长途巴士平台，提供欧洲和多国巴士路线、票价、订票和站点信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 巴士、欧洲、票务 | 多语言 |
 | [Hostelz](https://www.hostelz.com/) | [详情](items/hostelz-com.md) | 旅舍搜索和比价网站，提供青年旅舍价格、评价、地图和预订链接。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 旅舍、住宿、比价 | 英文 |

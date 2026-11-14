@@ -101,7 +101,7 @@
 | [非池中艺术网](https://artemperor.tw/) | [详情](items/artemperor-tw.md) | 非池中艺术网 的中文资讯入口，围绕 艺术、台湾、市场 等主题提供报道、文章和资料更新。 | 艺术、台湾、市场 | 中文 |
 | [放言 Fount Media](https://www.fountmedia.io/) | [详情](items/fountmedia-io.md) | 放言 Fount Media 的中文资讯入口，围绕 台湾、评论、公共议题 等主题提供报道、文章和资料更新。 | 台湾、评论、公共议题 | 中文 |
 | [信传媒](https://www.cmmedia.com.tw/) | [详情](items/cmmedia-com-tw.md) | 信传媒 的中文资讯入口，围绕 台湾、时事、财经 等主题提供报道、文章和资料更新。 | 台湾、时事、财经 | 中文 |
-| [民报](https://www.peoplenews.tw/) | [详情](items/peoplemedia-tw.md) | 民报 的中文资讯入口，围绕 台湾、新闻、评论 等主题提供报道、文章和资料更新。 | 台湾、新闻、评论 | 中文 |
+| [民报](https://www.peoplenews.tw/) | [详情](items/peoplemedia-tw.md) | 台湾新闻媒体，聚焦财经政策、投资理财、消费生活、医疗健康与运动休闲，提供新闻报道、专题和影音内容。 | 台湾、新闻、财经、生活 | 中文 |
 | [太报](https://www.taisounds.com/) | [详情](items/taisounds-com.md) | 太报 的中文资讯入口，围绕 台湾、新闻、生活 等主题提供报道、文章和资料更新。 | 台湾、新闻、生活 | 中文 |
 | [星洲网](https://www.sinchew.com.my/) | [详情](items/sinchew-com-my.md) | 星洲网 的中文资讯入口，围绕 马来西亚、华文、新闻 等主题提供报道、文章和资料更新。 | 马来西亚、华文、新闻 | 中文 |
 | [中国报](https://www.chinapress.com.my/) | [详情](items/chinapress-com-my.md) | 中国报 的中文资讯入口，围绕 马来西亚、华文、新闻 等主题提供报道、文章和资料更新。 | 马来西亚、华文、新闻 | 中文 |

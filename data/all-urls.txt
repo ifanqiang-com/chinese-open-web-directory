@@ -509,7 +509,7 @@ https://docs.djangoproject.com/
 https://guides.rubyonrails.org/
 https://fastapi.tiangolo.com/
 https://expressjs.com/
-https://www.openapis.org/
+https://openapis.org/
 https://en.cppreference.com/
 https://docs.ruby-lang.org/
 https://kotlinlang.org/docs/
@@ -546,6 +546,7 @@ https://playwright.dev/docs/intro
 https://docs.cypress.io/
 https://storybook.js.org/docs
 https://docusaurus.io/docs
+https://learngitbranching.js.org/
 https://www.mkdocs.org/
 https://flask.palletsprojects.com/
 https://spring.io/projects/spring-framework
@@ -714,7 +715,7 @@ https://www.cbc.ca/radio/podcasts
 https://www.abc.net.au/listen/podcasts
 https://www.theguardian.com/podcasts
 https://www.economist.com/podcasts
-https://audiocollective.ted.com/
+https://www.ted.com/podcasts
 https://shengfm.cn/
 https://storyfm.cn/
 https://www.ritanbbpark.com/
@@ -785,7 +786,6 @@ https://www.sbb.ch/en
 https://www.oebb.at/en/
 https://www.sncf-connect.com/en-en/
 https://www.nsinternational.com/en
-https://www.amtrak.com/
 https://www.nationalrail.co.uk/
 https://www.flixbus.com/
 https://www.hostelz.com/
@@ -1392,7 +1392,6 @@ https://phishtank.org/
 https://privacyinternational.org/
 https://www.accessnow.org/
 https://rsf.org/en
-https://citizenlab.ca/
 https://krebsonsecurity.com/
 https://www.schneier.com/
 https://thehackernews.com/
@@ -1414,7 +1413,6 @@ https://gnupg.org/
 https://www.openpgp.org/
 https://coveryourtracks.eff.org/
 https://librewolf.net/
-https://onionshare.org/
 https://getsession.org/
 https://wire.com/
 https://www.clamav.net/
