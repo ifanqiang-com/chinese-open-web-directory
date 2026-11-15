@@ -68,7 +68,7 @@ body:
       options:
         - label: 这不是 VPN、代理、机场或绕过服务销售页。
           required: true
-        - label: 这不是成人、赌博、盗版、恶意软件、钓鱼、灰产、政治动员或宗教宣传内容。
+        - label: 这不是赌博、盗版、恶意软件、钓鱼、灰产、政治动员或宗教宣传内容。
           required: true
         - label: 这个链接是公开、稳定、适合长期收藏的资源。
           required: true
