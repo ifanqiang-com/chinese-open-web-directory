@@ -68,11 +68,11 @@
 | [Playwright Docs](https://playwright.dev/docs/intro) | Playwright 官方文档，提供端到端测试、浏览器自动化、断言和调试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、浏览器、文档 | [爱翻墙](https://ifanqiang.com/sites/playwright-dev-docs-intro) |
 | [Cypress Docs](https://docs.cypress.io/) | Cypress 官方文档，提供前端端到端测试、组件测试、调试和 CI 资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-cypress-io) |
 | [Storybook Docs](https://storybook.js.org/docs) | Storybook 官方文档，提供 UI 组件开发、文档、测试和设计系统资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 组件、设计系统、文档 | [爱翻墙](https://ifanqiang.com/sites/storybook-js-org-docs) |
+| [Regex Learn 中文版](https://regexlearn.com/zh-cn) | 免费的开源正则表达式学习工具，提供简体中文分步课程、语法备忘单和在线测试游乐场，帮助学习文本匹配、字符集、分组与断言。 | 开发者资源 | 正则表达式、交互教程、中文、开发工具 | [爱翻墙](https://ifanqiang.com/sites/regexlearn-com) |
 | [Quarkus Guides](https://quarkus.io/guides/) | Quarkus 官方指南，提供云原生 Java、扩展、容器、测试和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Java、云原生、文档 | [爱翻墙](https://ifanqiang.com/sites/quarkus-io-guides) |
 | [Micronaut Docs](https://docs.micronaut.io/) | Micronaut 官方文档，提供 JVM 微服务、依赖注入、云原生和测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Java、微服务、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-micronaut-io) |
 | [SolidJS Docs](https://docs.solidjs.com/) | SolidJS 官方文档，提供响应式 UI 框架、组件、路由和应用构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 前端、SolidJS、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-solidjs-com) |
 | [Preact Docs](https://preactjs.com/guide/v10/getting-started) | Preact 官方文档，提供轻量 React 替代方案、组件、Hooks 和兼容资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 前端、Preact、文档 | [爱翻墙](https://ifanqiang.com/sites/preactjs-com-guide-v10) |
-| [Flutter Docs](https://docs.flutter.dev/) | Flutter 官方文档，提供跨平台 UI、Dart、组件、状态管理和发布资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 移动开发、Flutter、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-flutter-dev) |
 
 ## 浏览器与 Web 平台
 

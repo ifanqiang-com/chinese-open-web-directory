@@ -12629,6 +12629,30 @@
     "profilePublishedAt": null
   },
   {
+    "uid": "regexlearn-com",
+    "id": "regexlearn-com",
+    "type": "site",
+    "name": "Regex Learn 中文版",
+    "description": "免费的开源正则表达式学习工具，提供简体中文分步课程、语法备忘单和在线测试游乐场，帮助学习文本匹配、字符集、分组与断言。",
+    "url": "https://regexlearn.com/zh-cn",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "正则表达式",
+      "交互教程",
+      "中文",
+      "开发工具"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 90,
+    "addedAt": "2026-11-17",
+    "sourceUrl": "https://github.com/aykutkardas/regexlearn.com",
+    "profilePublishedAt": null
+  },
+  {
     "uid": "mkdocs-org",
     "id": "mkdocs-org",
     "type": "site",
