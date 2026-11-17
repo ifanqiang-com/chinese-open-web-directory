@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T08:10:31.633Z",
+  "generatedAt": "2026-11-17T17:58:09.525Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1519,
-    "sitesPublic": 1437,
+    "sitesTotal": 1520,
+    "sitesPublic": 1438,
     "youtubeTotal": 69,
     "youtubePublic": 67,
     "profileTableAvailable": false
@@ -14,14 +14,14 @@
     "siteUrlOverrideIds": []
   },
   "counts": {
-    "sites": 1437,
+    "sites": 1438,
     "youtubeChannels": 67,
     "categories": 25,
-    "allLinks": 1504,
+    "allLinks": 1505,
     "topics": 30,
     "topicResolvedItems": 1685,
     "sitesWithProfile": 0,
-    "markdownFiles": 1562
+    "markdownFiles": 1563
   },
   "categories": [
     {
@@ -12853,6 +12853,30 @@
       "priority": 90,
       "addedAt": "2026-11-14",
       "sourceUrl": "https://github.com/pcottle/learnGitBranching",
+      "profilePublishedAt": null
+    },
+    {
+      "uid": "regexlearn-com",
+      "id": "regexlearn-com",
+      "type": "site",
+      "name": "Regex Learn 中文版",
+      "description": "免费的开源正则表达式学习工具，提供简体中文分步课程、语法备忘单和在线测试游乐场，帮助学习文本匹配、字符集、分组与断言。",
+      "url": "https://regexlearn.com/zh-cn",
+      "category": "developer-resources",
+      "categoryName": "开发者资源",
+      "tags": [
+        "正则表达式",
+        "交互教程",
+        "中文",
+        "开发工具"
+      ],
+      "language": "zh",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 90,
+      "addedAt": "2026-11-17",
+      "sourceUrl": "https://github.com/aykutkardas/regexlearn.com",
       "profilePublishedAt": null
     },
     {

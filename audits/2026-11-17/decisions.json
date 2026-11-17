@@ -1,0 +1,36 @@
+[
+  {
+    "action": "add",
+    "type": "site",
+    "id": "regexlearn-com",
+    "name": "Regex Learn 中文版",
+    "fields": {
+      "id": "regexlearn-com",
+      "name": "Regex Learn 中文版",
+      "url": "https://regexlearn.com/zh-cn",
+      "category": "开发者资源",
+      "description": "免费的开源正则表达式学习工具，提供简体中文分步课程、语法备忘单和在线测试游乐场，帮助学习文本匹配、字符集、分组与断言。",
+      "tags": [
+        "正则表达式",
+        "交互教程",
+        "中文",
+        "开发工具"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 90,
+      "added_at": "2026-11-17",
+      "source_url": "https://github.com/aykutkardas/regexlearn.com"
+    },
+    "reason": "官方简体中文学习入口；2021 年创建的 MIT 开源项目，2026-10 仍有维护。浏览器确认中文 56 步课程正常渲染，主页、课程、备忘单和游乐场 GET 200。公开赞助列表为 Ahrefs、Wope，未发现命中本轮排除规则的证据。",
+    "evidence": [
+      "https://regexlearn.com/zh-cn",
+      "https://regexlearn.com/zh-cn/learn/regex101",
+      "https://github.com/aykutkardas/regexlearn.com",
+      "https://github.com/aykutkardas/regexlearn.com/blob/main/sponsors.json"
+    ]
+  }
+]

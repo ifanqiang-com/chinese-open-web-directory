@@ -1,0 +1,18 @@
+{
+  "checked": 70,
+  "httpStatuses": {
+    "200": 63,
+    "406": 2,
+    "0": 3,
+    "403": 2
+  },
+  "curlExits": {
+    "0": 67,
+    "28": 1,
+    "6": 2
+  },
+  "confirmed404or410": 0,
+  "dnsOrTlsFailures": 2,
+  "note": "User confirmed independent adult/watch sections remain authorized; report risks only. Original encrypted source restored. Raw URLs and DNS evidence stay outside Git in restricted temporary directory. No separate-section mutations.",
+  "independentDnsConfirmedNxdomain": 2
+}

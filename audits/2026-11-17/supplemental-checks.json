@@ -1,0 +1,428 @@
+[
+  {
+    "url": "http://www.scholarpedia.org/article/Main_Page",
+    "checkedAt": "2026-11-17T10:09:22.746857+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "http://www.scholarpedia.org/article/Main_Page",
+    "redirects": 0,
+    "title": "Scholarpedia",
+    "canonical": "http://www.scholarpedia.org/article/Main_Page",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 52218,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "http://www.scholarpedia.org/article/Main_Page"
+      }
+    ]
+  },
+  {
+    "url": "https://disclosure2.edinet-fsa.go.jp/WEEK0010.aspx",
+    "checkedAt": "2026-11-17T10:09:24.118127+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://disclosure2.edinet-fsa.go.jp/WEEK0010.aspx",
+    "redirects": 0,
+    "title": "EDINET",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 93524,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://disclosure2.edinet-fsa.go.jp/WEEK0010.aspx"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.astro.build/en/getting-started/",
+    "checkedAt": "2026-11-17T10:09:22.826048+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://docs.astro.build/en/getting-started/",
+    "redirects": 0,
+    "title": "Getting started | Docs",
+    "canonical": "https://docs.astro.build/en/getting-started/",
+    "contentType": "text/html",
+    "bytes": 150088,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://docs.astro.build/en/getting-started/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.julialang.org/en/v1/",
+    "checkedAt": "2026-11-17T10:09:23.054200+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://docs.julialang.org/en/v1/",
+    "redirects": 0,
+    "title": "Julia Documentation · The Julia Language",
+    "canonical": "https://docs.julialang.org/en/v1/",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 29526,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://docs.julialang.org/en/v1/"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.pytorch.org/docs/2.15/index.html",
+    "checkedAt": "2026-11-17T10:09:23.305131+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html",
+    "redirects": 0,
+    "title": "PyTorch documentation — PyTorch 2.15 documentation",
+    "canonical": "https://docs.pytorch.org/docs/stable/index.html",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 151934,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://docs.pytorch.org/docs/2.15/index.html"
+      }
+    ]
+  },
+  {
+    "url": "https://docs.swift.org/latest/documentation/",
+    "checkedAt": "2026-11-17T10:09:23.853520+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://docs.swift.org/latest/documentation/",
+    "redirects": 0,
+    "title": "",
+    "canonical": "",
+    "contentType": "text/html; charset=UTF-8",
+    "bytes": 1694,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://docs.swift.org/latest/documentation/"
+      }
+    ]
+  },
+  {
+    "url": "https://elixir.hexdocs.pm/Kernel.html",
+    "checkedAt": "2026-11-17T10:09:23.933908+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://elixir.hexdocs.pm/Kernel.html",
+    "redirects": 0,
+    "title": "Kernel — Elixir v1.20.5",
+    "canonical": "",
+    "contentType": "text/html",
+    "bytes": 654271,
+    "chain": [
+      "HTTP/1.1 200 "
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://elixir.hexdocs.pm/Kernel.html"
+      }
+    ]
+  },
+  {
+    "url": "https://go.microsoft.com/fwlink/?query-omitted",
+    "checkedAt": "2026-11-17T10:09:24.400005+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://support.microsoft.com/en-us/internet-explorer/this-website-doesn-t-work-in-internet-explorer",
+    "redirects": 2,
+    "title": "This website doesn't work in Internet Explorer | Microsoft Learn",
+    "canonical": "https://support.microsoft.com/en-us/internet-explorer/this-website-doesn-t-work-in-internet-explorer",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 102574,
+    "chain": [
+      "HTTP/1.1 302 Moved Temporarily",
+      "Location: https://support.microsoft.com/article/8f5fc675-cd47-414c-9535-12821ddfc554",
+      "HTTP/1.1 301 Moved Permanently",
+      "Location: /en-us/internet-explorer/this-website-doesn-t-work-in-internet-explorer",
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://support.microsoft.com/en-us/internet-explorer/this-website-doesn-t-work-in-internet-explorer"
+      }
+    ]
+  },
+  {
+    "url": "https://kotlinlang.org/docs/home.html",
+    "checkedAt": "2026-11-17T10:09:24.287400+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://kotlinlang.org/docs/home.html",
+    "redirects": 0,
+    "title": "Kotlin Docs | Kotlin Documentation",
+    "canonical": "/docs/home.html",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 3819,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://kotlinlang.org/docs/home.html"
+      }
+    ]
+  },
+  {
+    "url": "https://krita.org/en/",
+    "checkedAt": "2026-11-17T10:09:24.452895+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://krita.org/en/",
+    "redirects": 0,
+    "title": "Krita | Digital Painting. Creative Freedom.",
+    "canonical": "",
+    "contentType": "text/html",
+    "bytes": 36761,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://krita.org/en/"
+      }
+    ]
+  },
+  {
+    "url": "https://misskey-hub.net/ja",
+    "checkedAt": "2026-11-17T10:09:24.642261+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://misskey-hub.net/ja/",
+    "redirects": 1,
+    "title": "Misskeyオフィシャルサイト Misskey Hub",
+    "canonical": "https://misskey-hub.net/ja/",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 122856,
+    "chain": [
+      "HTTP/1.1 301 Moved Permanently",
+      "location: https://misskey-hub.net/ja/",
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://misskey-hub.net/ja/"
+      }
+    ]
+  },
+  {
+    "url": "https://regexlearn.com/zh-cn",
+    "checkedAt": "2026-11-17T10:11:18.697443+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://regexlearn.com/zh-cn",
+    "redirects": 0,
+    "title": "Regex Learn - 逐步从零基础到高阶。",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 75360,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://regexlearn.com/zh-cn"
+      }
+    ]
+  },
+  {
+    "url": "https://regexlearn.com/zh-cn/learn/regex101",
+    "checkedAt": "2026-11-17T10:11:19.194946+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://regexlearn.com/zh-cn/learn/regex101",
+    "redirects": 0,
+    "title": "Regex 101 - ZH-CN",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 95688,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://regexlearn.com/zh-cn/learn/regex101"
+      }
+    ]
+  },
+  {
+    "url": "https://regexlearn.com/zh-cn/cheatsheet",
+    "checkedAt": "2026-11-17T10:11:19.652461+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://regexlearn.com/zh-cn/cheatsheet",
+    "redirects": 0,
+    "title": "Regex Learn - 正则表达式备忘单",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 68255,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://regexlearn.com/zh-cn/cheatsheet"
+      }
+    ]
+  },
+  {
+    "url": "https://regexlearn.com/zh-cn/playground",
+    "checkedAt": "2026-11-17T10:11:20.124708+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://regexlearn.com/zh-cn/playground",
+    "redirects": 0,
+    "title": "Regex Learn - Playground",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 70821,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://regexlearn.com/zh-cn/playground"
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/aykutkardas/regexlearn.com",
+    "checkedAt": "2026-11-17T10:11:20.339125+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://github.com/aykutkardas/regexlearn.com",
+    "redirects": 0,
+    "title": "GitHub - aykutkardas/regexlearn.com: Learn RegEx step by step, from zero to advanced. · GitHub",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 275217,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://github.com/aykutkardas/regexlearn.com"
+      }
+    ]
+  },
+  {
+    "url": "https://flexboxfroggy.com/",
+    "checkedAt": "2026-11-17T10:11:20.581505+00:00",
+    "status": 200,
+    "curlExit": 0,
+    "finalUrl": "https://flexboxfroggy.com/",
+    "redirects": 0,
+    "title": "Flexbox Froggy - A game for learning CSS flexbox",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 10501,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 0,
+        "finalUrl": "https://flexboxfroggy.com/"
+      }
+    ]
+  },
+  {
+    "url": "https://appimage.github.io/apps/",
+    "checkedAt": "2026-11-17T17:58:57.445195+00:00",
+    "status": 200,
+    "curlExit": 63,
+    "finalUrl": "https://appimage.github.io/apps/",
+    "redirects": 0,
+    "title": "",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 0,
+    "chain": [
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 63,
+        "finalUrl": "https://appimage.github.io/apps/"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cnn.com",
+    "checkedAt": "2026-11-17T17:58:57.235044+00:00",
+    "status": 200,
+    "curlExit": 63,
+    "finalUrl": "https://edition.cnn.com/",
+    "redirects": 1,
+    "title": "",
+    "canonical": "",
+    "contentType": "text/html; charset=utf-8",
+    "bytes": 0,
+    "chain": [
+      "HTTP/1.1 302 Found",
+      "location: https://edition.cnn.com/",
+      "HTTP/1.1 200 OK"
+    ],
+    "attempts": [
+      {
+        "status": 200,
+        "curlExit": 63,
+        "finalUrl": "https://edition.cnn.com/"
+      }
+    ]
+  }
+]

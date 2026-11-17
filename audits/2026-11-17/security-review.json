@@ -1,0 +1,12 @@
+{
+  "dependencyAdvisoriesChanged": false,
+  "directory": {
+    "high": 1
+  },
+  "static": {
+    "critical": 1,
+    "high": 11,
+    "low": 1
+  },
+  "note": "Existing unresolved dependency findings unchanged from Nov 14. npm audit is not passing. No new advisory or confirmed ordinary-directory hijack detected."
+}

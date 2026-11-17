@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 149 个网站。点击名称可直接访问官网。
+共 150 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -96,6 +96,7 @@
 | [Storybook Docs](https://storybook.js.org/docs) | [详情](items/storybook-js-org-docs.md) | Storybook 官方文档，提供 UI 组件开发、文档、测试和设计系统资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 组件、设计系统、文档 | 英文 |
 | [Docusaurus Docs](https://docusaurus.io/docs) | [详情](items/docusaurus-io-docs.md) | Docusaurus 官方文档，提供文档站、博客、版本化文档和 React 主题资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 文档站、React、静态站点 | 英文 |
 | [Learn Git Branching](https://learngitbranching.js.org/) | [详情](items/learngitbranching-js-org.md) | 交互式 Git 学习工具，通过可视化提交树和练习关卡讲解分支、合并、变基与远程协作；支持简体中文、繁体中文等语言，无需安装。 | Git、可视化、交互教程、中文 | 多语言 |
+| [Regex Learn 中文版](https://regexlearn.com/zh-cn) | [详情](items/regexlearn-com.md) | 免费的开源正则表达式学习工具，提供简体中文分步课程、语法备忘单和在线测试游乐场，帮助学习文本匹配、字符集、分组与断言。 | 正则表达式、交互教程、中文、开发工具 | 中文 |
 | [MkDocs](https://www.mkdocs.org/) | [详情](items/mkdocs-org.md) | Python 文档站生成器，提供 Markdown 文档、主题、插件和静态站点构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 文档站、Python、Markdown | 英文 |
 | [Flask Docs](https://flask.palletsprojects.com/) | [详情](items/flask-palletsprojects-com.md) | Flask 官方文档，提供 Python Web 框架、路由、模板、扩展和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Flask、Python、文档 | 英文 |
 | [Spring Docs](https://spring.io/projects/spring-framework) | [详情](items/spring-io-projects-spring-framework.md) | Spring Framework 官方项目页，提供 Java 企业应用、依赖注入、Web 和文档入口。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Java、Spring、框架 | 英文 |
