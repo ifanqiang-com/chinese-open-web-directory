@@ -1,6 +1,6 @@
 # 百科与开放资料
 
-共 70 个网站。点击名称可直接访问官网。
+共 71 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -74,3 +74,4 @@
 | [OpenAerialMap](https://openaerialmap.org/) | [详情](items/openaerialmap-org.md) | OpenAerialMap 的开放资料入口，提供 航拍、地图、开放数据 相关的数据库、档案或公共知识资源。 | 航拍、地图、开放数据 | 英文 |
 | [Gallica](https://gallica.bnf.fr/) | [详情](items/gallica-bnf-fr.md) | Gallica 的开放资料入口，提供 数字图书馆、法国、档案 相关的数据库、档案或公共知识资源。 | 数字图书馆、法国、档案 | 多语言 |
 | [MusicBrainz](https://musicbrainz.org/) | [详情](items/musicbrainz-org.md) | MusicBrainz 的开放资料入口，提供 音乐、开放数据、元数据 相关的数据库、档案或公共知识资源。 | 音乐、开放数据、元数据 | 英文 |
+| [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) | [详情](items/sports-nutrition-health.md) | 面向普通成年人的中文运动、营养与健康知识库，可检索力量训练、跑步、日常饮食和训练恢复问答，并查看适用范围、编辑分级与参考出处。内容用于知识参考，不能替代专业诊疗。 | 中文、运动训练、跑步、营养、知识库 | 中文 |

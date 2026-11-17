@@ -900,6 +900,7 @@ openhistoricalmap-org,site,OpenHistoricalMap,https://www.openhistoricalmap.org/,
 openaerialmap-org,site,OpenAerialMap,https://openaerialmap.org/,encyclopedia-open-data,百科与开放资料,OpenAerialMap 的开放资料入口，提供 航拍、地图、开放数据 相关的数据库、档案或公共知识资源。,航拍 | 地图 | 开放数据,false,2026-06-17
 gallica-bnf-fr,site,Gallica,https://gallica.bnf.fr/,encyclopedia-open-data,百科与开放资料,Gallica 的开放资料入口，提供 数字图书馆、法国、档案 相关的数据库、档案或公共知识资源。,数字图书馆 | 法国 | 档案,false,2026-06-17
 musicbrainz-org,site,MusicBrainz,https://musicbrainz.org/,encyclopedia-open-data,百科与开放资料,MusicBrainz 的开放资料入口，提供 音乐、开放数据、元数据 相关的数据库、档案或公共知识资源。,音乐 | 开放数据 | 元数据,false,2026-06-17
+sports-nutrition-health,site,运动营养健康指南,https://jiangweiqi001.github.io/sports-nutrition-health/search.html,encyclopedia-open-data,百科与开放资料,面向普通成年人的中文运动、营养与健康知识库，可检索力量训练、跑步、日常饮食和训练恢复问答，并查看适用范围、编辑分级与参考出处。内容用于知识参考，不能替代专业诊疗。,中文 | 运动训练 | 跑步 | 营养 | 知识库,false,2026-11-17
 x-com,site,X,https://x.com,social-platforms,社交平台,实时社交平台，原 Twitter。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 短消息 | 实时,true,2026-06-08
 facebook-com,site,Facebook,https://www.facebook.com,social-platforms,社交平台,社交网络平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 社区 | 主页,false,2026-06-08
 instagram-com,site,Instagram,https://www.instagram.com,social-platforms,社交平台,图片、短视频和社交平台。核心提供账号、关注、私信或公开发布等社交连接功能。,社交 | 图片 | 短视频,false,2026-06-08
