@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T10:10:26.836Z",
+  "generatedAt": "2026-11-17T08:10:31.633Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1518,
-    "sitesPublic": 1436,
+    "sitesTotal": 1519,
+    "sitesPublic": 1437,
     "youtubeTotal": 69,
     "youtubePublic": 67,
     "profileTableAvailable": false
@@ -14,14 +14,14 @@
     "siteUrlOverrideIds": []
   },
   "counts": {
-    "sites": 1436,
+    "sites": 1437,
     "youtubeChannels": 67,
     "categories": 25,
-    "allLinks": 1503,
+    "allLinks": 1504,
     "topics": 30,
     "topicResolvedItems": 1685,
     "sitesWithProfile": 0,
-    "markdownFiles": 1561
+    "markdownFiles": 1562
   },
   "categories": [
     {
@@ -20936,6 +20936,31 @@
       "profilePublishedAt": null
     },
     {
+      "uid": "sports-nutrition-health",
+      "id": "sports-nutrition-health",
+      "type": "site",
+      "name": "运动营养健康指南",
+      "description": "面向普通成年人的中文运动、营养与健康知识库，可检索力量训练、跑步、日常饮食和训练恢复问答，并查看适用范围、编辑分级与参考出处。内容用于知识参考，不能替代专业诊疗。",
+      "url": "https://jiangweiqi001.github.io/sports-nutrition-health/search.html",
+      "category": "encyclopedia-open-data",
+      "categoryName": "百科与开放资料",
+      "tags": [
+        "中文",
+        "运动训练",
+        "跑步",
+        "营养",
+        "知识库"
+      ],
+      "language": "zh",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 85,
+      "addedAt": "2026-11-17",
+      "sourceUrl": "https://github.com/jiangweiqi001/sports-nutrition-health",
+      "profilePublishedAt": null
+    },
+    {
       "uid": "x-com",
       "id": "x-com",
       "type": "site",
@@ -34996,6 +35021,9 @@
               "系统",
               "手册",
               "Arch"
+            ],
+            "excludeTagsAny": [
+              "运动训练"
             ],
             "limit": 16
           }

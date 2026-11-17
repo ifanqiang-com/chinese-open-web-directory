@@ -361,6 +361,7 @@
             "手册",
             "Arch"
           ],
+          "excludeTagsAny": ["运动训练"],
           "limit": 16
         }
       },
