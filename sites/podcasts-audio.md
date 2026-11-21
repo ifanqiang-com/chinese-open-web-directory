@@ -38,7 +38,7 @@
 | [RedCircle](https://redcircle.com/) | [详情](items/redcircle-com.md) | 播客托管和变现平台，提供节目发布、跨推广、广告市场和捐赠功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、变现、托管 | 英文 |
 | [Simplecast](https://simplecast.com/) | [详情](items/simplecast-com.md) | 播客托管平台，提供发布、分析、团队管理、网站和播放器嵌入功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、分析 | 英文 |
 | [Spreaker](https://www.spreaker.com/) | [详情](items/spreaker-com.md) | 播客托管和直播平台，提供录制、分发、统计和广告变现功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、直播、托管 | 多语言 |
-| [Blubrry](https://blubrry.com/) | [详情](items/blubrry-com.md) | 播客托管和 WordPress 插件平台，提供发布、统计、目录和变现服务。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、WordPress、托管 | 英文 |
+| [Blubrry](https://www.blubrry.com/) | [详情](items/blubrry-com.md) | 播客音视频托管与发布平台，提供听众统计、WordPress PowerPress 插件和节目变现工具。 | 播客、WordPress、托管 | 英文 |
 | [Pinecast](https://pinecast.com/) | [详情](items/pinecast-com.md) | 轻量播客托管服务，提供节目发布、RSS、统计、网站和付费订阅功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、RSS、托管 | 英文 |
 | [Podigee](https://www.podigee.com/en/) | [详情](items/podigee-com-en.md) | 欧洲播客托管平台，提供发布、分析、网站、隐私合规和企业播客功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、欧洲、托管 | 英文 |
 | [Podpage](https://www.podpage.com/) | [详情](items/podpage-com.md) | 播客网站生成器，提供节目主页、单集页面、评论、订阅链接和 SEO 设置。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、网站、SEO | 英文 |

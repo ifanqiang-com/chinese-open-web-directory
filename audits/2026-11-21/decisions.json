@@ -1,0 +1,17 @@
+[
+  {
+    "type": "site",
+    "id": "blubrry-com",
+    "action": "update",
+    "fields": {
+      "url": "https://www.blubrry.com/",
+      "source_url": "https://www.blubrry.com/",
+      "description": "播客音视频托管与发布平台，提供听众统计、WordPress PowerPress 插件和节目变现工具。"
+    },
+    "reason": "官方主页从无 www 地址永久 301 至 www 地址；更新简介以准确描述当前托管与发布功能。",
+    "evidence": [
+      "https://blubrry.com/",
+      "https://www.blubrry.com/"
+    ]
+  }
+]
