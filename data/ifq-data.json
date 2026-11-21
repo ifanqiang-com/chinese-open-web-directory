@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:58:09.525Z",
+  "generatedAt": "2026-11-21T10:05:18.070Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
@@ -16258,8 +16258,8 @@
       "id": "blubrry-com",
       "type": "site",
       "name": "Blubrry",
-      "description": "播客托管和 WordPress 插件平台，提供发布、统计、目录和变现服务。核心提供播客搜索、订阅、托管或跨平台收听。",
-      "url": "https://blubrry.com/",
+      "description": "播客音视频托管与发布平台，提供听众统计、WordPress PowerPress 插件和节目变现工具。",
+      "url": "https://www.blubrry.com/",
       "category": "podcasts-audio",
       "categoryName": "播客与音频",
       "tags": [
@@ -16273,7 +16273,7 @@
       "featured": false,
       "priority": 36,
       "addedAt": "2026-06-09",
-      "sourceUrl": "https://blubrry.com/",
+      "sourceUrl": "https://www.blubrry.com/",
       "profilePublishedAt": null
     },
     {

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com/",
+    "decision": "候选保留，未新增。官方网站和中文支持已找到，但本轮未完成交互课程与赞助来源深入核验。"
+  },
+  {
+    "name": "Grid Garden",
+    "url": "https://cssgridgarden.com/",
+    "decision": "候选保留，未新增。官方网站和中文支持已找到，但本轮未完成交互课程与赞助来源深入核验。"
+  }
+]
