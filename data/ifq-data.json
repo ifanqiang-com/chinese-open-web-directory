@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T10:05:18.070Z",
+  "generatedAt": "2026-11-24T10:11:22.821Z",
   "source": "production-database",
   "siteUrl": "https://ifanqiang.com",
   "production": {
-    "sitesTotal": 1520,
-    "sitesPublic": 1438,
+    "sitesTotal": 1522,
+    "sitesPublic": 1440,
     "youtubeTotal": 69,
     "youtubePublic": 67,
     "profileTableAvailable": false
@@ -14,14 +14,14 @@
     "siteUrlOverrideIds": []
   },
   "counts": {
-    "sites": 1438,
+    "sites": 1440,
     "youtubeChannels": 67,
     "categories": 25,
-    "allLinks": 1505,
+    "allLinks": 1507,
     "topics": 30,
     "topicResolvedItems": 1685,
     "sitesWithProfile": 0,
-    "markdownFiles": 1563
+    "markdownFiles": 1565
   },
   "categories": [
     {
@@ -12579,6 +12579,52 @@
       "profilePublishedAt": null
     },
     {
+      "uid": "flexboxfroggy-com",
+      "id": "flexboxfroggy-com",
+      "type": "site",
+      "name": "Flexbox Froggy",
+      "description": "通过青蛙与荷叶的互动关卡学习 CSS Flexbox，练习对齐、排列和换行，支持简体中文与繁体中文。",
+      "url": "https://flexboxfroggy.com/",
+      "category": "developer-resources",
+      "categoryName": "开发者资源",
+      "tags": [
+        "CSS",
+        "Flexbox",
+        "互动学习"
+      ],
+      "language": "multi",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 80,
+      "addedAt": "2026-11-24",
+      "sourceUrl": "https://flexboxfroggy.com/",
+      "profilePublishedAt": null
+    },
+    {
+      "uid": "cssgridgarden-com",
+      "id": "cssgridgarden-com",
+      "type": "site",
+      "name": "Grid Garden",
+      "description": "通过给菜园浇水的互动关卡学习 CSS Grid，练习网格行列、区域与布局，支持简体中文与繁体中文。",
+      "url": "https://cssgridgarden.com/",
+      "category": "developer-resources",
+      "categoryName": "开发者资源",
+      "tags": [
+        "CSS",
+        "Grid",
+        "互动学习"
+      ],
+      "language": "multi",
+      "hasApp": false,
+      "status": "active",
+      "featured": false,
+      "priority": 80,
+      "addedAt": "2026-11-24",
+      "sourceUrl": "https://cssgridgarden.com/",
+      "profilePublishedAt": null
+    },
+    {
       "uid": "prettier-io-docs",
       "id": "prettier-io-docs",
       "type": "site",
@@ -16765,8 +16811,8 @@
       "id": "shengfm-cn",
       "type": "site",
       "name": "声动活泼",
-      "description": "声动活泼 的音频入口，覆盖 中文播客、商业、科技 等播客、节目或音频发布场景。",
-      "url": "https://shengfm.cn/",
+      "description": "中文原创播客与声音内容团队，制作《声东击西》《声动早咖啡》《科技早知道》等节目，关注商业、科技与日常生活。",
+      "url": "https://www.shengfm.cn/",
       "category": "podcasts-audio",
       "categoryName": "播客与音频",
       "tags": [
@@ -16780,7 +16826,7 @@
       "featured": false,
       "priority": 59,
       "addedAt": "2026-06-17",
-      "sourceUrl": "https://shengfm.cn/",
+      "sourceUrl": "https://www.shengfm.cn/",
       "profilePublishedAt": null
     },
     {
