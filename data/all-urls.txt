@@ -535,6 +535,8 @@ https://maven.apache.org/guides/
 https://pnpm.io/
 https://yarnpkg.com/getting-started
 https://eslint.org/docs/latest/
+https://flexboxfroggy.com/
+https://cssgridgarden.com/
 https://prettier.io/docs/
 https://webpack.js.org/concepts/
 https://rollupjs.org/
@@ -717,7 +719,7 @@ https://www.abc.net.au/listen/podcasts
 https://www.theguardian.com/podcasts
 https://www.economist.com/podcasts
 https://www.ted.com/podcasts
-https://shengfm.cn/
+https://www.shengfm.cn/
 https://storyfm.cn/
 https://www.ritanbbpark.com/
 https://dao.fm/

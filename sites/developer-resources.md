@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 150 个网站。点击名称可直接访问官网。
+共 152 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -84,6 +84,8 @@
 | [pnpm Docs](https://pnpm.io/) | [详情](items/pnpm-io.md) | pnpm 官方文档，提供快速包管理、工作区、锁文件和 monorepo 用法资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | JavaScript、包管理、文档 | 英文 |
 | [Yarn Docs](https://yarnpkg.com/getting-started) | [详情](items/yarnpkg-com-getting-started.md) | Yarn 官方文档，提供 JavaScript 包管理、工作区、插件和依赖管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | JavaScript、包管理、文档 | 英文 |
 | [ESLint Docs](https://eslint.org/docs/latest/) | [详情](items/eslint-org-docs-latest.md) | ESLint 官方文档，提供 JavaScript/TypeScript 代码检查、规则和配置资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Lint、JavaScript、文档 | 英文 |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | [详情](items/flexboxfroggy-com.md) | 通过青蛙与荷叶的互动关卡学习 CSS Flexbox，练习对齐、排列和换行，支持简体中文与繁体中文。 | CSS、Flexbox、互动学习 | 多语言 |
+| [Grid Garden](https://cssgridgarden.com/) | [详情](items/cssgridgarden-com.md) | 通过给菜园浇水的互动关卡学习 CSS Grid，练习网格行列、区域与布局，支持简体中文与繁体中文。 | CSS、Grid、互动学习 | 多语言 |
 | [Prettier Docs](https://prettier.io/docs/) | [详情](items/prettier-io-docs.md) | Prettier 官方文档，提供代码格式化、配置、编辑器集成和插件资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 格式化、代码风格、文档 | 英文 |
 | [Webpack Docs](https://webpack.js.org/concepts/) | [详情](items/webpack-js-org-concepts.md) | Webpack 官方文档，提供模块打包、Loader、Plugin、配置和优化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 打包工具、JavaScript、文档 | 英文 |
 | [Rollup Docs](https://rollupjs.org/) | [详情](items/rollupjs-org.md) | Rollup 官方文档，提供 JavaScript 模块打包、插件、配置和库构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 打包工具、JavaScript、文档 | 英文 |

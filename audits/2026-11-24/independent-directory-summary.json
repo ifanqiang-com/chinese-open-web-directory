@@ -1,0 +1,15 @@
+{
+  "total": 123,
+  "statuses": {
+    "200": 119,
+    "403": 1,
+    "406": 2,
+    "451": 1
+  },
+  "dnsFailures": 0,
+  "tlsFailures": 0,
+  "newToPreviousInventory": 62,
+  "persistentDNSFailures": 0,
+  "action": "retain authorized independent sections; report risks only",
+  "independentDNSVerification": "not performed: automatic approval rejected disclosure to third-party DNS"
+}
