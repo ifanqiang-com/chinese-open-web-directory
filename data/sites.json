@@ -28,7 +28,7 @@
     "type": "site",
     "name": "德国之声中文",
     "description": "德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。",
-    "url": "https://www.dw.com/zh",
+    "url": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058",
     "category": "chinese-news",
     "categoryName": "中文新闻",
     "tags": [
@@ -42,7 +42,7 @@
     "featured": true,
     "priority": 4,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.dw.com/zh",
+    "sourceUrl": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058",
     "profilePublishedAt": null
   },
   {
@@ -1730,7 +1730,7 @@
     "type": "site",
     "name": "早安健康",
     "description": "早安健康 的中文资讯入口，围绕 健康、生活、台湾 等主题提供报道、文章和资料更新。",
-    "url": "https://www.edh.tw/",
+    "url": "https://edh.tw",
     "category": "chinese-news",
     "categoryName": "中文新闻",
     "tags": [
@@ -1744,7 +1744,7 @@
     "featured": false,
     "priority": 82,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.edh.tw/",
+    "sourceUrl": "https://edh.tw",
     "profilePublishedAt": null
   },
   {
@@ -3892,7 +3892,7 @@
     "type": "site",
     "name": "Ribbonfarm",
     "description": "Ribbonfarm 的出版或博客入口，长期发布 文化、技术、长文 相关的文章、评论和专题内容。",
-    "url": "https://www.ribbonfarm.com/",
+    "url": "https://ribbonfarm.com/",
     "category": "blogs-publishing",
     "categoryName": "博客与出版",
     "tags": [
@@ -3906,7 +3906,7 @@
     "featured": false,
     "priority": 56,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.ribbonfarm.com/",
+    "sourceUrl": "https://ribbonfarm.com/",
     "profilePublishedAt": null
   },
   {
@@ -5249,7 +5249,7 @@
     "type": "site",
     "name": "DW English",
     "description": "德国之声英文入口，提供德国、欧洲、国际新闻、专题和解释性内容。",
-    "url": "https://www.dw.com/en",
+    "url": "https://www.dw.com/en/top-stories/s-9097",
     "category": "international-news",
     "categoryName": "国际新闻",
     "tags": [
@@ -5263,7 +5263,7 @@
     "featured": false,
     "priority": 30,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.dw.com/en",
+    "sourceUrl": "https://www.dw.com/en/top-stories/s-9097",
     "profilePublishedAt": null
   },
   {
@@ -7549,7 +7549,7 @@
     "type": "site",
     "name": "IEEE Xplore",
     "description": "IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。",
-    "url": "https://ieeexplore.ieee.org/",
+    "url": "https://ieeexplore.ieee.org/Xplore/home.jsp",
     "category": "academic-research",
     "categoryName": "学术研究",
     "tags": [
@@ -7563,7 +7563,7 @@
     "featured": false,
     "priority": 36,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://ieeexplore.ieee.org/",
+    "sourceUrl": "https://ieeexplore.ieee.org/Xplore/home.jsp",
     "profilePublishedAt": null
   },
   {
@@ -11575,7 +11575,7 @@
     "type": "site",
     "name": "Deno Docs",
     "description": "Deno 官方文档，提供 JavaScript/TypeScript 运行时、工具链、部署和 API 资料。",
-    "url": "https://docs.deno.com/",
+    "url": "https://docs.deno.com/runtime/",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -11589,7 +11589,7 @@
     "featured": false,
     "priority": 46,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://docs.deno.com/",
+    "sourceUrl": "https://docs.deno.com/runtime/",
     "profilePublishedAt": null
   },
   {
@@ -12372,6 +12372,29 @@
     "priority": 80,
     "addedAt": "2026-11-24",
     "sourceUrl": "https://flexboxfroggy.com/",
+    "profilePublishedAt": null
+  },
+  {
+    "uid": "fullstackopen-com-zh",
+    "id": "fullstackopen-com-zh",
+    "type": "site",
+    "name": "Full Stack Open 全栈公开课",
+    "description": "赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。",
+    "url": "https://fullstackopen.com/zh/",
+    "category": "developer-resources",
+    "categoryName": "开发者资源",
+    "tags": [
+      "全栈开发",
+      "React",
+      "中文课程"
+    ],
+    "language": "zh",
+    "hasApp": false,
+    "status": "active",
+    "featured": false,
+    "priority": 80,
+    "addedAt": "2026-11-27",
+    "sourceUrl": "https://fullstackopen.com/en/about/",
     "profilePublishedAt": null
   },
   {
@@ -13509,7 +13532,7 @@
     "type": "site",
     "name": "Postman Docs",
     "description": "Postman 官方文档，提供 API 调试、集合、Mock、测试、协作和自动化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。",
-    "url": "https://learning.postman.com/docs/",
+    "url": "https://learning.postman.com/docs/getting-started/overview",
     "category": "developer-resources",
     "categoryName": "开发者资源",
     "tags": [
@@ -13523,7 +13546,7 @@
     "featured": false,
     "priority": 126,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://learning.postman.com/docs/",
+    "sourceUrl": "https://learning.postman.com/docs/getting-started/overview",
     "profilePublishedAt": null
   },
   {
@@ -15114,7 +15137,7 @@
     "type": "site",
     "name": "FutureTools",
     "description": "FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。",
-    "url": "https://www.futuretools.io/",
+    "url": "https://futuretools.io",
     "category": "search-discovery",
     "categoryName": "搜索与发现",
     "tags": [
@@ -15128,7 +15151,7 @@
     "featured": false,
     "priority": 50,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.futuretools.io/",
+    "sourceUrl": "https://futuretools.io",
     "profilePublishedAt": null
   },
   {
@@ -15137,7 +15160,7 @@
     "type": "site",
     "name": "Open Source Alternative To",
     "description": "Open Source Alternative To 的发现工具入口，可用于 开源替代、软件、发现 等资源搜索、目录浏览和趋势发现。",
-    "url": "https://www.opensourcealternative.to/",
+    "url": "https://opensourcealternative.to",
     "category": "search-discovery",
     "categoryName": "搜索与发现",
     "tags": [
@@ -15151,7 +15174,7 @@
     "featured": false,
     "priority": 51,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.opensourcealternative.to/",
+    "sourceUrl": "https://opensourcealternative.to",
     "profilePublishedAt": null
   },
   {
@@ -15321,7 +15344,7 @@
     "type": "site",
     "name": "Spotify Podcasts",
     "description": "Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。",
-    "url": "https://open.spotify.com/genre/podcasts-web",
+    "url": "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
@@ -15335,7 +15358,7 @@
     "featured": true,
     "priority": 2,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://open.spotify.com/genre/podcasts-web",
+    "sourceUrl": "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J",
     "profilePublishedAt": null
   },
   {
@@ -15823,14 +15846,14 @@
     "id": "fountain-fm",
     "type": "site",
     "name": "Fountain",
-    "description": "面向 Podcasting 2.0 的播客应用，提供收听、互动、打赏和发现功能。",
-    "url": "https://www.fountain.fm/",
+    "description": "面向播客创作者的内容制作与推广工具，提供节目转录、片段检索、短视频剪辑和社交平台发布管理。",
+    "url": "https://fountain.fm",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
       "播客",
-      "打赏",
-      "发现"
+      "剪辑",
+      "内容推广"
     ],
     "language": "en",
     "hasApp": true,
@@ -15838,7 +15861,7 @@
     "featured": false,
     "priority": 25,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.fountain.fm/",
+    "sourceUrl": "https://fountain.fm",
     "profilePublishedAt": null
   },
   {
@@ -16032,7 +16055,7 @@
     "type": "site",
     "name": "Simplecast",
     "description": "播客托管平台，提供发布、分析、团队管理、网站和播放器嵌入功能。核心提供播客搜索、订阅、托管或跨平台收听。",
-    "url": "https://simplecast.com/",
+    "url": "https://www.simplecast.com",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
@@ -16046,7 +16069,7 @@
     "featured": false,
     "priority": 34,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://simplecast.com/",
+    "sourceUrl": "https://www.simplecast.com",
     "profilePublishedAt": null
   },
   {
@@ -16124,7 +16147,7 @@
     "type": "site",
     "name": "Podigee",
     "description": "欧洲播客托管平台，提供发布、分析、网站、隐私合规和企业播客功能。核心提供播客搜索、订阅、托管或跨平台收听。",
-    "url": "https://www.podigee.com/en/",
+    "url": "https://www.podigee.com/",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
@@ -16138,7 +16161,7 @@
     "featured": false,
     "priority": 38,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://www.podigee.com/en/",
+    "sourceUrl": "https://www.podigee.com/",
     "profilePublishedAt": null
   },
   {
@@ -16446,7 +16469,7 @@
     "type": "site",
     "name": "BBC Podcasts",
     "description": "BBC Podcasts 的音频入口，覆盖 播客、英国、音频 等播客、节目或音频发布场景。",
-    "url": "https://www.bbc.co.uk/podcasts",
+    "url": "https://www.bbc.co.uk/sounds/podcasts",
     "category": "podcasts-audio",
     "categoryName": "播客与音频",
     "tags": [
@@ -16460,7 +16483,7 @@
     "featured": false,
     "priority": 52,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://www.bbc.co.uk/podcasts",
+    "sourceUrl": "https://www.bbc.co.uk/sounds/podcasts",
     "profilePublishedAt": null
   },
   {
@@ -17130,7 +17153,7 @@
     "type": "site",
     "name": "Numbeo",
     "description": "城市生活成本、房价和生活质量数据。核心提供出行、住宿、地图、翻译、天气或本地生活工具。",
-    "url": "https://www.numbeo.com",
+    "url": "https://www.numbeo.com/cost-of-living/",
     "category": "life-travel",
     "categoryName": "生活出行",
     "tags": [
@@ -17144,7 +17167,7 @@
     "featured": false,
     "priority": 18,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.numbeo.com",
+    "sourceUrl": "https://www.numbeo.com/cost-of-living/",
     "profilePublishedAt": null
   },
   {
@@ -19222,7 +19245,7 @@
     "type": "site",
     "name": "Wikisource",
     "description": "自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。",
-    "url": "https://www.wikisource.org",
+    "url": "https://wikisource.org/wiki/Wikisource:Main_Page",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -19236,7 +19259,7 @@
     "featured": false,
     "priority": 3,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.wikisource.org",
+    "sourceUrl": "https://wikisource.org/wiki/Wikisource:Main_Page",
     "profilePublishedAt": null
   },
   {
@@ -19268,7 +19291,7 @@
     "type": "site",
     "name": "Wikimedia Commons",
     "description": "自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。",
-    "url": "https://commons.wikimedia.org",
+    "url": "https://commons.wikimedia.org/wiki/Main_Page",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -19282,7 +19305,7 @@
     "featured": false,
     "priority": 5,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://commons.wikimedia.org",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Main_Page",
     "profilePublishedAt": null
   },
   {
@@ -19291,7 +19314,7 @@
     "type": "site",
     "name": "Wikidata",
     "description": "开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。",
-    "url": "https://www.wikidata.org",
+    "url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -19305,7 +19328,7 @@
     "featured": false,
     "priority": 6,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://www.wikidata.org",
+    "sourceUrl": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
     "profilePublishedAt": null
   },
   {
@@ -19565,7 +19588,7 @@
     "type": "site",
     "name": "Wikispecies",
     "description": "物种分类资料库，核心提供生物分类、学名、参考文献和物种条目。",
-    "url": "https://species.wikimedia.org/",
+    "url": "https://species.wikimedia.org/wiki/Main_Page",
     "category": "encyclopedia-open-data",
     "categoryName": "百科与开放资料",
     "tags": [
@@ -19579,7 +19602,7 @@
     "featured": false,
     "priority": 20,
     "addedAt": "2026-06-08",
-    "sourceUrl": "https://species.wikimedia.org/",
+    "sourceUrl": "https://species.wikimedia.org/wiki/Main_Page",
     "profilePublishedAt": null
   },
   {
@@ -23188,8 +23211,8 @@
     "id": "curiosityu-com",
     "type": "site",
     "name": "Curiosity University",
-    "description": "Curiosity University 的视频入口，提供 课程、知识、视频 相关的观看、订阅或内容发现服务。",
-    "url": "https://curiosityu.com/",
+    "description": "由学者与专业讲者主讲的英语视频课程平台，涵盖科学、历史、艺术等主题，提供讲座资料库与会员订阅。",
+    "url": "https://www.curiosityu.com/",
     "category": "video-streaming",
     "categoryName": "视频与流媒体",
     "tags": [
@@ -23203,7 +23226,7 @@
     "featured": false,
     "priority": 57,
     "addedAt": "2026-06-17",
-    "sourceUrl": "https://curiosityu.com/",
+    "sourceUrl": "https://www.curiosityu.com/",
     "profilePublishedAt": null
   },
   {
@@ -24730,7 +24753,7 @@
     "type": "site",
     "name": "RPGnet Forums",
     "description": "桌面角色扮演游戏论坛，提供规则、跑团、创作和游戏文化讨论。核心提供按主题发帖、回复、问答和社区讨论。",
-    "url": "https://forum.rpg.net/",
+    "url": "https://forum.rpg.net/index.php",
     "category": "forums-communities",
     "categoryName": "论坛社区",
     "tags": [
@@ -24744,7 +24767,7 @@
     "featured": false,
     "priority": 47,
     "addedAt": "2026-06-09",
-    "sourceUrl": "https://forum.rpg.net/",
+    "sourceUrl": "https://forum.rpg.net/index.php",
     "profilePublishedAt": null
   },
   {

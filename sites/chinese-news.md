@@ -5,7 +5,7 @@
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
 | [BBC News 中文](https://www.bbc.com/zhongwen/simp) | [详情](items/bbc-com-zhongwen-simp.md) | BBC 的中文新闻服务，覆盖国际、中国、科技、经济等话题。核心提供新闻报道、专题内容和原站更新入口。 | 新闻、国际、中文 | 中文 |
-| [德国之声中文](https://www.dw.com/zh) | [详情](items/dw-com-zh.md) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 新闻、德国、中文 | 中文 |
+| [德国之声中文](https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058) | [详情](items/dw-com-zh.md) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 新闻、德国、中文 | 中文 |
 | [法国国际广播电台华语](https://www.rfi.fr/cn) | [详情](items/rfi-fr-cn.md) | RFI 华语新闻，覆盖法国、欧洲、国际与中国相关议题。核心提供新闻报道、专题内容和原站更新入口。 | 新闻、法国、中文 | 中文 |
 | [纽约时报中文网](https://cn.nytimes.com) | [详情](items/cn-nytimes-com.md) | 纽约时报中文内容，覆盖国际、中国、商业与文化。核心提供新闻报道、专题内容和原站更新入口。 | 新闻、深度、中文 | 中文 |
 | [FT中文网](https://www.ftchinese.com) | [详情](items/ftchinese-com.md) | Financial Times 的中文商业、财经与国际报道。 | 财经、商业、中文 | 中文 |
@@ -79,7 +79,7 @@
 | [未来城市](https://futurecity.cw.com.tw/) | [详情](items/futurecity-cw-com-tw.md) | 未来城市 的中文资讯入口，围绕 城市、治理、台湾 等主题提供报道、文章和资料更新。 | 城市、治理、台湾 | 中文 |
 | [亲子天下](https://www.parenting.com.tw/) | [详情](items/parenting-com-tw.md) | 亲子天下 的中文资讯入口，围绕 教育、亲子、台湾 等主题提供报道、文章和资料更新。 | 教育、亲子、台湾 | 中文 |
 | [康健](https://www.commonhealth.com.tw/) | [详情](items/commonhealth-com-tw.md) | 康健 的中文资讯入口，围绕 健康、生活、台湾 等主题提供报道、文章和资料更新。 | 健康、生活、台湾 | 中文 |
-| [早安健康](https://www.edh.tw/) | [详情](items/edh-tw.md) | 早安健康 的中文资讯入口，围绕 健康、生活、台湾 等主题提供报道、文章和资料更新。 | 健康、生活、台湾 | 中文 |
+| [早安健康](https://edh.tw) | [详情](items/edh-tw.md) | 早安健康 的中文资讯入口，围绕 健康、生活、台湾 等主题提供报道、文章和资料更新。 | 健康、生活、台湾 | 中文 |
 | [食力 foodNEXT](https://www.foodnext.net/) | [详情](items/foodnext-net.md) | 食力 foodNEXT 的中文资讯入口，围绕 食品、产业、台湾 等主题提供报道、文章和资料更新。 | 食品、产业、台湾 | 中文 |
 | [上下游 News&Market](https://www.newsmarket.com.tw/) | [详情](items/newsmarket-com-tw.md) | 上下游 News&Market 的中文资讯入口，围绕 农业、环境、台湾 等主题提供报道、文章和资料更新。 | 农业、环境、台湾 | 中文 |
 | [社企流](https://www.seinsights.asia/) | [详情](items/seinsights-asia.md) | 社企流 的中文资讯入口，围绕 社会创新、公益、亚洲 等主题提供报道、文章和资料更新。 | 社会创新、公益、亚洲 | 中文 |

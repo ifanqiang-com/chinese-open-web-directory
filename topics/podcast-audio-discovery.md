@@ -12,7 +12,7 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Apple Podcasts](https://podcasts.apple.com) | Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、目录、收听 | [爱翻墙](https://ifanqiang.com/sites/podcasts-apple-com) |
-| [Spotify Podcasts](https://open.spotify.com/genre/podcasts-web) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
+| [Spotify Podcasts](https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
 | [Listen Notes](https://www.listennotes.com) | 播客搜索引擎和目录。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、搜索、目录 | [爱翻墙](https://ifanqiang.com/sites/listennotes-com) |
 | [Pocket Casts](https://pocketcasts.com) | 跨平台播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、播放器 | [爱翻墙](https://ifanqiang.com/sites/pocketcasts-com) |
 | [Overcast](https://overcast.fm) | iOS 播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、播放器、iOS | [爱翻墙](https://ifanqiang.com/sites/overcast-fm) |
@@ -73,9 +73,9 @@
 | [Apple Podcasts](https://podcasts.apple.com) | Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、目录、收听 | [爱翻墙](https://ifanqiang.com/sites/podcasts-apple-com) |
 | [BBC News 中文](https://www.bbc.com/zhongwen/simp) | BBC 的中文新闻服务，覆盖国际、中国、科技、经济等话题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、国际、中文 | [爱翻墙](https://ifanqiang.com/sites/bbc-com-zhongwen-simp) |
 | [Yahoo Finance](https://finance.yahoo.com) | 股票、市场、财经新闻和投资数据。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 股票、市场、财经 | [爱翻墙](https://ifanqiang.com/sites/finance-yahoo-com) |
-| [Spotify Podcasts](https://open.spotify.com/genre/podcasts-web) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
+| [Spotify Podcasts](https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
 | [Bloomberg Markets](https://www.bloomberg.com/markets) | 彭博市场数据和财经新闻。核心提供市场行情、宏观指标、公司资料或金融数据。 | 财经与数据 | 市场、财经、新闻 | [爱翻墙](https://ifanqiang.com/sites/bloomberg-com-markets) |
-| [德国之声中文](https://www.dw.com/zh) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、德国、中文 | [爱翻墙](https://ifanqiang.com/sites/dw-com-zh) |
+| [德国之声中文](https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、德国、中文 | [爱翻墙](https://ifanqiang.com/sites/dw-com-zh) |
 | [法国国际广播电台华语](https://www.rfi.fr/cn) | RFI 华语新闻，覆盖法国、欧洲、国际与中国相关议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、法国、中文 | [爱翻墙](https://ifanqiang.com/sites/rfi-fr-cn) |
 | [纽约时报中文网](https://cn.nytimes.com) | 纽约时报中文内容，覆盖国际、中国、商业与文化。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、中文 | [爱翻墙](https://ifanqiang.com/sites/cn-nytimes-com) |
 | [Listen Notes](https://www.listennotes.com) | 播客搜索引擎和目录。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、搜索、目录 | [爱翻墙](https://ifanqiang.com/sites/listennotes-com) |

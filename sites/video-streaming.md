@@ -58,7 +58,7 @@
 | [Harvard Online](https://www.harvardonline.harvard.edu/) | [详情](items/harvardonline-harvard-edu.md) | 哈佛在线学习入口，提供开放课程、职业项目、证书和专题学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 哈佛、课程、证书 | 英文 |
 | [Open Yale Courses](https://oyc.yale.edu/) | [详情](items/oyc-yale-edu.md) | 耶鲁开放课程项目，提供课程视频、讲义、阅读材料和课堂录音。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 耶鲁、开放课程、教育 | 英文 |
 | [Class Central](https://www.classcentral.com/) | [详情](items/classcentral-com.md) | 在线课程搜索平台，聚合 MOOC、大学课程、证书和免费学习资源。核心提供视频课程、流媒体观看、频道浏览或节目点播入口。 | 课程搜索、MOOC、学习 | 英文 |
-| [Curiosity University](https://curiosityu.com/) | [详情](items/curiosityu-com.md) | Curiosity University 的视频入口，提供 课程、知识、视频 相关的观看、订阅或内容发现服务。 | 课程、知识、视频 | 英文 |
+| [Curiosity University](https://www.curiosityu.com/) | [详情](items/curiosityu-com.md) | 由学者与专业讲者主讲的英语视频课程平台，涵盖科学、历史、艺术等主题，提供讲座资料库与会员订阅。 | 课程、知识、视频 | 英文 |
 | [Fandango at Home](https://athome.fandango.com/) | [详情](items/athome-fandango-com.md) | Fandango at Home 的视频入口，提供 电影、租赁、流媒体 相关的观看、订阅或内容发现服务。 | 电影、租赁、流媒体 | 英文 |
 | [Sling TV](https://www.sling.com/) | [详情](items/sling-com.md) | Sling TV 的视频入口，提供 直播电视、美国、流媒体 相关的观看、订阅或内容发现服务。 | 直播电视、美国、流媒体 | 英文 |
 | [Fubo](https://www.fubo.tv/) | [详情](items/fubo-tv.md) | Fubo 的视频入口，提供 体育、直播电视、流媒体 相关的观看、订阅或内容发现服务。 | 体育、直播电视、流媒体 | 英文 |

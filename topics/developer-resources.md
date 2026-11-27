@@ -28,7 +28,7 @@
 | --- | --- | --- | --- | --- |
 | [MDN Web Docs](https://developer.mozilla.org) | Web 技术文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Web、文档、前端 | [爱翻墙](https://ifanqiang.com/sites/developer-mozilla-org) |
 | [web.dev](https://web.dev) | Google 维护的 Web 开发、性能、可访问性和最佳实践文档。 | 开发者资源 | Web、性能、文档 | [爱翻墙](https://ifanqiang.com/sites/web-dev) |
-| [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
+| [Wikisource](https://wikisource.org/wiki/Wikisource:Main_Page) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
 | [Kubernetes Docs](https://kubernetes.io/docs) | Kubernetes 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | Kubernetes、文档、云原生 | [爱翻墙](https://ifanqiang.com/sites/kubernetes-io-docs) |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数学、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/mathworld-wolfram-com) |
 | [React Docs](https://react.dev) | React 官方文档。核心提供开发文档、代码协作、技术标准或工程工具。 | 开发者资源 | React、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/react-dev) |

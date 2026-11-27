@@ -31,7 +31,7 @@
 | [CBC News](https://www.cbc.ca/news) | [详情](items/cbc-ca-news.md) | 加拿大 CBC 新闻网站，提供加拿大本地、国际、政治、商业和调查报道。 | canada、public-media、news | 英文 |
 | [ABC News Australia](https://www.abc.net.au/news) | [详情](items/abc-net-au-news.md) | 澳大利亚 ABC 新闻入口，核心提供澳洲公共新闻、地区报道和国际资讯。 | australia、public-media、news | 英文 |
 | [France 24](https://www.france24.com/en/) | [详情](items/france24-com-en.md) | 法国国际新闻频道英文站，提供欧洲、非洲、中东和全球新闻视频。 | france、world、video | 英文 |
-| [DW English](https://www.dw.com/en) | [详情](items/dw-com-en.md) | 德国之声英文入口，提供德国、欧洲、国际新闻、专题和解释性内容。 | germany、europe、news | 英文 |
+| [DW English](https://www.dw.com/en/top-stories/s-9097) | [详情](items/dw-com-en.md) | 德国之声英文入口，提供德国、欧洲、国际新闻、专题和解释性内容。 | germany、europe、news | 英文 |
 | [Euronews](https://www.euronews.com/) | [详情](items/euronews-com.md) | 欧洲多语种新闻平台英文入口，提供欧洲新闻、直播、商业和文化报道。 | europe、news、video | 英文 |
 | [NHK WORLD-JAPAN](https://www3.nhk.or.jp/nhkworld/en/news/) | [详情](items/www3-nhk-or-jp-nhkworld-en.md) | 日本 NHK 国际新闻英文入口，提供日本、亚洲、世界新闻和视频节目。 | japan、public-media、asia | 英文 |
 | [The Japan Times](https://www.japantimes.co.jp/) | [详情](items/japantimes-co-jp.md) | 日本英文新闻媒体，核心提供日本政治、社会、商业、文化和观点内容。 | japan、news、english | 英文 |

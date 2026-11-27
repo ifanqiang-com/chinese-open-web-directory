@@ -57,7 +57,7 @@
 | [Wait But Why](https://waitbutwhy.com/) | [详情](items/waitbutwhy-com.md) | Wait But Why 的出版或博客入口，长期发布 长文、科普、社会 相关的文章、评论和专题内容。 | 长文、科普、社会 | 英文 |
 | [Marginal Revolution](https://marginalrevolution.com/) | [详情](items/marginalrevolution-com.md) | Marginal Revolution 的出版或博客入口，长期发布 经济、博客、评论 相关的文章、评论和专题内容。 | 经济、博客、评论 | 英文 |
 | [The Browser](https://thebrowser.com/) | [详情](items/thebrowser-com.md) | The Browser 的出版或博客入口，长期发布 阅读、精选、文章 相关的文章、评论和专题内容。 | 阅读、精选、文章 | 英文 |
-| [Ribbonfarm](https://www.ribbonfarm.com/) | [详情](items/ribbonfarm-com.md) | Ribbonfarm 的出版或博客入口，长期发布 文化、技术、长文 相关的文章、评论和专题内容。 | 文化、技术、长文 | 英文 |
+| [Ribbonfarm](https://ribbonfarm.com/) | [详情](items/ribbonfarm-com.md) | Ribbonfarm 的出版或博客入口，长期发布 文化、技术、长文 相关的文章、评论和专题内容。 | 文化、技术、长文 | 英文 |
 | [Astral Codex Ten](https://www.astralcodexten.com/) | [详情](items/astralcodexten-com.md) | Astral Codex Ten 的出版或博客入口，长期发布 长文、社会、理性主义 相关的文章、评论和专题内容。 | 长文、社会、理性主义 | 英文 |
 | [Gwern.net](https://gwern.net/) | [详情](items/gwern-net.md) | Gwern.net 的出版或博客入口，长期发布 研究、长文、个人网站 相关的文章、评论和专题内容。 | 研究、长文、个人网站 | 英文 |
 | [Paul Graham Essays](https://www.paulgraham.com/articles.html) | [详情](items/paulgraham-com-articles-html.md) | Paul Graham Essays 的出版或博客入口，长期发布 创业、写作、技术 相关的文章、评论和专题内容。 | 创业、写作、技术 | 英文 |

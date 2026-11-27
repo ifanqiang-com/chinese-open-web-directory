@@ -1,13 +1,13 @@
 # IEEE Xplore
 
-- 官网：[https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/)
+- 官网：[https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - 爱翻墙详情：[https://ifanqiang.com/sites/ieeexplore-ieee-org](https://ifanqiang.com/sites/ieeexplore-ieee-org)
 - 分类：学术研究
 - 标签：工程、论文、标准
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-08
-- 原始链接：[https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/)
+- 原始链接：[https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
 ## 简介
 

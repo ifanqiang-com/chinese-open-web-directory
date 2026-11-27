@@ -58,7 +58,7 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [Apple Podcasts](https://podcasts.apple.com) | Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、目录、收听 | [爱翻墙](https://ifanqiang.com/sites/podcasts-apple-com) |
-| [Spotify Podcasts](https://open.spotify.com/genre/podcasts-web) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
+| [Spotify Podcasts](https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、音乐、收听 | [爱翻墙](https://ifanqiang.com/sites/open-spotify-com-genre-podcasts-web) |
 | [Listen Notes](https://www.listennotes.com) | 播客搜索引擎和目录。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、搜索、目录 | [爱翻墙](https://ifanqiang.com/sites/listennotes-com) |
 | [Pocket Casts](https://pocketcasts.com) | 跨平台播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、播放器 | [爱翻墙](https://ifanqiang.com/sites/pocketcasts-com) |
 | [Overcast](https://overcast.fm) | iOS 播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客与音频 | 播客、播放器、iOS | [爱翻墙](https://ifanqiang.com/sites/overcast-fm) |

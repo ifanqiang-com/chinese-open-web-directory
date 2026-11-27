@@ -6,10 +6,10 @@
 | --- | --- | --- | --- | --- |
 | [Wikipedia](https://www.wikipedia.org) | [详情](items/wikipedia-org.md) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科、知识、多语言 | 多语言 |
 | [Wiktionary](https://www.wiktionary.org) | [详情](items/wiktionary-org.md) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 词典、百科、语言 | 多语言 |
-| [Wikisource](https://www.wikisource.org) | [详情](items/wikisource-org.md) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 文献、百科、资料 | 多语言 |
+| [Wikisource](https://wikisource.org/wiki/Wikisource:Main_Page) | [详情](items/wikisource-org.md) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 文献、百科、资料 | 多语言 |
 | [Wikibooks](https://www.wikibooks.org) | [详情](items/wikibooks-org.md) | 自由教材和学习资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 教材、百科、学习 | 多语言 |
-| [Wikimedia Commons](https://commons.wikimedia.org) | [详情](items/commons-wikimedia-org.md) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 图片、媒体、百科 | 多语言 |
-| [Wikidata](https://www.wikidata.org) | [详情](items/wikidata-org.md) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 数据、百科、知识图谱 | 多语言 |
+| [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | [详情](items/commons-wikimedia-org.md) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 图片、媒体、百科 | 多语言 |
+| [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) | [详情](items/wikidata-org.md) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 数据、百科、知识图谱 | 多语言 |
 | [Encyclopaedia Britannica](https://www.britannica.com) | [详情](items/britannica-com.md) | 英文百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科、英文 | 英文 |
 | [Internet Encyclopedia of Philosophy](https://iep.utm.edu) | [详情](items/iep-utm-edu.md) | 互联网哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 哲学、百科 | 英文 |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | [详情](items/mathworld-wolfram-com.md) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 数学、百科、资料 | 英文 |
@@ -21,7 +21,7 @@
 | [Wikiquote](https://www.wikiquote.org/) | [详情](items/wikiquote-org.md) | 多语言自由语录库，核心提供人物、作品和主题相关引用资料。 | 语录、百科、维基 | 多语言 |
 | [Wikinews](https://www.wikinews.org/) | [详情](items/wikinews-org.md) | 维基媒体新闻项目，提供多语言开放新闻写作和存档入口。 | 新闻、维基、开放 | 多语言 |
 | [Wikiversity](https://www.wikiversity.org/) | [详情](items/wikiversity-org.md) | 维基媒体学习资源项目，提供课程、学习计划、开放教学材料和研究资料。 | 教育、开放资源、维基 | 多语言 |
-| [Wikispecies](https://species.wikimedia.org/) | [详情](items/species-wikimedia-org.md) | 物种分类资料库，核心提供生物分类、学名、参考文献和物种条目。 | 生物、分类、维基 | 多语言 |
+| [Wikispecies](https://species.wikimedia.org/wiki/Main_Page) | [详情](items/species-wikimedia-org.md) | 物种分类资料库，核心提供生物分类、学名、参考文献和物种条目。 | 生物、分类、维基 | 多语言 |
 | [World History Encyclopedia](https://www.worldhistory.org/) | [详情](items/worldhistory-org.md) | 世界历史百科，提供历史人物、文明、地图、时间线和教学资源。 | 历史、百科、教育 | 英文 |
 | [Encyclopedia.com](https://www.encyclopedia.com/) | [详情](items/encyclopedia-com.md) | 综合参考资料入口，聚合百科、词典、传记和主题解释内容。 | 百科、参考、英文 | 英文 |
 | [Scholarpedia](http://www.scholarpedia.org/) | [详情](items/scholarpedia-org.md) | 由学者撰写和维护的百科项目，重点提供科学和数学领域专题条目。 | 学术、百科、科学 | 英文 |

@@ -35,7 +35,7 @@
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
 | [BBC News 中文](https://www.bbc.com/zhongwen/simp) | BBC 的中文新闻服务，覆盖国际、中国、科技、经济等话题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、国际、中文 | [爱翻墙](https://ifanqiang.com/sites/bbc-com-zhongwen-simp) |
-| [德国之声中文](https://www.dw.com/zh) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、德国、中文 | [爱翻墙](https://ifanqiang.com/sites/dw-com-zh) |
+| [德国之声中文](https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058) | 德国之声中文内容，覆盖国际、德国、中国和亚洲议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、德国、中文 | [爱翻墙](https://ifanqiang.com/sites/dw-com-zh) |
 | [法国国际广播电台华语](https://www.rfi.fr/cn) | RFI 华语新闻，覆盖法国、欧洲、国际与中国相关议题。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、法国、中文 | [爱翻墙](https://ifanqiang.com/sites/rfi-fr-cn) |
 | [纽约时报中文网](https://cn.nytimes.com) | 纽约时报中文内容，覆盖国际、中国、商业与文化。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、中文 | [爱翻墙](https://ifanqiang.com/sites/cn-nytimes-com) |
 | [端传媒](https://theinitium.com) | 面向华语读者的深度报道与评论媒体。核心提供新闻报道、专题内容和原站更新入口。 | 中文新闻 | 新闻、深度、华语 | [爱翻墙](https://ifanqiang.com/sites/theinitium-com) |

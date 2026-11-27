@@ -50,7 +50,7 @@
 | [DPReview Forums](https://www.dpreview.com/forums) | [详情](items/dpreview-com-forums.md) | 摄影器材论坛，提供相机、镜头、照片处理、购买建议和作品讨论。核心提供按主题发帖、回复、问答和社区讨论。 | 摄影、相机、论坛 | 英文 |
 | [Photo.net](https://www.photo.net/forums/) | [详情](items/photo-net-forums.md) | 摄影社区论坛，提供拍摄技巧、器材、作品点评和摄影主题讨论。核心提供按主题发帖、回复、问答和社区讨论。 | 摄影、作品、论坛 | 英文 |
 | [BoardGameGeek](https://boardgamegeek.com/) | [详情](items/boardgamegeek-com.md) | 桌游资料和社区，提供游戏条目、评分、论坛、规则和收藏管理。核心提供按主题发帖、回复、问答和社区讨论。 | 桌游、资料库、社区 | 英文 |
-| [RPGnet Forums](https://forum.rpg.net/) | [详情](items/forum-rpg-net.md) | 桌面角色扮演游戏论坛，提供规则、跑团、创作和游戏文化讨论。核心提供按主题发帖、回复、问答和社区讨论。 | RPG、桌游、论坛 | 英文 |
+| [RPGnet Forums](https://forum.rpg.net/index.php) | [详情](items/forum-rpg-net.md) | 桌面角色扮演游戏论坛，提供规则、跑团、创作和游戏文化讨论。核心提供按主题发帖、回复、问答和社区讨论。 | RPG、桌游、论坛 | 英文 |
 | [MyAnimeList Forums](https://myanimelist.net/forum/) | [详情](items/myanimelist-net-forum.md) | 动漫资料站论坛，提供动画、漫画、角色、榜单和用户讨论。核心提供按主题发帖、回复、问答和社区讨论。 | 动漫、论坛、社区 | 英文 |
 | [Anki Forums](https://forums.ankiweb.net/) | [详情](items/forums-ankiweb-net.md) | Anki 官方用户论坛，提供记忆卡片、插件、同步和学习方法讨论。核心提供按主题发帖、回复、问答和社区讨论。 | 学习、Anki、论坛 | 英文 |
 | [Kobo Forums](https://www.mobileread.com/forums/forumdisplay.php?f=223) | [详情](items/mobileread-com-forums-forumdisplay-php.md) | MobileRead 的 Kobo 电子书论坛，提供阅读器、固件、电子书格式和技巧讨论。核心提供按主题发帖、回复、问答和社区讨论。 | 电子书、阅读器、论坛 | 英文 |

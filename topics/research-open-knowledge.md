@@ -56,10 +56,10 @@
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
-| [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
+| [Wikisource](https://wikisource.org/wiki/Wikisource:Main_Page) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
 | [Wikibooks](https://www.wikibooks.org) | 自由教材和学习资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 教材、百科、学习 | [爱翻墙](https://ifanqiang.com/sites/wikibooks-org) |
-| [Wikimedia Commons](https://commons.wikimedia.org) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 图片、媒体、百科 | [爱翻墙](https://ifanqiang.com/sites/commons-wikimedia-org) |
-| [Wikidata](https://www.wikidata.org) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
+| [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 图片、媒体、百科 | [爱翻墙](https://ifanqiang.com/sites/commons-wikimedia-org) |
+| [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
 | [Encyclopaedia Britannica](https://www.britannica.com) | 英文百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、英文 | [爱翻墙](https://ifanqiang.com/sites/britannica-com) |
 | [Internet Encyclopedia of Philosophy](https://iep.utm.edu) | 互联网哲学百科。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 哲学、百科 | [爱翻墙](https://ifanqiang.com/sites/iep-utm-edu) |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数学、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/mathworld-wolfram-com) |
