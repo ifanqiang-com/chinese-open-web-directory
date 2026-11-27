@@ -57,9 +57,9 @@
 
 | 名称 | 简介 | 分类 | 标签 | 站内 |
 | --- | --- | --- | --- | --- |
-| [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
+| [Wikisource](https://wikisource.org/wiki/Wikisource:Main_Page) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
 | [JSTOR](https://www.jstor.org) | 学术期刊、书籍和资料库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、期刊、资料 | [爱翻墙](https://ifanqiang.com/sites/jstor-org) |
-| [Wikidata](https://www.wikidata.org) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
+| [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
 | [OpenAlex](https://openalex.org) | 开放学术数据目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、数据、开放 | [爱翻墙](https://ifanqiang.com/sites/openalex-org) |
 | [Crossref](https://www.crossref.org) | DOI 和学术出版元数据组织。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | DOI、学术、数据 | [爱翻墙](https://ifanqiang.com/sites/crossref-org) |
 | [Wolfram MathWorld](https://mathworld.wolfram.com) | 数学百科和公式资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数学、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/mathworld-wolfram-com) |

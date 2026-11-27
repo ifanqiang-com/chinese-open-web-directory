@@ -61,13 +61,13 @@
 | [Wikipedia](https://www.wikipedia.org) | 多语言自由百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、知识、多语言 | [爱翻墙](https://ifanqiang.com/sites/wikipedia-org) |
 | [Internet Archive](https://archive.org) | 数字图书馆和互联网档案。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 档案、图书馆、百科 | [爱翻墙](https://ifanqiang.com/sites/archive-org) |
 | [Wiktionary](https://www.wiktionary.org) | 多语言自由词典。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 词典、百科、语言 | [爱翻墙](https://ifanqiang.com/sites/wiktionary-org) |
-| [Wikisource](https://www.wikisource.org) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
+| [Wikisource](https://wikisource.org/wiki/Wikisource:Main_Page) | 自由文本和文献资料库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 文献、百科、资料 | [爱翻墙](https://ifanqiang.com/sites/wikisource-org) |
 | [Semantic Scholar](https://www.semanticscholar.org) | 学术论文搜索和发现平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、搜索、学术 | [爱翻墙](https://ifanqiang.com/sites/semanticscholar-org) |
 | [Wikibooks](https://www.wikibooks.org) | 自由教材和学习资料。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 教材、百科、学习 | [爱翻墙](https://ifanqiang.com/sites/wikibooks-org) |
 | [JSTOR](https://www.jstor.org) | 学术期刊、书籍和资料库。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、期刊、资料 | [爱翻墙](https://ifanqiang.com/sites/jstor-org) |
-| [Wikimedia Commons](https://commons.wikimedia.org) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 图片、媒体、百科 | [爱翻墙](https://ifanqiang.com/sites/commons-wikimedia-org) |
+| [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) | 自由媒体文件库。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 图片、媒体、百科 | [爱翻墙](https://ifanqiang.com/sites/commons-wikimedia-org) |
 | [Project MUSE](https://muse.jhu.edu) | 人文社科期刊和图书平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 学术、人文、社科 | [爱翻墙](https://ifanqiang.com/sites/muse-jhu-edu) |
-| [Wikidata](https://www.wikidata.org) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
+| [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) | 开放知识图谱和结构化数据项目。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 数据、百科、知识图谱 | [爱翻墙](https://ifanqiang.com/sites/wikidata-org) |
 | [Encyclopaedia Britannica](https://www.britannica.com) | 英文百科全书。核心提供结构化知识、参考资料或开放馆藏查询。 | 百科与开放资料 | 百科、英文 | [爱翻墙](https://ifanqiang.com/sites/britannica-com) |
 | [SSRN](https://www.ssrn.com) | 社会科学和法学等领域论文平台。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 论文、社科、预印本 | [爱翻墙](https://ifanqiang.com/sites/ssrn-com) |
 | [DOAJ](https://doaj.org) | 开放获取期刊目录。核心提供论文、作者、数据集或学术出版信息检索。 | 学术研究 | 开放获取、期刊、学术 | [爱翻墙](https://ifanqiang.com/sites/doaj-org) |

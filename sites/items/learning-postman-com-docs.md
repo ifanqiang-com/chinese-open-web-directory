@@ -1,13 +1,13 @@
 # Postman Docs
 
-- 官网：[https://learning.postman.com/docs/](https://learning.postman.com/docs/)
+- 官网：[https://learning.postman.com/docs/getting-started/overview](https://learning.postman.com/docs/getting-started/overview)
 - 爱翻墙详情：[https://ifanqiang.com/sites/learning-postman-com-docs](https://ifanqiang.com/sites/learning-postman-com-docs)
 - 分类：开发者资源
 - 标签：API、测试、文档
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-09
-- 原始链接：[https://learning.postman.com/docs/](https://learning.postman.com/docs/)
+- 原始链接：[https://learning.postman.com/docs/getting-started/overview](https://learning.postman.com/docs/getting-started/overview)
 
 ## 简介
 

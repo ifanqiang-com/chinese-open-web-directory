@@ -49,7 +49,7 @@
 | [Django Docs](https://docs.djangoproject.com/) | Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。 | 开发者资源 | Django、Python、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-djangoproject-com) |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | 开发者资源 | FastAPI、Python、API | [爱翻墙](https://ifanqiang.com/sites/fastapi-tiangolo-com) |
 | [Express Docs](https://expressjs.com/) | Express 官方文档，提供 Node.js Web 框架、路由、中间件和 API 开发资料。 | 开发者资源 | Express、Node.js、文档 | [爱翻墙](https://ifanqiang.com/sites/expressjs-com) |
-| [Vitest Docs](https://vitest.dev/guide/) | Vitest 官方文档，提供 Vite 生态测试、断言、Mock、覆盖率和浏览器测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、Vite、文档 | [爱翻墙](https://ifanqiang.com/sites/vitest-dev-guide) |
+| [Full Stack Open 全栈公开课](https://fullstackopen.com/zh/) | 赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。 | 开发者资源 | 全栈开发、React、中文课程 | [爱翻墙](https://ifanqiang.com/sites/fullstackopen-com-zh) |
 
 ## 后端、数据库与 API
 

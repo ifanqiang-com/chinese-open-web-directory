@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-11-27T10:05:48.284115+00:00",
+  "checked": 123,
+  "statuses": {
+    "200": 118,
+    "403": 2,
+    "406": 2,
+    "451": 1
+  },
+  "dnsTlsFailures": 0,
+  "hard404410": 0,
+  "changedDestinations": 4,
+  "modified": false
+}

@@ -33,7 +33,7 @@
 | [ACL Anthology](https://aclanthology.org/) | [详情](items/aclanthology-org.md) | 计算语言学论文库，提供 ACL 相关会议、期刊和自然语言处理论文全文。 | NLP、论文、会议 | 英文 |
 | [PhilPapers](https://philpapers.org/) | [详情](items/philpapers-org.md) | 哲学文献索引，核心提供论文、书籍、主题分类、作者和期刊资料。 | 哲学、论文、索引 | 英文 |
 | [ACM Digital Library](https://dl.acm.org/) | [详情](items/dl-acm-org.md) | ACM 数字图书馆，提供计算机科学期刊、会议论文和出版物检索。 | 计算机、期刊、会议 | 英文 |
-| [IEEE Xplore](https://ieeexplore.ieee.org/) | [详情](items/ieeexplore-ieee-org.md) | IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。 | 工程、论文、标准 | 英文 |
+| [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) | [详情](items/ieeexplore-ieee-org.md) | IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。 | 工程、论文、标准 | 英文 |
 | [SpringerLink](https://link.springer.com/) | [详情](items/link-springer-com.md) | Springer 学术出版平台，提供期刊论文、图书章节和研究资料。 | 期刊、图书、出版 | 英文 |
 | [ScienceDirect](https://www.sciencedirect.com/) | [详情](items/sciencedirect-com.md) | Elsevier 学术平台，提供科学、医学、工程和社科论文及图书内容。 | 期刊、论文、出版 | 英文 |
 | [Oxford Academic](https://academic.oup.com/) | [详情](items/academic-oup-com.md) | 牛津大学出版社学术平台，提供期刊、图书和人文社科研究资料。 | 期刊、图书、人文 | 英文 |

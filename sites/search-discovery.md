@@ -52,8 +52,8 @@
 | [SaaSHub](https://www.saashub.com/) | [详情](items/saashub-com.md) | SaaSHub 的发现工具入口，可用于 软件、替代品、发现 等资源搜索、目录浏览和趋势发现。 | 软件、替代品、发现 | 英文 |
 | [Futurepedia](https://www.futurepedia.io/) | [详情](items/futurepedia-io.md) | Futurepedia 的发现工具入口，可用于 AI工具、目录、发现 等资源搜索、目录浏览和趋势发现。 | AI工具、目录、发现 | 英文 |
 | [There's An AI For That](https://theresanaiforthat.com/) | [详情](items/theresanaiforthat-com.md) | There's An AI For That 的发现工具入口，可用于 AI工具、目录、搜索 等资源搜索、目录浏览和趋势发现。 | AI工具、目录、搜索 | 英文 |
-| [FutureTools](https://www.futuretools.io/) | [详情](items/futuretools-io.md) | FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。 | AI工具、发现、目录 | 英文 |
-| [Open Source Alternative To](https://www.opensourcealternative.to/) | [详情](items/opensourcealternative-to.md) | Open Source Alternative To 的发现工具入口，可用于 开源替代、软件、发现 等资源搜索、目录浏览和趋势发现。 | 开源替代、软件、发现 | 英文 |
+| [FutureTools](https://futuretools.io) | [详情](items/futuretools-io.md) | FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。 | AI工具、发现、目录 | 英文 |
+| [Open Source Alternative To](https://opensourcealternative.to) | [详情](items/opensourcealternative-to.md) | Open Source Alternative To 的发现工具入口，可用于 开源替代、软件、发现 等资源搜索、目录浏览和趋势发现。 | 开源替代、软件、发现 | 英文 |
 | [LibHunt](https://www.libhunt.com/) | [详情](items/libhunt-com.md) | LibHunt 的发现工具入口，可用于 开源项目、开发、发现 等资源搜索、目录浏览和趋势发现。 | 开源项目、开发、发现 | 英文 |
 | [Awwwards](https://www.awwwards.com/) | [详情](items/awwwards-com.md) | Awwwards 的发现工具入口，可用于 设计、网站、发现 等资源搜索、目录浏览和趋势发现。 | 设计、网站、发现 | 英文 |
 | [Siteinspire](https://www.siteinspire.com/) | [详情](items/siteinspire-com.md) | Siteinspire 的发现工具入口，可用于 网页设计、发现、灵感 等资源搜索、目录浏览和趋势发现。 | 网页设计、发现、灵感 | 英文 |

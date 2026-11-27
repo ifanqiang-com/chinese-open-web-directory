@@ -1,5 +1,5 @@
 https://www.bbc.com/zhongwen/simp
-https://www.dw.com/zh
+https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058
 https://www.rfi.fr/cn
 https://cn.nytimes.com
 https://www.ftchinese.com
@@ -73,7 +73,7 @@ https://opinion.cw.com.tw/
 https://futurecity.cw.com.tw/
 https://www.parenting.com.tw/
 https://www.commonhealth.com.tw/
-https://www.edh.tw/
+https://edh.tw
 https://www.foodnext.net/
 https://www.newsmarket.com.tw/
 https://www.seinsights.asia/
@@ -167,7 +167,7 @@ https://fs.blog/
 https://waitbutwhy.com/
 https://marginalrevolution.com/
 https://thebrowser.com/
-https://www.ribbonfarm.com/
+https://ribbonfarm.com/
 https://www.astralcodexten.com/
 https://gwern.net/
 https://www.paulgraham.com/articles.html
@@ -226,7 +226,7 @@ https://news.sky.com/
 https://www.cbc.ca/news
 https://www.abc.net.au/news
 https://www.france24.com/en/
-https://www.dw.com/en
+https://www.dw.com/en/top-stories/s-9097
 https://www.euronews.com/
 https://www3.nhk.or.jp/nhkworld/en/news/
 https://www.japantimes.co.jp/
@@ -326,7 +326,7 @@ https://dblp.org/
 https://aclanthology.org/
 https://philpapers.org/
 https://dl.acm.org/
-https://ieeexplore.ieee.org/
+https://ieeexplore.ieee.org/Xplore/home.jsp
 https://link.springer.com/
 https://www.sciencedirect.com/
 https://academic.oup.com/
@@ -501,7 +501,7 @@ https://nextjs.org/docs
 https://docs.astro.build/
 https://vite.dev/guide/
 https://tailwindcss.com/docs
-https://docs.deno.com/
+https://docs.deno.com/runtime/
 https://bun.sh/docs
 https://www.php.net/docs.php
 https://laravel.com/framework/docs
@@ -536,6 +536,7 @@ https://pnpm.io/
 https://yarnpkg.com/getting-started
 https://eslint.org/docs/latest/
 https://flexboxfroggy.com/
+https://fullstackopen.com/zh/
 https://cssgridgarden.com/
 https://prettier.io/docs/
 https://webpack.js.org/concepts/
@@ -585,7 +586,7 @@ https://docs.sqlalchemy.org/
 https://sequelize.org/docs/v6/
 https://graphql.org/learn/
 https://www.apollographql.com/docs/
-https://learning.postman.com/docs/
+https://learning.postman.com/docs/getting-started/overview
 https://www.cncf.io/
 https://devdocs.io/
 https://regex101.com/
@@ -655,8 +656,8 @@ https://www.capterra.com/
 https://www.saashub.com/
 https://www.futurepedia.io/
 https://theresanaiforthat.com/
-https://www.futuretools.io/
-https://www.opensourcealternative.to/
+https://futuretools.io
+https://opensourcealternative.to
 https://www.libhunt.com/
 https://www.awwwards.com/
 https://www.siteinspire.com/
@@ -664,7 +665,7 @@ https://land-book.com/
 https://muz.li/
 https://mobbin.com/
 https://podcasts.apple.com
-https://open.spotify.com/genre/podcasts-web
+https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J
 https://pocketcasts.com
 https://overcast.fm
 https://castbox.fm
@@ -686,7 +687,7 @@ https://www.iheart.com/podcast/
 https://music.amazon.com/podcasts
 https://www.audible.com/ep/podcasts
 https://podverse.fm/
-https://www.fountain.fm/
+https://fountain.fm
 https://antennapod.org/
 https://creators.spotify.com/
 https://www.buzzsprout.com/
@@ -695,11 +696,11 @@ https://libsyn.com/
 https://www.captivate.fm/
 https://www.acast.com/
 https://redcircle.com/
-https://simplecast.com/
+https://www.simplecast.com
 https://www.spreaker.com/
 https://www.blubrry.com/
 https://pinecast.com/
-https://www.podigee.com/en/
+https://www.podigee.com/
 https://www.podpage.com/
 https://analytics.podtrac.com/
 https://castos.com/
@@ -713,7 +714,7 @@ https://audio.com/
 https://audioboom.com/
 https://megaphone.spotify.com/
 https://luminarypodcasts.com/
-https://www.bbc.co.uk/podcasts
+https://www.bbc.co.uk/sounds/podcasts
 https://www.cbc.ca/radio/podcasts
 https://www.abc.net.au/listen/podcasts
 https://www.theguardian.com/podcasts
@@ -743,7 +744,7 @@ https://www.eventbrite.com
 https://www.indeed.com
 https://www.glassdoor.com
 https://www.trustpilot.com
-https://www.numbeo.com
+https://www.numbeo.com/cost-of-living/
 https://www.duolingo.com
 https://translate.google.com
 https://www.deepl.com
@@ -834,10 +835,10 @@ https://www.internations.org/
 https://www.timeout.com/
 https://www.wikipedia.org
 https://www.wiktionary.org
-https://www.wikisource.org
+https://wikisource.org/wiki/Wikisource:Main_Page
 https://www.wikibooks.org
-https://commons.wikimedia.org
-https://www.wikidata.org
+https://commons.wikimedia.org/wiki/Main_Page
+https://www.wikidata.org/wiki/Wikidata:Main_Page
 https://www.britannica.com
 https://iep.utm.edu
 https://mathworld.wolfram.com
@@ -849,7 +850,7 @@ https://www.wikivoyage.org/
 https://www.wikiquote.org/
 https://www.wikinews.org/
 https://www.wikiversity.org/
-https://species.wikimedia.org/
+https://species.wikimedia.org/wiki/Main_Page
 https://www.worldhistory.org/
 https://www.encyclopedia.com/
 http://www.scholarpedia.org/
@@ -1007,7 +1008,7 @@ https://online.stanford.edu/
 https://www.harvardonline.harvard.edu/
 https://oyc.yale.edu/
 https://www.classcentral.com/
-https://curiosityu.com/
+https://www.curiosityu.com/
 https://athome.fandango.com/
 https://www.sling.com/
 https://www.fubo.tv/
@@ -1074,7 +1075,7 @@ https://www.eevblog.com/forum/
 https://www.dpreview.com/forums
 https://www.photo.net/forums/
 https://boardgamegeek.com/
-https://forum.rpg.net/
+https://forum.rpg.net/index.php
 https://myanimelist.net/forum/
 https://forums.ankiweb.net/
 https://www.mobileread.com/forums/forumdisplay.php?f=223

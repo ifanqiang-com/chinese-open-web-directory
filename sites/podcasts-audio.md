@@ -5,7 +5,7 @@
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
 | [Apple Podcasts](https://podcasts.apple.com) | [详情](items/podcasts-apple-com.md) | Apple 播客目录和收听平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、目录、收听 | 多语言 |
-| [Spotify Podcasts](https://open.spotify.com/genre/podcasts-web) | [详情](items/open-spotify-com-genre-podcasts-web.md) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、音乐、收听 | 多语言 |
+| [Spotify Podcasts](https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J) | [详情](items/open-spotify-com-genre-podcasts-web.md) | Spotify 播客入口。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、音乐、收听 | 多语言 |
 | [Pocket Casts](https://pocketcasts.com) | [详情](items/pocketcasts-com.md) | 跨平台播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、播放器 | 多语言 |
 | [Overcast](https://overcast.fm) | [详情](items/overcast-fm.md) | iOS 播客播放器。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、播放器、iOS | 英文 |
 | [Castbox](https://castbox.fm) | [详情](items/castbox-fm.md) | 播客收听和发现平台。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、播放器 | 多语言 |
@@ -27,7 +27,7 @@
 | [Amazon Music Podcasts](https://music.amazon.com/podcasts) | [详情](items/music-amazon-com-podcasts.md) | Amazon Music 播客入口，提供播客搜索、订阅和音乐应用内收听。 | 播客、Amazon、收听 | 多语言 |
 | [Audible Podcasts](https://www.audible.com/ep/podcasts) | [详情](items/audible-com-ep-podcasts.md) | Audible 播客和有声内容入口，提供原创节目、音频系列和会员内容发现。 | 有声书、播客、原创 | 英文 |
 | [Podverse](https://podverse.fm/) | [详情](items/podverse-fm.md) | 开源播客播放器，提供跨平台收听、剪辑、同步和开放播客生态支持。 | 播客、开源、播放器 | 英文 |
-| [Fountain](https://www.fountain.fm/) | [详情](items/fountain-fm.md) | 面向 Podcasting 2.0 的播客应用，提供收听、互动、打赏和发现功能。 | 播客、打赏、发现 | 英文 |
+| [Fountain](https://fountain.fm) | [详情](items/fountain-fm.md) | 面向播客创作者的内容制作与推广工具，提供节目转录、片段检索、短视频剪辑和社交平台发布管理。 | 播客、剪辑、内容推广 | 英文 |
 | [AntennaPod](https://antennapod.org/) | [详情](items/antennapod-org.md) | Android 开源播客播放器，提供订阅、下载、播放列表和离线收听。 | 播客、Android、开源 | 多语言 |
 | [Spotify for Creators](https://creators.spotify.com/) | [详情](items/podcasters-spotify-com.md) | Spotify 面向创作者的官方平台，提供播客管理、音视频节目发布、受众分析和变现工具。 | 播客、创作者、音频、视频 | 多语言 |
 | [Buzzsprout](https://www.buzzsprout.com/) | [详情](items/buzzsprout-com.md) | 播客托管平台，提供节目发布、分发、统计、网站和变现功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、统计 | 英文 |
@@ -36,11 +36,11 @@
 | [Captivate](https://www.captivate.fm/) | [详情](items/captivate-fm.md) | 播客托管和增长平台，提供发布、分析、营销链接和团队协作功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、增长 | 英文 |
 | [Acast](https://www.acast.com/) | [详情](items/acast-com.md) | 播客托管和广告平台，提供节目分发、动态广告、统计和创作者工具。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、广告、托管 | 英文 |
 | [RedCircle](https://redcircle.com/) | [详情](items/redcircle-com.md) | 播客托管和变现平台，提供节目发布、跨推广、广告市场和捐赠功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、变现、托管 | 英文 |
-| [Simplecast](https://simplecast.com/) | [详情](items/simplecast-com.md) | 播客托管平台，提供发布、分析、团队管理、网站和播放器嵌入功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、分析 | 英文 |
+| [Simplecast](https://www.simplecast.com) | [详情](items/simplecast-com.md) | 播客托管平台，提供发布、分析、团队管理、网站和播放器嵌入功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、分析 | 英文 |
 | [Spreaker](https://www.spreaker.com/) | [详情](items/spreaker-com.md) | 播客托管和直播平台，提供录制、分发、统计和广告变现功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、直播、托管 | 多语言 |
 | [Blubrry](https://www.blubrry.com/) | [详情](items/blubrry-com.md) | 播客音视频托管与发布平台，提供听众统计、WordPress PowerPress 插件和节目变现工具。 | 播客、WordPress、托管 | 英文 |
 | [Pinecast](https://pinecast.com/) | [详情](items/pinecast-com.md) | 轻量播客托管服务，提供节目发布、RSS、统计、网站和付费订阅功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、RSS、托管 | 英文 |
-| [Podigee](https://www.podigee.com/en/) | [详情](items/podigee-com-en.md) | 欧洲播客托管平台，提供发布、分析、网站、隐私合规和企业播客功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、欧洲、托管 | 英文 |
+| [Podigee](https://www.podigee.com/) | [详情](items/podigee-com-en.md) | 欧洲播客托管平台，提供发布、分析、网站、隐私合规和企业播客功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、欧洲、托管 | 英文 |
 | [Podpage](https://www.podpage.com/) | [详情](items/podpage-com.md) | 播客网站生成器，提供节目主页、单集页面、评论、订阅链接和 SEO 设置。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、网站、SEO | 英文 |
 | [Podtrac](https://analytics.podtrac.com/) | [详情](items/analytics-podtrac-com.md) | 播客统计和排行榜平台，提供下载量、受众分析、广告指标和行业榜单。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、统计、排行榜 | 英文 |
 | [Castos](https://castos.com/) | [详情](items/castos-com.md) | 播客托管平台，提供 WordPress 集成、私密播客、视频播客和分析功能。核心提供播客搜索、订阅、托管或跨平台收听。 | 播客、托管、WordPress | 英文 |
@@ -54,7 +54,7 @@
 | [Audioboom](https://audioboom.com/) | [详情](items/audioboom-com.md) | Audioboom 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。 | 播客、托管、广告 | 英文 |
 | [Megaphone](https://megaphone.spotify.com/) | [详情](items/megaphone-fm.md) | Megaphone 的音频入口，覆盖 播客、托管、广告 等播客、节目或音频发布场景。 | 播客、托管、广告 | 英文 |
 | [Luminary](https://luminarypodcasts.com/) | [详情](items/luminarypodcasts-com.md) | Luminary 的音频入口，覆盖 播客、订阅、音频 等播客、节目或音频发布场景。 | 播客、订阅、音频 | 英文 |
-| [BBC Podcasts](https://www.bbc.co.uk/podcasts) | [详情](items/bbc-co-uk-podcasts.md) | BBC Podcasts 的音频入口，覆盖 播客、英国、音频 等播客、节目或音频发布场景。 | 播客、英国、音频 | 英文 |
+| [BBC Podcasts](https://www.bbc.co.uk/sounds/podcasts) | [详情](items/bbc-co-uk-podcasts.md) | BBC Podcasts 的音频入口，覆盖 播客、英国、音频 等播客、节目或音频发布场景。 | 播客、英国、音频 | 英文 |
 | [CBC Podcasts](https://www.cbc.ca/radio/podcasts) | [详情](items/cbc-ca-radio-podcasts.md) | CBC Podcasts 的音频入口，覆盖 播客、加拿大、音频 等播客、节目或音频发布场景。 | 播客、加拿大、音频 | 英文 |
 | [ABC Podcasts](https://www.abc.net.au/listen/podcasts) | [详情](items/abc-net-au-listen-podcasts.md) | ABC Podcasts 的音频入口，覆盖 播客、澳大利亚、音频 等播客、节目或音频发布场景。 | 播客、澳大利亚、音频 | 英文 |
 | [The Guardian Podcasts](https://www.theguardian.com/podcasts) | [详情](items/theguardian-com-podcasts.md) | The Guardian Podcasts 的音频入口，覆盖 播客、新闻、英国 等播客、节目或音频发布场景。 | 播客、新闻、英国 | 英文 |

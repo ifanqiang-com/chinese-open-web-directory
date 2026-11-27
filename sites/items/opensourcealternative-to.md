@@ -1,13 +1,13 @@
 # Open Source Alternative To
 
-- 官网：[https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)
+- 官网：[https://opensourcealternative.to](https://opensourcealternative.to)
 - 爱翻墙详情：[https://ifanqiang.com/sites/opensourcealternative-to](https://ifanqiang.com/sites/opensourcealternative-to)
 - 分类：搜索与发现
 - 标签：开源替代、软件、发现
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-17
-- 原始链接：[https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)
+- 原始链接：[https://opensourcealternative.to](https://opensourcealternative.to)
 
 ## 简介
 

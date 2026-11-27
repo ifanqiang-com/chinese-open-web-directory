@@ -1,6 +1,6 @@
 # 开发者资源
 
-共 152 个网站。点击名称可直接访问官网。
+共 153 个网站。点击名称可直接访问官网。
 
 | 网站 | 详情 | 简介 | 标签 | 语言 |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@
 | [Astro Docs](https://docs.astro.build/) | [详情](items/docs-astro-build.md) | Astro 官方文档，提供静态站点、内容集合、集成、岛屿架构和部署资料。 | Astro、静态站点、文档 | 英文 |
 | [Vite Docs](https://vite.dev/guide/) | [详情](items/vite-dev-guide.md) | Vite 官方指南，提供前端构建、开发服务器、插件和框架集成资料。 | Vite、构建工具、文档 | 英文 |
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | [详情](items/tailwindcss-com-docs.md) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | CSS、前端、文档 | 英文 |
-| [Deno Docs](https://docs.deno.com/) | [详情](items/docs-deno-com.md) | Deno 官方文档，提供 JavaScript/TypeScript 运行时、工具链、部署和 API 资料。 | Deno、TypeScript、文档 | 英文 |
+| [Deno Docs](https://docs.deno.com/runtime/) | [详情](items/docs-deno-com.md) | Deno 官方文档，提供 JavaScript/TypeScript 运行时、工具链、部署和 API 资料。 | Deno、TypeScript、文档 | 英文 |
 | [Bun Docs](https://bun.sh/docs) | [详情](items/bun-sh-docs.md) | Bun 官方文档，提供 JavaScript 运行时、包管理器、测试器和构建工具资料。 | Bun、JavaScript、文档 | 英文 |
 | [PHP Docs](https://www.php.net/docs.php) | [详情](items/php-net-docs-php.md) | PHP 官方文档，提供语言语法、标准库、扩展、函数参考和版本资料。 | PHP、语言文档、后端 | 多语言 |
 | [Laravel Docs](https://laravel.com/framework/docs) | [详情](items/laravel-com-docs.md) | Laravel 官方文档，提供 PHP Web 框架、路由、数据库、队列和认证资料。 | Laravel、PHP、文档 | 英文 |
@@ -85,6 +85,7 @@
 | [Yarn Docs](https://yarnpkg.com/getting-started) | [详情](items/yarnpkg-com-getting-started.md) | Yarn 官方文档，提供 JavaScript 包管理、工作区、插件和依赖管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | JavaScript、包管理、文档 | 英文 |
 | [ESLint Docs](https://eslint.org/docs/latest/) | [详情](items/eslint-org-docs-latest.md) | ESLint 官方文档，提供 JavaScript/TypeScript 代码检查、规则和配置资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | Lint、JavaScript、文档 | 英文 |
 | [Flexbox Froggy](https://flexboxfroggy.com/) | [详情](items/flexboxfroggy-com.md) | 通过青蛙与荷叶的互动关卡学习 CSS Flexbox，练习对齐、排列和换行，支持简体中文与繁体中文。 | CSS、Flexbox、互动学习 | 多语言 |
+| [Full Stack Open 全栈公开课](https://fullstackopen.com/zh/) | [详情](items/fullstackopen-com-zh.md) | 赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。 | 全栈开发、React、中文课程 | 中文 |
 | [Grid Garden](https://cssgridgarden.com/) | [详情](items/cssgridgarden-com.md) | 通过给菜园浇水的互动关卡学习 CSS Grid，练习网格行列、区域与布局，支持简体中文与繁体中文。 | CSS、Grid、互动学习 | 多语言 |
 | [Prettier Docs](https://prettier.io/docs/) | [详情](items/prettier-io-docs.md) | Prettier 官方文档，提供代码格式化、配置、编辑器集成和插件资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 格式化、代码风格、文档 | 英文 |
 | [Webpack Docs](https://webpack.js.org/concepts/) | [详情](items/webpack-js-org-concepts.md) | Webpack 官方文档，提供模块打包、Loader、Plugin、配置和优化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 打包工具、JavaScript、文档 | 英文 |
@@ -134,7 +135,7 @@
 | [Sequelize Docs](https://sequelize.org/docs/v6/) | [详情](items/sequelize-org-docs-v6.md) | Sequelize 官方文档，提供 Node.js ORM、模型、查询、关联和迁移资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | ORM、Node.js、数据库 | 英文 |
 | [GraphQL Docs](https://graphql.org/learn/) | [详情](items/graphql-org-learn.md) | GraphQL 官方学习资料，提供查询语言、Schema、类型系统、执行和最佳实践。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | GraphQL、API、文档 | 英文 |
 | [Apollo GraphQL Docs](https://www.apollographql.com/docs/) | [详情](items/apollographql-com-docs.md) | Apollo 官方文档，提供 GraphQL 客户端、服务器、路由器和 Schema 管理资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | GraphQL、API、文档 | 英文 |
-| [Postman Docs](https://learning.postman.com/docs/) | [详情](items/learning-postman-com-docs.md) | Postman 官方文档，提供 API 调试、集合、Mock、测试、协作和自动化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | API、测试、文档 | 英文 |
+| [Postman Docs](https://learning.postman.com/docs/getting-started/overview) | [详情](items/learning-postman-com-docs.md) | Postman 官方文档，提供 API 调试、集合、Mock、测试、协作和自动化资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | API、测试、文档 | 英文 |
 | [CNCF](https://www.cncf.io/) | [详情](items/cncf-io.md) | 云原生计算基金会官网，提供 Kubernetes、云原生项目、技术景观、白皮书、活动和社区资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 云原生、Kubernetes、基金会 | 英文 |
 | [DevDocs](https://devdocs.io/) | [详情](items/devdocs-io.md) | DevDocs 的开发者文档入口，覆盖 API、文档、搜索 等技术栈、工具或标准资料。 | API、文档、搜索 | 英文 |
 | [Regex101](https://regex101.com/) | [详情](items/regex101-com.md) | Regex101 的开发者文档入口，覆盖 正则、调试、工具 等技术栈、工具或标准资料。 | 正则、调试、工具 | 英文 |

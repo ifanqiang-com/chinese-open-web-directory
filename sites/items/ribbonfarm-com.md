@@ -1,13 +1,13 @@
 # Ribbonfarm
 
-- 官网：[https://www.ribbonfarm.com/](https://www.ribbonfarm.com/)
+- 官网：[https://ribbonfarm.com/](https://ribbonfarm.com/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/ribbonfarm-com](https://ifanqiang.com/sites/ribbonfarm-com)
 - 分类：博客与出版
 - 标签：文化、技术、长文
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-17
-- 原始链接：[https://www.ribbonfarm.com/](https://www.ribbonfarm.com/)
+- 原始链接：[https://ribbonfarm.com/](https://ribbonfarm.com/)
 
 ## 简介
 

@@ -1,13 +1,13 @@
 # Deno Docs
 
-- 官网：[https://docs.deno.com/](https://docs.deno.com/)
+- 官网：[https://docs.deno.com/runtime/](https://docs.deno.com/runtime/)
 - 爱翻墙详情：[https://ifanqiang.com/sites/docs-deno-com](https://ifanqiang.com/sites/docs-deno-com)
 - 分类：开发者资源
 - 标签：Deno、TypeScript、文档
 - 语言：英文
 - 移动端：未标注 App
 - 收录日期：2026-06-08
-- 原始链接：[https://docs.deno.com/](https://docs.deno.com/)
+- 原始链接：[https://docs.deno.com/runtime/](https://docs.deno.com/runtime/)
 
 ## 简介
 

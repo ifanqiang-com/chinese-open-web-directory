@@ -1,0 +1,337 @@
+[
+  {
+    "type": "site",
+    "action": "update",
+    "id": "commons-wikimedia-org",
+    "fields": {
+      "url": "https://commons.wikimedia.org/wiki/Main_Page",
+      "source_url": "https://commons.wikimedia.org/wiki/Main_Page"
+    },
+    "evidence": [
+      "https://commons.wikimedia.org",
+      "https://commons.wikimedia.org/wiki/Main_Page"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "curiosityu-com",
+    "fields": {
+      "url": "https://www.curiosityu.com/",
+      "source_url": "https://www.curiosityu.com/",
+      "description": "由学者与专业讲者主讲的英语视频课程平台，涵盖科学、历史、艺术等主题，提供讲座资料库与会员订阅。"
+    },
+    "evidence": [
+      "https://curiosityu.com/",
+      "https://www.curiosityu.com/"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "docs-deno-com",
+    "fields": {
+      "url": "https://docs.deno.com/runtime/",
+      "source_url": "https://docs.deno.com/runtime/"
+    },
+    "evidence": [
+      "https://docs.deno.com/",
+      "https://docs.deno.com/runtime/"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "forum-rpg-net",
+    "fields": {
+      "url": "https://forum.rpg.net/index.php",
+      "source_url": "https://forum.rpg.net/index.php"
+    },
+    "evidence": [
+      "https://forum.rpg.net/",
+      "https://forum.rpg.net/index.php"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "ieeexplore-ieee-org",
+    "fields": {
+      "url": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+      "source_url": "https://ieeexplore.ieee.org/Xplore/home.jsp"
+    },
+    "evidence": [
+      "https://ieeexplore.ieee.org/",
+      "https://ieeexplore.ieee.org/Xplore/home.jsp"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "learning-postman-com-docs",
+    "fields": {
+      "url": "https://learning.postman.com/docs/getting-started/overview",
+      "source_url": "https://learning.postman.com/docs/getting-started/overview"
+    },
+    "evidence": [
+      "https://learning.postman.com/docs/",
+      "https://learning.postman.com/docs/getting-started/overview/"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "open-spotify-com-genre-podcasts-web",
+    "fields": {
+      "url": "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J",
+      "source_url": "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J"
+    },
+    "evidence": [
+      "https://open.spotify.com/genre/podcasts-web",
+      "https://open.spotify.com/genre/0JQ5DArNBzkmxXHCqFLx2J"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "simplecast-com",
+    "fields": {
+      "url": "https://www.simplecast.com",
+      "source_url": "https://www.simplecast.com"
+    },
+    "evidence": [
+      "https://simplecast.com/",
+      "https://www.simplecast.com/"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "species-wikimedia-org",
+    "fields": {
+      "url": "https://species.wikimedia.org/wiki/Main_Page",
+      "source_url": "https://species.wikimedia.org/wiki/Main_Page"
+    },
+    "evidence": [
+      "https://species.wikimedia.org/",
+      "https://species.wikimedia.org/wiki/Main_Page"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "bbc-co-uk-podcasts",
+    "fields": {
+      "url": "https://www.bbc.co.uk/sounds/podcasts",
+      "source_url": "https://www.bbc.co.uk/sounds/podcasts"
+    },
+    "evidence": [
+      "https://www.bbc.co.uk/podcasts",
+      "https://www.bbc.co.uk/sounds/podcasts"
+    ],
+    "reason": "官方入口永久跳转至同一服务的 canonical URL；页面标题及功能相符，其他名称、分类、标签与语言仍适用。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "dw-com-en",
+    "fields": {
+      "url": "https://www.dw.com/en/top-stories/s-9097",
+      "source_url": "https://www.dw.com/en/top-stories/s-9097"
+    },
+    "evidence": [
+      "https://www.dw.com/en",
+      "https://www.dw.com/en/top-stories/s-9097"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "dw-com-zh",
+    "fields": {
+      "url": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058",
+      "source_url": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058"
+    },
+    "evidence": [
+      "https://www.dw.com/zh",
+      "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "edh-tw",
+    "fields": {
+      "url": "https://edh.tw",
+      "source_url": "https://edh.tw"
+    },
+    "evidence": [
+      "https://www.edh.tw/",
+      "https://edh.tw/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "fountain-fm",
+    "fields": {
+      "url": "https://fountain.fm",
+      "source_url": "https://fountain.fm",
+      "description": "面向播客创作者的内容制作与推广工具，提供节目转录、片段检索、短视频剪辑和社交平台发布管理。",
+      "tags": [
+        "播客",
+        "剪辑",
+        "内容推广"
+      ]
+    },
+    "evidence": [
+      "https://www.fountain.fm/",
+      "https://fountain.fm/"
+    ],
+    "reason": "官网现以播客创作者工具为主要入口；同步 canonical URL，并修正仍描述收听与打赏应用的旧简介和标签。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "futuretools-io",
+    "fields": {
+      "url": "https://futuretools.io",
+      "source_url": "https://futuretools.io"
+    },
+    "evidence": [
+      "https://www.futuretools.io/",
+      "https://futuretools.io/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "numbeo-com",
+    "fields": {
+      "url": "https://www.numbeo.com/cost-of-living/",
+      "source_url": "https://www.numbeo.com/cost-of-living/"
+    },
+    "evidence": [
+      "https://www.numbeo.com",
+      "https://www.numbeo.com/cost-of-living/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "opensourcealternative-to",
+    "fields": {
+      "url": "https://opensourcealternative.to",
+      "source_url": "https://opensourcealternative.to"
+    },
+    "evidence": [
+      "https://www.opensourcealternative.to/",
+      "https://opensourcealternative.to/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "podigee-com-en",
+    "fields": {
+      "url": "https://www.podigee.com/",
+      "source_url": "https://www.podigee.com/"
+    },
+    "evidence": [
+      "https://www.podigee.com/en/",
+      "https://www.podigee.com/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "ribbonfarm-com",
+    "fields": {
+      "url": "https://ribbonfarm.com/",
+      "source_url": "https://ribbonfarm.com/"
+    },
+    "evidence": [
+      "https://www.ribbonfarm.com/",
+      "https://ribbonfarm.com/"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "wikidata-org",
+    "fields": {
+      "url": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+      "source_url": "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+    },
+    "evidence": [
+      "https://www.wikidata.org",
+      "https://www.wikidata.org/wiki/Wikidata:Main_Page"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "update",
+    "id": "wikisource-org",
+    "fields": {
+      "url": "https://wikisource.org/wiki/Wikisource:Main_Page",
+      "source_url": "https://wikisource.org/wiki/Wikisource:Main_Page"
+    },
+    "evidence": [
+      "https://www.wikisource.org",
+      "https://wikisource.org/wiki/Wikisource:Main_Page"
+    ],
+    "reason": "官方永久跳转与 canonical 一致，品牌、内容和原语言匹配；复核名称、简介、分类、标签、语言后无需其他变更。"
+  },
+  {
+    "type": "site",
+    "action": "add",
+    "id": "fullstackopen-com-zh",
+    "fields": {
+      "id": "fullstackopen-com-zh",
+      "name": "Full Stack Open 全栈公开课",
+      "url": "https://fullstackopen.com/zh/",
+      "category": "开发者资源",
+      "description": "赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。",
+      "tags": [
+        "全栈开发",
+        "React",
+        "中文课程"
+      ],
+      "language": "zh",
+      "has_app": false,
+      "status": "active",
+      "visible": true,
+      "featured": false,
+      "priority": 80,
+      "added_at": "2026-11-27",
+      "source_url": "https://fullstackopen.com/en/about/"
+    },
+    "evidence": [
+      "https://fullstackopen.com/zh/",
+      "https://fullstackopen.com/en/about/",
+      "https://fullstackopen.com/zh/part0/",
+      "https://fullstackopen.com/zh/part1/",
+      "https://studies.helsinki.fi/system/files/inline-files/Opetussuunnitelma_29032023_105432_en_0.pdf",
+      "https://fullstackopen.com/zh/part1/react%E7%AE%80%E4%BB%8B/"
+    ],
+    "reason": "官方课程、大学课程目录与中文正文互证，具长期使用价值；不重复，未见政策排除证据。中文首页年份较旧，简介提示对照英文更新。"
+  }
+]

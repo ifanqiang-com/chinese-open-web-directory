@@ -65,7 +65,7 @@
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | 开发者资源 | CSS、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/tailwindcss-com-docs) |
 | [Futurepedia](https://www.futurepedia.io/) | Futurepedia 的发现工具入口，可用于 AI工具、目录、发现 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、目录、发现 | [爱翻墙](https://ifanqiang.com/sites/futurepedia-io) |
 | [There's An AI For That](https://theresanaiforthat.com/) | There's An AI For That 的发现工具入口，可用于 AI工具、目录、搜索 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、目录、搜索 | [爱翻墙](https://ifanqiang.com/sites/theresanaiforthat-com) |
-| [FutureTools](https://www.futuretools.io/) | FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、发现、目录 | [爱翻墙](https://ifanqiang.com/sites/futuretools-io) |
+| [FutureTools](https://futuretools.io) | FutureTools 的发现工具入口，可用于 AI工具、发现、目录 等资源搜索、目录浏览和趋势发现。 | 搜索与发现 | AI工具、发现、目录 | [爱翻墙](https://ifanqiang.com/sites/futuretools-io) |
 | [Rails Guides](https://guides.rubyonrails.org/) | Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。 | 开发者资源 | Rails、Ruby、文档 | [爱翻墙](https://ifanqiang.com/sites/guides-rubyonrails-org) |
 | [Kotlin Docs](https://kotlinlang.org/docs/) | Kotlin 官方文档，提供语言语法、标准库、协程、多平台和工具链资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Kotlin、语言文档、JetBrains | [爱翻墙](https://ifanqiang.com/sites/kotlinlang-org-docs) |
 | [TensorFlow Docs](https://www.tensorflow.org/learn) | TensorFlow Docs 的开发者文档入口，覆盖 机器学习、文档、开发 等技术栈、工具或标准资料。 | 开发者资源 | 机器学习、文档、开发 | [爱翻墙](https://ifanqiang.com/sites/tensorflow-org-learn) |
@@ -88,7 +88,7 @@
 | [DBLP](https://dblp.org/) | 计算机科学文献索引，提供作者、论文、会议、期刊和出版关系检索。 | 学术研究 | 计算机、论文、索引 | [爱翻墙](https://ifanqiang.com/sites/dblp-org) |
 | [ACL Anthology](https://aclanthology.org/) | 计算语言学论文库，提供 ACL 相关会议、期刊和自然语言处理论文全文。 | 学术研究 | NLP、论文、会议 | [爱翻墙](https://ifanqiang.com/sites/aclanthology-org) |
 | [ACM Digital Library](https://dl.acm.org/) | ACM 数字图书馆，提供计算机科学期刊、会议论文和出版物检索。 | 学术研究 | 计算机、期刊、会议 | [爱翻墙](https://ifanqiang.com/sites/dl-acm-org) |
-| [IEEE Xplore](https://ieeexplore.ieee.org/) | IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。 | 学术研究 | 工程、论文、标准 | [爱翻墙](https://ifanqiang.com/sites/ieeexplore-ieee-org) |
+| [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) | IEEE 学术数据库，提供工程、电子、计算机和通信领域论文与标准。 | 学术研究 | 工程、论文、标准 | [爱翻墙](https://ifanqiang.com/sites/ieeexplore-ieee-org) |
 | [Oxford Academic](https://academic.oup.com/) | 牛津大学出版社学术平台，提供期刊、图书和人文社科研究资料。 | 学术研究 | 期刊、图书、人文 | [爱翻墙](https://ifanqiang.com/sites/academic-oup-com) |
 | [Lens.org](https://www.lens.org/) | 开放科研和专利发现平台，提供论文、专利、作者、机构和引用分析。 | 学术研究 | 论文、专利、分析 | [爱翻墙](https://ifanqiang.com/sites/lens-org) |
 | [ORCID](https://orcid.org/) | 研究者身份标识平台，提供学者 ID、作品归属、机构关联和研究履历管理。核心提供论文、作者、数据集、实验记录或学术出版信息检索。 | 学术研究 | 研究者、身份、学术 | [爱翻墙](https://ifanqiang.com/sites/orcid-org) |

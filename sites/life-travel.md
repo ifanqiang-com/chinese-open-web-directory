@@ -21,7 +21,7 @@
 | [Indeed](https://www.indeed.com) | [详情](items/indeed-com.md) | 招聘和职位搜索平台。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 求职、招聘 | 多语言 |
 | [Glassdoor](https://www.glassdoor.com) | [详情](items/glassdoor-com.md) | 公司评价、薪资和职位信息。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 求职、公司评价、薪资 | 多语言 |
 | [Trustpilot](https://www.trustpilot.com) | [详情](items/trustpilot-com.md) | 商家评价和用户评分平台。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 评价、商家、消费 | 多语言 |
-| [Numbeo](https://www.numbeo.com) | [详情](items/numbeo-com.md) | 城市生活成本、房价和生活质量数据。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活成本、城市、数据 | 英文 |
+| [Numbeo](https://www.numbeo.com/cost-of-living/) | [详情](items/numbeo-com.md) | 城市生活成本、房价和生活质量数据。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 生活成本、城市、数据 | 英文 |
 | [Duolingo](https://www.duolingo.com) | [详情](items/duolingo-com.md) | 语言学习平台。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 语言学习、海外生活 | 多语言 |
 | [Google Translate](https://translate.google.com) | [详情](items/translate-google-com.md) | 在线翻译工具。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 翻译、语言、工具 | 多语言 |
 | [DeepL](https://www.deepl.com) | [详情](items/deepl-com.md) | 在线翻译服务。核心提供出行、住宿、地图、翻译、天气或本地生活工具。 | 翻译、语言、工具 | 多语言 |

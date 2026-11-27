@@ -1,0 +1,29 @@
+{
+  "runAt": "2026-11-27T10:11:56.329184+00:00",
+  "mainUrlChecks": 1664,
+  "publicSites": 1441,
+  "publicChannels": 67,
+  "independentPublicUrlChecks": 123,
+  "added": 1,
+  "updated": 21,
+  "migrated": 21,
+  "archived": 0,
+  "pendingMainUrls": 186,
+  "recoveredFromPrevious": 13,
+  "statuses": {
+    "200": 1511,
+    "403": 96,
+    "0": 19,
+    "429": 11,
+    "404": 1,
+    "401": 7,
+    "202": 9,
+    "406": 4,
+    "412": 2,
+    "307": 1,
+    "503": 1,
+    "302": 1,
+    "402": 1
+  },
+  "staticDeployed": false
+}

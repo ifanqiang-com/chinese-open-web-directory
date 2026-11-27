@@ -26,7 +26,7 @@
 | [Django Docs](https://docs.djangoproject.com/) | Django 官方文档，提供 Python Web 框架、ORM、模板、认证和部署资料。 | 开发者资源 | Django、Python、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-djangoproject-com) |
 | [FastAPI Docs](https://fastapi.tiangolo.com/) | FastAPI 官方文档，提供 Python API 框架、类型注解、验证、异步和部署资料。 | 开发者资源 | FastAPI、Python、API | [爱翻墙](https://ifanqiang.com/sites/fastapi-tiangolo-com) |
 | [Express Docs](https://expressjs.com/) | Express 官方文档，提供 Node.js Web 框架、路由、中间件和 API 开发资料。 | 开发者资源 | Express、Node.js、文档 | [爱翻墙](https://ifanqiang.com/sites/expressjs-com) |
-| [Cypress Docs](https://docs.cypress.io/) | Cypress 官方文档，提供前端端到端测试、组件测试、调试和 CI 资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-cypress-io) |
+| [Full Stack Open 全栈公开课](https://fullstackopen.com/zh/) | 赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。 | 开发者资源 | 全栈开发、React、中文课程 | [爱翻墙](https://ifanqiang.com/sites/fullstackopen-com-zh) |
 
 ## 构建、样式和工程化
 
@@ -63,6 +63,7 @@
 | [Tailwind CSS Docs](https://tailwindcss.com/docs) | Tailwind CSS 官方文档，提供原子化 CSS、主题配置、布局和组件样式资料。 | 开发者资源 | CSS、前端、文档 | [爱翻墙](https://ifanqiang.com/sites/tailwindcss-com-docs) |
 | [Bun Docs](https://bun.sh/docs) | Bun 官方文档，提供 JavaScript 运行时、包管理器、测试器和构建工具资料。 | 开发者资源 | Bun、JavaScript、文档 | [爱翻墙](https://ifanqiang.com/sites/bun-sh-docs) |
 | [Rails Guides](https://guides.rubyonrails.org/) | Ruby on Rails 官方指南，提供 MVC、Active Record、路由、测试和部署资料。 | 开发者资源 | Rails、Ruby、文档 | [爱翻墙](https://ifanqiang.com/sites/guides-rubyonrails-org) |
+| [Full Stack Open 全栈公开课](https://fullstackopen.com/zh/) | 赫尔辛基大学的免费 Web 全栈课程，涵盖 React、Node.js、测试与数据库，提供中文译文和编程练习；适合已有编程基础的读者，更新内容可对照英文版。 | 开发者资源 | 全栈开发、React、中文课程 | [爱翻墙](https://ifanqiang.com/sites/fullstackopen-com-zh) |
 | [Jest Docs](https://jestjs.io/docs/getting-started) | Jest 官方文档，提供 JavaScript 测试、断言、Mock、快照和配置资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、JavaScript、文档 | [爱翻墙](https://ifanqiang.com/sites/jestjs-io-docs-getting-started) |
 | [Vitest Docs](https://vitest.dev/guide/) | Vitest 官方文档，提供 Vite 生态测试、断言、Mock、覆盖率和浏览器测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、Vite、文档 | [爱翻墙](https://ifanqiang.com/sites/vitest-dev-guide) |
 | [Playwright Docs](https://playwright.dev/docs/intro) | Playwright 官方文档，提供端到端测试、浏览器自动化、断言和调试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 测试、浏览器、文档 | [爱翻墙](https://ifanqiang.com/sites/playwright-dev-docs-intro) |
@@ -72,7 +73,6 @@
 | [Quarkus Guides](https://quarkus.io/guides/) | Quarkus 官方指南，提供云原生 Java、扩展、容器、测试和部署资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Java、云原生、文档 | [爱翻墙](https://ifanqiang.com/sites/quarkus-io-guides) |
 | [Micronaut Docs](https://docs.micronaut.io/) | Micronaut 官方文档，提供 JVM 微服务、依赖注入、云原生和测试资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | Java、微服务、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-micronaut-io) |
 | [SolidJS Docs](https://docs.solidjs.com/) | SolidJS 官方文档，提供响应式 UI 框架、组件、路由和应用构建资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 前端、SolidJS、文档 | [爱翻墙](https://ifanqiang.com/sites/docs-solidjs-com) |
-| [Preact Docs](https://preactjs.com/guide/v10/getting-started) | Preact 官方文档，提供轻量 React 替代方案、组件、Hooks 和兼容资料。核心提供开发文档、代码协作、技术标准、工程工具或 API 资料。 | 开发者资源 | 前端、Preact、文档 | [爱翻墙](https://ifanqiang.com/sites/preactjs-com-guide-v10) |
 
 ## 浏览器与 Web 平台
 
